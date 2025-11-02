@@ -1,15 +1,16 @@
+
 [
   {
     "id": "chaoshan-beef-balls",
     "title": "Chaoshan Beef Balls",
     "ingredients": [
-      {"key": "beef-hind-leg", "name": "Beef hind leg"},
-      {"key": "baking-soda", "name": "Baking soda"},
-      {"key": "salt", "name": "Salt"},
-      {"key": "sugar", "name": "Sugar"},
-      {"key": "msg", "name": "MSG"},
-      {"key": "cornstarch", "name": "Cornstarch"},
-      {"key": "ice-cubes", "name": "Ice cubes"},
+      {"key": "beef-hind-leg", "name": "Beef hind leg", "amount": "500g"},
+      {"key": "baking-soda", "name": "Baking soda", "amount": "1g"},
+      {"key": "salt", "name": "Salt", "amount": "8g"},
+      {"key": "sugar", "name": "Sugar", "amount": "4g"},
+      {"key": "msg", "name": "MSG", "amount": "2g"},
+      {"key": "cornstarch", "name": "Cornstarch", "amount": "15g"},
+      {"key": "ice-cubes", "name": "Ice cubes", "amount": "50g"},
       {"key": "beef-tallow", "name": "Beef tallow bits"},
       {"key": "beef-tendon", "name": "Beef tendon bits"},
       {"key": "garlic", "name": "Garlic"},
@@ -34,8 +35,8 @@
     "id": "fried-garlic-crisps",
     "title": "Fried Garlic Crisps (Garlic Oil)",
     "ingredients": [
-      {"key": "garlic", "name": "Garlic"},
-      {"key": "vegetable-oil", "name": "Vegetable oil"}
+      {"key": "garlic", "name": "Garlic", "amount": "50g"},
+      {"key": "vegetable-oil", "name": "Vegetable oil", "amount": "100g"}
     ],
     "steps": [
       "You will need 50g garlic and 100g vegetable oil.",
@@ -78,5 +79,47 @@
       "Add peanuts at the very end to keep them crispy."
     ],
     "videoLink": ""
+  },
+  {
+    "id": "braised-pork-balls-lions-head",
+    "title": "Braised Pork Balls (Lion's Head)",
+    "ingredients": [
+      { "key": "pork-belly", "name": "Pork belly", "amount": "1kg" },
+      { "key": "water-chestnut", "name": "Water chestnuts", "amount": "60g" },
+      { "key": "choy-sum", "name": "Choy sum", "amount": "for garnish" },
+      { "key": "salt", "name": "Salt", "amount": "20g" },
+      { "key": "msg", "name": "MSG", "amount": "2g" },
+      { "key": "pepper-powder", "name": "White pepper", "amount": "2g" },
+      { "key": "scallion-ginger-water", "name": "Scallion ginger water", "amount": "300g" },
+      { "key": "cornstarch", "name": "Cornstarch", "amount": "120g" },
+      { "key": "soy-sauce", "name": "Soy sauce", "amount": "80g" },
+      { "key": "cooking-wine", "name": "Shaoxing wine", "amount": "100g" },
+      { "key": "scallion", "name": "Scallion", "amount": "100g" },
+      { "key": "ginger", "name": "Ginger", "amount": "100g" },
+      { "key": "star-anise", "name": "Star anise", "amount": "4g" },
+      { "key": "cinnamon-bark", "name": "Cinnamon bark", "amount": "5g" },
+      { "key": "sugar", "name": "Sugar", "amount": "30g" },
+      { "key": "dark-soy-sauce", "name": "Dark soy sauce", "amount": "50g" },
+      { "key": "cornstarch-slurry", "name": "Cornstarch slurry", "amount": "as needed" }
+    ],
+    "steps": [
+      "Peel the pork belly, slice it, then dice it into pomegranate seed-sized pieces. Roughly chop the diced pork.",
+      "To the minced pork, add 6g salt, 2g MSG, and 1g white pepper. Gradually add scallion-ginger water in small amounts, stirring vigorously in one direction to develop texture.",
+      "Add 80g of cornstarch and finely chopped water chestnuts. Mix well.",
+      "Prepare the braising liquid: Heat oil in a wok and sauté 80g scallion, 20g ginger, 4g star anise, and 5g cinnamon bark until fragrant.",
+      "Add soy sauce, water, Shaoxing wine, the remaining salt, sugar, MSG, and dark soy sauce. Stir well, bring to a boil, then transfer to a clay pot or large Dutch oven.",
+      "Form the pork mixture into large meatballs (the 'lion\\'s heads').",
+      "Heat a generous amount of oil in the wok to about 60% hot (approx. 180°C / 350°F). Deep-fry the meatballs until golden brown and firm on the outside.",
+      "Remove the fried meatballs and place them in the clay pot with the braising liquid.",
+      "Bring the liquid back to a boil, then reduce the heat to a simmer. Cover and cook for 100 minutes until the meatballs are exceptionally tender.",
+      "Carefully remove the cooked meatballs and arrange them on a serving platter.",
+      "Thicken the remaining braising liquid in the pot with a cornstarch slurry to create a sauce.",
+      "Pour the sauce over the meatballs and garnish with blanced choy sum around the edges."
+    ],
+    "notes": [
+      "Add the scallion-ginger water gradually to ensure the meat absorbs it fully.",
+      "Frying the meatballs first helps them hold their shape and adds flavor. A long simmering time is crucial for a melt-in-your-mouth texture."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1hp4y1T7dU"
   }
 ]

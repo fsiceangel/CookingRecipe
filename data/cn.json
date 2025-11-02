@@ -1,15 +1,16 @@
+
 [
   {
     "id": "chaoshan-beef-balls",
     "title": "潮汕牛肉丸",
     "ingredients": [
-      {"key": "beef-hind-leg", "name": "牛后腿肉"},
-      {"key": "baking-soda", "name": "小苏打"},
-      {"key": "salt", "name": "盐"},
-      {"key": "sugar", "name": "白糖"},
-      {"key": "msg", "name": "味精"},
-      {"key": "cornstarch", "name": "玉米淀粉"},
-      {"key": "ice-cubes", "name": "冰块"},
+      {"key": "beef-hind-leg", "name": "牛后腿肉", "amount": "500g"},
+      {"key": "baking-soda", "name": "小苏打", "amount": "1g"},
+      {"key": "salt", "name": "盐", "amount": "8g"},
+      {"key": "sugar", "name": "白糖", "amount": "4g"},
+      {"key": "msg", "name": "味精", "amount": "2g"},
+      {"key": "cornstarch", "name": "玉米淀粉", "amount": "15g"},
+      {"key": "ice-cubes", "name": "冰块", "amount": "50g"},
       {"key": "beef-tallow", "name": "牛油粒"},
       {"key": "beef-tendon", "name": "牛筋粒"},
       {"key": "garlic", "name": "大蒜"},
@@ -34,8 +35,8 @@
     "id": "fried-garlic-crisps",
     "title": "炸蒜酥（蒜头油）",
     "ingredients": [
-      {"key": "garlic", "name": "大蒜"},
-      {"key": "vegetable-oil", "name": "植物油"}
+      {"key": "garlic", "name": "大蒜", "amount": "50g"},
+      {"key": "vegetable-oil", "name": "植物油", "amount": "100g"}
     ],
     "steps": [
       "大蒜50g，植物油100g。",
@@ -78,5 +79,47 @@
       "花生米一定要最后放，保持酥脆口感。"
     ],
     "videoLink": ""
+  },
+  {
+    "id": "braised-pork-balls-lions-head",
+    "title": "红烧狮子头",
+    "ingredients": [
+      { "key": "pork-belly", "name": "五花肉", "amount": "1kg" },
+      { "key": "water-chestnut", "name": "马蹄", "amount": "60g" },
+      { "key": "choy-sum", "name": "菜心", "amount": "适量" },
+      { "key": "salt", "name": "盐", "amount": "20g" },
+      { "key": "msg", "name": "味精", "amount": "2g" },
+      { "key": "pepper-powder", "name": "胡椒粉", "amount": "2g" },
+      { "key": "scallion-ginger-water", "name": "葱姜水", "amount": "300g" },
+      { "key": "cornstarch", "name": "淀粉", "amount": "120g" },
+      { "key": "soy-sauce", "name": "味达美鲜味酱油", "amount": "80g" },
+      { "key": "cooking-wine", "name": "黄酒", "amount": "100g" },
+      { "key": "scallion", "name": "葱", "amount": "100g" },
+      { "key": "ginger", "name": "姜", "amount": "100g" },
+      { "key": "star-anise", "name": "大料", "amount": "4g" },
+      { "key": "cinnamon-bark", "name": "桂皮", "amount": "5g" },
+      { "key": "sugar", "name": "糖", "amount": "30g" },
+      { "key": "dark-soy-sauce", "name": "冰糖老抽", "amount": "50g" },
+      { "key": "cornstarch-slurry", "name": "水淀粉", "amount": "适量" }
+    ],
+    "steps": [
+      "五花肉去皮，先切片再切成石榴粒大小的丁，然后粗略地斩剁几下。",
+      "肉丁中加入盐6g、味精2g、胡椒粉1g，少量多次加入葱姜水，顺着一个方向搅打上劲。",
+      "加入淀粉80g和马蹄碎，拌匀。",
+      "准备底汤：起锅烧油，煸香葱80g、姜20g、大料4g、桂皮5g。",
+      "加入酱油、水、黄酒、剩余的盐、糖、味精和冰糖老抽，搅匀烧开后倒入砂锅中。",
+      "将肉馅团成大的丸子（狮子头）。",
+      "起锅烧大量的油，油温六成热时（约180°C），下入狮子头，炸至表面金黄定型。",
+      "将炸好的狮子头捞出，放入砂锅的汤中。",
+      "大火烧开后，转为中小火，盖盖慢炖100分钟，直至软烂入味。",
+      "将炖好的狮子头捞出装盘。",
+      "砂锅中剩余的汤汁用适量水淀粉勾芡，淋在狮子头上。",
+      "最后用焯好水的菜心围边点缀即可。"
+    ],
+    "notes": [
+      "搅打肉馅时，葱姜水要少量多次加入，让肉馅充分吸收。",
+      "炸狮子头是为了定型和增加风味，炖煮时间要足够长才能软烂。"
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1hp4y1T7dU"
   }
 ]
