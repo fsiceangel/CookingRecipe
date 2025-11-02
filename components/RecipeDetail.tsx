@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Recipe } from '../types';
 import { translations } from '../i18n/translations';
@@ -40,8 +39,9 @@ const RecipeDetail: React.FC<RecipeDetailProps> = ({ recipe, onBack, uiText }) =
           <h3 className="text-2xl font-bold text-gray-200 mb-4 flex items-center gap-2"><BeakerIcon /> {uiText.ingredients}</h3>
           <ul className="space-y-2">
             {recipe.ingredients.map((ingredient, index) => (
-              <li key={index} className="bg-gray-700/50 p-3 rounded-md text-gray-300">
-                {ingredient.name}
+              <li key={index} className="flex justify-between items-center bg-gray-700/50 p-3 rounded-md text-gray-300">
+                <span>{ingredient.name}</span>
+                {ingredient.amount && <span className="text-gray-400 font-medium">{ingredient.amount}</span>}
               </li>
             ))}
           </ul>

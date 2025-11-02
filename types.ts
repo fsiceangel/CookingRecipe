@@ -1,7 +1,7 @@
-
 export interface Ingredient {
   key: string;
   name: string;
+  amount?: string;
 }
 
 export interface Recipe {

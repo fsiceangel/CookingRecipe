@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Recipe, Ingredient } from './types';
 import { translations } from './i18n/translations';
@@ -17,6 +16,7 @@ const ingredientCategoryMap: Record<string, IngredientCategory> = {
   'beef-tallow': 'meat',
   'beef-tendon': 'meat',
   'chicken-breast': 'meat',
+  'pork-belly': 'meat',
   
   // Veggies
   'garlic': 'veggie',
@@ -24,6 +24,8 @@ const ingredientCategoryMap: Record<string, IngredientCategory> = {
   'chili-pepper': 'veggie',
   'scallion': 'veggie',
   'ginger': 'veggie',
+  'water-chestnut': 'veggie',
+  'choy-sum': 'veggie',
 
   // Seasonings
   'baking-soda': 'seasoning',
@@ -39,6 +41,12 @@ const ingredientCategoryMap: Record<string, IngredientCategory> = {
   'soy-sauce': 'seasoning',
   'vinegar': 'seasoning',
   'cooking-wine': 'seasoning',
+  'pepper-powder': 'seasoning',
+  'scallion-ginger-water': 'seasoning',
+  'star-anise': 'seasoning',
+  'cinnamon-bark': 'seasoning',
+  'dark-soy-sauce': 'seasoning',
+  'cornstarch-slurry': 'seasoning',
 };
 
 const App: React.FC = () => {
