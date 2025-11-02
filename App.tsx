@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Recipe, Ingredient } from './types';
 import { translations } from './i18n/translations';
@@ -47,27 +48,34 @@ const App: React.FC = () => {
   const [selectedRecipe, setSelectedRecipe] = useState<Recipe | null>(null);
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  
+  const uiText = translations[language];
 
   useEffect(() => {
     const fetchRecipes = async () => {
       setIsLoading(true);
       setError(null);
       try {
-        const response = await fetch(`./data/${language}.json`);
+        // Fix: Use a relative path to fetch recipe data. This resolves the TypeScript error
+        // 'Property 'env' does not exist on type 'ImportMeta'' because it avoids using
+        // Vite-specific environment variables that require special type declarations.
+        // The relative path works correctly for assets in the public directory.
+        const response = await fetch(`data/${language}.json`);
         if (!response.ok) {
-          throw new Error('Failed to load recipes.');
+          throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const data: Recipe[] = await response.json();
+        const data = await response.json();
         setRecipes(data);
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'An unknown error occurred');
+      } catch (e: any) {
+        console.error("Failed to fetch recipes:", e);
+        setError(uiText.error);
       } finally {
         setIsLoading(false);
       }
     };
 
     fetchRecipes();
-  }, [language]);
+  }, [language, uiText.error]);
 
   const uniqueIngredients = useMemo(() => {
     const ingredientsMap = new Map<string, Ingredient>();
@@ -123,8 +131,6 @@ const App: React.FC = () => {
       return newSet;
     });
   }, []);
-  
-  const uiText = translations[language];
 
   const handleSelectRecipe = (recipe: Recipe) => {
     setSelectedRecipe(recipe);
@@ -146,8 +152,9 @@ const App: React.FC = () => {
 
     if (error) {
       return (
-        <div className="text-center text-red-400 bg-red-900/20 p-4 rounded-lg">
-          <p>{uiText.error}: {error}</p>
+        <div className="text-center col-span-full py-12 bg-red-800/30 rounded-lg">
+            <p className="text-red-400 font-semibold">{error}</p>
+            <p className="text-gray-400 mt-2">Please ensure the `data` folder is inside a `public` folder in the project root.</p>
         </div>
       );
     }
@@ -191,7 +198,7 @@ const App: React.FC = () => {
             <RecipeCard key={recipe.id} recipe={recipe} onSelect={handleSelectRecipe} />
           ))}
         </div>
-        {filteredRecipes.length === 0 && !isLoading && (
+        {filteredRecipes.length === 0 && !isLoading && !error && (
           <div className="text-center col-span-full py-12 bg-gray-800/30 rounded-lg">
             <p className="text-gray-400">{uiText.noResults}</p>
           </div>
