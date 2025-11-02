@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chaoshan-beef-balls",
+    "title": "Chaoshan Beef Balls",
+    "ingredients": [
+      {"key": "beef-hind-leg", "name": "Beef hind leg"},
+      {"key": "baking-soda", "name": "Baking soda"},
+      {"key": "salt", "name": "Salt"},
+      {"key": "sugar", "name": "Sugar"},
+      {"key": "msg", "name": "MSG"},
+      {"key": "cornstarch", "name": "Cornstarch"},
+      {"key": "ice-cubes", "name": "Ice cubes"},
+      {"key": "beef-tallow", "name": "Beef tallow bits"},
+      {"key": "beef-tendon", "name": "Beef tendon bits"},
+      {"key": "garlic", "name": "Garlic"},
+      {"key": "fried-garlic-crisps", "name": "Fried garlic crisps"},
+      {"key": "shacha-sauce", "name": "Shacha sauce"}
+    ],
+    "steps": [
+      "Take 500g of beef hind leg, remove sinew, slice thinly, and freeze for 2 hours.",
+      "Combine beef, 1g baking soda, 8g salt, 4g sugar, 2g MSG, 15g cornstarch, and 50g ice cubes in a food processor. Blend into a paste. If the processor overheats, chill the paste in the freezer and resume blending when cool, or use another processor until smooth.",
+      "Add cornstarch and blend until fully incorporated.",
+      "Form into balls and drop into boiling water. Cook for 10 minutes after the water returns to a boil. Remove and place in an ice bath. Can be frozen for storage."
+    ],
+    "notes": [
+      "Alternatively, after adding starch:",
+      "Add beef tallow bits as desired and blend to make tallow-infused beef balls.",
+      "Add beef tendon bits as desired and blend to make tendon balls.",
+      "Flavorings like minced garlic, fried garlic crisps, or shacha sauce can also be added."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B"
+  },
+  {
+    "id": "fried-garlic-crisps",
+    "title": "Fried Garlic Crisps (Garlic Oil)",
+    "ingredients": [
+      {"key": "garlic", "name": "Garlic"},
+      {"key": "vegetable-oil", "name": "Vegetable oil"}
+    ],
+    "steps": [
+      "You will need 50g garlic and 100g vegetable oil.",
+      "Mince the garlic into small particles using a food processor, then rinse and drain well.",
+      "Heat oil to 60°C (140°F), add garlic bits, and fry over low heat until lightly golden. Remove immediately to get fried garlic crisps.",
+      "Store the fried garlic crisps in the oil they were fried in; this is garlic oil."
+    ],
+    "notes": [],
+    "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B"
+  },
+  {
+    "id": "kung-pao-chicken",
+    "title": "Kung Pao Chicken",
+    "ingredients": [
+      {"key": "chicken-breast", "name": "Chicken breast"},
+      {"key": "peanuts", "name": "Peanuts"},
+      {"key": "chili-pepper", "name": "Dried chili peppers"},
+      {"key": "sichuan-peppercorn", "name": "Sichuan peppercorns"},
+      {"key": "scallion", "name": "Scallion"},
+      {"key": "ginger", "name": "Ginger"},
+      {"key": "garlic", "name": "Garlic"},
+      {"key": "soy-sauce", "name": "Soy sauce"},
+      {"key": "vinegar", "name": "Vinegar"},
+      {"key": "sugar", "name": "Sugar"},
+      {"key": "cooking-wine", "name": "Cooking wine"},
+      {"key": "cornstarch", "name": "Starch"}
+    ],
+    "steps": [
+      "Dice chicken breast, marinate with salt, cooking wine, and starch for 15 minutes.",
+      "Fry or roast peanuts until cooked. Set aside.",
+      "Mince scallion, ginger, and garlic. Cut dried chili peppers into sections.",
+      "Prepare the sauce: mix soy sauce, vinegar, sugar, cooking wine, starch, and a small amount of water.",
+      "Heat oil in a wok, stir-fry the chicken until it changes color, then remove.",
+      "Leave some oil in the wok, add dried chili peppers and Sichuan peppercorns, and stir-fry over low heat until fragrant.",
+      "Add minced scallion, ginger, and garlic and stir-fry.",
+      "Return the chicken to the wok, pour in the sauce, and stir-fry quickly over high heat.",
+      "Finally, add the peanuts, mix well, and serve."
+    ],
+    "notes": [
+      "Add peanuts at the very end to keep them crispy."
+    ],
+    "videoLink": ""
+  }
+]

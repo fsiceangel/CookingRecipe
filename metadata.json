@@ -1,0 +1,5 @@
+{
+  "name": "Personal Recipe Book",
+  "description": "A personal recipe book application that allows filtering recipes by ingredients and supports multiple languages. Users can view recipe details, including steps and video links.",
+  "requestFramePermissions": []
+}

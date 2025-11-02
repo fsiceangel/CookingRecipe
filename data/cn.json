@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chaoshan-beef-balls",
+    "title": "潮汕牛肉丸",
+    "ingredients": [
+      {"key": "beef-hind-leg", "name": "牛后腿肉"},
+      {"key": "baking-soda", "name": "小苏打"},
+      {"key": "salt", "name": "盐"},
+      {"key": "sugar", "name": "白糖"},
+      {"key": "msg", "name": "味精"},
+      {"key": "cornstarch", "name": "玉米淀粉"},
+      {"key": "ice-cubes", "name": "冰块"},
+      {"key": "beef-tallow", "name": "牛油粒"},
+      {"key": "beef-tendon", "name": "牛筋粒"},
+      {"key": "garlic", "name": "大蒜"},
+      {"key": "fried-garlic-crisps", "name": "炸蒜酥"},
+      {"key": "shacha-sauce", "name": "沙茶酱"}
+    ],
+    "steps": [
+      "牛后腿肉500g，去掉筋膜，切薄片，冷冻2小时。",
+      "牛肉，小苏打1g，盐8g，白糖4g，味精2g，玉米淀粉15g，冰块50g倒入料理机，绞成肉泥。中途料理机过热，把肉泥放到冰箱冷冻，等料理机降温再打。或者换另一个料理机继续搅打至细腻。",
+      "加入玉米淀粉搅打融合即可。",
+      "汆成肉丸，水开下入丸子，水开煮10分钟，捞出来放入冰水中，冷冻保存即可。"
+    ],
+    "notes": [
+      "或者：加入淀粉后",
+      "按需加入牛油粒，搅打融合，即为牛油版的牛肉丸。",
+      "按需加入牛筋粒，搅打融合，即为牛筋丸。",
+      "按需加入蒜末，炸蒜酥，沙茶酱等风味亦可。"
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B"
+  },
+  {
+    "id": "fried-garlic-crisps",
+    "title": "炸蒜酥（蒜头油）",
+    "ingredients": [
+      {"key": "garlic", "name": "大蒜"},
+      {"key": "vegetable-oil", "name": "植物油"}
+    ],
+    "steps": [
+      "大蒜50g，植物油100g。",
+      "大蒜用料理机打成颗粒，清洗一下，沥干水分。",
+      "油温60度，下入蒜粒，小火慢炸至微黄立即捞出，即为炸蒜酥。",
+      "炸蒜酥泡在炸过的油里，即为蒜头油。"
+    ],
+    "notes": [],
+    "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B"
+  },
+  {
+    "id": "kung-pao-chicken",
+    "title": "宫保鸡丁",
+    "ingredients": [
+      {"key": "chicken-breast", "name": "鸡胸肉"},
+      {"key": "peanuts", "name": "花生米"},
+      {"key": "chili-pepper", "name": "干辣椒"},
+      {"key": "sichuan-peppercorn", "name": "花椒"},
+      {"key": "scallion", "name": "葱"},
+      {"key": "ginger", "name": "姜"},
+      {"key": "garlic", "name": "大蒜"},
+      {"key": "soy-sauce", "name": "酱油"},
+      {"key": "vinegar", "name": "醋"},
+      {"key": "sugar", "name": "白糖"},
+      {"key": "cooking-wine", "name": "料酒"},
+      {"key": "cornstarch", "name": "淀粉"}
+    ],
+    "steps": [
+      "鸡胸肉切丁，加盐、料酒、淀粉腌制15分钟。",
+      "花生米用油炸熟或烤熟备用。",
+      "葱姜蒜切末，干辣椒切段。",
+      "调一个碗汁：酱油、醋、白糖、料酒、淀粉和少量水混合均匀。",
+      "热锅冷油，放入鸡丁滑炒至变色盛出。",
+      "锅中留底油，放入干辣椒和花椒小火炒香。",
+      "放入葱姜蒜末爆香。",
+      "倒入鸡丁翻炒，淋入碗汁，大火翻炒均匀。",
+      "最后加入花生米，翻炒几下即可出锅。"
+    ],
+    "notes": [
+      "花生米一定要最后放，保持酥脆口感。"
+    ],
+    "videoLink": ""
+  }
+]
