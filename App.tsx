@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
-import { Recipe, Ingredient } from './types';
+import { Recipe, Ingredient, IngredientCategory } from './types';
 import { translations } from './i18n/translations';
 import RecipeCard from './components/RecipeCard';
 import RecipeDetail from './components/RecipeDetail';
@@ -8,75 +8,56 @@ import LanguageSwitcher from './components/LanguageSwitcher';
 import { LoadingIcon, SearchIcon, ChefHatIcon, ArrowLeftIcon } from './components/Icons';
 
 type Language = 'en' | 'cn';
-type IngredientCategory = 'meat' | 'veggie' | 'seasoning';
-
-const ingredientCategoryMap: Record<string, IngredientCategory> = {
-  // Meats
-  'beef-hind-leg': 'meat',
-  'beef-tallow': 'meat',
-  'beef-tendon': 'meat',
-  'chicken-breast': 'meat',
-  'pork-belly': 'meat',
-  
-  // Veggies
-  'garlic': 'veggie',
-  'peanuts': 'veggie',
-  'chili-pepper': 'veggie',
-  'scallion': 'veggie',
-  'ginger': 'veggie',
-  'water-chestnut': 'veggie',
-  'choy-sum': 'veggie',
-
-  // Seasonings
-  'baking-soda': 'seasoning',
-  'salt': 'seasoning',
-  'sugar': 'seasoning',
-  'msg': 'seasoning',
-  'cornstarch': 'seasoning',
-  'ice-cubes': 'seasoning',
-  'fried-garlic-crisps': 'seasoning',
-  'shacha-sauce': 'seasoning',
-  'vegetable-oil': 'seasoning',
-  'sichuan-peppercorn': 'seasoning',
-  'soy-sauce': 'seasoning',
-  'vinegar': 'seasoning',
-  'cooking-wine': 'seasoning',
-  'pepper-powder': 'seasoning',
-  'scallion-ginger-water': 'seasoning',
-  'star-anise': 'seasoning',
-  'cinnamon-bark': 'seasoning',
-  'dark-soy-sauce': 'seasoning',
-  'cornstarch-slurry': 'seasoning',
-};
 
 const App: React.FC = () => {
   const [language, setLanguage] = useState<Language>('cn');
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
-  const [selectedRecipe, setSelectedRecipe] = useState<Recipe | null>(null);
+  const [selectedRecipeId, setSelectedRecipeId] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   
   const uiText = translations[language];
+
+  const validateIngredientCategories = (recipesToValidate: Recipe[]) => {
+    const categoryMap = new Map<string, IngredientCategory>();
+    for (const recipe of recipesToValidate) {
+      for (const ingredient of recipe.ingredients) {
+        if (categoryMap.has(ingredient.key)) {
+          const existingCategory = categoryMap.get(ingredient.key);
+          if (existingCategory !== ingredient.category) {
+            throw new Error(
+              `Data integrity error: Inconsistent categories for ingredient key '${ingredient.key}'. ` +
+              `Found '${existingCategory}' in one recipe and '${ingredient.category}' in '${recipe.title}'. ` +
+              `Please correct the data in the JSON file.`
+            );
+          }
+        } else {
+          categoryMap.set(ingredient.key, ingredient.category);
+        }
+      }
+    }
+  };
+
 
   useEffect(() => {
     const fetchRecipes = async () => {
       setIsLoading(true);
       setError(null);
       try {
-        // Fix: Use a relative path to fetch recipe data. This resolves the TypeScript error
-        // 'Property 'env' does not exist on type 'ImportMeta'' because it avoids using
-        // Vite-specific environment variables that require special type declarations.
-        // The relative path works correctly for assets in the public directory.
         const response = await fetch(`data/${language}.json`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const data = await response.json();
+        const data: Recipe[] = await response.json();
+
+        // Validate data integrity before setting state
+        validateIngredientCategories(data);
+
         setRecipes(data);
       } catch (e: any) {
-        console.error("Failed to fetch recipes:", e);
-        setError(uiText.error);
+        console.error("Failed to fetch or validate recipes:", e);
+        setError(e.message || uiText.error);
       } finally {
         setIsLoading(false);
       }
@@ -84,6 +65,11 @@ const App: React.FC = () => {
 
     fetchRecipes();
   }, [language, uiText.error]);
+  
+  const selectedRecipe = useMemo(() => {
+    if (!selectedRecipeId) return null;
+    return recipes.find(recipe => recipe.id === selectedRecipeId) || null;
+  }, [recipes, selectedRecipeId]);
 
   const uniqueIngredients = useMemo(() => {
     const ingredientsMap = new Map<string, Ingredient>();
@@ -105,9 +91,8 @@ const App: React.FC = () => {
     };
 
     uniqueIngredients.forEach(ing => {
-      const category = ingredientCategoryMap[ing.key];
-      if (category) {
-        groups[category].push(ing);
+      if (ing.category && groups[ing.category]) {
+        groups[ing.category].push(ing);
       }
     });
     
@@ -141,11 +126,11 @@ const App: React.FC = () => {
   }, []);
 
   const handleSelectRecipe = (recipe: Recipe) => {
-    setSelectedRecipe(recipe);
+    setSelectedRecipeId(recipe.id);
   };
 
   const handleBackToList = () => {
-    setSelectedRecipe(null);
+    setSelectedRecipeId(null);
   };
 
   const renderContent = () => {
@@ -162,7 +147,6 @@ const App: React.FC = () => {
       return (
         <div className="text-center col-span-full py-12 bg-red-800/30 rounded-lg">
             <p className="text-red-400 font-semibold">{error}</p>
-            <p className="text-gray-400 mt-2">Please ensure the `data` folder is inside a `public` folder in the project root.</p>
         </div>
       );
     }

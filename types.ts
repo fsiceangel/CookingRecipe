@@ -1,7 +1,10 @@
+export type IngredientCategory = 'meat' | 'veggie' | 'seasoning';
+
 export interface Ingredient {
   key: string;
   name: string;
   amount?: string;
+  category: IngredientCategory;
 }
 
 export interface Recipe {
