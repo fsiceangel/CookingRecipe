@@ -3,6 +3,7 @@
   {
     "id": "chaoshan-beef-balls",
     "title": "Chaoshan Beef Balls",
+    "tags": ["dish"],
     "ingredients": [
       {"key": "beef-hind-leg", "name": "Beef hind leg", "amount": "500g", "category": "meat"},
       {"key": "baking-soda", "name": "Baking soda", "amount": "1g", "category": "seasoning"},
@@ -34,6 +35,7 @@
   {
     "id": "fried-garlic-crisps",
     "title": "Fried Garlic Crisps (Garlic Oil)",
+    "tags": ["dish"],
     "ingredients": [
       {"key": "garlic", "name": "Garlic", "amount": "50g", "category": "veggie"},
       {"key": "vegetable-oil", "name": "Vegetable oil", "amount": "100g", "category": "seasoning"}
@@ -50,6 +52,7 @@
   {
     "id": "kung-pao-chicken",
     "title": "Kung Pao Chicken",
+    "tags": ["dish"],
     "ingredients": [
       {"key": "chicken-breast", "name": "Chicken breast", "category": "meat"},
       {"key": "peanuts", "name": "Peanuts", "category": "veggie"},
@@ -83,6 +86,7 @@
   {
     "id": "braised-pork-balls-lions-head",
     "title": "Braised Pork Balls (Lion's Head)",
+    "tags": ["dish"],
     "ingredients": [
       { "key": "pork-belly", "name": "Pork belly", "amount": "1kg", "category": "meat" },
       { "key": "water-chestnut", "name": "Water chestnuts", "amount": "60g", "category": "veggie" },
@@ -125,6 +129,7 @@
   {
     "id": "evelyn-jemerson-pound-cake",
     "title": "Evelyn Jemerson's Pound Cake",
+    "tags": ["bakery", "dessert"],
     "ingredients": [
       { "key": "parkay-margarine", "name": "Parkay Margarine", "amount": "2 sticks", "category": "seasoning" },
       { "key": "butter", "name": "Butter", "amount": "1 stick", "category": "seasoning" },
@@ -148,5 +153,190 @@
       "The original recipe's baking time notes may imply a total time of 1 hour and 50 minutes. Pound cakes often take around 1.5 to 2 hours to bake completely."
     ],
     "videoLink": ""
+  },
+  {
+    "id": "braised-beef-shank",
+    "title": "Braised Beef Shank",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "beef-shank", "name": "Beef Shank", "amount": "3kg (6 jin)", "category": "meat" },
+      { "key": "star-anise", "name": "Star Anise", "amount": "12", "category": "seasoning" },
+      { "key": "cinnamon-bark", "name": "Cinnamon Bark", "amount": "25g", "category": "seasoning" },
+      { "key": "dried-yellow-bean-paste", "name": "Dried Yellow Bean Paste", "amount": "150g", "category": "seasoning" },
+      { "key": "fennel-seeds", "name": "Fennel Seeds", "amount": "12g", "category": "seasoning" },
+      { "key": "soybean-sauce", "name": "Soybean Sauce", "amount": "100g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Light Soy Sauce", "amount": "50g", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "amount": "70g", "category": "seasoning" },
+      { "key": "scallion", "name": "Scallion", "amount": "250g", "category": "veggie" },
+      { "key": "ginger", "name": "Ginger", "amount": "250g", "category": "veggie" },
+      { "key": "huadiao-wine", "name": "Huadiao Wine", "amount": "as needed", "category": "seasoning" },
+      { "key": "water", "name": "Water", "amount": "3L (6 jin)", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "Soy Sauce", "amount": "100g", "category": "seasoning" },
+      { "key": "chili-pepper", "name": "Dried Chili Peppers", "amount": "3", "category": "veggie" },
+      { "key": "bay-leaf", "name": "Bay Leaves", "amount": "3", "category": "seasoning" },
+      { "key": "sichuan-peppercorn", "name": "Sichuan Peppercorns", "amount": "2g", "category": "seasoning" },
+      { "key": "rock-sugar", "name": "Rock Sugar", "amount": "as needed", "category": "seasoning" }
+    ],
+    "steps": [
+      "Trim the fat and skin from the beef shank (do not discard, braise with the meat), then cut the shank into smaller chunks.",
+      "Use a skewer to poke holes all over the beef chunks to help the marinade penetrate.",
+      "Add spices, yellow bean paste (diluted with Huadiao wine), soybean sauce, light soy sauce, scallion, ginger, and salt to the beef. Mix thoroughly and marinate for at least two hours.",
+      "Heat oil in a wok and sauté scallion and ginger until golden brown. Add spices and dried chili peppers, stir-frying until fragrant. Add yellow bean paste, soy sauce, and water. Bring to a boil. If the color is too light, add more soy sauce. Add rock sugar to taste (the broth should be saltier than normal).",
+      "Transfer the braising liquid to a pressure cooker. In a separate pot, bring water to a boil, blanch the marinated beef, and skim off any scum. Transfer the blanched beef and the reserved fat/skin to the pressure cooker.",
+      "Secure the lid of the pressure cooker. After it reaches pressure, cook for 40 minutes. Let it rest and soak in the liquid for another 20 minutes before serving."
+    ],
+    "notes": [
+      "Great with noodles!"
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1Yu41177FD"
+  },
+  {
+    "id": "korokke-croquette",
+    "title": "Korokke (Japanese Croquette)",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "potato", "name": "Potatoes", "amount": "300g", "category": "veggie" },
+      { "key": "butter", "name": "Butter", "amount": "10g", "category": "seasoning" },
+      { "key": "onion", "name": "Onion", "amount": "100g", "category": "veggie" },
+      { "key": "minced-meat", "name": "Minced Meat", "amount": "100g", "category": "meat" },
+      { "key": "salt", "name": "Salt", "amount": "2g", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "2g", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Black Pepper", "amount": "1g", "category": "seasoning" },
+      { "key": "light-cream", "name": "Light Cream", "amount": "20g", "category": "seasoning" },
+      { "key": "flour", "name": "Flour", "amount": "for coating", "category": "seasoning" },
+      { "key": "egg", "name": "Egg", "amount": "for coating", "category": "meat" },
+      { "key": "panko", "name": "Panko (Breadcrumbs)", "amount": "for coating", "category": "seasoning" },
+      { "key": "vegetable-oil", "name": "Oil", "amount": "for deep frying", "category": "seasoning" }
+    ],
+    "steps": [
+      "Boil 300g of potatoes in water for 30 minutes. Once cooked, remove, peel, and mash them into a puree.",
+      "In a pan, add 10g of butter. Sauté 100g of onion, then add 100g of minced meat and fry until fragrant. Season with 2g of salt, 2g of sugar, 1g of black pepper, and 20g of light cream. Stir-fry well, then pour the mixture into the mashed potatoes and mix evenly. Divide into 5 portions.",
+      "Breading: First, coat each portion with flour, then dip in beaten egg, and finally cover with panko (breadcrumbs).",
+      "Heat oil to 150°C (300°F). Turn the heat to low, place the croquettes in the oil. Fry for 2 minutes, then increase the temperature and continue frying until golden brown. Remove and drain."
+    ],
+    "notes": [],
+    "videoLink": "https://www.bilibili.com/video/BV1MG4y1R7L3"
+  },
+  {
+    "id": "madeleine-cake",
+    "title": "Madeleine Cake",
+    "tags": ["bakery", "dessert"],
+    "ingredients": [
+      { "key": "cake-flour", "name": "Cake Flour", "amount": "125g", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "125g", "category": "seasoning" },
+      { "key": "baking-powder", "name": "Baking Powder", "amount": "5g", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "amount": "1.5g", "category": "seasoning" },
+      { "key": "citrus", "name": "Citrus Zest", "amount": "from 2", "category": "veggie" },
+      { "key": "butter", "name": "Butter", "amount": "130g", "category": "seasoning" },
+      { "key": "egg", "name": "Eggs", "amount": "175g (~3.5 large)", "category": "meat" }
+    ],
+    "steps": [
+      "Prepare dry ingredients: Mix 125g cake flour, 125g sugar, 5g baking powder, and 1.5g salt. Zest two citrus fruits into the mixture, avoiding the white pith.",
+      "Prepare wet ingredients: Melt 130g of butter until it reaches 40°C (104°F), or make brown butter for enhanced flavor.",
+      "Add 175g of beaten eggs to the dry ingredients and mix. Ensure the mixture temperature does not exceed 70°C (158°F).",
+      "Pour the melted butter (or brown butter) into the batter and mix until just combined.",
+      "Preheat the oven to 190°C (375°F).",
+      "Pipe the batter into a madeleine mold, filling each cavity about 75% full.",
+      "Bake at 190°C (375°F) for 7-9 minutes, until the signature 'hump' forms in the center.",
+      "Reduce the temperature to 170°C (340°F) and bake for another 5 minutes to add a caramelized flavor.",
+      "After removing from the oven, let the cakes rest in the mold for 5 minutes before unmolding.",
+      "Let them cool on a wire rack for 10 minutes. They are best eaten at this point when the shell is crispy."
+    ],
+    "notes": [
+      "A Madeleine mold is required!",
+      "Tip: For better flavor, use brown butter instead of just melted butter.",
+      "When adding eggs, ensure the mixture is not too hot to avoid scrambling them.",
+      "Only use the colored part of the citrus peel; the white pith is bitter."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1K5411574o"
+  },
+  {
+    "id": "three-onion-noodles",
+    "title": "Three-Onion Noodles (Scallion Oil Method)",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "scallion", "name": "Scallion", "amount": "100g", "category": "veggie" },
+      { "key": "small-scallion", "name": "Small Scallion", "amount": "100g", "category": "veggie" },
+      { "key": "onion", "name": "Onion", "amount": "100g", "category": "veggie" },
+      { "key": "light-soy-sauce", "name": "Light Soy Sauce", "amount": "100g", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "amount": "25g", "category": "seasoning" },
+      { "key": "oyster-sauce", "name": "Oyster Sauce", "amount": "25g", "category": "seasoning" },
+      { "key": "aged-vinegar", "name": "Aged Vinegar", "amount": "20g", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "25g", "category": "seasoning" },
+      { "key": "rapeseed-oil", "name": "Rapeseed Oil", "amount": "150g", "category": "seasoning" }
+    ],
+    "steps": [
+      "Prep: Cut 100g scallion into diamond shapes, 100g small scallion into sections, and 100g onion into thin strips.",
+      "Sauce Mixture: Combine 100g light soy sauce, 25g dark soy sauce, 25g oyster sauce, 20g aged vinegar, and 25g sugar. Mix well and set aside.",
+      "Make Scallion Oil (Choose one version):",
+      "[Version 1 - Onions Removed]: Heat 150g of rapeseed oil in a wok. Add all prepared onions. Fry on high until slightly browned, then switch to low heat. Fry until deep golden brown and crispy. Remove and discard all fried onions. Pour the sauce mixture into the hot oil and bring to a boil.",
+      "[Version 2 - With Soft Onions]: Heat 150g of rapeseed oil. First, add half of the prepared onions (use the green parts of the small scallions, and half of the regular scallions and onions). Fry on high heat until slightly browned, then switch to low heat and continue frying until deep golden brown. Discard these fried onions to infuse the oil. Then, add the remaining half of the fresh onions to the infused oil and fry on high heat until softened. Finally, pour in the sauce mixture and bring to a boil.",
+      "To serve, mix the finished scallion oil with freshly cooked noodles."
+    ],
+    "notes": [
+      "The finished scallion oil can be stored in a sealed container in the refrigerator for later use.",
+      "Version 1 is ideal for those who prefer a smooth oil without onion bits. Version 2 retains the sweet texture of the softened onions."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV11H4y1c7Fa"
+  },
+  {
+    "id": "antonio-carluccio-carbonara",
+    "title": "Antonio Carluccio's Real Carbonara",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "spaghettoni", "name": "Spaghettoni", "amount": "for 2 people", "category": "seasoning" },
+      { "key": "guanciale-pancetta", "name": "Guanciale or pancetta", "amount": "cubed", "category": "meat" },
+      { "key": "olive-oil", "name": "Good quality olive oil", "amount": "a splash", "category": "seasoning" },
+      { "key": "egg", "name": "Large, fresh eggs", "amount": "2", "category": "meat" },
+      { "key": "egg-yolk", "name": "Extra egg yolk", "amount": "1 (optional)", "category": "meat" },
+      { "key": "parmesan-pecorino", "name": "Parmesan or Pecorino cheese", "amount": "generous amount", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Black pepper", "amount": "freshly ground", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "amount": "for pasta water", "category": "seasoning" }
+    ],
+    "steps": [
+      "Bring a large pot of water to a rolling boil. Add about 10g of salt per liter of water. Cook spaghettoni until al dente (around 10 minutes). Do not add oil to the water.",
+      "While pasta cooks, cut the guanciale into small cubes. Add a splash of olive oil to a cold pan, then add the guanciale.",
+      "Cook over medium heat until the pork is crispy and has rendered its fat. If there is excess fat, you can remove some.",
+      "In a separate bowl, lightly beat two eggs and one additional egg yolk. Add a generous amount of freshly grated cheese and plenty of freshly ground black pepper. Whisk together.",
+      "Once pasta is al dente, turn off the heat for the pan with the guanciale to let it cool slightly. This is a crucial step to prevent the eggs from scrambling.",
+      "Drain the pasta and immediately add it to the pan with the guanciale and rendered fat. Toss well to coat.",
+      "Pour the egg and cheese mixture over the hot pasta, stirring quickly and continuously. The residual heat will cook the eggs into a creamy sauce.",
+      "Serve immediately, garnished with an extra sprinkle of grated cheese and a final grind of black pepper."
+    ],
+    "notes": [
+      "For a creamier sauce, add the optional extra egg yolk.",
+      "Authentic carbonara does not use cream; the creaminess comes from the egg, cheese, and pasta water.",
+      "It is crucial to let the pan cool slightly before adding the eggs to prevent them from scrambling.",
+      "Using freshly grated cheese and freshly ground black pepper is highly recommended for the best flavor and texture."
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=3AAdKl1UYZs"
+  },
+  {
+    "id": "milk-steamed-buns",
+    "title": "Milk Steamed Buns",
+    "tags": ["bakery"],
+    "ingredients": [
+      { "key": "flour", "name": "All-purpose Flour", "amount": "200g", "category": "seasoning" },
+      { "key": "yeast", "name": "Yeast Powder", "amount": "2g", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "15g", "category": "seasoning" },
+      { "key": "milk", "name": "Milk", "amount": "100g", "category": "seasoning" },
+      { "key": "warm-water", "name": "Warm Water (40°C)", "amount": "20g", "category": "seasoning" },
+      { "key": "oil", "name": "Oil", "amount": "15g", "category": "seasoning" }
+    ],
+    "steps": [
+      "First, prepare the ingredients. Add the sugar and yeast to the warm water to activate the yeast. Sugar helps activate the yeast, but you can omit it and simply extend the proofing time. Stir until the sugar dissolves, then pour it into the flour along with the oil and milk.",
+      "Transfer the dough to a work surface. Knead with the heel of your hand, pushing in one direction. Stop immediately once the dough is smooth (over-kneading will warm the dough, causing it to bubble and become rough). Kneading for about 15 minutes should be sufficient.",
+      "Shape the dough into a ball and let it rest for 5 minutes.",
+      "Sprinkle a little flour on the work surface. Use a rolling pin to roll the dough out, leaving a small border at the top and bottom. Then, turn it horizontally and continue rolling to form a rectangular shape.",
+      "Once rolled out, brush the surface evenly with a little water. Press one edge thin with your fingers, then start rolling tightly from the opposite edge, shaping it as you go to maintain a consistent width.",
+      "Gently roll the dough from the center outwards to form a long, even log about 3 cm in diameter. Cut it into pieces about two fingers wide.",
+      "Place the dough pieces loosely in a steamer, leaving space between them as they will expand. Cover and let them proof at room temperature until they are 1.5 times their original size.",
+      "To check if the dough is ready, gently press it with your fingertip. It should bounce back slowly. If it doesn't bounce back, it's over-proofed. A cross-section should show small, uniform air pockets.",
+      "Once the water in the steamer is boiling, place the steamer basket inside and steam over high heat for 10 minutes. After 10 minutes, turn off the heat. You can open the lid and serve them immediately."
+    ],
+    "notes": [
+      "Tools needed: A steamer."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1rE411o7zi"
   }
 ]
