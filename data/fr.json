@@ -1,0 +1,343 @@
+
+[
+    {
+      "id": "chaoshan-beef-balls",
+      "title": "Boulettes de boeuf Chaoshan",
+      "tags": ["dish"],
+      "ingredients": [
+        {"key": "beef-hind-leg", "name": "Gigot de boeuf", "amount": "500g", "category": "meat"},
+        {"key": "baking-soda", "name": "Bicarbonate de soude", "amount": "1g", "category": "seasoning"},
+        {"key": "salt", "name": "Sel", "amount": "8g", "category": "seasoning"},
+        {"key": "sugar", "name": "Sucre", "amount": "4g", "category": "seasoning"},
+        {"key": "msg", "name": "Glutamate monosodique", "amount": "2g", "category": "seasoning"},
+        {"key": "cornstarch", "name": "Fécule de maïs", "amount": "15g", "category": "seasoning"},
+        {"key": "ice-cubes", "name": "Glaçons", "amount": "50g", "category": "seasoning"},
+        {"key": "beef-tallow", "name": "Morceaux de suif de boeuf", "category": "meat"},
+        {"key": "beef-tendon", "name": "Morceaux de tendon de boeuf", "category": "meat"},
+        {"key": "garlic", "name": "Ail", "category": "veggie"},
+        {"key": "fried-garlic-crisps", "name": "Croustilles d'ail frites", "category": "seasoning"},
+        {"key": "shacha-sauce", "name": "Sauce Shacha", "category": "seasoning"}
+      ],
+      "steps": [
+        "Prendre 500g de gigot de boeuf, retirer les nerfs, trancher finement et congeler pendant 2 heures.",
+        "Combiner le boeuf, 1g de bicarbonate de soude, 8g de sel, 4g de sucre, 2g de glutamate, 15g de fécule de maïs et 50g de glaçons dans un robot culinaire. Mixer jusqu'à obtenir une pâte. Si le robot surchauffe, refroidir la pâte au congélateur et reprendre le mixage une fois refroidi, ou utiliser un autre robot jusqu'à consistance lisse.",
+        "Ajouter la fécule de maïs et mixer jusqu'à incorporation complète.",
+        "Former des boulettes et les plonger dans l'eau bouillante. Cuire 10 minutes après la reprise de l'ébullition. Retirer et placer dans un bain d'eau glacée. Peut être congelé pour conservation."
+      ],
+      "notes": [
+        "Alternativement, après avoir ajouté la fécule :",
+        "Ajouter des morceaux de suif de boeuf au goût et mixer pour faire des boulettes de boeuf au suif.",
+        "Ajouter des morceaux de tendon de boeuf au goût et mixer pour faire des boulettes de tendon.",
+        "Des arômes comme de l'ail haché, des croustilles d'ail frites ou de la sauce Shacha peuvent également être ajoutés."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B"
+    },
+    {
+      "id": "fried-garlic-crisps",
+      "title": "Croustilles d'ail frites (Huile d'ail)",
+      "tags": ["dish"],
+      "ingredients": [
+        {"key": "garlic", "name": "Ail", "amount": "50g", "category": "veggie"},
+        {"key": "vegetable-oil", "name": "Huile végétale", "amount": "100g", "category": "seasoning"}
+      ],
+      "steps": [
+        "Vous aurez besoin de 50g d'ail et 100g d'huile végétale.",
+        "Hacher l'ail en petites particules à l'aide d'un robot culinaire, puis rincer et bien égoutter.",
+        "Chauffer l'huile à 60°C, ajouter les morceaux d'ail et frire à feu doux jusqu'à ce qu'ils soient légèrement dorés. Retirer immédiatement pour obtenir des croustilles d'ail frites.",
+        "Conserver les croustilles d'ail frites dans l'huile de friture ; c'est de l'huile d'ail."
+      ],
+      "notes": [],
+      "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B"
+    },
+    {
+      "id": "kung-pao-chicken",
+      "title": "Poulet Kung Pao",
+      "tags": ["dish"],
+      "ingredients": [
+        {"key": "chicken-breast", "name": "Poitrine de poulet", "category": "meat"},
+        {"key": "peanuts", "name": "Cacahuètes", "category": "veggie"},
+        {"key": "chili-pepper", "name": "Piments séchés", "category": "veggie"},
+        {"key": "sichuan-peppercorn", "name": "Poivre du Sichuan", "category": "seasoning"},
+        {"key": "scallion", "name": "Ciboule", "category": "veggie"},
+        {"key": "ginger", "name": "Gingembre", "category": "veggie"},
+        {"key": "garlic", "name": "Ail", "category": "veggie"},
+        {"key": "soy-sauce", "name": "Sauce soja", "category": "seasoning"},
+        {"key": "vinegar", "name": "Vinaigre", "category": "seasoning"},
+        {"key": "sugar", "name": "Sucre", "category": "seasoning"},
+        {"key": "cooking-wine", "name": "Vin de cuisine", "category": "seasoning"},
+        {"key": "cornstarch", "name": "Fécule", "category": "seasoning"}
+      ],
+      "steps": [
+        "Couper la poitrine de poulet en dés, mariner avec du sel, du vin de cuisine et de la fécule pendant 15 minutes.",
+        "Frire ou rôtir les cacahuètes jusqu'à ce qu'elles soient cuites. Mettre de côté.",
+        "Hacher la ciboule, le gingembre et l'ail. Couper les piments séchés en morceaux.",
+        "Préparer la sauce : mélanger la sauce soja, le vinaigre, le sucre, le vin de cuisine, la fécule et un peu d'eau.",
+        "Chauffer l'huile dans un wok, faire sauter le poulet jusqu'à ce qu'il change de couleur, puis le retirer.",
+        "Laisser un peu d'huile dans le wok, ajouter les piments séchés et le poivre du Sichuan, et faire sauter à feu doux jusqu'à ce qu'ils soient parfumés.",
+        "Ajouter la ciboule, le gingembre et l'ail hachés et faire sauter.",
+        "Remettre le poulet dans le wok, verser la sauce et faire sauter rapidement à feu vif.",
+        "Enfin, ajouter les cacahuètes, bien mélanger et servir."
+      ],
+      "notes": [
+        "Ajouter les cacahuètes à la toute fin pour les garder croustillantes."
+      ],
+      "videoLink": ""
+    },
+    {
+      "id": "braised-pork-balls-lions-head",
+      "title": "Boulettes de porc braisées (Tête de Lion)",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "pork-belly", "name": "Poitrine de porc", "amount": "1kg", "category": "meat" },
+        { "key": "water-chestnut", "name": "Châtaignes d'eau", "amount": "60g", "category": "veggie" },
+        { "key": "choy-sum", "name": "Choy sum", "amount": "pour la garniture", "category": "veggie" },
+        { "key": "salt", "name": "Sel", "amount": "20g", "category": "seasoning" },
+        { "key": "msg", "name": "Glutamate", "amount": "2g", "category": "seasoning" },
+        { "key": "pepper-powder", "name": "Poivre blanc", "amount": "2g", "category": "seasoning" },
+        { "key": "scallion-ginger-water", "name": "Eau de ciboule et gingembre", "amount": "300g", "category": "seasoning" },
+        { "key": "cornstarch", "name": "Fécule de maïs", "amount": "120g", "category": "seasoning" },
+        { "key": "soy-sauce", "name": "Sauce soja", "amount": "80g", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin de Shaoxing", "amount": "100g", "category": "seasoning" },
+        { "key": "scallion", "name": "Ciboule", "amount": "100g", "category": "veggie" },
+        { "key": "ginger", "name": "Gingembre", "amount": "100g", "category": "veggie" },
+        { "key": "star-anise", "name": "Anis étoilé", "amount": "4g", "category": "seasoning" },
+        { "key": "cinnamon-bark", "name": "Écorce de cannelle", "amount": "5g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "amount": "30g", "category": "seasoning" },
+        { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "amount": "50g", "category": "seasoning" },
+        { "key": "cornstarch-slurry", "name": "Liaison à la fécule de maïs", "amount": "au besoin", "category": "seasoning" }
+      ],
+      "steps": [
+        "Peler la poitrine de porc, la trancher, puis la couper en dés de la taille de graines de grenade. Hacher grossièrement le porc en dés.",
+        "Au porc haché, ajouter 6g de sel, 2g de glutamate et 1g de poivre blanc. Ajouter progressivement l'eau de ciboule et de gingembre par petites quantités, en remuant vigoureusement dans une seule direction pour développer la texture.",
+        "Ajouter 80g de fécule de maïs et les châtaignes d'eau finement hachées. Bien mélanger.",
+        "Préparer le liquide de braisage : Chauffer l'huile dans un wok et faire sauter 80g de ciboule, 20g de gingembre, 4g d'anis étoilé et 5g d'écorce de cannelle jusqu'à ce qu'ils soient parfumés.",
+        "Ajouter la sauce soja, l'eau, le vin de Shaoxing, le reste du sel, le sucre, le glutamate et la sauce soja foncée. Bien mélanger, porter à ébullition, puis transférer dans une cocotte en terre ou une grande cocotte.",
+        "Former le mélange de porc en grosses boulettes (les 'têtes de lion').",
+        "Chauffer une généreuse quantité d'huile dans le wok à environ 60% de chaleur (environ 180°C). Frire les boulettes jusqu'à ce qu'elles soient dorées et fermes à l'extérieur.",
+        "Retirer les boulettes frites et les placer dans la cocotte avec le liquide de braisage.",
+        "Porter le liquide à ébullition, puis réduire le feu à un frémissement. Couvrir et cuire pendant 100 minutes jusqu'à ce que les boulettes soient exceptionnellement tendres.",
+        "Retirer délicatement les boulettes cuites et les disposer sur un plat de service.",
+        "Épaissir le liquide de braisage restant dans la cocotte avec une liaison à la fécule de maïs pour créer une sauce.",
+        "Verser la sauce sur les boulettes et garnir de choy sum blanchi sur les bords."
+      ],
+      "notes": [
+        "Ajouter l'eau de ciboule et de gingembre progressivement pour que la viande l'absorbe complètement.",
+        "Frire les boulettes d'abord les aide à conserver leur forme et ajoute de la saveur. Un long temps de mijotage est crucial pour une texture fondante en bouche."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV1hp4y1T7dU"
+    },
+    {
+      "id": "evelyn-jemerson-pound-cake",
+      "title": "Pound Cake d'Evelyn Jemerson",
+      "tags": ["bakery", "dessert"],
+      "ingredients": [
+        { "key": "parkay-margarine", "name": "Margarine Parkay", "amount": "2 bâtonnets", "category": "seasoning" },
+        { "key": "butter", "name": "Beurre", "amount": "1 bâtonnet", "category": "seasoning" },
+        { "key": "cream-cheese", "name": "Fromage à la crème", "amount": "225g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "amount": "3 tasses", "category": "seasoning" },
+        { "key": "egg", "name": "Gros oeufs", "amount": "6", "category": "meat" },
+        { "key": "vanilla-extract", "name": "Vanille", "amount": "1-2 c.à.c", "category": "seasoning" },
+        { "key": "flour", "name": "Farine", "amount": "3 tasses", "category": "seasoning" }
+      ],
+      "steps": [
+        "Avoir la margarine, le beurre et le fromage à la crème à température ambiante.",
+        "Crémer ensemble la margarine, le beurre et le fromage à la crème jusqu'à consistance légère et mousseuse.",
+        "Ajouter progressivement les 3 tasses de sucre et continuer à crémer le mélange jusqu'à ce qu'il soit léger et mousseux, environ 4 à 5 minutes de plus.",
+        "Commencer à ajouter les œufs et la farine en alternance, en commençant et en terminant par les œufs. Ajouter la vanille avec les œufs.",
+        "Bien mélanger le tout.",
+        "Garnir un moule de papier parchemin.",
+        "Cuire à 163°C (325°F) pendant 1 heure et 30 minutes à 2 heures."
+      ],
+      "notes": [
+        "La quantité de vanille n'est pas spécifiée ; on utilise généralement 1 à 2 cuillères à café.",
+        "Les notes de temps de cuisson de la recette originale peuvent impliquer un temps total de 1 heure et 50 minutes. Les quatre-quarts prennent souvent environ 1,5 à 2 heures pour être complètement cuits."
+      ],
+      "videoLink": ""
+    },
+    {
+      "id": "braised-beef-shank",
+      "title": "Jarret de boeuf braisé",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "beef-shank", "name": "Jarret de boeuf", "amount": "3kg", "category": "meat" },
+        { "key": "star-anise", "name": "Anis étoilé", "amount": "12", "category": "seasoning" },
+        { "key": "cinnamon-bark", "name": "Écorce de cannelle", "amount": "25g", "category": "seasoning" },
+        { "key": "dried-yellow-bean-paste", "name": "Pâte de haricots jaunes séchée", "amount": "150g", "category": "seasoning" },
+        { "key": "fennel-seeds", "name": "Graines de fenouil", "amount": "12g", "category": "seasoning" },
+        { "key": "soybean-sauce", "name": "Sauce de soja", "amount": "100g", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja claire", "amount": "50g", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "amount": "70g", "category": "seasoning" },
+        { "key": "scallion", "name": "Ciboule", "amount": "250g", "category": "veggie" },
+        { "key": "ginger", "name": "Gingembre", "amount": "250g", "category": "veggie" },
+        { "key": "huadiao-wine", "name": "Vin de Huadiao", "amount": "au besoin", "category": "seasoning" },
+        { "key": "water", "name": "Eau", "amount": "3L", "category": "seasoning" },
+        { "key": "soy-sauce", "name": "Sauce Soja", "amount": "100g", "category": "seasoning" },
+        { "key": "chili-pepper", "name": "Piments séchés", "amount": "3", "category": "veggie" },
+        { "key": "bay-leaf", "name": "Feuilles de laurier", "amount": "3", "category": "seasoning" },
+        { "key": "sichuan-peppercorn", "name": "Poivre du Sichuan", "amount": "2g", "category": "seasoning" },
+        { "key": "rock-sugar", "name": "Sucre candi", "amount": "au besoin", "category": "seasoning" }
+      ],
+      "steps": [
+        "Parer la graisse et la peau du jarret de boeuf (ne pas jeter, braiser avec la viande), puis couper le jarret en morceaux plus petits.",
+        "Utiliser une brochette pour piquer des trous partout sur les morceaux de boeuf pour aider la marinade à pénétrer.",
+        "Ajouter les épices, la pâte de haricots jaunes (diluée avec du vin de Huadiao), la sauce de soja, la sauce soja claire, la ciboule, le gingembre et le sel au boeuf. Bien mélanger et laisser mariner pendant au moins deux heures.",
+        "Chauffer l'huile dans un wok et faire sauter la ciboule et le gingembre jusqu'à ce qu'ils soient dorés. Ajouter les épices et les piments séchés, en remuant jusqu'à ce qu'ils soient parfumés. Ajouter la pâte de haricots jaunes, la sauce soja et l'eau. Porter à ébullition. Si la couleur est trop claire, ajouter plus de sauce soja. Ajouter du sucre candi au goût (le bouillon doit être plus salé que la normale).",
+        "Transférer le liquide de braisage dans un autocuiseur. Dans une autre casserole, porter l'eau à ébullition, blanchir le boeuf mariné et écumer toute impureté. Transférer le boeuf blanchi et la graisse/peau réservée dans l'autocuiseur.",
+        "Fermer le couvercle de l'autocuiseur. Après avoir atteint la pression, cuire pendant 40 minutes. Laisser reposer et tremper dans le liquide pendant 20 minutes supplémentaires avant de servir."
+      ],
+      "notes": [
+        "Excellent avec des nouilles !"
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV1Yu41177FD"
+    },
+    {
+      "id": "korokke-croquette",
+      "title": "Korokke (Croquette Japonaise)",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "potato", "name": "Pommes de terre", "amount": "300g", "category": "veggie" },
+        { "key": "butter", "name": "Beurre", "amount": "10g", "category": "seasoning" },
+        { "key": "onion", "name": "Oignon", "amount": "100g", "category": "veggie" },
+        { "key": "minced-meat", "name": "Viande hachée", "amount": "100g", "category": "meat" },
+        { "key": "salt", "name": "Sel", "amount": "2g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "amount": "2g", "category": "seasoning" },
+        { "key": "black-pepper", "name": "Poivre noir", "amount": "1g", "category": "seasoning" },
+        { "key": "light-cream", "name": "Crème légère", "amount": "20g", "category": "seasoning" },
+        { "key": "flour", "name": "Farine", "amount": "pour l'enrobage", "category": "seasoning" },
+        { "key": "egg", "name": "Œuf", "amount": "pour l'enrobage", "category": "meat" },
+        { "key": "panko", "name": "Panko (Chapelure)", "amount": "pour l'enrobage", "category": "seasoning" },
+        { "key": "vegetable-oil", "name": "Huile", "amount": "pour la friture", "category": "seasoning" }
+      ],
+      "steps": [
+        "Faire bouillir 300g de pommes de terre dans l'eau pendant 30 minutes. Une fois cuites, retirer, peler et les réduire en purée.",
+        "Dans une poêle, ajouter 10g de beurre. Faire sauter 100g d'oignon, puis ajouter 100g de viande hachée et frire jusqu'à ce qu'elle soit parfumée. Assaisonner avec 2g de sel, 2g de sucre, 1g de poivre noir et 20g de crème légère. Bien faire sauter, puis verser le mélange dans la purée de pommes de terre et mélanger uniformément. Diviser en 5 portions.",
+        "Panure : D'abord, enrober chaque portion de farine, puis tremper dans l'œuf battu, et enfin couvrir de panko (chapelure).",
+        "Chauffer l'huile à 150°C. Baisser le feu, placer les croquettes dans l'huile. Frire pendant 2 minutes, puis augmenter la température et continuer à frire jusqu'à ce qu'elles soient dorées. Retirer et égoutter."
+      ],
+      "notes": [],
+      "videoLink": "https://www.bilibili.com/video/BV1MG4y1R7L3"
+    },
+    {
+      "id": "madeleine-cake",
+      "title": "Madeleines",
+      "tags": ["bakery", "dessert"],
+      "ingredients": [
+        { "key": "cake-flour", "name": "Farine à gâteau", "amount": "125g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "amount": "125g", "category": "seasoning" },
+        { "key": "baking-powder", "name": "Levure chimique", "amount": "5g", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "amount": "1.5g", "category": "seasoning" },
+        { "key": "citrus", "name": "Zeste d'agrumes", "amount": "de 2", "category": "veggie" },
+        { "key": "butter", "name": "Beurre", "amount": "130g", "category": "seasoning" },
+        { "key": "egg", "name": "Oeufs", "amount": "175g (~3.5 gros)", "category": "meat" }
+      ],
+      "steps": [
+        "Préparer les ingrédients secs : Mélanger 125g de farine à gâteau, 125g de sucre, 5g de levure chimique et 1.5g de sel. Zester deux agrumes dans le mélange, en évitant le ziste blanc.",
+        "Préparer les ingrédients humides : Faire fondre 130g de beurre jusqu'à ce qu'il atteigne 40°C, ou faire du beurre noisette pour une saveur rehaussée.",
+        "Ajouter 175g d'œufs battus aux ingrédients secs et mélanger. S'assurer que la température du mélange ne dépasse pas 70°C.",
+        "Verser le beurre fondu (ou beurre noisette) dans la pâte et mélanger juste assez pour combiner.",
+        "Préchauffer le four à 190°C.",
+        "Pocher la pâte dans un moule à madeleines, en remplissant chaque cavité à environ 75%.",
+        "Cuire à 190°C pendant 7-9 minutes, jusqu'à ce que la bosse caractéristique se forme au centre.",
+        "Réduire la température à 170°C et cuire pendant 5 minutes supplémentaires pour ajouter une saveur caramélisée.",
+        "Après avoir retiré du four, laisser les gâteaux reposer dans le moule pendant 5 minutes avant de les démouler.",
+        "Laisser refroidir sur une grille pendant 10 minutes. Elles sont meilleures à ce stade lorsque la coque est croustillante."
+      ],
+      "notes": [
+        "Un moule à madeleines est requis !",
+        "Astuce : Pour une meilleure saveur, utiliser du beurre noisette au lieu de beurre simplement fondu.",
+        "Lors de l'ajout des œufs, s'assurer que le mélange n'est pas trop chaud pour éviter de les brouiller.",
+        "Utiliser uniquement la partie colorée du zeste d'agrume ; le ziste blanc est amer."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV1K5411574o"
+    },
+    {
+      "id": "three-onion-noodles",
+      "title": "Nouilles aux trois oignons (Méthode à l'huile d'oignon vert)",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "scallion", "name": "Ciboule", "amount": "100g", "category": "veggie" },
+        { "key": "small-scallion", "name": "Petite Ciboule", "amount": "100g", "category": "veggie" },
+        { "key": "onion", "name": "Oignon", "amount": "100g", "category": "veggie" },
+        { "key": "light-soy-sauce", "name": "Sauce soja claire", "amount": "100g", "category": "seasoning" },
+        { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "amount": "25g", "category": "seasoning" },
+        { "key": "oyster-sauce", "name": "Sauce d'huître", "amount": "25g", "category": "seasoning" },
+        { "key": "aged-vinegar", "name": "Vinaigre vieilli", "amount": "20g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "amount": "25g", "category": "seasoning" },
+        { "key": "rapeseed-oil", "name": "Huile de colza", "amount": "150g", "category": "seasoning" }
+      ],
+      "steps": [
+        "Préparation : Couper 100g de ciboule en losanges, 100g de petite ciboule en sections, et 100g d'oignon en fines lanières.",
+        "Mélange de sauce : Combiner 100g de sauce soja claire, 25g de sauce soja foncée, 25g de sauce d'huître, 20g de vinaigre vieilli et 25g de sucre. Bien mélanger et réserver.",
+        "Faire l'huile d'oignon (Choisir une version) :",
+        "[Version 1 - Oignons retirés] : Chauffer 150g d'huile de colza dans un wok. Ajouter tous les oignons préparés. Frire à feu vif jusqu'à légère coloration, puis passer à feu doux. Frire jusqu'à ce qu'ils soient bien dorés et croustillants. Retirer et jeter tous les oignons frits. Verser le mélange de sauce dans l'huile chaude et porter à ébullition.",
+        "[Version 2 - Avec oignons tendres] : Chauffer 150g d'huile de colza. D'abord, ajouter la moitié des oignons préparés (utiliser les parties vertes des petites ciboules, et la moitié des ciboules et oignons réguliers). Frire à feu vif jusqu'à légère coloration, puis passer à feu doux et continuer à frire jusqu'à ce qu'ils soient bien dorés. Jeter ces oignons frits pour infuser l'huile. Ensuite, ajouter la moitié restante des oignons frais à l'huile infusée et frire à feu vif jusqu'à ce qu'ils soient tendres. Enfin, verser le mélange de sauce et porter à ébullition.",
+        "Pour servir, mélanger l'huile d'oignon finie avec des nouilles fraîchement cuites."
+      ],
+      "notes": [
+        "L'huile d'oignon finie peut être conservée dans un récipient hermétique au réfrigérateur pour une utilisation ultérieure.",
+        "La version 1 est idéale pour ceux qui préfèrent une huile lisse sans morceaux d'oignon. La version 2 conserve la texture sucrée des oignons ramollis."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV11H4y1c7Fa"
+    },
+    {
+      "id": "antonio-carluccio-carbonara",
+      "title": "La Vraie Carbonara d'Antonio Carluccio",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "spaghettoni", "name": "Spaghettoni", "amount": "pour 2 personnes", "category": "seasoning" },
+        { "key": "guanciale-pancetta", "name": "Guanciale ou pancetta", "amount": "en cubes", "category": "meat" },
+        { "key": "olive-oil", "name": "Huile d'olive de bonne qualité", "amount": "un filet", "category": "seasoning" },
+        { "key": "egg", "name": "Gros œufs frais", "amount": "2", "category": "meat" },
+        { "key": "egg-yolk", "name": "Jaune d'œuf supplémentaire", "amount": "1 (facultatif)", "category": "meat" },
+        { "key": "parmesan-pecorino", "name": "Parmesan ou Pecorino", "amount": "généreuse quantité", "category": "seasoning" },
+        { "key": "black-pepper", "name": "Poivre noir", "amount": "fraîchement moulu", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "amount": "pour l'eau des pâtes", "category": "seasoning" }
+      ],
+      "steps": [
+        "Porter une grande casserole d'eau à ébullition. Ajouter environ 10g de sel par litre d'eau. Cuire les spaghettoni jusqu'à ce qu'ils soient al dente (environ 10 minutes). Ne pas ajouter d'huile dans l'eau.",
+        "Pendant que les pâtes cuisent, couper le guanciale en petits cubes. Ajouter un filet d'huile d'olive dans une poêle froide, puis ajouter le guanciale.",
+        "Cuire à feu moyen jusqu'à ce que le porc soit croustillant et ait rendu sa graisse. S'il y a un excès de graisse, vous pouvez en retirer une partie.",
+        "Dans un bol séparé, battre légèrement deux œufs et un jaune d'œuf supplémentaire. Ajouter une généreuse quantité de fromage fraîchement râpé et beaucoup de poivre noir fraîchement moulu. Fouetter ensemble.",
+        "Une fois les pâtes al dente, éteindre le feu de la poêle avec le guanciale pour la laisser refroidir légèrement. C'est une étape cruciale pour éviter que les œufs ne coagulent.",
+        "Égoutter les pâtes et les ajouter immédiatement dans la poêle avec le guanciale et la graisse rendue. Bien mélanger pour enrober.",
+        "Verser le mélange d'œufs et de fromage sur les pâtes chaudes, en remuant rapidement et continuellement. La chaleur résiduelle cuira les œufs en une sauce crémeuse.",
+        "Servir immédiatement, garni d'une pincée supplémentaire de fromage râpé et d'un dernier tour de moulin à poivre."
+      ],
+      "notes": [
+        "Pour une sauce plus crémeuse, ajouter le jaune d'œuf supplémentaire facultatif.",
+        "La carbonara authentique n'utilise pas de crème ; l'onctuosité vient de l'œuf, du fromage et de l'eau de cuisson des pâtes.",
+        "Il est crucial de laisser la poêle refroidir légèrement avant d'ajouter les œufs pour éviter qu'ils ne coagulent.",
+        "Il est fortement recommandé d'utiliser du fromage fraîchement râpé et du poivre fraîchement moulu pour obtenir la meilleure saveur et texture."
+      ],
+      "videoLink": "https://www.youtube.com/watch?v=3AAdKl1UYZs"
+    },
+    {
+      "id": "milk-steamed-buns",
+      "title": "Brioches à la vapeur au lait",
+      "tags": ["bakery"],
+      "ingredients": [
+        { "key": "flour", "name": "Farine tout usage", "amount": "200g", "category": "seasoning" },
+        { "key": "yeast", "name": "Levure en poudre", "amount": "2g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "amount": "15g", "category": "seasoning" },
+        { "key": "milk", "name": "Lait", "amount": "100g", "category": "seasoning" },
+        { "key": "warm-water", "name": "Eau tiède (40°C)", "amount": "20g", "category": "seasoning" },
+        { "key": "oil", "name": "Huile", "amount": "15g", "category": "seasoning" }
+      ],
+      "steps": [
+        "D'abord, préparer les ingrédients. Ajouter le sucre et la levure à l'eau tiède pour activer la levure. Le sucre aide à activer la levure, mais vous pouvez l'omettre et simplement prolonger le temps de levée. Remuer jusqu'à dissolution du sucre, puis verser dans la farine avec l'huile et le lait.",
+        "Transférer la pâte sur un plan de travail. Pétrir avec le talon de la main, en poussant dans une seule direction. Arrêter immédiatement une fois que la pâte est lisse (un pétrissage excessif réchauffera la pâte, la faisant buller et devenir rugueuse). Un pétrissage d'environ 15 minutes devrait suffire.",
+        "Former la pâte en boule et la laisser reposer 5 minutes.",
+        "Saupoudrer un peu de farine sur le plan de travail. Utiliser un rouleau à pâtisserie pour étaler la pâte, en laissant une petite bordure en haut et en bas. Ensuite, la tourner horizontalement et continuer à rouler pour former un rectangle.",
+        "Une fois étalée, badigeonner uniformément la surface d'un peu d'eau. Presser un bord pour l'amincir avec vos doigts, puis commencer à rouler serré depuis le bord opposé, en lui donnant forme au fur et à mesure pour maintenir une largeur constante.",
+        "Rouler doucement la pâte du centre vers l'extérieur pour former un long boudin uniforme d'environ 3 cm de diamètre. Le couper en morceaux de la largeur de deux doigts.",
+        "Placer les morceaux de pâte sans les serrer dans un panier vapeur, en laissant de l'espace entre eux car ils vont gonfler. Couvrir et laisser lever à température ambiante jusqu'à ce qu'ils atteignent 1,5 fois leur taille d'origine.",
+        "Pour vérifier si la pâte est prête, appuyer doucement dessus avec le bout du doigt. Elle devrait revenir lentement. Si elle ne revient pas, elle est trop levée. Une coupe transversale devrait montrer de petites poches d'air uniformes.",
+        "Une fois que l'eau dans le cuiseur vapeur bout, placer le panier vapeur à l'intérieur et cuire à la vapeur à feu vif pendant 10 minutes. Après 10 minutes, éteindre le feu. Vous pouvez ouvrir le couvercle et les servir immédiatement."
+      ],
+      "notes": [
+        "Outils nécessaires : Un cuiseur vapeur."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV1rE411o7zi"
+    }
+  ]
+  
