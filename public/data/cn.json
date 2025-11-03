@@ -121,5 +121,32 @@
       "炸狮子头是为了定型和增加风味，炖煮时间要足够长才能软烂。"
     ],
     "videoLink": "https://www.bilibili.com/video/BV1hp4y1T7dU"
+  },
+  {
+    "id": "evelyn-jemerson-pound-cake",
+    "title": "伊芙琳·杰默森的磅蛋糕",
+    "ingredients": [
+      { "key": "parkay-margarine", "name": "Parkay 人造黄油", "amount": "2条", "category": "seasoning" },
+      { "key": "butter", "name": "黄油", "amount": "1条", "category": "seasoning" },
+      { "key": "cream-cheese", "name": "奶油奶酪", "amount": "8盎司", "category": "seasoning" },
+      { "key": "sugar", "name": "白糖", "amount": "3杯", "category": "seasoning" },
+      { "key": "egg", "name": "大号鸡蛋", "amount": "6个", "category": "meat" },
+      { "key": "vanilla-extract", "name": "香草精", "amount": "1-2茶匙", "category": "seasoning" },
+      { "key": "flour", "name": "面粉", "amount": "3杯", "category": "seasoning" }
+    ],
+    "steps": [
+      "将人造黄油、黄油和奶油奶酪置于室温下。",
+      "将人造黄油、黄油和奶油奶酪搅打至轻盈蓬松。",
+      "逐渐加入3杯糖，继续搅打4到5分钟，直到混合物轻盈蓬松。",
+      "开始交替加入鸡蛋和面粉，以鸡蛋开始和结束。将香草精与鸡蛋一起加入。",
+      "将所有材料充分混合。",
+      "在烤盘上铺上烘焙纸。",
+      "在325°F（163°C）下烘烤1小时30分钟至2小时。"
+    ],
+    "notes": [
+      "香草精的用量未指定，类似食谱通常使用1-2茶匙。",
+      "原始食谱的烘烤时间记录可能意味着总时间为1小时50分钟。磅蛋糕通常需要大约1.5到2小时才能完全烤熟。"
+    ],
+    "videoLink": ""
   }
 ]

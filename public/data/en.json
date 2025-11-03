@@ -121,5 +121,32 @@
       "Frying the meatballs first helps them hold their shape and adds flavor. A long simmering time is crucial for a melt-in-your-mouth texture."
     ],
     "videoLink": "https://www.bilibili.com/video/BV1hp4y1T7dU"
+  },
+  {
+    "id": "evelyn-jemerson-pound-cake",
+    "title": "Evelyn Jemerson's Pound Cake",
+    "ingredients": [
+      { "key": "parkay-margarine", "name": "Parkay Margarine", "amount": "2 sticks", "category": "seasoning" },
+      { "key": "butter", "name": "Butter", "amount": "1 stick", "category": "seasoning" },
+      { "key": "cream-cheese", "name": "Cream cheese", "amount": "8 oz", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "3 cups", "category": "seasoning" },
+      { "key": "egg", "name": "Large eggs", "amount": "6", "category": "meat" },
+      { "key": "vanilla-extract", "name": "Vanilla", "amount": "1-2 tsp", "category": "seasoning" },
+      { "key": "flour", "name": "Flour", "amount": "3 cups", "category": "seasoning" }
+    ],
+    "steps": [
+      "Have the margarine, butter, and cream cheese at room temperature.",
+      "Cream together the margarine, butter, and cream cheese until light and fluffy.",
+      "Gradually add the 3 cups of sugar and continue to cream the mixture until it is light and fluffy, about 4 to 5 more minutes.",
+      "Begin to add the eggs and flour, starting and ending with the eggs. Add the vanilla with the eggs.",
+      "Mix everything well.",
+      "Line a pan with parchment paper.",
+      "Bake at 325°F (163°C) for 1 hour and 30 minutes to 2 hours."
+    ],
+    "notes": [
+      "The amount for vanilla is not specified; typically 1-2 teaspoons are used.",
+      "The original recipe's baking time notes may imply a total time of 1 hour and 50 minutes. Pound cakes often take around 1.5 to 2 hours to bake completely."
+    ],
+    "videoLink": ""
   }
 ]

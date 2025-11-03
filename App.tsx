@@ -5,12 +5,22 @@ import RecipeCard from './components/RecipeCard';
 import RecipeDetail from './components/RecipeDetail';
 import IngredientChip from './components/IngredientChip';
 import LanguageSwitcher from './components/LanguageSwitcher';
+import ThemeSwitcher from './components/ThemeSwitcher';
 import { LoadingIcon, SearchIcon, ChefHatIcon, ArrowLeftIcon } from './components/Icons';
 
 type Language = 'en' | 'cn';
+type Theme = 'light' | 'dark';
 
 const App: React.FC = () => {
   const [language, setLanguage] = useState<Language>('cn');
+  const [theme, setTheme] = useState<Theme>(() => {
+    if (typeof window !== 'undefined' && window.localStorage) {
+      if (localStorage.theme === 'light') {
+        return 'light';
+      }
+    }
+    return 'dark'; // Default to dark mode
+  });
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
   const [selectedRecipeId, setSelectedRecipeId] = useState<string | null>(null);
@@ -18,6 +28,18 @@ const App: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   
   const uiText = translations[language];
+
+  useEffect(() => {
+    const root = window.document.documentElement;
+    const isDark = theme === 'dark';
+    root.classList.remove(isDark ? 'light' : 'dark');
+    root.classList.add(theme);
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
+  const toggleTheme = useCallback(() => {
+    setTheme(prevTheme => prevTheme === 'light' ? 'dark' : 'light');
+  }, []);
 
   const validateIngredientCategories = (recipesToValidate: Recipe[]) => {
     const categoryMap = new Map<string, IngredientCategory>();
@@ -138,15 +160,15 @@ const App: React.FC = () => {
       return (
         <div className="flex flex-col items-center justify-center h-64">
           <LoadingIcon />
-          <p className="mt-4 text-lg text-gray-400">{uiText.loading}</p>
+          <p className="mt-4 text-lg text-slate-500 dark:text-slate-400">{uiText.loading}</p>
         </div>
       );
     }
 
     if (error) {
       return (
-        <div className="text-center col-span-full py-12 bg-red-800/30 rounded-lg">
-            <p className="text-red-400 font-semibold">{error}</p>
+        <div className="text-center col-span-full py-12 bg-red-100 dark:bg-red-900/40 rounded-lg">
+            <p className="text-red-700 dark:text-red-400 font-semibold">{error}</p>
         </div>
       );
     }
@@ -157,8 +179,8 @@ const App: React.FC = () => {
 
     return (
       <>
-        <div className="bg-gray-800/50 backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-gray-700 mb-8">
-          <h2 className="text-2xl font-bold text-primary-300 mb-4 flex items-center gap-2">
+        <div className="bg-white/80 dark:bg-slate-800/60 backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-slate-200 dark:border-slate-700 mb-8">
+          <h2 className="text-2xl font-bold text-primary-400 dark:text-primary-300 mb-4 flex items-center gap-2">
             <SearchIcon />
             {uiText.filterTitle}
           </h2>
@@ -166,7 +188,7 @@ const App: React.FC = () => {
             {(Object.keys(groupedIngredients) as IngredientCategory[]).map(category =>
               groupedIngredients[category].length > 0 && (
                 <div key={category}>
-                  <h3 className="text-lg font-semibold text-primary-400 mb-3 border-b border-gray-700 pb-2 capitalize">
+                  <h3 className="text-lg font-semibold text-primary-500 dark:text-primary-400 mb-3 border-b border-slate-300 dark:border-slate-700 pb-2 capitalize">
                     {uiText[category]}
                   </h3>
                   <div className="flex flex-wrap gap-2">
@@ -191,8 +213,8 @@ const App: React.FC = () => {
           ))}
         </div>
         {filteredRecipes.length === 0 && !isLoading && !error && (
-          <div className="text-center col-span-full py-12 bg-gray-800/30 rounded-lg">
-            <p className="text-gray-400">{uiText.noResults}</p>
+          <div className="text-center col-span-full py-12 bg-slate-100 dark:bg-slate-800/50 rounded-lg">
+            <p className="text-slate-500 dark:text-slate-400">{uiText.noResults}</p>
           </div>
         )}
       </>
@@ -200,14 +222,17 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-900 text-gray-200 font-sans p-4 sm:p-6 lg:p-8">
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-200 font-sans p-4 sm:p-6 lg:p-8 transition-colors duration-300">
       <div className="max-w-7xl mx-auto">
-        <header className="flex justify-between items-center mb-8 pb-4 border-b border-gray-700">
-          <h1 className="text-3xl sm:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-primary-600 flex items-center gap-3">
+        <header className="flex justify-between items-center mb-8 pb-4 border-b border-slate-300 dark:border-slate-700">
+          <h1 className="text-3xl sm:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-primary-500 to-primary-700 dark:from-primary-400 dark:to-primary-600 flex items-center gap-3">
             <ChefHatIcon />
             {uiText.title}
           </h1>
-          <LanguageSwitcher currentLanguage={language} setLanguage={setLanguage} />
+          <div className="flex items-center gap-2">
+            <ThemeSwitcher theme={theme} toggleTheme={toggleTheme} />
+            <LanguageSwitcher currentLanguage={language} setLanguage={setLanguage} />
+          </div>
         </header>
 
         <main>
