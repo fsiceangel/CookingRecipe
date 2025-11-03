@@ -15,6 +15,11 @@ export const translations: Translations = {
     meat: "Meat",
     veggie: "Veggie",
     seasoning: "Seasoning",
+    tagFilterTitle: "Filter by Category",
+    all: "All",
+    dish: "Dishes",
+    bakery: "Bakery",
+    dessert: "Desserts",
   },
   cn: {
     title: "我的食谱",
@@ -30,5 +35,10 @@ export const translations: Translations = {
     meat: "肉类",
     veggie: "蔬菜",
     seasoning: "调味",
+    tagFilterTitle: "按类别筛选",
+    all: "全部",
+    dish: "菜肴",
+    bakery: "烘焙",
+    dessert: "甜点",
   },
 };

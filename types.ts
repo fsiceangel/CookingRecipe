@@ -1,5 +1,7 @@
 export type IngredientCategory = 'meat' | 'veggie' | 'seasoning';
 
+export type Tag = 'dish' | 'bakery' | 'dessert';
+
 export interface Ingredient {
   key: string;
   name: string;
@@ -14,6 +16,7 @@ export interface Recipe {
   steps: string[];
   notes?: string[];
   videoLink?: string;
+  tags: Tag[];
 }
 
 export interface Translations {
@@ -31,5 +34,10 @@ export interface Translations {
     meat: string;
     veggie: string;
     seasoning: string;
+    tagFilterTitle: string;
+    all: string;
+    dish: string;
+    bakery: string;
+    dessert: string;
   };
 }

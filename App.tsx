@@ -1,15 +1,17 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
-import { Recipe, Ingredient, IngredientCategory } from './types';
+import { Recipe, Ingredient, IngredientCategory, Tag } from './types';
 import { translations } from './i18n/translations';
 import RecipeCard from './components/RecipeCard';
 import RecipeDetail from './components/RecipeDetail';
 import IngredientChip from './components/IngredientChip';
 import LanguageSwitcher from './components/LanguageSwitcher';
 import ThemeSwitcher from './components/ThemeSwitcher';
-import { LoadingIcon, SearchIcon, ChefHatIcon, ArrowLeftIcon } from './components/Icons';
+import { LoadingIcon, SearchIcon, ChefHatIcon, CategoryIcon } from './components/Icons';
 
 type Language = 'en' | 'cn';
 type Theme = 'light' | 'dark';
+
+const TAG_CATEGORIES: (Tag | 'all')[] = ['all', 'dish', 'bakery', 'dessert'];
 
 const App: React.FC = () => {
   const [language, setLanguage] = useState<Language>('cn');
@@ -24,6 +26,7 @@ const App: React.FC = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
   const [selectedRecipeId, setSelectedRecipeId] = useState<string | null>(null);
+  const [selectedTag, setSelectedTag] = useState<Tag | 'all'>('all');
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   
@@ -126,14 +129,19 @@ const App: React.FC = () => {
   }, [uniqueIngredients, language]);
 
   const filteredRecipes = useMemo(() => {
+    const tagFiltered = selectedTag === 'all'
+      ? recipes
+      : recipes.filter(recipe => recipe.tags.includes(selectedTag));
+
     if (selectedIngredients.size === 0) {
-      return recipes;
+      return tagFiltered;
     }
-    return recipes.filter(recipe => {
+
+    return tagFiltered.filter(recipe => {
       const recipeIngredientKeys = new Set(recipe.ingredients.map(ing => ing.key));
       return Array.from(selectedIngredients).every(selectedKey => recipeIngredientKeys.has(selectedKey));
     });
-  }, [recipes, selectedIngredients]);
+  }, [recipes, selectedIngredients, selectedTag]);
 
   const toggleIngredient = useCallback((ingredientKey: string) => {
     setSelectedIngredients(prev => {
@@ -177,8 +185,30 @@ const App: React.FC = () => {
       return <RecipeDetail recipe={selectedRecipe} onBack={handleBackToList} uiText={uiText} />;
     }
 
+    const tagButtonBaseClasses = "px-4 py-2 rounded-full text-sm font-semibold cursor-pointer transition-all duration-200 transform focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-slate-100 dark:focus:ring-offset-slate-900 focus:ring-primary-500";
+    const tagButtonSelectedClasses = "bg-primary-600 text-white shadow-lg hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 scale-105";
+    const tagButtonUnselectedClasses = "bg-slate-200 text-slate-700 hover:bg-slate-300 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600";
+
     return (
       <>
+        <div className="bg-white/80 dark:bg-slate-800/60 backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-slate-200 dark:border-slate-700 mb-6">
+          <h2 className="text-2xl font-bold text-primary-400 dark:text-primary-300 mb-4 flex items-center gap-2">
+            <CategoryIcon />
+            {uiText.tagFilterTitle}
+          </h2>
+          <div className="flex flex-wrap gap-3">
+            {TAG_CATEGORIES.map(tag => (
+              <button
+                key={tag}
+                onClick={() => setSelectedTag(tag)}
+                className={`${tagButtonBaseClasses} ${selectedTag === tag ? tagButtonSelectedClasses : tagButtonUnselectedClasses}`}
+              >
+                {uiText[tag]}
+              </button>
+            ))}
+          </div>
+        </div>
+
         <div className="bg-white/80 dark:bg-slate-800/60 backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-slate-200 dark:border-slate-700 mb-8">
           <h2 className="text-2xl font-bold text-primary-400 dark:text-primary-300 mb-4 flex items-center gap-2">
             <SearchIcon />
