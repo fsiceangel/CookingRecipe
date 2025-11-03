@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-type Language = 'en' | 'cn';
+type Language = 'en' | 'cn' | 'fr';
 
 interface LanguageSwitcherProps {
   currentLanguage: Language;
@@ -26,6 +26,12 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ currentLanguage, se
         className={`${commonClasses} ${currentLanguage === 'cn' ? activeClasses : inactiveClasses}`}
       >
         中文
+      </button>
+      <button 
+        onClick={() => setLanguage('fr')}
+        className={`${commonClasses} ${currentLanguage === 'fr' ? activeClasses : inactiveClasses}`}
+      >
+        FR
       </button>
     </div>
   );

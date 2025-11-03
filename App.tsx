@@ -8,7 +8,7 @@ import LanguageSwitcher from './components/LanguageSwitcher';
 import ThemeSwitcher from './components/ThemeSwitcher';
 import { LoadingIcon, SearchIcon, ChefHatIcon, CategoryIcon } from './components/Icons';
 
-type Language = 'en' | 'cn';
+type Language = 'en' | 'cn' | 'fr';
 type Theme = 'light' | 'dark';
 
 const TAG_CATEGORIES: (Tag | 'all')[] = ['all', 'dish', 'bakery', 'dessert'];
@@ -121,8 +121,14 @@ const App: React.FC = () => {
       }
     });
     
+    const localeMap: Record<Language, string> = {
+      en: 'en-US',
+      cn: 'zh-CN',
+      fr: 'fr-FR',
+    };
+
     for (const category in groups) {
-      groups[category as IngredientCategory].sort((a, b) => a.name.localeCompare(b.name, language === 'cn' ? 'zh-CN' : 'en-US'));
+      groups[category as IngredientCategory].sort((a, b) => a.name.localeCompare(b.name, localeMap[language]));
     }
 
     return groups;
