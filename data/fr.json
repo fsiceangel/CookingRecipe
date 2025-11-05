@@ -132,7 +132,7 @@
       "ingredients": [
         { "key": "parkay-margarine", "name": "Margarine Parkay", "amount": "2 bâtonnets", "category": "seasoning" },
         { "key": "butter", "name": "Beurre", "amount": "1 bâtonnet", "category": "seasoning" },
-        { "key": "cream-cheese", "name": "Fromage à la crème", "amount": "225g", "category": "seasoning" },
+        { "key": "cream-cheese", "name": "Fromage à la crème", "amount": "225g", "category": "dairy" },
         { "key": "sugar", "name": "Sucre", "amount": "3 tasses", "category": "seasoning" },
         { "key": "egg", "name": "Gros oeufs", "amount": "6", "category": "meat" },
         { "key": "vanilla-extract", "name": "Vanille", "amount": "1-2 c.à.c", "category": "seasoning" },

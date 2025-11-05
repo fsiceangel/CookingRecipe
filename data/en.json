@@ -132,7 +132,7 @@
     "ingredients": [
       { "key": "parkay-margarine", "name": "Parkay Margarine", "amount": "2 sticks", "category": "seasoning" },
       { "key": "butter", "name": "Butter", "amount": "1 stick", "category": "seasoning" },
-      { "key": "cream-cheese", "name": "Cream cheese", "amount": "8 oz", "category": "seasoning" },
+      { "key": "cream-cheese", "name": "Cream cheese", "amount": "8 oz", "category": "dairy" },
       { "key": "sugar", "name": "Sugar", "amount": "3 cups", "category": "seasoning" },
       { "key": "egg", "name": "Large eggs", "amount": "6", "category": "meat" },
       { "key": "vanilla-extract", "name": "Vanilla", "amount": "1-2 tsp", "category": "seasoning" },

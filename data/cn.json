@@ -132,7 +132,7 @@
     "ingredients": [
       { "key": "parkay-margarine", "name": "Parkay 人造黄油", "amount": "2条", "category": "seasoning" },
       { "key": "butter", "name": "黄油", "amount": "1条", "category": "seasoning" },
-      { "key": "cream-cheese", "name": "奶油奶酪", "amount": "8盎司", "category": "seasoning" },
+      { "key": "cream-cheese", "name": "奶油奶酪", "amount": "8盎司", "category": "dairy" },
       { "key": "sugar", "name": "白糖", "amount": "3杯", "category": "seasoning" },
       { "key": "egg", "name": "大号鸡蛋", "amount": "6个", "category": "meat" },
       { "key": "vanilla-extract", "name": "香草精", "amount": "1-2茶匙", "category": "seasoning" },
