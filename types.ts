@@ -1,4 +1,4 @@
-export type IngredientCategory = 'meat' | 'veggie' | 'seasoning';
+export type IngredientCategory = 'meat' | 'veggie' | 'seasoning' | 'dairy' | 'pantry';
 
 export type Tag = 'dish' | 'bakery' | 'dessert';
 
@@ -34,6 +34,8 @@ export interface Translations {
     meat: string;
     veggie: string;
     seasoning: string;
+    dairy: string;
+    pantry: string;
     tagFilterTitle: string;
     all: string;
     dish: string;

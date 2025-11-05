@@ -109,17 +109,14 @@ const App: React.FC = () => {
   }, [recipes]);
 
   const groupedIngredients = useMemo(() => {
-    const groups: { [key in IngredientCategory]: Ingredient[] } = {
-      meat: [],
-      veggie: [],
-      seasoning: [],
-    };
-
-    uniqueIngredients.forEach(ing => {
-      if (ing.category && groups[ing.category]) {
-        groups[ing.category].push(ing);
+    const groups = uniqueIngredients.reduce((acc, ingredient) => {
+      const { category } = ingredient;
+      if (!acc[category]) {
+        acc[category] = [];
       }
-    });
+      acc[category].push(ingredient);
+      return acc;
+    }, {} as Record<IngredientCategory, Ingredient[]>);
     
     const localeMap: Record<Language, string> = {
       en: 'en-US',
@@ -222,7 +219,7 @@ const App: React.FC = () => {
           </h2>
           <div className="space-y-6">
             {(Object.keys(groupedIngredients) as IngredientCategory[]).map(category =>
-              groupedIngredients[category].length > 0 && (
+              groupedIngredients[category] && groupedIngredients[category].length > 0 && (
                 <div key={category}>
                   <h3 className="text-lg font-semibold text-primary-500 dark:text-primary-400 mb-3 border-b border-slate-300 dark:border-slate-700 pb-2 capitalize">
                     {uiText[category]}

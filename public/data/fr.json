@@ -1,4 +1,3 @@
-
 [
     {
       "id": "chaoshan-beef-balls",
@@ -338,6 +337,316 @@
         "Outils nécessaires : Un cuiseur vapeur."
       ],
       "videoLink": "https://www.bilibili.com/video/BV1rE411o7zi"
+    },
+    {
+      "id": "butter-mochi-cake",
+      "title": "Gâteau Mochi au Beurre",
+      "tags": ["bakery", "dessert"],
+      "ingredients": [
+        { "key": "egg", "name": "Œuf entier", "amount": "50g", "category": "meat" },
+        { "key": "milk", "name": "Lait", "amount": "200g", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre en poudre", "amount": "50g", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "amount": "1.5g", "category": "seasoning" },
+        { "key": "butter", "name": "Beurre (fondu)", "amount": "30g", "category": "seasoning" },
+        { "key": "milk-powder", "name": "Lait en poudre", "amount": "20g", "category": "seasoning" },
+        { "key": "glutinous-rice-flour", "name": "Farine de riz gluant", "amount": "160g", "category": "seasoning" }
+      ],
+      "steps": [
+        "Dans un bol, ajouter le lait, l'œuf, le beurre fondu, le sucre en poudre et le sel. Remuer jusqu'à ce que le sucre et le sel soient complètement dissous.",
+        "Ajouter le lait en poudre et la farine de riz gluant, et remuer jusqu'à ce qu'il n'y ait plus de gros grumeaux.",
+        "Tamiser la pâte deux fois pour la rendre plus fine.",
+        "Badigeonner l'intérieur du moule avec une couche de beurre ramolli.",
+        "Verser la pâte dans le moule, en le remplissant à environ 80-90%.",
+        "Placer dans un four préchauffé sur la grille inférieure-moyenne. Cuire à 180°C pendant environ 35 minutes."
+      ],
+      "notes": [],
+      "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w"
+    },
+    {
+      "id": "taro-paste-filling",
+      "title": "Fourrage à la Pâte de Taro",
+      "tags": ["dessert"],
+      "ingredients": [
+        { "key": "taro", "name": "Taro", "amount": "500g (cuit à la vapeur)", "category": "veggie" },
+        { "key": "sugar", "name": "Sucre en poudre", "amount": "75g", "category": "seasoning" },
+        { "key": "butter", "name": "Beurre", "amount": "25g", "category": "seasoning" }
+      ],
+      "steps": [
+        "Peler et couper le taro en morceaux, puis cuire à la vapeur pendant 30 minutes.",
+        "Placer le taro cuit à la vapeur, le sucre en poudre et le beurre dans un robot culinaire et mixer jusqu'à l'obtention d'une consistance lisse et délicate."
+      ],
+      "notes": ["Fourrage facultatif pour les desserts."],
+      "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w"
+    },
+    {
+      "id": "herb-baked-salmon",
+      "title": "Saumon aux Herbes au Four",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "salmon-fillets", "name": "Filets de saumon", "category": "meat" },
+        { "key": "olive-oil", "name": "Huile d'olive", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "category": "seasoning" },
+        { "key": "black-pepper", "name": "Poivre noir concassé", "category": "seasoning" },
+        { "key": "garlic", "name": "Ail haché", "category": "veggie" },
+        { "key": "italian-herbs", "name": "Mélange d'herbes italiennes", "category": "seasoning" },
+        { "key": "lemon", "name": "Citron", "category": "veggie" }
+      ],
+      "steps": [
+        "Préchauffer le four à 200°C (400°F) et graisser une grande plaque de cuisson. Disposer les filets de saumon sur la plaque et assaisonner généreusement de sel et de poivre.",
+        "Mélanger l'huile d'olive, l'ail, les herbes et le jus d'une demi-citron. Napper les filets de saumon avec cette sauce, en veillant à bien enrober le dessus et les côtés pour qu'il n'y ait pas de parties sèches. Trancher finement la moitié restante du citron et garnir chaque morceau de saumon d'une tranche de citron.",
+        "Cuire le saumon au four pendant 12-15 minutes ou jusqu'à ce que le saumon soit opaque et s'effeuille facilement à la fourchette. Vous pouvez utiliser le mode gril pour les 1-2 dernières minutes si désiré.",
+        "Garnir de thym frais ou de persil si désiré et servir."
+      ],
+      "notes": [
+        "Recherchez des filets de saumon frais, bien roses et humides.",
+        "Vous pouvez remplacer l'huile d'olive par de l'huile végétale.",
+        "Les herbes de Provence peuvent être utilisées à la place du mélange d'herbes italiennes."
+      ],
+      "videoLink": ""
+    },
+    {
+      "id": "hamachi-kama",
+      "title": "Collier de Sériole Grillé (Hamachi Kama)",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "hamachi-kama", "name": "Collier de sériole (Hamachi kama)", "category": "meat" },
+        { "key": "salt", "name": "Sel Kasher", "category": "seasoning" },
+        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "yuzu-juice", "name": "Jus de yuzu", "category": "seasoning" },
+        { "key": "lemon", "name": "Quartiers de citron", "category": "veggie" }
+      ],
+      "steps": [
+        "Préchauffer le gril (broil) du four avec la grille à environ 15 cm (6 pouces) de l'élément chauffant supérieur.",
+        "Tapisser une plaque de cuisson de papier d'aluminium.",
+        "Placer le poisson, côté peau vers le bas, sur le papier d'aluminium. Saupoudrer généreusement de sel kasher.",
+        "Griller à intensité Moyenne pendant 8 à 10 minutes jusqu'à ce que la surface soit légèrement cloquée et dorée.",
+        "Pendant que le poisson grille, mélanger la sauce soja et le jus de yuzu dans un petit bol pour créer une sauce d'accompagnement.",
+        "Servir immédiatement avec des quartiers de citron et la sauce au yuzu."
+      ],
+      "notes": [
+        "Omettez le sel si vous prévoyez de tremper légèrement le poisson dans la sauce soja au yuzu.",
+        "Le gril est recommandé pour les meilleurs résultats, mais vous pouvez aussi le cuire au four."
+      ],
+      "videoLink": ""
+    },
+    {
+      "id": "pan-fried-matsutake",
+      "title": "Matsutake Poêlé au Beurre",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "matsutake-mushroom", "name": "Champignon Matsutake", "category": "veggie" },
+        { "key": "butter", "name": "Beurre", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "category": "seasoning" },
+        { "key": "black-pepper", "name": "Poivre noir", "category": "seasoning" }
+      ],
+      "steps": [
+        "Essuyez délicatement la surface des champignons matsutake avec un essuie-tout humide pour enlever toute saleté. Coupez la base terreuse de la tige.",
+        "Trancher les matsutake en morceaux d'environ 0,5 cm d'épaisseur.",
+        "Ajouter une quantité appropriée de beurre dans une poêle et chauffer à feu moyen-doux jusqu'à ce qu'il soit fondu.",
+        "Disposer les tranches de matsutake à plat dans la poêle, en évitant de les superposer.",
+        "Faire revenir à feu moyen-doux jusqu'à ce qu'un côté soit doré.",
+        "Retourner les tranches et continuer à frire jusqu'à ce que l'autre côté soit également doré et que les champignons soient bien cuits.",
+        "Après la cuisson, assaisonner de sel et de poivre noir au goût.",
+        "Transférer dans une assiette. Garnir de romarin ou de ciboule hachée si désiré."
+      ],
+      "notes": [
+        "Nettoyez délicatement les matsutake en les essuyant plutôt qu'en les lavant à l'eau pour préserver leur arôme et leur texture uniques.",
+        "Il est préférable d'utiliser une poêle antiadhésive et un feu doux pour conserver le parfum naturel du champignon et sa texture ferme et rebondie."
+      ],
+      "videoLink": ""
+    },
+    {
+      "id": "chili-stir-fried-pork",
+      "title": "Porc Sauté aux Piments",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
+        { "key": "screwdriver-pepper", "name": "Piment 'Screwdriver'", "category": "veggie" },
+        { "key": "thai-chili", "name": "Piment thaï", "category": "veggie" },
+        { "key": "garlic", "name": "Ail", "category": "veggie" },
+        { "key": "liuyang-fermented-soybeans", "name": "Soja fermenté de Liuyang", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin de cuisine", "category": "seasoning" },
+        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "category": "seasoning" }
+      ],
+      "steps": [
+        "Retirer la peau de la poitrine de porc et la trancher, en veillant à ce que les tranches ne soient pas trop fines.",
+        "Couper les piments 'screwdriver' en morceaux irréguliers. Pour plus de piquant, émincer finement les piments thaïs.",
+        "Émincer l'ail et réserver.",
+        "Chauffer le wok à sec, puis ajouter les piments 'screwdriver' sans huile.",
+        "Faire sauter à feu vif pour 'blanchir' les piments, jusqu'à ce que l'odeur de cru disparaisse et que la surface soit légèrement grillée. Retirer et réserver.",
+        "Réchauffer le wok à sec, puis ajouter les tranches de poitrine de porc sans huile.",
+        "Faire sauter à feu vif pour extraire la graisse du porc, jusqu'à ce que les tranches rendent leur gras, soient parfumées et dorées.",
+        "Ajouter le soja fermenté de Liuyang et faire revenir jusqu'à ce qu'il soit parfumé, puis ajouter les tranches d'ail.",
+        "Déglacer avec un filet de vin de cuisine, ajouter de la sauce soja pour l'assaisonnement, et un peu de sauce soja foncée pour la couleur.",
+        "Remettre les piments précédemment sautés (et les piments thaïs) dans le wok.",
+        "Mélanger rapidement tous les ingrédients à feu vif jusqu'à ce qu'ils soient bien combinés, puis éteindre le feu et servir."
+      ],
+      "notes": [
+        "Choisissez de la poitrine de porc qui n'est pas trop maigre ; un peu de gras est nécessaire pour la saveur une fois fondu.",
+        "Les piments et la poitrine de porc doivent tous deux être sautés à feu vif pour obtenir le 'wok hei' (le souffle du wok).",
+        "L'essence de ce plat est l'arôme épicé et grillé des piments et la riche saveur de la graisse de porc. Le plat fini sera huileux, ce qui le rend parfait pour accompagner le riz.",
+        "La vidéo mentionne que pour la cuisine maison, le soja fermenté peut être utilisé directement sans être cuit à la vapeur au préalable."
+      ],
+      "videoLink": "https://www.youtube.com/watch?v=ntllsS_vmoQ"
+    },
+    {
+      "id": "uncle-braised-pork",
+      "title": "Poitrine de Porc Braisée Façon 'Tonton'",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
+        { "key": "scallion", "name": "Ciboule", "category": "veggie" },
+        { "key": "ginger", "name": "Gingembre", "category": "veggie" },
+        { "key": "star-anise", "name": "Anis étoilé", "category": "seasoning" },
+        { "key": "cinnamon-bark", "name": "Écorce de cannelle", "category": "seasoning" },
+        { "key": "bay-leaf", "name": "Feuille de laurier", "category": "seasoning" },
+        { "key": "sichuan-peppercorn", "name": "Poivre du Sichuan", "category": "seasoning" },
+        { "key": "huadiao-wine", "name": "Vin de Huadiao", "category": "seasoning" },
+        { "key": "soft-white-sugar", "name": "Sucre en poudre", "category": "seasoning" },
+        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "yellow-wine", "name": "Vin jaune / Vin de Shaoxing", "category": "seasoning" },
+        { "key": "pepper-powder", "name": "Poivre en poudre", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "category": "seasoning" },
+        { "key": "oil", "name": "Huile", "category": "seasoning" }
+      ],
+      "steps": [
+        "D'abord, lavez et coupez la poitrine de porc en petits cubes.",
+        "Préparez la ciboule, le gingembre, l'anis étoilé, l'écorce de cannelle, la feuille de laurier et le poivre du Sichuan.",
+        "Blanchir la poitrine de porc dans une casserole d'eau. Ajouter du vin de Huadiao pour éliminer l'odeur de viande. Enfin, rincer la poitrine de porc blanchie.",
+        "Chauffer de l'huile dans un wok, ajouter du sucre en poudre pour faire une sauce caramel.",
+        "Faire sauter jusqu'à ce que le sucre change de couleur et que les grosses bulles se transforment en petites bulles ; le caramel est prêt.",
+        "Ajouter la poitrine de porc à la sauce caramel. Ajouter les épices préparées et faire sauter jusqu'à ce qu'elles soient parfumées.",
+        "Verser la sauce soja et un peu de vin jaune, puis ajouter de l'eau pour braiser le porc. N'oubliez pas de ne pas ajouter d'eau froide.",
+        "Pendant le braisage, ajouter un peu de poivre en poudre et écumer les impuretés.",
+        "Lorsque la casserole atteint une forte ébullition avec de grosses bulles, transférer dans un autocuiseur et cuire pendant 25 minutes.",
+        "Enfin, transférer le porc braisé dans un wok et réduire la sauce à feu vif.",
+        "Si nécessaire, ajouter du sel au goût. Une fois la sauce épaissie, c'est prêt à servir."
+      ],
+      "notes": [
+        "Utilisez du vin de Huadiao lors du blanchiment pour éliminer toute odeur de viande.",
+        "Lors de la préparation du caramel, faites sauter jusqu'à ce que les grosses bulles se transforment en petites bulles.",
+        "N'oubliez pas de ne pas ajouter d'eau froide lors du braisage du porc.",
+        "Après 25 minutes de cuisson sous pression, remettre le porc dans un wok pour réduire la sauce à feu vif."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV1Tf4y1q7gW/"
+    },
+    {
+      "id": "jujube-braised-pork",
+      "title": "Poitrine de Porc Braisée aux Jujubes",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
+        { "key": "red-dates", "name": "Dattes rouges (Jujubes)", "category": "veggie" },
+        { "key": "white-sugar", "name": "Sucre", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja claire", "category": "seasoning" },
+        { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "category": "seasoning" },
+        { "key": "star-anise", "name": "Anis étoilé", "category": "seasoning" },
+        { "key": "cinnamon-bark", "name": "Écorce de cannelle", "category": "seasoning" },
+        { "key": "scallion", "name": "Ciboule", "category": "veggie" },
+        { "key": "ginger", "name": "Gingembre", "category": "veggie" },
+        { "key": "cooking-wine", "name": "Vin de cuisine", "category": "seasoning" },
+        { "key": "oil", "name": "Huile", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "category": "seasoning" },
+        { "key": "msg", "name": "Glutamate monosodique", "category": "seasoning" }
+      ],
+      "steps": [
+        "Parer la poitrine de porc.",
+        "Placer le porc dans une casserole d'eau froide, ajouter la ciboule, le gingembre, l'anis étoilé et l'écorce de cannelle. Porter à ébullition jusqu'à cuisson complète, en écumant les impuretés.",
+        "Couvrir et laisser mijoter à feu moyen pendant 30 minutes, jusqu'à ce qu'une baguette insérée dans la viande en ressorte propre, sans sang.",
+        "Retirer le porc et le couper en cubes de 2,8 cm de côté.",
+        "Faire une sauce caramel : Chauffer un peu d'huile dans un wok, ajouter 50g de sucre blanc et une petite quantité d'eau. Cuire d'abord à feu vif, puis passer à feu doux lorsque le mélange jaunit, jusqu'à obtenir un sirop de couleur datte.",
+        "Ajouter les cubes de porc, 2 anis étoilés, un petit morceau d'écorce de cannelle, la ciboule et le gingembre. Faire sauter.",
+        "Ajouter 30g de sauce soja claire, puis 10g de vin de cuisine. Ajouter de l'eau chaude pour couvrir le porc.",
+        "Ajouter 2g de sel, 1g de glutamate, 40g de sucre blanc (ajuster au goût) et de la sauce soja foncée. Bien mélanger et cuire à feu vif pendant 3 minutes pour colorer le porc.",
+        "Transférer le porc et la sauce dans un autocuiseur. Ajouter de l'eau chaude juste pour couvrir la viande, puis ajouter les dattes rouges et plus de sel si nécessaire.",
+        "Cuire dans l'autocuiseur à feu vif. Une fois la pression atteinte, passer à feu moyen et cuire pendant 20 minutes.",
+        "Retirer les épices solides de la casserole.",
+        "(Étape facultative) Vous pouvez laisser le porc tremper dans la sauce pendant une demi-journée pour plus de saveur.",
+        "Transférer le porc (côté peau vers le haut) et la sauce dans un wok. Ajouter d'autres dattes rouges et réduire la sauce à feu vif jusqu'à ce qu'elle épaississe."
+      ],
+      "notes": [
+        "Lors de la cuisson du porc, il est cuit à cœur lorsqu'une baguette insérée en ressort propre, sans sang.",
+        "Pour la sauce caramel : commencer à feu vif, puis passer à feu doux lorsqu'elle jaunit.",
+        "Lors de la réduction de la sauce, ne pas placer le porc côté peau vers le bas pour éviter qu'il n'attache.",
+        "Facultatif : Après la cuisson sous pression, vous pouvez laisser tremper le porc dans la sauce pendant une demi-journée pour une saveur plus riche."
+      ],
+      "videoLink": "https://www.bilibili.com/video/BV198411S7LW"
+    },
+    {
+      "id": "tomato-scrambled-eggs",
+      "title": "Œufs Brouillés à la Tomate",
+      "tags": ["dish"],
+      "ingredients": [
+        { "key": "tomato", "name": "Tomate", "category": "veggie" },
+        { "key": "egg", "name": "Œuf", "category": "meat" },
+        { "key": "scallion", "name": "Ciboule", "category": "veggie" },
+        { "key": "oil", "name": "Huile", "category": "seasoning" },
+        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "category": "seasoning" },
+        { "key": "salt", "name": "Sel", "category": "seasoning" }
+      ],
+      "steps": [
+        "Porter une casserole d'eau à ébullition, blanchir les tomates, puis les peler.",
+        "Couper la partie blanche de la ciboule en sections (pour la cuisson) et la partie verte en petits anneaux (pour la garniture).",
+        "Préparer 4 œufs. (La méthode professionnelle dans la vidéo consiste à retirer 2 jaunes pour une meilleure couleur, mais pour la cuisine maison, vous pouvez utiliser 4 œufs entiers).",
+        "Battre les œufs. Note : ne pas ajouter de sel au mélange d'œufs.",
+        "Chauffer un wok, ajouter une quantité appropriée d'huile. Lorsque l'huile est chaude, verser les œufs battus.",
+        "Brouiller les œufs jusqu'à ce qu'ils soient légèrement 'trop cuits', gonflés et parfumés. Retirer et mettre de côté.",
+        "Laisser l'huile restante dans le wok (ou en ajouter un peu), et faire revenir les blancs de ciboule jusqu'à ce qu'ils soient parfumés.",
+        "Ajouter les morceaux de tomate pelée et faire sauter.",
+        "Verser la sauce soja le long du bord chaud du wok (pour libérer son arôme), puis ajouter le sucre et le sel au goût.",
+        "Une fois que le jus de tomate est libéré, remettre les œufs brouillés dans le wok.",
+        "Faire sauter uniformément, en laissant les œufs absorber complètement la sauce.",
+        "Avant de servir, saupoudrer de la verdure de ciboule préparée pour la garniture."
+      ],
+      "notes": [
+        "Blanchir et peler les tomates donne au plat fini une couleur rouge plus vive.",
+        "N'ajoutez pas de sel au mélange d'œufs à l'avance, car cela peut rendre les œufs brouillés foncés et durs.",
+        "Les œufs doivent être cuits un peu 'plus vieux' (plus cuits que des œufs brouillés soyeux) pour être plus parfumés et mieux absorber la sauce.",
+        "Versez la sauce soja le long du bord chaud du wok ; la chaleur élevée fait ressortir son arôme.",
+        "Utilisez les parties vertes de la ciboule pour la garniture car elles ne libèrent pas d'eau, ce qui garde le plat parfumé."
+      ],
+      "videoLink": "https://www.youtube.com/watch?v=lZlxOoIpm1Q"
+    },
+    {
+      "id": "japanese-light-cheesecake",
+      "title": "Cheesecake Japonais Léger",
+      "tags": ["dessert", "bakery"],
+      "ingredients": [
+        { "key": "cream-cheese", "name": "Fromage à la crème", "category": "dairy", "amount": "125g" },
+        { "key": "unsalted-butter", "name": "Beurre doux", "category": "dairy", "amount": "15g" },
+        { "key": "milk", "name": "Lait", "category": "dairy", "amount": "65g" },
+        { "key": "cake-flour", "name": "Farine à gâteau (Type 45)", "category": "pantry", "amount": "15g" },
+        { "key": "corn-flour", "name": "Fécule de maïs", "category": "pantry", "amount": "12g" },
+        { "key": "egg-yolk", "name": "Jaune d'œuf", "category": "meat", "amount": "3 (environ 52g)" },
+        { "key": "egg-white", "name": "Blanc d'œuf", "category": "meat", "amount": "3 (environ 95g)" },
+        { "key": "sugar", "name": "Sucre en poudre", "category": "seasoning", "amount": "55g" },
+        { "key": "lemon-juice", "name": "Jus de citron", "category": "seasoning", "amount": "3g" }
+      ],
+      "steps": [
+        "Dans un bol, placer le fromage à la crème, le beurre doux et le lait. Chauffer au bain-marie et remuer jusqu'à consistance lisse et sans grumeaux.",
+        "Retirer du feu. Ajouter la farine à gâteau et la fécule de maïs tamisées au mélange de fromage et mélanger rapidement jusqu'à ce que tout soit bien incorporé.",
+        "Une fois la pâte légèrement refroidie, ajouter les 3 jaunes d'œufs un par un, en mélangeant bien après chaque ajout. C'est la pâte aux jaunes.",
+        "Dans un autre bol propre, sans huile ni eau, battre les 3 blancs d'œufs et le jus de citron avec un batteur électrique jusqu'à formation de grosses bulles.",
+        "Ajouter progressivement 55g de sucre en poudre aux blancs d'œufs en trois fois, en continuant de battre jusqu'à l'obtention de pics mous (la meringue doit former un crochet lorsque le batteur est soulevé).",
+        "Incorporer délicatement 1/3 de la meringue à la pâte aux jaunes en utilisant une technique de pliage.",
+        "Verser le mélange combiné dans le reste de la meringue et plier à nouveau jusqu'à ce que le tout soit juste combiné. C'est la pâte à gâteau finale.",
+        "Verser la pâte dans un moule à gâteau de 15 cm (6 pouces) tapissé de papier sulfurisé (fond et côtés). Taper le moule quelques fois pour libérer les grosses bulles d'air.",
+        "Préchauffer le four à 250°C chaleur de voûte / 140°C chaleur de sole. Placer de l'eau à température ambiante dans une plaque de cuisson (pour un bain-marie) et la préchauffer avec le four.",
+        "Placer le moule à gâteau dans la plaque du bain-marie. Cuire à 240°C chaleur de voûte / 140°C chaleur de sole pendant 20 minutes.",
+        "Ensuite, réduire la température à 140°C chaleur de voûte / 130°C chaleur de sole et poursuivre la cuisson pendant 40 minutes (temps de cuisson total de 60 minutes).",
+        "Après la cuisson, ouvrir légèrement la porte du four et laisser le gâteau reposer à l'intérieur pendant 5 minutes avant de le sortir.",
+        "Démouler immédiatement et retirer le papier sulfurisé. Laisser refroidir avant de servir. Le goût est encore meilleur après réfrigération."
+      ],
+      "notes": [
+        "Cette recette est pour un moule à gâteau rond de 15 cm (6 pouces).",
+        "Un bain-marie (plaque de cuisson avec de l'eau) est nécessaire pendant toute la cuisson. Le niveau d'eau doit couvrir le fond de la plaque.",
+        "Lors de l'incorporation de la meringue et de la pâte aux jaunes, ne pas trop mélanger pour ne pas faire retomber la meringue.",
+        "Laisser reposer le gâteau dans le four pendant 5 minutes après la cuisson aide à l'empêcher de rétrécir rapidement.",
+        "Il suffit de battre la meringue jusqu'à l'obtention de pics mous ; ne pas battre jusqu'à des pics fermes. Cela garantit une texture humide et délicate."
+      ],
+      "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y"
     }
   ]
   

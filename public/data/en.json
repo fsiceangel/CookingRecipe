@@ -1,4 +1,3 @@
-
 [
   {
     "id": "chaoshan-beef-balls",
@@ -338,5 +337,315 @@
       "Tools needed: A steamer."
     ],
     "videoLink": "https://www.bilibili.com/video/BV1rE411o7zi"
+  },
+  {
+    "id": "butter-mochi-cake",
+    "title": "Butter Mochi Cake",
+    "tags": ["bakery", "dessert"],
+    "ingredients": [
+      { "key": "egg", "name": "Whole Egg", "amount": "50g", "category": "meat" },
+      { "key": "milk", "name": "Milk", "amount": "200g", "category": "seasoning" },
+      { "key": "sugar", "name": "Caster Sugar", "amount": "50g", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "amount": "1.5g", "category": "seasoning" },
+      { "key": "butter", "name": "Butter (melted)", "amount": "30g", "category": "seasoning" },
+      { "key": "milk-powder", "name": "Milk Powder", "amount": "20g", "category": "seasoning" },
+      { "key": "glutinous-rice-flour", "name": "Glutinous Rice Flour", "amount": "160g", "category": "seasoning" }
+    ],
+    "steps": [
+      "In a bowl, add milk, egg, melted butter, caster sugar, and salt. Stir until the sugar and salt are completely dissolved.",
+      "Add the milk powder and glutinous rice flour, and stir until there are no large lumps.",
+      "Sift the batter twice to make it finer.",
+      "Brush the inside of the mold with a layer of softened butter.",
+      "Pour the batter into the mold, about 80-90% full.",
+      "Place in a preheated oven on the lower-middle rack. Bake at 180°C (355°F) for about 35 minutes."
+    ],
+    "notes": [],
+    "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w"
+  },
+  {
+    "id": "taro-paste-filling",
+    "title": "Taro Paste Filling",
+    "tags": ["dessert"],
+    "ingredients": [
+      { "key": "taro", "name": "Taro", "amount": "500g (steamed)", "category": "veggie" },
+      { "key": "sugar", "name": "Caster Sugar", "amount": "75g", "category": "seasoning" },
+      { "key": "butter", "name": "Butter", "amount": "25g", "category": "seasoning" }
+    ],
+    "steps": [
+      "Peel and chop the taro, then steam for 30 minutes.",
+      "Place the steamed taro, caster sugar, and butter in a food processor and blend until smooth and delicate."
+    ],
+    "notes": ["Optional filling for desserts."],
+    "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w"
+  },
+  {
+    "id": "herb-baked-salmon",
+    "title": "Herb Baked Salmon",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "salmon-fillets", "name": "Salmon Fillets", "category": "meat" },
+      { "key": "olive-oil", "name": "Olive Oil", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Cracked Black Pepper", "category": "seasoning" },
+      { "key": "garlic", "name": "Minced Garlic", "category": "veggie" },
+      { "key": "italian-herbs", "name": "Italian Herb Seasoning", "category": "seasoning" },
+      { "key": "lemon", "name": "Lemon", "category": "veggie" }
+    ],
+    "steps": [
+      "Preheat the oven to 400°F (200°C) and grease a large baking pan. Arrange the salmon fillets on the baking sheet and season generously with salt and pepper.",
+      "Stir together the olive oil, garlic, herbs, and juice of 1/2 of the lemon. Spoon this sauce over salmon fillets, being sure to rub all over the tops and sides of the salmon so it has no dry spots. Thinly slice the remaining 1/2 of the lemon and top each piece of salmon with a slice of lemon.",
+      "Bake the salmon in the oven for 12-15 minutes or until the salmon is opaque and flaky when pulled apart with a fork. You can broil the last 1-2 minutes if desired.",
+      "Garnish with fresh thyme or parsley if desired and serve."
+    ],
+    "notes": [
+      "Look for fresh salmon fillets that are nice and pink and moist.",
+      "You can substitute vegetable oil for olive oil.",
+      "Herbs de Provence can be used instead of Italian Herb Seasoning."
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "hamachi-kama",
+    "title": "Hamachi Kama (Broiled Yellowtail Collar)",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "hamachi-kama", "name": "Hamachi Kama (yellowtail collar)", "category": "meat" },
+      { "key": "salt", "name": "Kosher Salt", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "yuzu-juice", "name": "Yuzu Juice", "category": "seasoning" },
+      { "key": "lemon", "name": "Lemon wedges", "category": "veggie" }
+    ],
+    "steps": [
+      "Preheat the broiler with the rack about 6 inches (15 cm) away from the top heating element.",
+      "Line a baking sheet with aluminum foil.",
+      "Place the fish skin side down on the foil. Sprinkle generously with kosher salt.",
+      "Broil on the Medium setting for 8–10 minutes until the surface is lightly blistered and browned.",
+      "While the fish is broiling, mix the soy sauce and yuzu juice in a small bowl to create a dipping sauce.",
+      "Serve immediately with lemon wedges and the yuzu dipping sauce."
+    ],
+    "notes": [
+      "Skip the salt if you plan to dip the fish in the yuzu-flavored soy sauce.",
+      "Broiling is recommended for the best results, but you could also bake it."
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "pan-fried-matsutake",
+    "title": "Pan-Fried Matsutake with Butter",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "matsutake-mushroom", "name": "Matsutake Mushroom", "category": "veggie" },
+      { "key": "butter", "name": "Butter", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Black Pepper", "category": "seasoning" }
+    ],
+    "steps": [
+      "Gently wipe the surface of the matsutake mushrooms with a damp paper towel to remove any dirt. Trim off the earthy base of the stem.",
+      "Slice the matsutake into pieces about 0.5 cm thick.",
+      "Add an appropriate amount of butter to a frying pan and heat over medium-low heat until melted.",
+      "Lay the matsutake slices flat in the pan, avoiding overlap.",
+      "Pan-fry over medium-low heat until one side is golden brown.",
+      "Flip the slices and continue to fry until the other side is also golden brown and the mushrooms are cooked through.",
+      "After frying, season with salt and black pepper to taste.",
+      "Transfer to a plate. Garnish with rosemary or chopped scallions if desired."
+    ],
+    "notes": [
+      "Clean matsutake gently with a wipe instead of washing with water to preserve their unique aroma and texture.",
+      "It's best to use a non-stick pan and low heat to retain the mushroom's natural fragrance and firm, bouncy texture."
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "chili-stir-fried-pork",
+    "title": "Chili Stir-fried Pork",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "pork-belly", "name": "Pork Belly", "category": "meat" },
+      { "key": "screwdriver-pepper", "name": "Screwdriver Pepper", "category": "veggie" },
+      { "key": "thai-chili", "name": "Thai Chili", "category": "veggie" },
+      { "key": "garlic", "name": "Garlic", "category": "veggie" },
+      { "key": "liuyang-fermented-soybeans", "name": "Liuyang Fermented Soybeans", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "Cooking Wine", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "category": "seasoning" }
+    ],
+    "steps": [
+      "Remove the skin from the pork belly and slice it, ensuring the slices aren't too thin.",
+      "Cut the screwdriver peppers into rolling chunks. For extra heat, slice the Thai chilis thinly.",
+      "Slice the garlic and set aside.",
+      "Heat the wok until hot, then add the screwdriver peppers without any oil.",
+      "Stir-fry on high heat to 'blanch' the peppers, cooking until the raw green smell is gone and the surface is slightly charred. Remove and set aside.",
+      "Reheat the wok until hot, then add the pork belly slices without any oil.",
+      "Stir-fry on high heat to render the fat from the pork, cooking until the slices are releasing oil, are fragrant and browned.",
+      "Add the Liuyang fermented soybeans and stir-fry until fragrant, then add the garlic slices.",
+      "Deglaze with a splash of cooking wine, add soy sauce for flavor, and a little dark soy sauce for color.",
+      "Return the previously stir-fried peppers (and Thai chilis) to the wok.",
+      "Quickly stir-fry all ingredients together on high heat until well combined, then turn off the heat and serve."
+    ],
+    "notes": [
+      "Choose pork belly that isn't too lean; some fat is needed for flavor when rendered.",
+      "Both the peppers and the pork belly need to be stir-fried on high heat to achieve 'wok hei' (the breath of the wok).",
+      "The essence of this dish is the spicy, charred aroma of the peppers and the rich flavor of the pork fat. The finished dish will be oily, which makes it a perfect companion for rice.",
+      "The video mentions that for home cooking, the fermented soybeans can be used directly without steaming first."
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=ntllsS_vmoQ"
+  },
+  {
+    "id": "uncle-braised-pork",
+    "title": "Uncle's Braised Pork Belly",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "pork-belly", "name": "Pork Belly", "category": "meat" },
+      { "key": "scallion", "name": "Scallion", "category": "veggie" },
+      { "key": "ginger", "name": "Ginger", "category": "veggie" },
+      { "key": "star-anise", "name": "Star Anise", "category": "seasoning" },
+      { "key": "cinnamon-bark", "name": "Cinnamon Bark", "category": "seasoning" },
+      { "key": "bay-leaf", "name": "Bay Leaf", "category": "seasoning" },
+      { "key": "sichuan-peppercorn", "name": "Sichuan Peppercorn", "category": "seasoning" },
+      { "key": "huadiao-wine", "name": "Huadiao Wine", "category": "seasoning" },
+      { "key": "soft-white-sugar", "name": "Caster Sugar", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "yellow-wine", "name": "Yellow Wine / Shaoxing Wine", "category": "seasoning" },
+      { "key": "pepper-powder", "name": "Pepper Powder", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "category": "seasoning" },
+      { "key": "oil", "name": "Oil", "category": "seasoning" }
+    ],
+    "steps": [
+      "First, wash and cut the pork belly into small cubes.",
+      "Prepare scallion, ginger, star anise, cinnamon bark, bay leaf, and Sichuan peppercorns.",
+      "Blanch the pork belly in a pot of water. Add Huadiao wine to remove any gamey smell. Finally, rinse the blanched pork belly.",
+      "Heat oil in a wok, add caster sugar to make a caramel sauce.",
+      "Stir-fry until the sugar changes color and the large bubbles turn into small bubbles; the caramel is ready.",
+      "Add the pork belly to the caramel sauce. Add the prepared spices and stir-fry until fragrant.",
+      "Pour in soy sauce and a little yellow wine, then add water to braise the pork. Remember not to add cold water.",
+      "While braising, add some pepper powder and skim off any scum.",
+      "When the pot comes to a rolling boil with large bubbles, transfer to a pressure cooker and cook for 25 minutes.",
+      "Finally, transfer the braised pork back to a wok and reduce the sauce over high heat.",
+      "If needed, add salt to taste. Once the sauce thickens, it's ready to serve."
+    ],
+    "notes": [
+      "Use Huadiao wine when blanching to remove any gamey smell.",
+      "When making the caramel, stir-fry until large bubbles turn into small bubbles.",
+      "Remember not to add cold water when braising the pork.",
+      "After pressure cooking for 25 minutes, return the pork to a wok to reduce the sauce over high heat."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1Tf4y1q7gW/"
+  },
+  {
+    "id": "jujube-braised-pork",
+    "title": "Braised Pork Belly with Jujubes",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "pork-belly", "name": "Pork Belly", "category": "meat" },
+      { "key": "red-dates", "name": "Red Dates (Jujubes)", "category": "veggie" },
+      { "key": "white-sugar", "name": "Sugar", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Light Soy Sauce", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "category": "seasoning" },
+      { "key": "star-anise", "name": "Star Anise", "category": "seasoning" },
+      { "key": "cinnamon-bark", "name": "Cinnamon Bark", "category": "seasoning" },
+      { "key": "scallion", "name": "Scallion", "category": "veggie" },
+      { "key": "ginger", "name": "Ginger", "category": "veggie" },
+      { "key": "cooking-wine", "name": "Cooking Wine", "category": "seasoning" },
+      { "key": "oil", "name": "Oil", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "category": "seasoning" },
+      { "key": "msg", "name": "MSG", "category": "seasoning" }
+    ],
+    "steps": [
+      "Trim the pork belly.",
+      "Place the pork in a pot with cold water, add scallion, ginger, star anise, and cinnamon bark. Bring to a boil until cooked through, skimming off any scum.",
+      "Cover and simmer over medium heat for 30 minutes, until a chopstick inserted into the meat comes out clean with no blood.",
+      "Remove the pork and cut it into 2.8cm square cubes.",
+      "Make caramel sauce: Heat a little oil in a wok, add 50g of white sugar and a small amount of water. Cook on high heat first, then switch to low heat when it turns yellow, cooking until it becomes a date-red syrup.",
+      "Add the pork cubes, 2 star anise, a small piece of cinnamon bark, scallion, and ginger. Stir-fry.",
+      "Add 30g of light soy sauce, then 10g of cooking wine. Add hot water to cover the pork.",
+      "Add 2g salt, 1g MSG, 40g white sugar (adjust to taste), and dark soy sauce. Stir well and cook on high heat for 3 minutes to color the pork.",
+      "Transfer the pork and sauce to a pressure cooker. Add hot water to just cover the meat, then add red dates and more salt if needed.",
+      "Cook in the pressure cooker on high heat. Once it reaches pressure, switch to medium heat and cook for 20 minutes.",
+      "Remove the solid spices from the pot.",
+      "(Optional step) You can let the pork soak in the sauce for half a day for more flavor.",
+      "Transfer the pork (skin-side up) and sauce to a wok. Add more red dates and reduce the sauce over high heat until it thickens."
+    ],
+    "notes": [
+      "When boiling the pork, it's cooked through when a chopstick inserted comes out clean with no blood.",
+      "For the caramel sauce: start with high heat, then switch to low when it turns yellow.",
+      "When reducing the sauce, do not place the pork skin-side down to avoid sticking.",
+      "Optional: After pressure cooking, you can soak the pork in the sauce for half a day for richer flavor."
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV198411S7LW"
+  },
+  {
+    "id": "tomato-scrambled-eggs",
+    "title": "Stir-fried Tomato and Eggs",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "tomato", "name": "Tomato", "category": "veggie" },
+      { "key": "egg", "name": "Egg", "category": "meat" },
+      { "key": "scallion", "name": "Scallion", "category": "veggie" },
+      { "key": "oil", "name": "Oil", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "category": "seasoning" },
+      { "key": "salt", "name": "Salt", "category": "seasoning" }
+    ],
+    "steps": [
+      "Bring a pot of water to a boil, blanch the tomatoes, then peel them.",
+      "Cut the white part of the scallion into sections (for stir-frying) and the green part into small rings (for garnish).",
+      "Prepare 4 eggs. (The professional method in the video is to remove 2 yolks for a better color, but for home cooking, you can use 4 whole eggs).",
+      "Beat the eggs. Note: do not add salt to the egg mixture.",
+      "Heat a wok, add a suitable amount of oil. When the oil is hot, pour in the beaten eggs.",
+      "Scramble the eggs until they are slightly 'overcooked', puffed up, and fragrant. Remove and set aside.",
+      "Leave the remaining oil in the wok (or add a little more), and stir-fry the scallion whites until fragrant.",
+      "Add the peeled tomato chunks and stir-fry.",
+      "Drizzle soy sauce along the hot edge of the wok (to release its aroma), then add sugar and salt to taste.",
+      "Once the tomato juice is released, return the scrambled eggs to the wok.",
+      "Stir-fry evenly, allowing the eggs to fully absorb the sauce.",
+      "Before serving, sprinkle with the prepared scallion greens for garnish."
+    ],
+    "notes": [
+      "Blanching and peeling the tomatoes gives the finished dish a more vibrant red color.",
+      "Do not add salt to the egg mixture beforehand, as it can make the scrambled eggs dark and tough.",
+      "The eggs should be cooked a bit 'older' (more cooked than silky scrambled eggs) to be more fragrant and better at absorbing the sauce.",
+      "Drizzle the soy sauce along the hot edge of the wok; the high heat brings out its aroma.",
+      "Use the green parts of the scallion for garnish as they don't release water, keeping the dish fragrant."
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=lZlxOoIpm1Q"
+  },
+  {
+    "id": "japanese-light-cheesecake",
+    "title": "Japanese Light Cheesecake",
+    "tags": ["dessert", "bakery"],
+    "ingredients": [
+      { "key": "cream-cheese", "name": "Cream Cheese", "category": "dairy", "amount": "125g" },
+      { "key": "unsalted-butter", "name": "Unsalted Butter", "category": "dairy", "amount": "15g" },
+      { "key": "milk", "name": "Milk", "category": "dairy", "amount": "65g" },
+      { "key": "cake-flour", "name": "Cake Flour", "category": "pantry", "amount": "15g" },
+      { "key": "corn-flour", "name": "Corn Starch", "category": "pantry", "amount": "12g" },
+      { "key": "egg-yolk", "name": "Egg Yolk", "category": "meat", "amount": "3 (approx. 52g)" },
+      { "key": "egg-white", "name": "Egg White", "category": "meat", "amount": "3 (approx. 95g)" },
+      { "key": "sugar", "name": "Caster Sugar", "category": "seasoning", "amount": "55g" },
+      { "key": "lemon-juice", "name": "Lemon Juice", "category": "seasoning", "amount": "3g" }
+    ],
+    "steps": [
+      "In a bowl, place cream cheese, unsalted butter, and milk. Heat over a double boiler and stir until smooth and lump-free.",
+      "Remove from heat. Add the sifted cake flour and corn starch to the cheese mixture and mix quickly until well combined.",
+      "After the batter has cooled slightly, add 3 egg yolks one at a time, mixing well after each addition. This is the yolk batter.",
+      "In a separate, clean, oil-free, and water-free bowl, beat 3 egg whites and lemon juice with an electric mixer until large bubbles form.",
+      "Gradually add 55g of caster sugar to the egg whites in three additions, continuing to beat until soft peaks form (the meringue should form a hook when the beater is lifted).",
+      "Gently fold 1/3 of the meringue into the yolk batter using a J-fold technique.",
+      "Pour the combined mixture back into the remaining meringue and fold again until just combined. This is the final cake batter.",
+      "Pour the batter into a 6-inch cake pan lined with parchment paper (bottom and sides). Tap the pan a few times to release large air bubbles.",
+      "Preheat the oven to 250°C top heat / 140°C bottom heat. Place room temperature water in a baking tray (for a water bath) and preheat it with the oven.",
+      "Place the cake pan into the water bath tray. Bake at 240°C top heat / 140°C bottom heat for 20 minutes.",
+      "Then, reduce the temperature to 140°C top heat / 130°C bottom heat and continue baking for 40 minutes (total baking time is 60 minutes).",
+      "After baking, open the oven door slightly and let the cake rest inside for 5 minutes before removing.",
+      "Immediately unmold and remove the parchment paper. Let it cool before serving. The flavor is even better after refrigeration."
+    ],
+    "notes": [
+      "This recipe is for one 6-inch round cake pan.",
+      "A water bath (baking tray with hot water) is required for the entire baking process. The water level should cover the bottom of the tray.",
+      "When folding the meringue and yolk batter, do not overmix, as this will deflate the meringue.",
+      "Resting the cake in the oven for 5 minutes after baking helps prevent it from shrinking rapidly.",
+      "Beating the meringue to soft peaks is sufficient; do not beat to stiff peaks. This ensures a moist and delicate texture."
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y"
   }
 ]
