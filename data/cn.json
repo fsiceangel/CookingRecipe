@@ -1,4 +1,3 @@
-
 [
   {
     "id": "chaoshan-beef-balls",
@@ -338,5 +337,457 @@
       "需要工具：蒸笼"
     ],
     "videoLink": "https://www.bilibili.com/video/BV1rE411o7zi"
+  },
+  {
+    "id": "butter-mochi-cake",
+    "title": "黄油年糕",
+    "tags": ["bakery", "dessert"],
+    "ingredients": [
+      { "key": "egg", "name": "全蛋液", "amount": "50克", "category": "meat" },
+      { "key": "milk", "name": "牛奶", "amount": "200克", "category": "seasoning" },
+      { "key": "sugar", "name": "细砂糖", "amount": "50克", "category": "seasoning" },
+      { "key": "salt", "name": "盐", "amount": "1.5克", "category": "seasoning" },
+      { "key": "butter", "name": "黄油 (融化)", "amount": "30克", "category": "seasoning" },
+      { "key": "milk-powder", "name": "奶粉", "amount": "20克", "category": "seasoning" },
+      { "key": "glutinous-rice-flour", "name": "糯米粉", "amount": "160克", "category": "seasoning" }
+    ],
+    "steps": [
+      "在碗中加入牛奶、鸡蛋、融化的黄油、细砂糖和盐，搅拌至糖和盐完全融化。",
+      "加入奶粉和糯米粉，搅拌至没有大的颗粒。",
+      "将面糊过筛两次，使其更加细腻。",
+      "在模具内壁刷上一层软化的黄油。",
+      "将面糊倒入模具中，约八九分满。",
+      "放入预热好的烤箱中下层，实际温度180度，烘烤约35分钟。"
+    ],
+    "notes": [],
+    "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w"
+  },
+  {
+    "id": "taro-paste-filling",
+    "title": "芋泥馅",
+    "tags": ["dessert"],
+    "ingredients": [
+      { "key": "taro", "name": "荔浦芋头", "amount": "500克 (蒸熟后)", "category": "veggie" },
+      { "key": "sugar", "name": "细砂糖", "amount": "75克", "category": "seasoning" },
+      { "key": "butter", "name": "黄油", "amount": "25克", "category": "seasoning" }
+    ],
+    "steps": [
+      "芋头去皮切块，上锅蒸30分钟。",
+      "将蒸熟的芋头、细砂糖和黄油放入料理机中搅打至细腻。"
+    ],
+    "notes": ["可选的甜点馅料。"],
+    "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w"
+  },
+  {
+    "id": "herb-baked-salmon",
+    "title": "香草烤三文鱼",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "salmon-fillets", "name": "三文鱼柳", "category": "meat" },
+      { "key": "olive-oil", "name": "橄榄油", "category": "seasoning" },
+      { "key": "salt", "name": "盐", "category": "seasoning" },
+      { "key": "black-pepper", "name": "现磨黑胡椒", "category": "seasoning" },
+      { "key": "garlic", "name": "蒜末", "category": "veggie" },
+      { "key": "italian-herbs", "name": "意大利香草调料", "category": "seasoning" },
+      { "key": "lemon", "name": "柠檬", "category": "veggie" }
+    ],
+    "steps": [
+      "预热烤箱至400华氏度（200摄氏度），并给一个大烤盘抹油。将三文鱼柳放在烤盘上，并用盐和胡椒粉充分调味。",
+      "将橄榄油、蒜末、香草和半个柠檬的汁搅拌在一起。将此酱汁舀在三文鱼柳上，确保涂抹在三文鱼的顶部和侧面，使其没有干燥的地方。将剩下的半个柠檬切成薄片，每片三文鱼上放一片柠檬。",
+      "将三文鱼放入烤箱烘烤12-15分钟，或直到三文鱼变得不透明，用叉子一拨就散开。如果需要，可以在最后1-2分钟使用烧烤模式。",
+      "如果需要，可以用新鲜的百里香或欧芹装饰后上桌。"
+    ],
+    "notes": [
+      "选择新鲜的三文鱼柳，颜色粉嫩湿润。",
+      "可以用植物油代替橄榄油。",
+      "也可以使用普罗旺斯香草代替意大利香草调料。"
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "hamachi-kama",
+    "title": "烤鰤鱼颈肉 (Hamachi Kama)",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "hamachi-kama", "name": "鰤鱼颈肉", "category": "meat" },
+      { "key": "salt", "name": "粗盐", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "yuzu-juice", "name": "柚子汁", "category": "seasoning" },
+      { "key": "lemon", "name": "柠檬角", "category": "veggie" }
+    ],
+    "steps": [
+      "预热烤箱的上火（broiler），将烤架放置在距离顶部加热元件约6英寸（15厘米）的位置。",
+      "在烤盘上铺上铝箔纸。",
+      "将鱼皮朝下放在铝箔纸上。均匀撒上粗盐。",
+      "使用中火（Medium）设置，烤8-10分钟，直到鱼肉表面出现轻微的焦斑和金黄色。",
+      "在烤鱼的同时，将酱油和柚子汁在一个小碗中混合，制作蘸酱。",
+      "立即上桌，配上柠檬角和柚子蘸酱。"
+    ],
+    "notes": [
+      "如果你打算用柚子味酱油蘸食，可以省略撒盐的步骤。",
+      "推荐使用烤箱的上火功能以获得最佳效果，但烘烤也是一个选择。"
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "pan-fried-matsutake",
+    "title": "黄油煎松茸",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "matsutake-mushroom", "name": "松茸", "category": "veggie" },
+      { "key": "butter", "name": "黄油", "category": "seasoning" },
+      { "key": "salt", "name": "盐", "category": "seasoning" },
+      { "key": "black-pepper", "name": "黑胡椒", "category": "seasoning" }
+    ],
+    "steps": [
+      "用湿纸巾轻轻擦拭松茸表面的泥土，去除根部泥土部分。",
+      "将松茸切成约0.5厘米厚的片状。",
+      "在平底锅中加入适量黄油，用中小火加热至融化。",
+      "将切好的松茸片平铺在锅中，避免堆叠。",
+      "保持中小火，慢煎至松茸的一面呈金黄色。",
+      "翻面后继续煎至另一面也呈金黄色，确保松茸熟透。",
+      "煎好后，根据个人口味撒上适量的盐和黑胡椒碎即可。",
+      "装盘，可以根据喜好用迷迭香或小葱花点缀。"
+    ],
+    "notes": [
+      "处理松茸时应轻柔擦拭，避免用水冲洗，以免影响其独特的香气和口感。",
+      "最好使用不粘锅并用小火慢煎，以保留其原有的香气和Q弹口感。"
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "chili-stir-fried-pork",
+    "title": "辣椒炒肉",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "pork-belly", "name": "五花肉", "category": "meat" },
+      { "key": "screwdriver-pepper", "name": "螺丝椒", "category": "veggie" },
+      { "key": "thai-chili", "name": "小米辣", "category": "veggie" },
+      { "key": "garlic", "name": "蒜", "category": "veggie" },
+      { "key": "liuyang-fermented-soybeans", "name": "浏阳豆豉", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "料酒", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "老抽", "category": "seasoning" }
+    ],
+    "steps": [
+      "五花肉去皮，切成片，注意不要切得太薄。",
+      "螺丝椒切滚刀块。如果想更辣，可将小米辣切薄片。",
+      "蒜切片备用。",
+      "将锅烧热，不放油，直接下入螺丝椒。",
+      "开大火干煸，将辣椒“杀青”，炒至去除青气味、表面带一点糊点时，盛出备用。",
+      "锅再次烧热，不放油，直接下入五花肉片。",
+      "用大火煸炒，将猪肉里的油煸出来，炒到肉片出油、焦香，呈“半油沾状”。",
+      "下入浏阳豆豉炒香，接着下入蒜片。",
+      "烹入一点料酒去腥，加入酱油调味，再点少许老抽上色。",
+      "将之前干煸过的辣椒（和小米辣）倒回锅中。",
+      "所有食材大火快速翻炒均匀，即可关火出锅。"
+    ],
+    "notes": [
+      "五花肉不要选太瘦的，带点肥油煸出来才香。",
+      "干煸辣椒和五花肉都需要大火，产生“锅气”。",
+      "这道菜的重点是辣焦香和肉的油香，成品会带着点油，非常下饭。",
+      "视频中提到，家庭制作豆豉可以不蒸，直接使用。"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=ntllsS_vmoQ"
+  },
+  {
+    "id": "uncle-braised-pork",
+    "title": "大爷红烧肉",
+    "tags": [
+      "dish"
+    ],
+    "ingredients": [
+      {
+        "key": "pork-belly",
+        "name": "五花肉",
+        "category": "meat"
+      },
+      {
+        "key": "scallion",
+        "name": "葱",
+        "category": "veggie"
+      },
+      {
+        "key": "ginger",
+        "name": "姜",
+        "category": "veggie"
+      },
+      {
+        "key": "star-anise",
+        "name": "八角",
+        "category": "seasoning"
+      },
+      {
+        "key": "cinnamon-bark",
+        "name": "桂皮",
+        "category": "seasoning"
+      },
+      {
+        "key": "bay-leaf",
+        "name": "香叶",
+        "category": "seasoning"
+      },
+      {
+        "key": "sichuan-peppercorn",
+        "name": "花椒",
+        "category": "seasoning"
+      },
+      {
+        "key": "huadiao-wine",
+        "name": "花雕酒",
+        "category": "seasoning"
+      },
+      {
+        "key": "soft-white-sugar",
+        "name": "绵白糖",
+        "category": "seasoning"
+      },
+      {
+        "key": "soy-sauce",
+        "name": "酱油",
+        "category": "seasoning"
+      },
+      {
+        "key": "yellow-wine",
+        "name": "黄酒",
+        "category": "seasoning"
+      },
+      {
+        "key": "pepper-powder",
+        "name": "胡椒",
+        "category": "seasoning"
+      },
+      {
+        "key": "salt",
+        "name": "盐",
+        "category": "seasoning"
+      },
+      {
+        "key": "oil",
+        "name": "油",
+        "category": "seasoning"
+      }
+    ],
+    "steps": [
+      "先将洗好的五花肉切成小块。",
+      "准备葱姜，八角，桂皮，香叶，花椒。",
+      "将切好的五花肉放入锅中焯水，倒入花雕酒去腥，最后将焯好的五花肉冲洗一遍。",
+      "起锅烧油，放入绵白糖首先炒个糖色。",
+      "炒至变色由大泡变成小泡，糖色就炒好了。",
+      "将五花肉倒入炒好的糖色里面，把提前准备好的香料直接放入炒进去并将煸香煸熟。",
+      "倒入酱油和少许黄酒开始加水炖肉，切记不要加凉水。",
+      "再炖的同时放点胡椒，顺便再打一打血沫。",
+      "待锅开冒大泡的时候，放入高压锅开始压25分钟。",
+      "最后将压好的红烧肉放入铁锅开大火收汁。",
+      "味道不够再及时添加点盐，将汁收粘稠就可以出锅了。"
+    ],
+    "notes": [
+      "焯水时使用花雕酒去腥。",
+      "炒糖色要炒至由大泡变成小泡。",
+      "炖肉时切记不要加凉水。",
+      "高压锅压25分钟后，需转回铁锅大火收汁。"
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV1Tf4y1q7gW/"
+  },
+  {
+    "id": "jujube-braised-pork",
+    "title": "枣香红烧肉",
+    "tags": [
+      "dish"
+    ],
+    "ingredients": [
+      {
+        "key": "pork-belly",
+        "name": "五花肉",
+        "category": "meat"
+      },
+      {
+        "key": "red-dates",
+        "name": "红枣",
+        "category": "veggie"
+      },
+      {
+        "key": "white-sugar",
+        "name": "白糖",
+        "category": "seasoning"
+      },
+      {
+        "key": "light-soy-sauce",
+        "name": "生抽",
+        "category": "seasoning"
+      },
+      {
+        "key": "dark-soy-sauce",
+        "name": "老抽",
+        "category": "seasoning"
+      },
+      {
+        "key": "star-anise",
+        "name": "大料",
+        "category": "seasoning"
+      },
+      {
+        "key": "cinnamon-bark",
+        "name": "桂皮",
+        "category": "seasoning"
+      },
+      {
+        "key": "scallion",
+        "name": "葱",
+        "category": "veggie"
+      },
+      {
+        "key": "ginger",
+        "name": "姜",
+        "category": "veggie"
+      },
+      {
+        "key": "cooking-wine",
+        "name": "料酒",
+        "category": "seasoning"
+      },
+      {
+        "key": "oil",
+        "name": "油",
+        "category": "seasoning"
+      },
+      {
+        "key": "salt",
+        "name": "盐",
+        "category": "seasoning"
+      },
+      {
+        "key": "msg",
+        "name": "味精",
+        "category": "seasoning"
+      }
+    ],
+    "steps": [
+      "猪五花修整。",
+      "猪肉冷水下锅，加葱、姜、大料、桂皮，水开煮到断生，开锅撇沫。",
+      "盖盖转中火煮半小时，直到插筷子无血水流出。",
+      "捞出改刀切成2.8cm见方的小块。",
+      "炒糖色：锅烧底油，加白糖50g和少量水，先大火熬，变黄后改小火，熬成枣红色糖浆。",
+      "下入肉块、2个大料、小块桂皮、葱、姜煸炒。",
+      "烹入生抽30g，再烹料酒10g，然后加入热水没过肉块。",
+      "加盐2g、味精1g、白糖40g（酌情调整）、老抽搅匀，大火煮3分钟使肉块上色。",
+      "将肉块和汤转移到高压锅内，加入热水正好没过肉块，再加入红枣、补盐。",
+      "高压锅大火上汽后转中火压20分钟。",
+      "捞出锅内料渣。",
+      "（可选步骤）可选择把肉浸在汤中半天以便更入味。",
+      "将肉（不要皮朝下）和汤转移到铁锅内，另加红枣，开大火收汁至粘稠。"
+    ],
+    "notes": [
+      "煮肉时，插筷子无血水流出即为断生。",
+      "炒糖色：先大火，变黄改小火。",
+      "收汁时，肉块不要皮朝下，以免粘锅。",
+      "可选：高压锅压完后，可将肉浸泡在汤汁中半天以更入味。"
+    ],
+    "videoLink": "https://www.bilibili.com/video/BV198411S7LW"
+  },
+  {
+    "id": "tomato-scrambled-eggs",
+    "title": "西红柿炒蛋",
+    "tags": [
+      "dish"
+    ],
+    "ingredients": [
+      {
+        "key": "tomato",
+        "name": "西红柿",
+        "category": "veggie"
+      },
+      {
+        "key": "egg",
+        "name": "鸡蛋",
+        "category": "meat"
+      },
+      {
+        "key": "scallion",
+        "name": "葱",
+        "category": "veggie"
+      },
+      {
+        "key": "oil",
+        "name": "油",
+        "category": "seasoning"
+      },
+      {
+        "key": "soy-sauce",
+        "name": "酱油",
+        "category": "seasoning"
+      },
+      {
+        "key": "sugar",
+        "name": "糖",
+        "category": "seasoning"
+      },
+      {
+        "key": "salt",
+        "name": "盐",
+        "category": "seasoning"
+      }
+    ],
+    "steps": [
+      "在锅中放水烧开，将西红柿烫一下，然后去皮。",
+      "将大葱的葱白切段（炝锅用），葱尾（葱叶）切成小圈（点缀用）。",
+      "准备4个鸡蛋，（视频中的专业做法是）去掉2个蛋黄让颜色更漂亮，家庭制作可使用4个全鸡蛋。",
+      "将鸡蛋打散，注意：蛋液中不要加盐。",
+      "热锅，倒入适量油，油热后下入蛋液。",
+      "将鸡蛋炒得略微“老”一点，炒至膨胀、焦香后盛出备用。",
+      "锅中留底油（或另加少许油），下入葱段炝锅。",
+      "下入去皮的西红柿块翻炒。",
+      "沿着炙热的锅边淋入酱油（炝出香味），然后加入糖和盐调味。",
+      "待西红柿的汤汁炒出后，倒回之前炒好的鸡蛋。",
+      "翻炒均匀，让鸡蛋充分吸收汤汁。",
+      "出锅前撒上准备好的葱花（葱尾）点缀即可。"
+    ],
+    "notes": [
+      "西红柿烫一下去皮，可以让成品的红色更鲜艳。",
+      "蛋液中不要提前加盐，否则炒出来的鸡蛋颜色会发黑，并且口感发“死”。",
+      "鸡蛋要炒得略微“老”一点（比嫩滑的炒蛋要熟），这样更香，且更容易吸收汤汁。",
+      "酱油要沿着热锅边淋入，高温能激发酱油的香味。",
+      "使用葱尾（葱叶）做最后的点缀，因为它不出水，能保持菜品干香。"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=lZlxOoIpm1Q"
+  },
+  {
+    "id": "japanese-light-cheesecake",
+    "title": "日式轻乳酪蛋糕",
+    "tags": ["dessert", "bakery"],
+    "ingredients": [
+      { "key": "cream-cheese", "name": "奶油奶酪", "category": "dairy", "amount": "125克" },
+      { "key": "unsalted-butter", "name": "无盐奶油", "category": "dairy", "amount": "15克" },
+      { "key": "milk", "name": "牛奶", "category": "dairy", "amount": "65克" },
+      { "key": "cake-flour", "name": "低筋面粉", "category": "pantry", "amount": "15克" },
+      { "key": "corn-flour", "name": "玉米粉", "category": "pantry", "amount": "12克" },
+      { "key": "egg-yolk", "name": "蛋黄", "category": "meat", "amount": "3颗 (约52克)" },
+      { "key": "egg-white", "name": "蛋白", "category": "meat", "amount": "3颗 (约95克)" },
+      { "key": "sugar", "name": "细砂糖", "category": "seasoning", "amount": "55克" },
+      { "key": "lemon-juice", "name": "柠檬汁", "category": "seasoning", "amount": "3克" }
+    ],
+    "steps": [
+      "将奶油奶酪、无盐奶油和牛奶放入一个碗中，隔水加热并搅拌均匀，直到呈现光滑无颗粒的状态。",
+      "离火后，将过筛的低筋面粉和玉米粉加入奶酪糊中，快速搅拌均匀。",
+      "待面糊稍微冷却后，分次加入3颗蛋黄，搅拌均匀，完成蛋黄糊备用。",
+      "在另一个干净无油无水的碗中，放入3颗蛋白和柠檬汁，用打蛋器打至粗泡。",
+      "将55克细砂糖分三次加入蛋白中，持续打发至湿性发泡（提起打蛋器时，蛋白霜呈现弯钩状态）。",
+      "取1/3的蛋白霜加入蛋黄糊中，用切拌（J-fold）方式轻柔拌匀。",
+      "将拌匀的面糊倒回剩余的蛋白霜中，再次用切拌方式混合均匀，完成蛋糕面糊。",
+      "将面糊倒入已铺好烘焙纸的6寸蛋糕模具中（底部和侧边皆需铺纸），轻敲几下震出大气泡。",
+      "烤箱先预热上火250/下火140度。在烤盘里放常温水（水浴法）一起预热。",
+      "将模具放入烤盘中，以上火240/下火140度 烤20分钟。",
+      "接着转为上火140/下火130度 续烤40分钟（总共烤60分钟）。",
+      "烤完后打开炉门，让蛋糕在烤箱里闷5分钟再出炉。",
+      "出炉后立即脱模并撕掉烘焙纸，放凉后即可食用，冷藏后风味更佳。"
+    ],
+    "notes": [
+      "此配方适用于一个6寸圆形模具。",
+      "全程需使用水浴法（烤盘加热水）烘烤，水量需能覆盖烤盘底部。",
+      "混合蛋白霜和蛋黄糊时，切勿过度搅拌以免消泡。",
+      "烤完闷5分钟有助于防止蛋糕快速回缩。",
+      "蛋白霜打至湿性发泡即可，不需到干性发泡，口感才会湿润细致。"
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y"
   }
 ]
