@@ -9,7 +9,7 @@
       {"key": "salt", "name": "Salt", "amount": "8g", "category": "seasoning"},
       {"key": "sugar", "name": "Sugar", "amount": "4g", "category": "seasoning"},
       {"key": "msg", "name": "MSG", "amount": "2g", "category": "seasoning"},
-      {"key": "cornstarch", "name": "Cornstarch", "amount": "15g", "category": "seasoning"},
+      {"key": "cornstarch", "name": "Cornstarch", "amount": "15g", "category": "pantry"},
       {"key": "ice-cubes", "name": "Ice cubes", "amount": "50g", "category": "seasoning"},
       {"key": "beef-tallow", "name": "Beef tallow bits", "category": "meat"},
       {"key": "beef-tendon", "name": "Beef tendon bits", "category": "meat"},
@@ -64,7 +64,7 @@
       {"key": "vinegar", "name": "Vinegar", "category": "seasoning"},
       {"key": "sugar", "name": "Sugar", "category": "seasoning"},
       {"key": "cooking-wine", "name": "Cooking wine", "category": "seasoning"},
-      {"key": "cornstarch", "name": "Starch", "category": "seasoning"}
+      {"key": "cornstarch", "name": "Starch", "category": "pantry"}
     ],
     "steps": [
       "Dice chicken breast, marinate with salt, cooking wine, and starch for 15 minutes.",
@@ -94,7 +94,7 @@
       { "key": "msg", "name": "MSG", "amount": "2g", "category": "seasoning" },
       { "key": "pepper-powder", "name": "White pepper", "amount": "2g", "category": "seasoning" },
       { "key": "scallion-ginger-water", "name": "Scallion ginger water", "amount": "300g", "category": "seasoning" },
-      { "key": "cornstarch", "name": "Cornstarch", "amount": "120g", "category": "seasoning" },
+      { "key": "cornstarch", "name": "Cornstarch", "amount": "120g", "category": "pantry" },
       { "key": "soy-sauce", "name": "Soy sauce", "amount": "80g", "category": "seasoning" },
       { "key": "cooking-wine", "name": "Shaoxing wine", "amount": "100g", "category": "seasoning" },
       { "key": "scallion", "name": "Scallion", "amount": "100g", "category": "veggie" },
@@ -130,13 +130,13 @@
     "title": "Evelyn Jemerson's Pound Cake",
     "tags": ["bakery", "dessert"],
     "ingredients": [
-      { "key": "parkay-margarine", "name": "Parkay Margarine", "amount": "2 sticks", "category": "seasoning" },
-      { "key": "butter", "name": "Butter", "amount": "1 stick", "category": "seasoning" },
+      { "key": "parkay-margarine", "name": "Parkay Margarine", "amount": "2 sticks", "category": "dairy" },
+      { "key": "butter", "name": "Butter", "amount": "1 stick", "category": "dairy" },
       { "key": "cream-cheese", "name": "Cream cheese", "amount": "8 oz", "category": "dairy" },
       { "key": "sugar", "name": "Sugar", "amount": "3 cups", "category": "seasoning" },
       { "key": "egg", "name": "Large eggs", "amount": "6", "category": "meat" },
       { "key": "vanilla-extract", "name": "Vanilla", "amount": "1-2 tsp", "category": "seasoning" },
-      { "key": "flour", "name": "Flour", "amount": "3 cups", "category": "seasoning" }
+      { "key": "flour", "name": "Flour", "amount": "3 cups", "category": "pantry" }
     ],
     "steps": [
       "Have the margarine, butter, and cream cheese at room temperature.",
@@ -169,7 +169,7 @@
       { "key": "scallion", "name": "Scallion", "amount": "250g", "category": "veggie" },
       { "key": "ginger", "name": "Ginger", "amount": "250g", "category": "veggie" },
       { "key": "huadiao-wine", "name": "Huadiao Wine", "amount": "as needed", "category": "seasoning" },
-      { "key": "water", "name": "Water", "amount": "3L (6 jin)", "category": "seasoning" },
+      { "key": "water", "name": "Water", "amount": "3L (6 jin)", "category": "pantry" },
       { "key": "soy-sauce", "name": "Soy Sauce", "amount": "100g", "category": "seasoning" },
       { "key": "chili-pepper", "name": "Dried Chili Peppers", "amount": "3", "category": "veggie" },
       { "key": "bay-leaf", "name": "Bay Leaves", "amount": "3", "category": "seasoning" },
@@ -195,16 +195,16 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "potato", "name": "Potatoes", "amount": "300g", "category": "veggie" },
-      { "key": "butter", "name": "Butter", "amount": "10g", "category": "seasoning" },
+      { "key": "butter", "name": "Butter", "amount": "10g", "category": "dairy" },
       { "key": "onion", "name": "Onion", "amount": "100g", "category": "veggie" },
       { "key": "minced-meat", "name": "Minced Meat", "amount": "100g", "category": "meat" },
       { "key": "salt", "name": "Salt", "amount": "2g", "category": "seasoning" },
       { "key": "sugar", "name": "Sugar", "amount": "2g", "category": "seasoning" },
       { "key": "black-pepper", "name": "Black Pepper", "amount": "1g", "category": "seasoning" },
-      { "key": "light-cream", "name": "Light Cream", "amount": "20g", "category": "seasoning" },
-      { "key": "flour", "name": "Flour", "amount": "for coating", "category": "seasoning" },
+      { "key": "light-cream", "name": "Light Cream", "amount": "20g", "category": "dairy" },
+      { "key": "flour", "name": "Flour", "amount": "for coating", "category": "pantry" },
       { "key": "egg", "name": "Egg", "amount": "for coating", "category": "meat" },
-      { "key": "panko", "name": "Panko (Breadcrumbs)", "amount": "for coating", "category": "seasoning" },
+      { "key": "panko", "name": "Panko (Breadcrumbs)", "amount": "for coating", "category": "pantry" },
       { "key": "vegetable-oil", "name": "Oil", "amount": "for deep frying", "category": "seasoning" }
     ],
     "steps": [
@@ -221,12 +221,12 @@
     "title": "Madeleine Cake",
     "tags": ["bakery", "dessert"],
     "ingredients": [
-      { "key": "cake-flour", "name": "Cake Flour", "amount": "125g", "category": "seasoning" },
+      { "key": "cake-flour", "name": "Cake Flour", "amount": "125g", "category": "pantry" },
       { "key": "sugar", "name": "Sugar", "amount": "125g", "category": "seasoning" },
-      { "key": "baking-powder", "name": "Baking Powder", "amount": "5g", "category": "seasoning" },
+      { "key": "baking-powder", "name": "Baking Powder", "amount": "5g", "category": "pantry" },
       { "key": "salt", "name": "Salt", "amount": "1.5g", "category": "seasoning" },
       { "key": "citrus", "name": "Citrus Zest", "amount": "from 2", "category": "veggie" },
-      { "key": "butter", "name": "Butter", "amount": "130g", "category": "seasoning" },
+      { "key": "butter", "name": "Butter", "amount": "130g", "category": "dairy" },
       { "key": "egg", "name": "Eggs", "amount": "175g (~3.5 large)", "category": "meat" }
     ],
     "steps": [
@@ -283,12 +283,12 @@
     "title": "Antonio Carluccio's Real Carbonara",
     "tags": ["dish"],
     "ingredients": [
-      { "key": "spaghettoni", "name": "Spaghettoni", "amount": "for 2 people", "category": "seasoning" },
+      { "key": "spaghettoni", "name": "Spaghettoni", "amount": "for 2 people", "category": "pantry" },
       { "key": "guanciale-pancetta", "name": "Guanciale or pancetta", "amount": "cubed", "category": "meat" },
       { "key": "olive-oil", "name": "Good quality olive oil", "amount": "a splash", "category": "seasoning" },
       { "key": "egg", "name": "Large, fresh eggs", "amount": "2", "category": "meat" },
       { "key": "egg-yolk", "name": "Extra egg yolk", "amount": "1 (optional)", "category": "meat" },
-      { "key": "parmesan-pecorino", "name": "Parmesan or Pecorino cheese", "amount": "generous amount", "category": "seasoning" },
+      { "key": "parmesan-pecorino", "name": "Parmesan or Pecorino cheese", "amount": "generous amount", "category": "dairy" },
       { "key": "black-pepper", "name": "Black pepper", "amount": "freshly ground", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "amount": "for pasta water", "category": "seasoning" }
     ],
@@ -315,11 +315,11 @@
     "title": "Milk Steamed Buns",
     "tags": ["bakery"],
     "ingredients": [
-      { "key": "flour", "name": "All-purpose Flour", "amount": "200g", "category": "seasoning" },
-      { "key": "yeast", "name": "Yeast Powder", "amount": "2g", "category": "seasoning" },
+      { "key": "flour", "name": "All-purpose Flour", "amount": "200g", "category": "pantry" },
+      { "key": "yeast", "name": "Yeast Powder", "amount": "2g", "category": "pantry" },
       { "key": "sugar", "name": "Sugar", "amount": "15g", "category": "seasoning" },
       { "key": "milk", "name": "Milk", "amount": "100g", "category": "dairy" },
-      { "key": "warm-water", "name": "Warm Water (40°C)", "amount": "20g", "category": "seasoning" },
+      { "key": "warm-water", "name": "Warm Water (40°C)", "amount": "20g", "category": "pantry" },
       { "key": "oil", "name": "Oil", "amount": "15g", "category": "seasoning" }
     ],
     "steps": [
@@ -347,9 +347,9 @@
       { "key": "milk", "name": "Milk", "amount": "200g", "category": "dairy" },
       { "key": "sugar", "name": "Caster Sugar", "amount": "50g", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "amount": "1.5g", "category": "seasoning" },
-      { "key": "butter", "name": "Butter (melted)", "amount": "30g", "category": "seasoning" },
-      { "key": "milk-powder", "name": "Milk Powder", "amount": "20g", "category": "seasoning" },
-      { "key": "glutinous-rice-flour", "name": "Glutinous Rice Flour", "amount": "160g", "category": "seasoning" }
+      { "key": "butter", "name": "Butter (melted)", "amount": "30g", "category": "dairy" },
+      { "key": "milk-powder", "name": "Milk Powder", "amount": "20g", "category": "dairy" },
+      { "key": "glutinous-rice-flour", "name": "Glutinous Rice Flour", "amount": "160g", "category": "pantry" }
     ],
     "steps": [
       "In a bowl, add milk, egg, melted butter, caster sugar, and salt. Stir until the sugar and salt are completely dissolved.",
@@ -369,7 +369,7 @@
     "ingredients": [
       { "key": "taro", "name": "Taro", "amount": "500g (steamed)", "category": "veggie" },
       { "key": "sugar", "name": "Caster Sugar", "amount": "75g", "category": "seasoning" },
-      { "key": "butter", "name": "Butter", "amount": "25g", "category": "seasoning" }
+      { "key": "butter", "name": "Butter", "amount": "25g", "category": "dairy" }
     ],
     "steps": [
       "Peel and chop the taro, then steam for 30 minutes.",
@@ -435,7 +435,7 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "matsutake-mushroom", "name": "Matsutake Mushroom", "category": "veggie" },
-      { "key": "butter", "name": "Butter", "category": "seasoning" },
+      { "key": "butter", "name": "Butter", "category": "dairy" },
       { "key": "salt", "name": "Salt", "category": "seasoning" },
       { "key": "black-pepper", "name": "Black Pepper", "category": "seasoning" }
     ],

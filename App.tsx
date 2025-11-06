@@ -218,7 +218,9 @@ const App: React.FC = () => {
             {uiText.filterTitle}
           </h2>
           <div className="space-y-6">
-            {(Object.keys(groupedIngredients) as IngredientCategory[]).map(category =>
+            {(Object.keys(groupedIngredients) as IngredientCategory[])
+              .filter(category => category !== 'seasoning')
+              .map(category =>
               groupedIngredients[category] && groupedIngredients[category].length > 0 && (
                 <div key={category}>
                   <h3 className="text-lg font-semibold text-primary-500 dark:text-primary-400 mb-3 border-b border-slate-300 dark:border-slate-700 pb-2 capitalize">
