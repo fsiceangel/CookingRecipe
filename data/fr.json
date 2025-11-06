@@ -9,7 +9,7 @@
         {"key": "salt", "name": "Sel", "amount": "8g", "category": "seasoning"},
         {"key": "sugar", "name": "Sucre", "amount": "4g", "category": "seasoning"},
         {"key": "msg", "name": "Glutamate monosodique", "amount": "2g", "category": "seasoning"},
-        {"key": "cornstarch", "name": "Fécule de maïs", "amount": "15g", "category": "seasoning"},
+        {"key": "cornstarch", "name": "Fécule de maïs", "amount": "15g", "category": "pantry"},
         {"key": "ice-cubes", "name": "Glaçons", "amount": "50g", "category": "seasoning"},
         {"key": "beef-tallow", "name": "Morceaux de suif de boeuf", "category": "meat"},
         {"key": "beef-tendon", "name": "Morceaux de tendon de boeuf", "category": "meat"},
@@ -64,7 +64,7 @@
         {"key": "vinegar", "name": "Vinaigre", "category": "seasoning"},
         {"key": "sugar", "name": "Sucre", "category": "seasoning"},
         {"key": "cooking-wine", "name": "Vin de cuisine", "category": "seasoning"},
-        {"key": "cornstarch", "name": "Fécule", "category": "seasoning"}
+        {"key": "cornstarch", "name": "Fécule", "category": "pantry"}
       ],
       "steps": [
         "Couper la poitrine de poulet en dés, mariner avec du sel, du vin de cuisine et de la fécule pendant 15 minutes.",
@@ -94,7 +94,7 @@
         { "key": "msg", "name": "Glutamate", "amount": "2g", "category": "seasoning" },
         { "key": "pepper-powder", "name": "Poivre blanc", "amount": "2g", "category": "seasoning" },
         { "key": "scallion-ginger-water", "name": "Eau de ciboule et gingembre", "amount": "300g", "category": "seasoning" },
-        { "key": "cornstarch", "name": "Fécule de maïs", "amount": "120g", "category": "seasoning" },
+        { "key": "cornstarch", "name": "Fécule de maïs", "amount": "120g", "category": "pantry" },
         { "key": "soy-sauce", "name": "Sauce soja", "amount": "80g", "category": "seasoning" },
         { "key": "cooking-wine", "name": "Vin de Shaoxing", "amount": "100g", "category": "seasoning" },
         { "key": "scallion", "name": "Ciboule", "amount": "100g", "category": "veggie" },
@@ -130,13 +130,13 @@
       "title": "Pound Cake d'Evelyn Jemerson",
       "tags": ["bakery", "dessert"],
       "ingredients": [
-        { "key": "parkay-margarine", "name": "Margarine Parkay", "amount": "2 bâtonnets", "category": "seasoning" },
-        { "key": "butter", "name": "Beurre", "amount": "1 bâtonnet", "category": "seasoning" },
+        { "key": "parkay-margarine", "name": "Margarine Parkay", "amount": "2 bâtonnets", "category": "dairy" },
+        { "key": "butter", "name": "Beurre", "amount": "1 bâtonnet", "category": "dairy" },
         { "key": "cream-cheese", "name": "Fromage à la crème", "amount": "225g", "category": "dairy" },
         { "key": "sugar", "name": "Sucre", "amount": "3 tasses", "category": "seasoning" },
         { "key": "egg", "name": "Gros oeufs", "amount": "6", "category": "meat" },
         { "key": "vanilla-extract", "name": "Vanille", "amount": "1-2 c.à.c", "category": "seasoning" },
-        { "key": "flour", "name": "Farine", "amount": "3 tasses", "category": "seasoning" }
+        { "key": "flour", "name": "Farine", "amount": "3 tasses", "category": "pantry" }
       ],
       "steps": [
         "Avoir la margarine, le beurre et le fromage à la crème à température ambiante.",
@@ -169,7 +169,7 @@
         { "key": "scallion", "name": "Ciboule", "amount": "250g", "category": "veggie" },
         { "key": "ginger", "name": "Gingembre", "amount": "250g", "category": "veggie" },
         { "key": "huadiao-wine", "name": "Vin de Huadiao", "amount": "au besoin", "category": "seasoning" },
-        { "key": "water", "name": "Eau", "amount": "3L", "category": "seasoning" },
+        { "key": "water", "name": "Eau", "amount": "3L", "category": "pantry" },
         { "key": "soy-sauce", "name": "Sauce Soja", "amount": "100g", "category": "seasoning" },
         { "key": "chili-pepper", "name": "Piments séchés", "amount": "3", "category": "veggie" },
         { "key": "bay-leaf", "name": "Feuilles de laurier", "amount": "3", "category": "seasoning" },
@@ -195,16 +195,16 @@
       "tags": ["dish"],
       "ingredients": [
         { "key": "potato", "name": "Pommes de terre", "amount": "300g", "category": "veggie" },
-        { "key": "butter", "name": "Beurre", "amount": "10g", "category": "seasoning" },
+        { "key": "butter", "name": "Beurre", "amount": "10g", "category": "dairy" },
         { "key": "onion", "name": "Oignon", "amount": "100g", "category": "veggie" },
         { "key": "minced-meat", "name": "Viande hachée", "amount": "100g", "category": "meat" },
         { "key": "salt", "name": "Sel", "amount": "2g", "category": "seasoning" },
         { "key": "sugar", "name": "Sucre", "amount": "2g", "category": "seasoning" },
         { "key": "black-pepper", "name": "Poivre noir", "amount": "1g", "category": "seasoning" },
-        { "key": "light-cream", "name": "Crème légère", "amount": "20g", "category": "seasoning" },
-        { "key": "flour", "name": "Farine", "amount": "pour l'enrobage", "category": "seasoning" },
+        { "key": "light-cream", "name": "Crème légère", "amount": "20g", "category": "dairy" },
+        { "key": "flour", "name": "Farine", "amount": "pour l'enrobage", "category": "pantry" },
         { "key": "egg", "name": "Œuf", "amount": "pour l'enrobage", "category": "meat" },
-        { "key": "panko", "name": "Panko (Chapelure)", "amount": "pour l'enrobage", "category": "seasoning" },
+        { "key": "panko", "name": "Panko (Chapelure)", "amount": "pour l'enrobage", "category": "pantry" },
         { "key": "vegetable-oil", "name": "Huile", "amount": "pour la friture", "category": "seasoning" }
       ],
       "steps": [
@@ -221,12 +221,12 @@
       "title": "Madeleines",
       "tags": ["bakery", "dessert"],
       "ingredients": [
-        { "key": "cake-flour", "name": "Farine à gâteau", "amount": "125g", "category": "seasoning" },
+        { "key": "cake-flour", "name": "Farine à gâteau", "amount": "125g", "category": "pantry" },
         { "key": "sugar", "name": "Sucre", "amount": "125g", "category": "seasoning" },
-        { "key": "baking-powder", "name": "Levure chimique", "amount": "5g", "category": "seasoning" },
+        { "key": "baking-powder", "name": "Levure chimique", "amount": "5g", "category": "pantry" },
         { "key": "salt", "name": "Sel", "amount": "1.5g", "category": "seasoning" },
         { "key": "citrus", "name": "Zeste d'agrumes", "amount": "de 2", "category": "veggie" },
-        { "key": "butter", "name": "Beurre", "amount": "130g", "category": "seasoning" },
+        { "key": "butter", "name": "Beurre", "amount": "130g", "category": "dairy" },
         { "key": "egg", "name": "Oeufs", "amount": "175g (~3.5 gros)", "category": "meat" }
       ],
       "steps": [
@@ -283,12 +283,12 @@
       "title": "La Vraie Carbonara d'Antonio Carluccio",
       "tags": ["dish"],
       "ingredients": [
-        { "key": "spaghettoni", "name": "Spaghettoni", "amount": "pour 2 personnes", "category": "seasoning" },
+        { "key": "spaghettoni", "name": "Spaghettoni", "amount": "pour 2 personnes", "category": "pantry" },
         { "key": "guanciale-pancetta", "name": "Guanciale ou pancetta", "amount": "en cubes", "category": "meat" },
         { "key": "olive-oil", "name": "Huile d'olive de bonne qualité", "amount": "un filet", "category": "seasoning" },
         { "key": "egg", "name": "Gros œufs frais", "amount": "2", "category": "meat" },
         { "key": "egg-yolk", "name": "Jaune d'œuf supplémentaire", "amount": "1 (facultatif)", "category": "meat" },
-        { "key": "parmesan-pecorino", "name": "Parmesan ou Pecorino", "amount": "généreuse quantité", "category": "seasoning" },
+        { "key": "parmesan-pecorino", "name": "Parmesan ou Pecorino", "amount": "généreuse quantité", "category": "dairy" },
         { "key": "black-pepper", "name": "Poivre noir", "amount": "fraîchement moulu", "category": "seasoning" },
         { "key": "salt", "name": "Sel", "amount": "pour l'eau des pâtes", "category": "seasoning" }
       ],
@@ -315,11 +315,11 @@
       "title": "Brioches à la vapeur au lait",
       "tags": ["bakery"],
       "ingredients": [
-        { "key": "flour", "name": "Farine tout usage", "amount": "200g", "category": "seasoning" },
-        { "key": "yeast", "name": "Levure en poudre", "amount": "2g", "category": "seasoning" },
+        { "key": "flour", "name": "Farine tout usage", "amount": "200g", "category": "pantry" },
+        { "key": "yeast", "name": "Levure en poudre", "amount": "2g", "category": "pantry" },
         { "key": "sugar", "name": "Sucre", "amount": "15g", "category": "seasoning" },
         { "key": "milk", "name": "Lait", "amount": "100g", "category": "dairy" },
-        { "key": "warm-water", "name": "Eau tiède (40°C)", "amount": "20g", "category": "seasoning" },
+        { "key": "warm-water", "name": "Eau tiède (40°C)", "amount": "20g", "category": "pantry" },
         { "key": "oil", "name": "Huile", "amount": "15g", "category": "seasoning" }
       ],
       "steps": [
@@ -347,9 +347,9 @@
         { "key": "milk", "name": "Lait", "amount": "200g", "category": "dairy" },
         { "key": "sugar", "name": "Sucre en poudre", "amount": "50g", "category": "seasoning" },
         { "key": "salt", "name": "Sel", "amount": "1.5g", "category": "seasoning" },
-        { "key": "butter", "name": "Beurre (fondu)", "amount": "30g", "category": "seasoning" },
-        { "key": "milk-powder", "name": "Lait en poudre", "amount": "20g", "category": "seasoning" },
-        { "key": "glutinous-rice-flour", "name": "Farine de riz gluant", "amount": "160g", "category": "seasoning" }
+        { "key": "butter", "name": "Beurre (fondu)", "amount": "30g", "category": "dairy" },
+        { "key": "milk-powder", "name": "Lait en poudre", "amount": "20g", "category": "dairy" },
+        { "key": "glutinous-rice-flour", "name": "Farine de riz gluant", "amount": "160g", "category": "pantry" }
       ],
       "steps": [
         "Dans un bol, ajouter le lait, l'œuf, le beurre fondu, le sucre en poudre et le sel. Remuer jusqu'à ce que le sucre et le sel soient complètement dissous.",
@@ -369,7 +369,7 @@
       "ingredients": [
         { "key": "taro", "name": "Taro", "amount": "500g (cuit à la vapeur)", "category": "veggie" },
         { "key": "sugar", "name": "Sucre en poudre", "amount": "75g", "category": "seasoning" },
-        { "key": "butter", "name": "Beurre", "amount": "25g", "category": "seasoning" }
+        { "key": "butter", "name": "Beurre", "amount": "25g", "category": "dairy" }
       ],
       "steps": [
         "Peler et couper le taro en morceaux, puis cuire à la vapeur pendant 30 minutes.",
@@ -435,7 +435,7 @@
       "tags": ["dish"],
       "ingredients": [
         { "key": "matsutake-mushroom", "name": "Champignon Matsutake", "category": "veggie" },
-        { "key": "butter", "name": "Beurre", "category": "seasoning" },
+        { "key": "butter", "name": "Beurre", "category": "dairy" },
         { "key": "salt", "name": "Sel", "category": "seasoning" },
         { "key": "black-pepper", "name": "Poivre noir", "category": "seasoning" }
       ],

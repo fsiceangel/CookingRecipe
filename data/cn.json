@@ -9,7 +9,7 @@
       {"key": "salt", "name": "盐", "amount": "8g", "category": "seasoning"},
       {"key": "sugar", "name": "白糖", "amount": "4g", "category": "seasoning"},
       {"key": "msg", "name": "味精", "amount": "2g", "category": "seasoning"},
-      {"key": "cornstarch", "name": "玉米淀粉", "amount": "15g", "category": "seasoning"},
+      {"key": "cornstarch", "name": "玉米淀粉", "amount": "15g", "category": "pantry"},
       {"key": "ice-cubes", "name": "冰块", "amount": "50g", "category": "seasoning"},
       {"key": "beef-tallow", "name": "牛油粒", "category": "meat"},
       {"key": "beef-tendon", "name": "牛筋粒", "category": "meat"},
@@ -64,7 +64,7 @@
       {"key": "vinegar", "name": "醋", "category": "seasoning"},
       {"key": "sugar", "name": "白糖", "category": "seasoning"},
       {"key": "cooking-wine", "name": "料酒", "category": "seasoning"},
-      {"key": "cornstarch", "name": "淀粉", "category": "seasoning"}
+      {"key": "cornstarch", "name": "淀粉", "category": "pantry"}
     ],
     "steps": [
       "鸡胸肉切丁，加盐、料酒、淀粉腌制15分钟。",
@@ -94,7 +94,7 @@
       { "key": "msg", "name": "味精", "amount": "2g", "category": "seasoning" },
       { "key": "pepper-powder", "name": "胡椒粉", "amount": "2g", "category": "seasoning" },
       { "key": "scallion-ginger-water", "name": "葱姜水", "amount": "300g", "category": "seasoning" },
-      { "key": "cornstarch", "name": "淀粉", "amount": "120g", "category": "seasoning" },
+      { "key": "cornstarch", "name": "淀粉", "amount": "120g", "category": "pantry" },
       { "key": "soy-sauce", "name": "味达美鲜味酱油", "amount": "80g", "category": "seasoning" },
       { "key": "cooking-wine", "name": "黄酒", "amount": "100g", "category": "seasoning" },
       { "key": "scallion", "name": "葱", "amount": "100g", "category": "veggie" },
@@ -130,13 +130,13 @@
     "title": "伊芙琳·杰默森的磅蛋糕",
     "tags": ["bakery", "dessert"],
     "ingredients": [
-      { "key": "parkay-margarine", "name": "Parkay 人造黄油", "amount": "2条", "category": "seasoning" },
-      { "key": "butter", "name": "黄油", "amount": "1条", "category": "seasoning" },
+      { "key": "parkay-margarine", "name": "Parkay 人造黄油", "amount": "2条", "category": "dairy" },
+      { "key": "butter", "name": "黄油", "amount": "1条", "category": "dairy" },
       { "key": "cream-cheese", "name": "奶油奶酪", "amount": "8盎司", "category": "dairy" },
       { "key": "sugar", "name": "白糖", "amount": "3杯", "category": "seasoning" },
       { "key": "egg", "name": "大号鸡蛋", "amount": "6个", "category": "meat" },
       { "key": "vanilla-extract", "name": "香草精", "amount": "1-2茶匙", "category": "seasoning" },
-      { "key": "flour", "name": "面粉", "amount": "3杯", "category": "seasoning" }
+      { "key": "flour", "name": "面粉", "amount": "3杯", "category": "pantry" }
     ],
     "steps": [
       "将人造黄油、黄油和奶油奶酪置于室温下。",
@@ -169,7 +169,7 @@
       { "key": "scallion", "name": "大葱", "amount": "250g", "category": "veggie" },
       { "key": "ginger", "name": "姜", "amount": "250g", "category": "veggie" },
       { "key": "huadiao-wine", "name": "花雕酒", "amount": "适量", "category": "seasoning" },
-      { "key": "water", "name": "水", "amount": "6斤", "category": "seasoning" },
+      { "key": "water", "name": "水", "amount": "6斤", "category": "pantry" },
       { "key": "soy-sauce", "name": "酱油", "amount": "100g", "category": "seasoning" },
       { "key": "chili-pepper", "name": "干辣椒", "amount": "3个", "category": "veggie" },
       { "key": "bay-leaf", "name": "香叶", "amount": "3片", "category": "seasoning" },
@@ -195,16 +195,16 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "potato", "name": "土豆", "amount": "300g", "category": "veggie" },
-      { "key": "butter", "name": "黄油", "amount": "10g", "category": "seasoning" },
+      { "key": "butter", "name": "黄油", "amount": "10g", "category": "dairy" },
       { "key": "onion", "name": "洋葱", "amount": "100g", "category": "veggie" },
       { "key": "minced-meat", "name": "肉沫", "amount": "100g", "category": "meat" },
       { "key": "salt", "name": "盐", "amount": "2g", "category": "seasoning" },
       { "key": "sugar", "name": "糖", "amount": "2g", "category": "seasoning" },
       { "key": "black-pepper", "name": "黑胡椒", "amount": "1g", "category": "seasoning" },
-      { "key": "light-cream", "name": "淡奶油", "amount": "20g", "category": "seasoning" },
-      { "key": "flour", "name": "面粉", "amount": "适量", "category": "seasoning" },
+      { "key": "light-cream", "name": "淡奶油", "amount": "20g", "category": "dairy" },
+      { "key": "flour", "name": "面粉", "amount": "适量", "category": "pantry" },
       { "key": "egg", "name": "鸡蛋", "amount": "适量", "category": "meat" },
-      { "key": "panko", "name": "面包糠", "amount": "适量", "category": "seasoning" },
+      { "key": "panko", "name": "面包糠", "amount": "适量", "category": "pantry" },
       { "key": "vegetable-oil", "name": "油", "amount": "用于油炸", "category": "seasoning" }
     ],
     "steps": [
@@ -221,12 +221,12 @@
     "title": "玛德琳蛋糕",
     "tags": ["bakery", "dessert"],
     "ingredients": [
-      { "key": "cake-flour", "name": "低筋粉", "amount": "125g", "category": "seasoning" },
+      { "key": "cake-flour", "name": "低筋粉", "amount": "125g", "category": "pantry" },
       { "key": "sugar", "name": "糖", "amount": "125g", "category": "seasoning" },
-      { "key": "baking-powder", "name": "泡打粉", "amount": "5g", "category": "seasoning" },
+      { "key": "baking-powder", "name": "泡打粉", "amount": "5g", "category": "pantry" },
       { "key": "salt", "name": "盐", "amount": "1.5g", "category": "seasoning" },
       { "key": "citrus", "name": "柑橘皮", "amount": "2颗", "category": "veggie" },
-      { "key": "butter", "name": "黄油", "amount": "130g", "category": "seasoning" },
+      { "key": "butter", "name": "黄油", "amount": "130g", "category": "dairy" },
       { "key": "egg", "name": "鸡蛋", "amount": "175g (约3.5个)", "category": "meat" }
     ],
     "steps": [
@@ -283,12 +283,12 @@
     "title": "安东尼奥·卡路奇奥的正宗卡邦尼意面",
     "tags": ["dish"],
     "ingredients": [
-      { "key": "spaghettoni", "name": "意式粗面", "amount": "2人份", "category": "seasoning" },
+      { "key": "spaghettoni", "name": "意式粗面", "amount": "2人份", "category": "pantry" },
       { "key": "guanciale-pancetta", "name": "猪脸颊肉(Guanciale)或意式烟肉(pancetta)", "amount": "切丁", "category": "meat" },
       { "key": "olive-oil", "name": "优质橄榄油", "amount": "少量", "category": "seasoning" },
       { "key": "egg", "name": "大号新鲜鸡蛋", "amount": "2个", "category": "meat" },
       { "key": "egg-yolk", "name": "额外蛋黄", "amount": "1个 (可选)", "category": "meat" },
-      { "key": "parmesan-pecorino", "name": "帕玛森或佩克里诺芝士", "amount": "大量", "category": "seasoning" },
+      { "key": "parmesan-pecorino", "name": "帕玛森或佩克里诺芝士", "amount": "大量", "category": "dairy" },
       { "key": "black-pepper", "name": "黑胡椒", "amount": "现磨", "category": "seasoning" },
       { "key": "salt", "name": "盐", "amount": "用于煮面", "category": "seasoning" }
     ],
@@ -315,11 +315,11 @@
     "title": "牛奶馒头",
     "tags": ["bakery"],
     "ingredients": [
-      { "key": "flour", "name": "中筋面粉", "amount": "200克", "category": "seasoning" },
-      { "key": "yeast", "name": "酵母粉", "amount": "2克", "category": "seasoning" },
+      { "key": "flour", "name": "中筋面粉", "amount": "200克", "category": "pantry" },
+      { "key": "yeast", "name": "酵母粉", "amount": "2克", "category": "pantry" },
       { "key": "sugar", "name": "糖", "amount": "15克", "category": "seasoning" },
       { "key": "milk", "name": "牛奶", "amount": "100克", "category": "dairy" },
-      { "key": "warm-water", "name": "温水(40℃)", "amount": "20克", "category": "seasoning" },
+      { "key": "warm-water", "name": "温水(40℃)", "amount": "20克", "category": "pantry" },
       { "key": "oil", "name": "油", "amount": "15克", "category": "seasoning" }
     ],
     "steps": [
@@ -347,9 +347,9 @@
       { "key": "milk", "name": "牛奶", "amount": "200克", "category": "dairy" },
       { "key": "sugar", "name": "细砂糖", "amount": "50克", "category": "seasoning" },
       { "key": "salt", "name": "盐", "amount": "1.5克", "category": "seasoning" },
-      { "key": "butter", "name": "黄油 (融化)", "amount": "30克", "category": "seasoning" },
-      { "key": "milk-powder", "name": "奶粉", "amount": "20克", "category": "seasoning" },
-      { "key": "glutinous-rice-flour", "name": "糯米粉", "amount": "160克", "category": "seasoning" }
+      { "key": "butter", "name": "黄油 (融化)", "amount": "30克", "category": "dairy" },
+      { "key": "milk-powder", "name": "奶粉", "amount": "20克", "category": "dairy" },
+      { "key": "glutinous-rice-flour", "name": "糯米粉", "amount": "160克", "category": "pantry" }
     ],
     "steps": [
       "在碗中加入牛奶、鸡蛋、融化的黄油、细砂糖和盐，搅拌至糖和盐完全融化。",
@@ -369,7 +369,7 @@
     "ingredients": [
       { "key": "taro", "name": "荔浦芋头", "amount": "500克 (蒸熟后)", "category": "veggie" },
       { "key": "sugar", "name": "细砂糖", "amount": "75克", "category": "seasoning" },
-      { "key": "butter", "name": "黄油", "amount": "25克", "category": "seasoning" }
+      { "key": "butter", "name": "黄油", "amount": "25克", "category": "dairy" }
     ],
     "steps": [
       "芋头去皮切块，上锅蒸30分钟。",
@@ -435,7 +435,7 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "matsutake-mushroom", "name": "松茸", "category": "veggie" },
-      { "key": "butter", "name": "黄油", "category": "seasoning" },
+      { "key": "butter", "name": "黄油", "category": "dairy" },
       { "key": "salt", "name": "盐", "category": "seasoning" },
       { "key": "black-pepper", "name": "黑胡椒", "category": "seasoning" }
     ],
@@ -497,76 +497,20 @@
       "dish"
     ],
     "ingredients": [
-      {
-        "key": "pork-belly",
-        "name": "五花肉",
-        "category": "meat"
-      },
-      {
-        "key": "scallion",
-        "name": "葱",
-        "category": "veggie"
-      },
-      {
-        "key": "ginger",
-        "name": "姜",
-        "category": "veggie"
-      },
-      {
-        "key": "star-anise",
-        "name": "八角",
-        "category": "seasoning"
-      },
-      {
-        "key": "cinnamon-bark",
-        "name": "桂皮",
-        "category": "seasoning"
-      },
-      {
-        "key": "bay-leaf",
-        "name": "香叶",
-        "category": "seasoning"
-      },
-      {
-        "key": "sichuan-peppercorn",
-        "name": "花椒",
-        "category": "seasoning"
-      },
-      {
-        "key": "huadiao-wine",
-        "name": "花雕酒",
-        "category": "seasoning"
-      },
-      {
-        "key": "soft-white-sugar",
-        "name": "绵白糖",
-        "category": "seasoning"
-      },
-      {
-        "key": "soy-sauce",
-        "name": "酱油",
-        "category": "seasoning"
-      },
-      {
-        "key": "yellow-wine",
-        "name": "黄酒",
-        "category": "seasoning"
-      },
-      {
-        "key": "pepper-powder",
-        "name": "胡椒",
-        "category": "seasoning"
-      },
-      {
-        "key": "salt",
-        "name": "盐",
-        "category": "seasoning"
-      },
-      {
-        "key": "oil",
-        "name": "油",
-        "category": "seasoning"
-      }
+      { "key": "pork-belly", "name": "五花肉", "category": "meat" },
+      { "key": "scallion", "name": "葱", "category": "veggie" },
+      { "key": "ginger", "name": "姜", "category": "veggie" },
+      { "key": "star-anise", "name": "八角", "category": "seasoning" },
+      { "key": "cinnamon-bark", "name": "桂皮", "category": "seasoning" },
+      { "key": "bay-leaf", "name": "香叶", "category": "seasoning" },
+      { "key": "sichuan-peppercorn", "name": "花椒", "category": "seasoning" },
+      { "key": "huadiao-wine", "name": "花雕酒", "category": "seasoning" },
+      { "key": "soft-white-sugar", "name": "绵白糖", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "yellow-wine", "name": "黄酒", "category": "seasoning" },
+      { "key": "pepper-powder", "name": "胡椒", "category": "seasoning" },
+      { "key": "salt", "name": "盐", "category": "seasoning" },
+      { "key": "oil", "name": "油", "category": "seasoning" }
     ],
     "steps": [
       "先将洗好的五花肉切成小块。",
@@ -596,71 +540,19 @@
       "dish"
     ],
     "ingredients": [
-      {
-        "key": "pork-belly",
-        "name": "五花肉",
-        "category": "meat"
-      },
-      {
-        "key": "red-dates",
-        "name": "红枣",
-        "category": "veggie"
-      },
-      {
-        "key": "white-sugar",
-        "name": "白糖",
-        "category": "seasoning"
-      },
-      {
-        "key": "light-soy-sauce",
-        "name": "生抽",
-        "category": "seasoning"
-      },
-      {
-        "key": "dark-soy-sauce",
-        "name": "老抽",
-        "category": "seasoning"
-      },
-      {
-        "key": "star-anise",
-        "name": "大料",
-        "category": "seasoning"
-      },
-      {
-        "key": "cinnamon-bark",
-        "name": "桂皮",
-        "category": "seasoning"
-      },
-      {
-        "key": "scallion",
-        "name": "葱",
-        "category": "veggie"
-      },
-      {
-        "key": "ginger",
-        "name": "姜",
-        "category": "veggie"
-      },
-      {
-        "key": "cooking-wine",
-        "name": "料酒",
-        "category": "seasoning"
-      },
-      {
-        "key": "oil",
-        "name": "油",
-        "category": "seasoning"
-      },
-      {
-        "key": "salt",
-        "name": "盐",
-        "category": "seasoning"
-      },
-      {
-        "key": "msg",
-        "name": "味精",
-        "category": "seasoning"
-      }
+      { "key": "pork-belly", "name": "五花肉", "category": "meat" },
+      { "key": "red-dates", "name": "红枣", "category": "veggie" },
+      { "key": "white-sugar", "name": "白糖", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "生抽", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "老抽", "category": "seasoning" },
+      { "key": "star-anise", "name": "大料", "category": "seasoning" },
+      { "key": "cinnamon-bark", "name": "桂皮", "category": "seasoning" },
+      { "key": "scallion", "name": "葱", "category": "veggie" },
+      { "key": "ginger", "name": "姜", "category": "veggie" },
+      { "key": "cooking-wine", "name": "料酒", "category": "seasoning" },
+      { "key": "oil", "name": "油", "category": "seasoning" },
+      { "key": "salt", "name": "盐", "category": "seasoning" },
+      { "key": "msg", "name": "味精", "category": "seasoning" }
     ],
     "steps": [
       "猪五花修整。",
@@ -692,41 +584,13 @@
       "dish"
     ],
     "ingredients": [
-      {
-        "key": "tomato",
-        "name": "西红柿",
-        "category": "veggie"
-      },
-      {
-        "key": "egg",
-        "name": "鸡蛋",
-        "category": "meat"
-      },
-      {
-        "key": "scallion",
-        "name": "葱",
-        "category": "veggie"
-      },
-      {
-        "key": "oil",
-        "name": "油",
-        "category": "seasoning"
-      },
-      {
-        "key": "soy-sauce",
-        "name": "酱油",
-        "category": "seasoning"
-      },
-      {
-        "key": "sugar",
-        "name": "糖",
-        "category": "seasoning"
-      },
-      {
-        "key": "salt",
-        "name": "盐",
-        "category": "seasoning"
-      }
+      { "key": "tomato", "name": "西红柿", "category": "veggie" },
+      { "key": "egg", "name": "鸡蛋", "category": "meat" },
+      { "key": "scallion", "name": "葱", "category": "veggie" },
+      { "key": "oil", "name": "油", "category": "seasoning" },
+      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "sugar", "name": "糖", "category": "seasoning" },
+      { "key": "salt", "name": "盐", "category": "seasoning" }
     ],
     "steps": [
       "在锅中放水烧开，将西红柿烫一下，然后去皮。",
