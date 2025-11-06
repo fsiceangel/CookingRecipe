@@ -318,7 +318,7 @@
       { "key": "flour", "name": "All-purpose Flour", "amount": "200g", "category": "seasoning" },
       { "key": "yeast", "name": "Yeast Powder", "amount": "2g", "category": "seasoning" },
       { "key": "sugar", "name": "Sugar", "amount": "15g", "category": "seasoning" },
-      { "key": "milk", "name": "Milk", "amount": "100g", "category": "seasoning" },
+      { "key": "milk", "name": "Milk", "amount": "100g", "category": "dairy" },
       { "key": "warm-water", "name": "Warm Water (40°C)", "amount": "20g", "category": "seasoning" },
       { "key": "oil", "name": "Oil", "amount": "15g", "category": "seasoning" }
     ],
@@ -344,7 +344,7 @@
     "tags": ["bakery", "dessert"],
     "ingredients": [
       { "key": "egg", "name": "Whole Egg", "amount": "50g", "category": "meat" },
-      { "key": "milk", "name": "Milk", "amount": "200g", "category": "seasoning" },
+      { "key": "milk", "name": "Milk", "amount": "200g", "category": "dairy" },
       { "key": "sugar", "name": "Caster Sugar", "amount": "50g", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "amount": "1.5g", "category": "seasoning" },
       { "key": "butter", "name": "Butter (melted)", "amount": "30g", "category": "seasoning" },

@@ -318,7 +318,7 @@
       { "key": "flour", "name": "中筋面粉", "amount": "200克", "category": "seasoning" },
       { "key": "yeast", "name": "酵母粉", "amount": "2克", "category": "seasoning" },
       { "key": "sugar", "name": "糖", "amount": "15克", "category": "seasoning" },
-      { "key": "milk", "name": "牛奶", "amount": "100克", "category": "seasoning" },
+      { "key": "milk", "name": "牛奶", "amount": "100克", "category": "dairy" },
       { "key": "warm-water", "name": "温水(40℃)", "amount": "20克", "category": "seasoning" },
       { "key": "oil", "name": "油", "amount": "15克", "category": "seasoning" }
     ],
@@ -344,7 +344,7 @@
     "tags": ["bakery", "dessert"],
     "ingredients": [
       { "key": "egg", "name": "全蛋液", "amount": "50克", "category": "meat" },
-      { "key": "milk", "name": "牛奶", "amount": "200克", "category": "seasoning" },
+      { "key": "milk", "name": "牛奶", "amount": "200克", "category": "dairy" },
       { "key": "sugar", "name": "细砂糖", "amount": "50克", "category": "seasoning" },
       { "key": "salt", "name": "盐", "amount": "1.5克", "category": "seasoning" },
       { "key": "butter", "name": "黄油 (融化)", "amount": "30克", "category": "seasoning" },
