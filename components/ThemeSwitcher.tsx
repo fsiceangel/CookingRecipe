@@ -1,7 +1,6 @@
 import React from 'react';
 import { SunIcon, MoonIcon } from './Icons';
-
-type Theme = 'light' | 'dark';
+import { Theme } from '../utils/theme';
 
 interface ThemeSwitcherProps {
   theme: Theme;

@@ -7,22 +7,15 @@ import IngredientChip from './components/IngredientChip';
 import LanguageSwitcher from './components/LanguageSwitcher';
 import ThemeSwitcher from './components/ThemeSwitcher';
 import { LoadingIcon, SearchIcon, ChefHatIcon, CategoryIcon } from './components/Icons';
+import { getInitialTheme, applyTheme, Theme } from './utils/theme';
 
 type Language = 'en' | 'cn' | 'fr';
-type Theme = 'light' | 'dark';
 
 const TAG_CATEGORIES: (Tag | 'all')[] = ['all', 'dish', 'bakery', 'dessert'];
 
 const App: React.FC = () => {
   const [language, setLanguage] = useState<Language>('cn');
-  const [theme, setTheme] = useState<Theme>(() => {
-    if (typeof window !== 'undefined' && window.localStorage) {
-      if (localStorage.theme === 'light') {
-        return 'light';
-      }
-    }
-    return 'dark'; // Default to dark mode
-  });
+  const [theme, setTheme] = useState<Theme>(getInitialTheme);
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
   const [selectedRecipeId, setSelectedRecipeId] = useState<string | null>(null);
@@ -33,11 +26,7 @@ const App: React.FC = () => {
   const uiText = translations[language];
 
   useEffect(() => {
-    const root = window.document.documentElement;
-    const isDark = theme === 'dark';
-    root.classList.remove(isDark ? 'light' : 'dark');
-    root.classList.add(theme);
-    localStorage.setItem('theme', theme);
+    applyTheme(theme);
   }, [theme]);
 
   const toggleTheme = useCallback(() => {
