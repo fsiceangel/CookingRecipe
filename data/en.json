@@ -647,5 +647,72 @@
       "Beating the meringue to soft peaks is sufficient; do not beat to stiff peaks. This ensures a moist and delicate texture."
     ],
     "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y"
+  },
+  {
+    "id": "black-pepper-beef-short-ribs",
+    "title": "Black Pepper Beef Short Ribs",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "beef-short-ribs", "name": "Beef Short Ribs", "amount": "400g", "category": "meat" },
+      { "key": "huadiao-wine", "name": "Hua Diao wine", "amount": "10g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Light Soy Sauce", "amount": "20g", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "amount": "10g", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "10g", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Black Pepper", "amount": "4g", "category": "seasoning" },
+      { "key": "baking-soda", "name": "Baking Soda", "amount": "2g", "category": "seasoning" },
+      { "key": "cornstarch", "name": "Cornstarch", "amount": "10g", "category": "pantry" },
+      { "key": "butter", "name": "Butter", "amount": "30g", "category": "dairy" },
+      { "key": "guangdong-rice-wine", "name": "Guangdong Rice Wine", "amount": "30g", "category": "seasoning" },
+      { "key": "ginger", "name": "Minced Ginger", "category": "veggie" },
+      { "key": "garlic", "name": "Minced Garlic", "category": "veggie" },
+      { "key": "onion", "name": "Chopped Onion", "category": "veggie" },
+      { "key": "bell-pepper", "name": "Chopped Bell Peppers", "category": "veggie" },
+      { "key": "oil", "name": "Cooking Oil", "category": "seasoning" },
+      { "key": "oyster-sauce", "name": "Oyster Sauce", "amount": "10g", "category": "seasoning" },
+      { "key": "water", "name": "Water", "amount": "30g", "category": "pantry" }
+    ],
+    "steps": [
+      "Prepare the Beef: Rinse the beef short ribs and pat them completely dry with paper towels.",
+      "Marinate the Beef: In a bowl, combine the beef short ribs with 10g Hua Diao wine, 10g light soy sauce, 5g dark soy sauce, 5g sugar, 2g black pepper, 2g baking soda, and 5g cornstarch. Mix thoroughly. Marinate for at least 2 hours, or overnight in the refrigerator for best results.",
+      "Prepare the Sauce: In a separate small bowl, whisk together 2g black pepper, 5g sugar, 10g light soy sauce, 10g oyster sauce, 5g dark soy sauce, 5g cornstarch, and 30g water until smooth. Set aside.",
+      "Pan-Fry the Ribs: Heat a generous amount of oil in a pan over medium-high heat. Sear the marinated ribs for about 1 minute per side until browned. Remove and set aside.",
+      "Sauté Aromatics & Vegetables: Clean the pan, add more oil and 30g butter. Once melted, sauté minced ginger and garlic until fragrant. Add chopped onions and bell peppers, and stir-fry on high heat until they begin to soften but remain crisp.",
+      "Combine: Return the seared ribs to the pan. Pour 30g Guangdong rice wine around the edge of the pan and stir-fry briefly.",
+      "Finish the Dish: Pour the prepared sauce mixture over everything. Continue to stir-fry over high heat until the sauce thickens and coats all the ingredients.",
+      "Serve immediately."
+    ],
+    "notes": [
+      "This recipe creates a flavorful and tender beef short rib dish, similar to what you might find at a Cantonese restaurant. Marinating the beef overnight is recommended for the best results."
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "swiss-roll-sour-cream",
+    "title": "Classic Swiss Roll with Sour Cream",
+    "tags": ["bakery", "dessert"],
+    "ingredients": [
+      { "key": "egg-white", "name": "Egg Whites", "amount": "170g", "category": "meat" },
+      { "key": "egg-yolk", "name": "Egg Yolks", "amount": "85g", "category": "meat" },
+      { "key": "milk", "name": "Milk", "amount": "20g", "category": "dairy" },
+      { "key": "corn-oil", "name": "Corn Oil", "amount": "50g", "category": "seasoning" },
+      { "key": "sour-cream", "name": "Sour Cream", "amount": "70g", "category": "dairy" },
+      { "key": "cake-flour", "name": "Cake Flour", "amount": "70g", "category": "pantry" },
+      { "key": "salt", "name": "Sea Salt", "amount": "1.5g", "category": "seasoning" },
+      { "key": "lemon-juice", "name": "Lemon Juice", "amount": "A few drops", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "93g (75g + 18g)", "category": "seasoning" },
+      { "key": "heavy-cream", "name": "Heavy Cream, chilled", "amount": "300g", "category": "dairy" }
+    ],
+    "steps": [
+      "Prepare Yolks Batter: Separate eggs, chill whites. Whisk milk, corn oil, and sour cream, then warm to 40°C. Slowly whisk warm liquid into yolks. Sift in flour, whisk until smooth. Strain and keep warm.",
+      "Make Meringue: Beat chilled egg whites with salt and lemon juice. Gradually add 75g sugar in three parts, beating on high speed until medium-firm peaks form (slight curve at the tip). Stabilize on low speed.",
+      "Combine Batters: Lighten yolk batter with 1/3 of the meringue, then gently fold in the rest in two batches.",
+      "Bake: Pour into a 28x28 cm lined pan. Spread evenly. Bake at 190°C for 10 mins, then 150°C for 15 mins. Drop pan once done to release air. Cool on a rack.",
+      "Fill and Roll: Whip cold heavy cream with 18g sugar until firm. Trim cooled cake edges. Spread cream over the cake, leaving a thicker line at the starting edge.",
+      "Use parchment paper and a rolling pin to help roll the cake tightly. Wrap and refrigerate for at least 1 hour to set before slicing."
+    ],
+    "notes": [
+      "Tthis recipe creates an exceptionally soft and moist Swiss roll with a unique flavor from sour cream."
+    ],
+    "videoLink": ""
   }
 ]
