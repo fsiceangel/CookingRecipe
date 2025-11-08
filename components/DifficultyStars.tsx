@@ -15,7 +15,7 @@ const DifficultyStars: React.FC<DifficultyStarsProps> = ({ rating }) => {
       // Half star
       stars.push(
         <div key={i} className="relative">
-          <StarIcon className="w-5 h-5 text-slate-300 dark:text-slate-600" />
+          <StarIcon className="w-5 h-5 text-star-empty" />
           <div className="absolute top-0 left-0 h-full w-1/2 overflow-hidden">
             <StarIcon className="w-5 h-5 text-amber-400" />
           </div>
@@ -23,7 +23,7 @@ const DifficultyStars: React.FC<DifficultyStarsProps> = ({ rating }) => {
       );
     } else {
       // Empty star
-      stars.push(<StarIcon key={i} className="w-5 h-5 text-slate-300 dark:text-slate-600" />);
+      stars.push(<StarIcon key={i} className="w-5 h-5 text-star-empty" />);
     }
   }
 
