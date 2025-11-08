@@ -8,9 +8,9 @@ interface IngredientChipProps {
 }
 
 const IngredientChip: React.FC<IngredientChipProps> = ({ ingredient, isSelected, onClick }) => {
-  const baseClasses = "px-4 py-2 rounded-full text-sm font-semibold cursor-pointer transition-all duration-200 transform focus:outline-none focus:ring-2 focus:ring-offset-background focus:ring-primary-500";
-  const selectedClasses = "bg-accent text-white shadow-lg hover:bg-accent-hover scale-105";
-  const unselectedClasses = "bg-button-secondary text-button-secondary-text hover:bg-button-secondary-hover border border-button-secondary-border";
+  const baseClasses = "px-4 py-2 rounded-full text-sm font-semibold cursor-pointer transition-all duration-200 transform focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-sky-100 dark:focus:ring-offset-slate-900 focus:ring-primary-500";
+  const selectedClasses = "bg-primary-600 text-white shadow-lg hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 scale-105";
+  const unselectedClasses = "bg-white text-sky-800 hover:bg-sky-100 border border-sky-200 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600 dark:border-slate-600";
 
   return (
     <button

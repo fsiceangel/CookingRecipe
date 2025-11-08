@@ -171,7 +171,7 @@ const App: React.FC = () => {
       return (
         <div className="flex flex-col items-center justify-center h-64">
           <LoadingIcon />
-          <p className="mt-4 text-lg text-text-secondary">{uiText.loading}</p>
+          <p className="mt-4 text-lg text-slate-500 dark:text-slate-400">{uiText.loading}</p>
         </div>
       );
     }
@@ -188,14 +188,14 @@ const App: React.FC = () => {
       return <RecipeDetail recipe={selectedRecipe} onBack={handleBackToList} uiText={uiText} />;
     }
 
-    const tagButtonBaseClasses = "px-4 py-2 rounded-full text-sm font-semibold cursor-pointer transition-all duration-200 transform focus:outline-none focus:ring-2 focus:ring-offset-background focus:ring-primary-500";
-    const tagButtonSelectedClasses = "bg-accent text-white shadow-lg hover:bg-accent-hover scale-105";
-    const tagButtonUnselectedClasses = "bg-button-secondary text-button-secondary-text hover:bg-button-secondary-hover border border-button-secondary-border";
+    const tagButtonBaseClasses = "px-4 py-2 rounded-full text-sm font-semibold cursor-pointer transition-all duration-200 transform focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-sky-100 dark:focus:ring-offset-slate-900 focus:ring-primary-500";
+    const tagButtonSelectedClasses = "bg-primary-600 text-white shadow-lg hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 scale-105";
+    const tagButtonUnselectedClasses = "bg-white text-sky-800 hover:bg-sky-100 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600 border border-sky-200 dark:border-slate-600";
 
     return (
       <>
-        <div className="bg-card-translucent backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-border mb-6">
-          <h2 className="text-2xl font-bold text-accent-heading mb-4 flex items-center gap-2">
+        <div className="bg-white/80 dark:bg-slate-800/60 backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-slate-200 dark:border-slate-700 mb-6">
+          <h2 className="text-2xl font-bold text-primary-400 dark:text-primary-300 mb-4 flex items-center gap-2">
             <CategoryIcon />
             {uiText.tagFilterTitle}
           </h2>
@@ -212,8 +212,8 @@ const App: React.FC = () => {
           </div>
         </div>
 
-        <div className="bg-card-translucent backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-border mb-8">
-          <h2 className="text-2xl font-bold text-accent-heading mb-4 flex items-center gap-2">
+        <div className="bg-white/80 dark:bg-slate-800/60 backdrop-blur-sm p-4 sm:p-6 rounded-2xl border border-slate-200 dark:border-slate-700 mb-8">
+          <h2 className="text-2xl font-bold text-primary-400 dark:text-primary-300 mb-4 flex items-center gap-2">
             <SearchIcon />
             {uiText.filterTitle}
           </h2>
@@ -223,7 +223,7 @@ const App: React.FC = () => {
               .map(category =>
               groupedIngredients[category] && groupedIngredients[category].length > 0 && (
                 <div key={category}>
-                  <h3 className="text-lg font-semibold text-accent-heading mb-3 border-b border-border pb-2 capitalize">
+                  <h3 className="text-lg font-semibold text-primary-500 dark:text-primary-400 mb-3 border-b border-sky-200 dark:border-slate-700 pb-2 capitalize">
                     {uiText[category]}
                   </h3>
                   <div className="flex flex-wrap gap-2">
@@ -248,8 +248,8 @@ const App: React.FC = () => {
           ))}
         </div>
         {filteredRecipes.length === 0 && !isLoading && !error && (
-          <div className="text-center col-span-full py-12 bg-card-solid/60 rounded-lg">
-            <p className="text-text-secondary">{uiText.noResults}</p>
+          <div className="text-center col-span-full py-12 bg-white/60 dark:bg-slate-800/50 rounded-lg">
+            <p className="text-slate-500 dark:text-slate-400">{uiText.noResults}</p>
           </div>
         )}
       </>
@@ -257,10 +257,10 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-background text-text-primary font-sans p-4 sm:p-6 lg:p-8 transition-colors duration-300">
+    <div className="min-h-screen bg-sky-100 dark:bg-slate-900 text-slate-800 dark:text-slate-200 font-sans p-4 sm:p-6 lg:p-8 transition-colors duration-300">
       <div className="max-w-7xl mx-auto">
-        <header className="flex justify-between items-center mb-8 pb-4 border-b border-border-header">
-          <h1 className="text-3xl sm:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-gradient-from to-gradient-to flex items-center gap-3">
+        <header className="flex justify-between items-center mb-8 pb-4 border-b border-sky-300 dark:border-slate-700">
+          <h1 className="text-3xl sm:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-primary-500 to-primary-700 dark:from-primary-400 dark:to-primary-600 flex items-center gap-3">
             <ChefHatIcon />
             {uiText.title}
           </h1>

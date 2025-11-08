@@ -9,12 +9,12 @@ interface LanguageSwitcherProps {
 }
 
 const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ currentLanguage, setLanguage }) => {
-  const commonClasses = "px-3 py-1.5 text-sm font-bold rounded-md transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 focus:ring-offset-background";
-  const activeClasses = "bg-accent text-white shadow-sm";
-  const inactiveClasses = "text-button-secondary-text hover:bg-button-secondary-hover/60";
+  const commonClasses = "px-3 py-1.5 text-sm font-bold rounded-md transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 focus:ring-offset-sky-100 dark:focus:ring-offset-slate-800";
+  const activeClasses = "bg-primary-600 text-white dark:bg-primary-500 shadow-sm";
+  const inactiveClasses = "text-sky-700 hover:bg-sky-200/60 dark:text-slate-400 dark:hover:bg-slate-700";
 
   return (
-    <div className="flex items-center bg-card-header rounded-lg p-1 space-x-1 backdrop-blur-sm border border-white/20 dark:border-border">
+    <div className="flex items-center bg-white/60 dark:bg-slate-800 rounded-lg p-1 space-x-1 backdrop-blur-sm border border-white/20 dark:border-slate-700">
       <button 
         onClick={() => setLanguage('en')}
         className={`${commonClasses} ${currentLanguage === 'en' ? activeClasses : inactiveClasses}`}
