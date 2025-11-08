@@ -1,3 +1,4 @@
+
 [
   {
     "id": "chaoshan-beef-balls",
@@ -10,7 +11,7 @@
       {"key": "sugar", "name": "白糖", "amount": "4g", "category": "seasoning"},
       {"key": "msg", "name": "味精", "amount": "2g", "category": "seasoning"},
       {"key": "cornstarch", "name": "玉米淀粉", "amount": "15g", "category": "pantry"},
-      {"key": "ice-cubes", "name": "冰块", "amount": "50g", "category": "seasoning"},
+      {"key": "ice-cubes", "name": "冰块", "amount": "50g", "category": "pantry"},
       {"key": "beef-tallow", "name": "牛油粒", "category": "meat"},
       {"key": "beef-tendon", "name": "牛筋粒", "category": "meat"},
       {"key": "garlic", "name": "大蒜", "category": "veggie"},
@@ -37,7 +38,7 @@
     "tags": ["dish"],
     "ingredients": [
       {"key": "garlic", "name": "大蒜", "amount": "50g", "category": "veggie"},
-      {"key": "vegetable-oil", "name": "植物油", "amount": "100g", "category": "seasoning"}
+      {"key": "oil", "name": "植物油", "amount": "100g", "category": "seasoning"}
     ],
     "steps": [
       "大蒜50g，植物油100g。",
@@ -60,7 +61,7 @@
       {"key": "scallion", "name": "葱", "category": "veggie"},
       {"key": "ginger", "name": "姜", "category": "veggie"},
       {"key": "garlic", "name": "大蒜", "category": "veggie"},
-      {"key": "soy-sauce", "name": "酱油", "category": "seasoning"},
+      {"key": "light-soy-sauce", "name": "酱油", "category": "seasoning"},
       {"key": "vinegar", "name": "醋", "category": "seasoning"},
       {"key": "sugar", "name": "白糖", "category": "seasoning"},
       {"key": "cooking-wine", "name": "料酒", "category": "seasoning"},
@@ -92,10 +93,10 @@
       { "key": "choy-sum", "name": "菜心", "amount": "适量", "category": "veggie" },
       { "key": "salt", "name": "盐", "amount": "20g", "category": "seasoning" },
       { "key": "msg", "name": "味精", "amount": "2g", "category": "seasoning" },
-      { "key": "pepper-powder", "name": "胡椒粉", "amount": "2g", "category": "seasoning" },
+      { "key": "black-pepper", "name": "胡椒粉", "amount": "2g", "category": "seasoning" },
       { "key": "scallion-ginger-water", "name": "葱姜水", "amount": "300g", "category": "seasoning" },
       { "key": "cornstarch", "name": "淀粉", "amount": "120g", "category": "pantry" },
-      { "key": "soy-sauce", "name": "味达美鲜味酱油", "amount": "80g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "味达美鲜味酱油", "amount": "80g", "category": "seasoning" },
       { "key": "cooking-wine", "name": "黄酒", "amount": "100g", "category": "seasoning" },
       { "key": "scallion", "name": "葱", "amount": "100g", "category": "veggie" },
       { "key": "ginger", "name": "姜", "amount": "100g", "category": "veggie" },
@@ -163,14 +164,14 @@
       { "key": "cinnamon-bark", "name": "桂皮", "amount": "25g", "category": "seasoning" },
       { "key": "dried-yellow-bean-paste", "name": "干黄酱", "amount": "150g", "category": "seasoning" },
       { "key": "fennel-seeds", "name": "小茴香", "amount": "12g", "category": "seasoning" },
-      { "key": "soybean-sauce", "name": "大豆酱油", "amount": "100g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "大豆酱油", "amount": "100g", "category": "seasoning" },
       { "key": "light-soy-sauce", "name": "鲜味酱油", "amount": "50g", "category": "seasoning" },
       { "key": "salt", "name": "盐", "amount": "70g", "category": "seasoning" },
       { "key": "scallion", "name": "大葱", "amount": "250g", "category": "veggie" },
       { "key": "ginger", "name": "姜", "amount": "250g", "category": "veggie" },
-      { "key": "huadiao-wine", "name": "花雕酒", "amount": "适量", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "花雕酒", "amount": "适量", "category": "seasoning" },
       { "key": "water", "name": "水", "amount": "6斤", "category": "pantry" },
-      { "key": "soy-sauce", "name": "酱油", "amount": "100g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "酱油", "amount": "100g", "category": "seasoning" },
       { "key": "chili-pepper", "name": "干辣椒", "amount": "3个", "category": "veggie" },
       { "key": "bay-leaf", "name": "香叶", "amount": "3片", "category": "seasoning" },
       { "key": "sichuan-peppercorn", "name": "花椒", "amount": "2g", "category": "seasoning" },
@@ -205,7 +206,7 @@
       { "key": "flour", "name": "面粉", "amount": "适量", "category": "pantry" },
       { "key": "egg", "name": "鸡蛋", "amount": "适量", "category": "meat" },
       { "key": "panko", "name": "面包糠", "amount": "适量", "category": "pantry" },
-      { "key": "vegetable-oil", "name": "油", "amount": "用于油炸", "category": "seasoning" }
+      { "key": "oil", "name": "油", "amount": "用于油炸", "category": "seasoning" }
     ],
     "steps": [
       "水开放入300g土豆，煮30分钟，捞出来去皮捣成泥。",
@@ -255,14 +256,14 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "scallion", "name": "大葱", "amount": "100g", "category": "veggie" },
-      { "key": "small-scallion", "name": "小葱", "amount": "100g", "category": "veggie" },
+      { "key": "scallion", "name": "小葱", "amount": "100g", "category": "veggie" },
       { "key": "onion", "name": "洋葱", "amount": "100g", "category": "veggie" },
       { "key": "light-soy-sauce", "name": "生抽", "amount": "100g", "category": "seasoning" },
       { "key": "dark-soy-sauce", "name": "老抽", "amount": "25g", "category": "seasoning" },
       { "key": "oyster-sauce", "name": "蚝油", "amount": "25g", "category": "seasoning" },
       { "key": "aged-vinegar", "name": "陈醋", "amount": "20g", "category": "seasoning" },
       { "key": "sugar", "name": "白糖", "amount": "25g", "category": "seasoning" },
-      { "key": "rapeseed-oil", "name": "菜籽油", "amount": "150g", "category": "seasoning" }
+      { "key": "oil", "name": "菜籽油", "amount": "150g", "category": "seasoning" }
     ],
     "steps": [
       "准备工作：大葱100g切菱形，小葱100g切段，洋葱100g切细条。",
@@ -285,7 +286,7 @@
     "ingredients": [
       { "key": "spaghettoni", "name": "意式粗面", "amount": "2人份", "category": "pantry" },
       { "key": "guanciale-pancetta", "name": "猪脸颊肉(Guanciale)或意式烟肉(pancetta)", "amount": "切丁", "category": "meat" },
-      { "key": "olive-oil", "name": "优质橄榄油", "amount": "少量", "category": "seasoning" },
+      { "key": "oil", "name": "优质橄榄油", "amount": "少量", "category": "seasoning" },
       { "key": "egg", "name": "大号新鲜鸡蛋", "amount": "2个", "category": "meat" },
       { "key": "egg-yolk", "name": "额外蛋黄", "amount": "1个 (可选)", "category": "meat" },
       { "key": "parmesan-pecorino", "name": "帕玛森或佩克里诺芝士", "amount": "大量", "category": "dairy" },
@@ -384,7 +385,7 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "salmon-fillets", "name": "三文鱼柳", "category": "meat" },
-      { "key": "olive-oil", "name": "橄榄油", "category": "seasoning" },
+      { "key": "oil", "name": "橄榄油", "category": "seasoning" },
       { "key": "salt", "name": "盐", "category": "seasoning" },
       { "key": "black-pepper", "name": "现磨黑胡椒", "category": "seasoning" },
       { "key": "garlic", "name": "蒜末", "category": "veggie" },
@@ -411,7 +412,7 @@
     "ingredients": [
       { "key": "hamachi-kama", "name": "鰤鱼颈肉", "category": "meat" },
       { "key": "salt", "name": "粗盐", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "酱油", "category": "seasoning" },
       { "key": "yuzu-juice", "name": "柚子汁", "category": "seasoning" },
       { "key": "lemon", "name": "柠檬角", "category": "veggie" }
     ],
@@ -461,12 +462,12 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "pork-belly", "name": "五花肉", "category": "meat" },
-      { "key": "screwdriver-pepper", "name": "螺丝椒", "category": "veggie" },
-      { "key": "thai-chili", "name": "小米辣", "category": "veggie" },
+      { "key": "chili-pepper", "name": "螺丝椒", "category": "veggie" },
+      { "key": "chili-pepper", "name": "小米辣", "category": "veggie" },
       { "key": "garlic", "name": "蒜", "category": "veggie" },
       { "key": "liuyang-fermented-soybeans", "name": "浏阳豆豉", "category": "seasoning" },
       { "key": "cooking-wine", "name": "料酒", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "酱油", "category": "seasoning" },
       { "key": "dark-soy-sauce", "name": "老抽", "category": "seasoning" }
     ],
     "steps": [
@@ -504,11 +505,11 @@
       { "key": "cinnamon-bark", "name": "桂皮", "category": "seasoning" },
       { "key": "bay-leaf", "name": "香叶", "category": "seasoning" },
       { "key": "sichuan-peppercorn", "name": "花椒", "category": "seasoning" },
-      { "key": "huadiao-wine", "name": "花雕酒", "category": "seasoning" },
-      { "key": "soft-white-sugar", "name": "绵白糖", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
-      { "key": "yellow-wine", "name": "黄酒", "category": "seasoning" },
-      { "key": "pepper-powder", "name": "胡椒", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "花雕酒", "category": "seasoning" },
+      { "key": "sugar", "name": "绵白糖", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "黄酒", "category": "seasoning" },
+      { "key": "black-pepper", "name": "胡椒", "category": "seasoning" },
       { "key": "salt", "name": "盐", "category": "seasoning" },
       { "key": "oil", "name": "油", "category": "seasoning" }
     ],
@@ -542,7 +543,7 @@
     "ingredients": [
       { "key": "pork-belly", "name": "五花肉", "category": "meat" },
       { "key": "red-dates", "name": "红枣", "category": "veggie" },
-      { "key": "white-sugar", "name": "白糖", "category": "seasoning" },
+      { "key": "sugar", "name": "白糖", "category": "seasoning" },
       { "key": "light-soy-sauce", "name": "生抽", "category": "seasoning" },
       { "key": "dark-soy-sauce", "name": "老抽", "category": "seasoning" },
       { "key": "star-anise", "name": "大料", "category": "seasoning" },
@@ -588,7 +589,7 @@
       { "key": "egg", "name": "鸡蛋", "category": "meat" },
       { "key": "scallion", "name": "葱", "category": "veggie" },
       { "key": "oil", "name": "油", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "酱油", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "酱油", "category": "seasoning" },
       { "key": "sugar", "name": "糖", "category": "seasoning" },
       { "key": "salt", "name": "盐", "category": "seasoning" }
     ],
@@ -621,10 +622,10 @@
     "tags": ["dessert", "bakery"],
     "ingredients": [
       { "key": "cream-cheese", "name": "奶油奶酪", "category": "dairy", "amount": "125克" },
-      { "key": "unsalted-butter", "name": "无盐奶油", "category": "dairy", "amount": "15克" },
+      { "key": "butter", "name": "无盐奶油", "category": "dairy", "amount": "15克" },
       { "key": "milk", "name": "牛奶", "category": "dairy", "amount": "65克" },
       { "key": "cake-flour", "name": "低筋面粉", "category": "pantry", "amount": "15克" },
-      { "key": "corn-flour", "name": "玉米粉", "category": "pantry", "amount": "12克" },
+      { "key": "cornstarch", "name": "玉米粉", "category": "pantry", "amount": "12克" },
       { "key": "egg-yolk", "name": "蛋黄", "category": "meat", "amount": "3颗 (约52克)" },
       { "key": "egg-white", "name": "蛋白", "category": "meat", "amount": "3颗 (约95克)" },
       { "key": "sugar", "name": "细砂糖", "category": "seasoning", "amount": "55克" },
@@ -647,11 +648,79 @@
     ],
     "notes": [
       "此配方适用于一个6寸圆形模具。",
-      "全程需使用水浴法（烤盘加热水）烘烤，水量需能覆盖烤盘底部。",
+      "全程需使用水浴法（烤盘加热水）烘烤，水量需能覆蓋烤盘底部。",
       "混合蛋白霜和蛋黄糊时，切勿过度搅拌以免消泡。",
       "烤完闷5分钟有助于防止蛋糕快速回缩。",
       "蛋白霜打至湿性发泡即可，不需到干性发泡，口感才会湿润细致。"
     ],
     "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y"
+  },
+  {
+    "id": "black-pepper-beef-short-ribs",
+    "title": "黑椒牛小排",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "beef-short-ribs", "name": "牛小排", "amount": "400克", "category": "meat" },
+      { "key": "cooking-wine", "name": "花雕酒", "amount": "10克", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "生抽", "amount": "20克", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "老抽", "amount": "10克", "category": "seasoning" },
+      { "key": "sugar", "name": "糖", "amount": "10克", "category": "seasoning" },
+      { "key": "black-pepper", "name": "黑胡椒", "amount": "4克", "category": "seasoning" },
+      { "key": "baking-soda", "name": "小苏打", "amount": "2克", "category": "seasoning" },
+      { "key": "cornstarch", "name": "玉米淀粉", "amount": "10克", "category": "pantry" },
+      { "key": "butter", "name": "黄油", "amount": "30克", "category": "dairy" },
+      { "key": "cooking-wine", "name": "广东米酒", "amount": "30克", "category": "seasoning" },
+      { "key": "ginger", "name": "姜末", "category": "veggie" },
+      { "key": "garlic", "name": "蒜末", "category": "veggie" },
+      { "key": "onion", "name": "洋葱碎", "category": "veggie" },
+      { "key": "bell-pepper", "name": "彩椒丁", "category": "veggie" },
+      { "key": "oil", "name": "食用油", "category": "seasoning" },
+      { "key": "oyster-sauce", "name": "蚝油", "amount": "10克", "category": "seasoning" },
+      { "key": "water", "name": "水", "amount": "30克", "category": "pantry" }
+    ],
+    "steps": [
+      "准备牛肉：将牛小排冲洗干净，用厨房纸巾彻底擦干。",
+      "腌制牛肉：在碗中，将牛小排与10克花雕酒、10克生抽、5克老抽、5克糖、2克黑胡椒、2克小苏打和5克玉米淀粉混合。充分搅拌，确保每块都均匀裹上腌料。至少腌制2小时，但为获得最佳嫩度和风味，建议在冰箱中腌制过夜。",
+      "准备酱汁：在另一个小碗中，将2克黑胡椒、5克糖、10克生抽、10克蚝油、5克老抽、5克玉米淀粉和30克水搅拌均匀至顺滑。备用。",
+      "煎牛小排：在平底锅中用中高火加热足量油。将腌好的牛小排单层放入锅中。每面煎约1分钟，直到两面都呈漂亮的棕色并焦糖化。从锅中取出牛小排备用。",
+      "炒香料和蔬菜：清理平底锅，然后加入少量油和30克黄油。黄油融化后，加入姜末和蒜末炒香。加入切碎的洋葱和彩椒，用大火翻炒，直到它们开始变软但仍保持爽脆。",
+      "合并食材：将煎好的牛小排倒回锅中。将30克广东米酒沿锅边淋入，翻炒片刻让酒精蒸发。",
+      "完成菜肴：将准备好的酱汁混合物倒在所有食材上。继续用大火翻炒，直到酱汁变稠并均匀地裹在所有食材上。",
+      "立即装盘上桌。"
+    ],
+    "notes": [
+      "这道菜能做出风味浓郁、肉质鲜嫩的牛小排，堪比粤菜馆水准。建议将牛肉腌制过夜以获得最佳效果。"
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "swiss-roll-sour-cream",
+    "title": "经典酸奶油瑞士卷",
+    "tags": ["bakery", "dessert"],
+    "ingredients": [
+      { "key": "egg-white", "name": "蛋白", "amount": "170克", "category": "meat" },
+      { "key": "egg-yolk", "name": "蛋黄", "amount": "85克", "category": "meat" },
+      { "key": "milk", "name": "牛奶", "amount": "20克", "category": "dairy" },
+      { "key": "oil", "name": "玉米油", "amount": "50克", "category": "seasoning" },
+      { "key": "sour-cream", "name": "酸奶油", "amount": "70克", "category": "dairy" },
+      { "key": "cake-flour", "name": "低筋面粉", "amount": "70克", "category": "pantry" },
+      { "key": "salt", "name": "海盐", "amount": "1.5克", "category": "seasoning" },
+      { "key": "lemon-juice", "name": "柠檬汁", "amount": "几滴", "category": "seasoning" },
+      { "key": "sugar", "name": "砂糖", "amount": "93克 (75克+18克)", "category": "seasoning" },
+      { "key": "heavy-cream", "name": "淡奶油（冷藏）", "amount": "300克", "category": "dairy" }
+    ],
+    "steps": [
+      "准备蛋黄糊：分离蛋黄和蛋白，将蛋白冷冻。将牛奶、玉米油和酸奶油搅拌至乳化，然后隔水加热至40°C。将温热的液体缓慢搅入蛋黄中。筛入面粉，搅拌均匀。过筛后保温备用。",
+      "制作蛋白霜：搅打冷冻过的蛋白，加入盐和柠檬汁。分三次加入75克糖，高速搅打至中性偏硬性发泡（提起打蛋头有略带弯钩的尖角）。最后用中低速整理气泡。",
+      "混合面糊：取1/3的蛋白霜与蛋黄糊混合均匀，然后分两次与剩余的蛋白霜轻轻翻拌均匀。",
+      "烘烤：将面糊倒入28x28厘米的烤盘中，抹平。在190°C下烘烤10分钟，然后降至150°C再烤15分钟。出炉后震盘散热，待冷却至温热。",
+      "准备奶油并卷起：将冷藏的淡奶油与18克糖隔冰水打发至硬挺。在冷却的蛋糕片上修边。在起始端涂抹一条较厚的奶油，其余部分涂抹薄层奶油。",
+      "借助擀面杖和油纸将蛋糕紧紧卷起。用刮板辅助定型。",
+      "用油纸包好，冷藏至少1小时定型后即可切片享用。"
+    ],
+    "notes": [
+      "加入了酸奶油，使蛋糕体异常柔软湿润，风味独特。"
+    ],
+    "videoLink": ""
   }
 ]

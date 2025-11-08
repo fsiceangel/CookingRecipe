@@ -1,3 +1,4 @@
+
 [
   {
     "id": "chaoshan-beef-balls",
@@ -10,7 +11,7 @@
       {"key": "sugar", "name": "Sugar", "amount": "4g", "category": "seasoning"},
       {"key": "msg", "name": "MSG", "amount": "2g", "category": "seasoning"},
       {"key": "cornstarch", "name": "Cornstarch", "amount": "15g", "category": "pantry"},
-      {"key": "ice-cubes", "name": "Ice cubes", "amount": "50g", "category": "seasoning"},
+      {"key": "ice-cubes", "name": "Ice cubes", "amount": "50g", "category": "pantry"},
       {"key": "beef-tallow", "name": "Beef tallow bits", "category": "meat"},
       {"key": "beef-tendon", "name": "Beef tendon bits", "category": "meat"},
       {"key": "garlic", "name": "Garlic", "category": "veggie"},
@@ -37,7 +38,7 @@
     "tags": ["dish"],
     "ingredients": [
       {"key": "garlic", "name": "Garlic", "amount": "50g", "category": "veggie"},
-      {"key": "vegetable-oil", "name": "Vegetable oil", "amount": "100g", "category": "seasoning"}
+      {"key": "oil", "name": "Vegetable oil", "amount": "100g", "category": "seasoning"}
     ],
     "steps": [
       "You will need 50g garlic and 100g vegetable oil.",
@@ -60,7 +61,7 @@
       {"key": "scallion", "name": "Scallion", "category": "veggie"},
       {"key": "ginger", "name": "Ginger", "category": "veggie"},
       {"key": "garlic", "name": "Garlic", "category": "veggie"},
-      {"key": "soy-sauce", "name": "Soy sauce", "category": "seasoning"},
+      {"key": "light-soy-sauce", "name": "Soy sauce", "category": "seasoning"},
       {"key": "vinegar", "name": "Vinegar", "category": "seasoning"},
       {"key": "sugar", "name": "Sugar", "category": "seasoning"},
       {"key": "cooking-wine", "name": "Cooking wine", "category": "seasoning"},
@@ -92,10 +93,10 @@
       { "key": "choy-sum", "name": "Choy sum", "amount": "for garnish", "category": "veggie" },
       { "key": "salt", "name": "Salt", "amount": "20g", "category": "seasoning" },
       { "key": "msg", "name": "MSG", "amount": "2g", "category": "seasoning" },
-      { "key": "pepper-powder", "name": "White pepper", "amount": "2g", "category": "seasoning" },
+      { "key": "black-pepper", "name": "White pepper", "amount": "2g", "category": "seasoning" },
       { "key": "scallion-ginger-water", "name": "Scallion ginger water", "amount": "300g", "category": "seasoning" },
       { "key": "cornstarch", "name": "Cornstarch", "amount": "120g", "category": "pantry" },
-      { "key": "soy-sauce", "name": "Soy sauce", "amount": "80g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soy sauce", "amount": "80g", "category": "seasoning" },
       { "key": "cooking-wine", "name": "Shaoxing wine", "amount": "100g", "category": "seasoning" },
       { "key": "scallion", "name": "Scallion", "amount": "100g", "category": "veggie" },
       { "key": "ginger", "name": "Ginger", "amount": "100g", "category": "veggie" },
@@ -163,14 +164,14 @@
       { "key": "cinnamon-bark", "name": "Cinnamon Bark", "amount": "25g", "category": "seasoning" },
       { "key": "dried-yellow-bean-paste", "name": "Dried Yellow Bean Paste", "amount": "150g", "category": "seasoning" },
       { "key": "fennel-seeds", "name": "Fennel Seeds", "amount": "12g", "category": "seasoning" },
-      { "key": "soybean-sauce", "name": "Soybean Sauce", "amount": "100g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soybean Sauce", "amount": "100g", "category": "seasoning" },
       { "key": "light-soy-sauce", "name": "Light Soy Sauce", "amount": "50g", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "amount": "70g", "category": "seasoning" },
       { "key": "scallion", "name": "Scallion", "amount": "250g", "category": "veggie" },
       { "key": "ginger", "name": "Ginger", "amount": "250g", "category": "veggie" },
-      { "key": "huadiao-wine", "name": "Huadiao Wine", "amount": "as needed", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "Huadiao Wine", "amount": "as needed", "category": "seasoning" },
       { "key": "water", "name": "Water", "amount": "3L (6 jin)", "category": "pantry" },
-      { "key": "soy-sauce", "name": "Soy Sauce", "amount": "100g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soy Sauce", "amount": "100g", "category": "seasoning" },
       { "key": "chili-pepper", "name": "Dried Chili Peppers", "amount": "3", "category": "veggie" },
       { "key": "bay-leaf", "name": "Bay Leaves", "amount": "3", "category": "seasoning" },
       { "key": "sichuan-peppercorn", "name": "Sichuan Peppercorns", "amount": "2g", "category": "seasoning" },
@@ -205,7 +206,7 @@
       { "key": "flour", "name": "Flour", "amount": "for coating", "category": "pantry" },
       { "key": "egg", "name": "Egg", "amount": "for coating", "category": "meat" },
       { "key": "panko", "name": "Panko (Breadcrumbs)", "amount": "for coating", "category": "pantry" },
-      { "key": "vegetable-oil", "name": "Oil", "amount": "for deep frying", "category": "seasoning" }
+      { "key": "oil", "name": "Oil", "amount": "for deep frying", "category": "seasoning" }
     ],
     "steps": [
       "Boil 300g of potatoes in water for 30 minutes. Once cooked, remove, peel, and mash them into a puree.",
@@ -255,14 +256,14 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "scallion", "name": "Scallion", "amount": "100g", "category": "veggie" },
-      { "key": "small-scallion", "name": "Small Scallion", "amount": "100g", "category": "veggie" },
+      { "key": "scallion", "name": "Small Scallion", "amount": "100g", "category": "veggie" },
       { "key": "onion", "name": "Onion", "amount": "100g", "category": "veggie" },
       { "key": "light-soy-sauce", "name": "Light Soy Sauce", "amount": "100g", "category": "seasoning" },
       { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "amount": "25g", "category": "seasoning" },
       { "key": "oyster-sauce", "name": "Oyster Sauce", "amount": "25g", "category": "seasoning" },
       { "key": "aged-vinegar", "name": "Aged Vinegar", "amount": "20g", "category": "seasoning" },
       { "key": "sugar", "name": "Sugar", "amount": "25g", "category": "seasoning" },
-      { "key": "rapeseed-oil", "name": "Rapeseed Oil", "amount": "150g", "category": "seasoning" }
+      { "key": "oil", "name": "Rapeseed Oil", "amount": "150g", "category": "seasoning" }
     ],
     "steps": [
       "Prep: Cut 100g scallion into diamond shapes, 100g small scallion into sections, and 100g onion into thin strips.",
@@ -285,7 +286,7 @@
     "ingredients": [
       { "key": "spaghettoni", "name": "Spaghettoni", "amount": "for 2 people", "category": "pantry" },
       { "key": "guanciale-pancetta", "name": "Guanciale or pancetta", "amount": "cubed", "category": "meat" },
-      { "key": "olive-oil", "name": "Good quality olive oil", "amount": "a splash", "category": "seasoning" },
+      { "key": "oil", "name": "Good quality olive oil", "amount": "a splash", "category": "seasoning" },
       { "key": "egg", "name": "Large, fresh eggs", "amount": "2", "category": "meat" },
       { "key": "egg-yolk", "name": "Extra egg yolk", "amount": "1 (optional)", "category": "meat" },
       { "key": "parmesan-pecorino", "name": "Parmesan or Pecorino cheese", "amount": "generous amount", "category": "dairy" },
@@ -384,7 +385,7 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "salmon-fillets", "name": "Salmon Fillets", "category": "meat" },
-      { "key": "olive-oil", "name": "Olive Oil", "category": "seasoning" },
+      { "key": "oil", "name": "Olive Oil", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "category": "seasoning" },
       { "key": "black-pepper", "name": "Cracked Black Pepper", "category": "seasoning" },
       { "key": "garlic", "name": "Minced Garlic", "category": "veggie" },
@@ -411,7 +412,7 @@
     "ingredients": [
       { "key": "hamachi-kama", "name": "Hamachi Kama (yellowtail collar)", "category": "meat" },
       { "key": "salt", "name": "Kosher Salt", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
       { "key": "yuzu-juice", "name": "Yuzu Juice", "category": "seasoning" },
       { "key": "lemon", "name": "Lemon wedges", "category": "veggie" }
     ],
@@ -461,12 +462,12 @@
     "tags": ["dish"],
     "ingredients": [
       { "key": "pork-belly", "name": "Pork Belly", "category": "meat" },
-      { "key": "screwdriver-pepper", "name": "Screwdriver Pepper", "category": "veggie" },
-      { "key": "thai-chili", "name": "Thai Chili", "category": "veggie" },
+      { "key": "chili-pepper", "name": "Screwdriver Pepper", "category": "veggie" },
+      { "key": "chili-pepper", "name": "Thai Chili", "category": "veggie" },
       { "key": "garlic", "name": "Garlic", "category": "veggie" },
       { "key": "liuyang-fermented-soybeans", "name": "Liuyang Fermented Soybeans", "category": "seasoning" },
       { "key": "cooking-wine", "name": "Cooking Wine", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
       { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "category": "seasoning" }
     ],
     "steps": [
@@ -502,11 +503,11 @@
       { "key": "cinnamon-bark", "name": "Cinnamon Bark", "category": "seasoning" },
       { "key": "bay-leaf", "name": "Bay Leaf", "category": "seasoning" },
       { "key": "sichuan-peppercorn", "name": "Sichuan Peppercorn", "category": "seasoning" },
-      { "key": "huadiao-wine", "name": "Huadiao Wine", "category": "seasoning" },
-      { "key": "soft-white-sugar", "name": "Caster Sugar", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
-      { "key": "yellow-wine", "name": "Yellow Wine / Shaoxing Wine", "category": "seasoning" },
-      { "key": "pepper-powder", "name": "Pepper Powder", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "Huadiao Wine", "category": "seasoning" },
+      { "key": "sugar", "name": "Caster Sugar", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "cooking-wine", "name": "Yellow Wine / Shaoxing Wine", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Pepper Powder", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "category": "seasoning" },
       { "key": "oil", "name": "Oil", "category": "seasoning" }
     ],
@@ -538,7 +539,7 @@
     "ingredients": [
       { "key": "pork-belly", "name": "Pork Belly", "category": "meat" },
       { "key": "red-dates", "name": "Red Dates (Jujubes)", "category": "veggie" },
-      { "key": "white-sugar", "name": "Sugar", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "category": "seasoning" },
       { "key": "light-soy-sauce", "name": "Light Soy Sauce", "category": "seasoning" },
       { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "category": "seasoning" },
       { "key": "star-anise", "name": "Star Anise", "category": "seasoning" },
@@ -582,7 +583,7 @@
       { "key": "egg", "name": "Egg", "category": "meat" },
       { "key": "scallion", "name": "Scallion", "category": "veggie" },
       { "key": "oil", "name": "Oil", "category": "seasoning" },
-      { "key": "soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Soy Sauce", "category": "seasoning" },
       { "key": "sugar", "name": "Sugar", "category": "seasoning" },
       { "key": "salt", "name": "Salt", "category": "seasoning" }
     ],
@@ -615,10 +616,10 @@
     "tags": ["dessert", "bakery"],
     "ingredients": [
       { "key": "cream-cheese", "name": "Cream Cheese", "category": "dairy", "amount": "125g" },
-      { "key": "unsalted-butter", "name": "Unsalted Butter", "category": "dairy", "amount": "15g" },
+      { "key": "butter", "name": "Unsalted Butter", "category": "dairy", "amount": "15g" },
       { "key": "milk", "name": "Milk", "category": "dairy", "amount": "65g" },
       { "key": "cake-flour", "name": "Cake Flour", "category": "pantry", "amount": "15g" },
-      { "key": "corn-flour", "name": "Corn Starch", "category": "pantry", "amount": "12g" },
+      { "key": "cornstarch", "name": "Corn Starch", "category": "pantry", "amount": "12g" },
       { "key": "egg-yolk", "name": "Egg Yolk", "category": "meat", "amount": "3 (approx. 52g)" },
       { "key": "egg-white", "name": "Egg White", "category": "meat", "amount": "3 (approx. 95g)" },
       { "key": "sugar", "name": "Caster Sugar", "category": "seasoning", "amount": "55g" },
@@ -647,5 +648,72 @@
       "Beating the meringue to soft peaks is sufficient; do not beat to stiff peaks. This ensures a moist and delicate texture."
     ],
     "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y"
+  },
+  {
+    "id": "black-pepper-beef-short-ribs",
+    "title": "Black Pepper Beef Short Ribs",
+    "tags": ["dish"],
+    "ingredients": [
+      { "key": "beef-short-ribs", "name": "Beef Short Ribs", "amount": "400g", "category": "meat" },
+      { "key": "cooking-wine", "name": "Hua Diao wine", "amount": "10g", "category": "seasoning" },
+      { "key": "light-soy-sauce", "name": "Light Soy Sauce", "amount": "20g", "category": "seasoning" },
+      { "key": "dark-soy-sauce", "name": "Dark Soy Sauce", "amount": "10g", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "10g", "category": "seasoning" },
+      { "key": "black-pepper", "name": "Black Pepper", "amount": "4g", "category": "seasoning" },
+      { "key": "baking-soda", "name": "Baking Soda", "amount": "2g", "category": "seasoning" },
+      { "key": "cornstarch", "name": "Cornstarch", "amount": "10g", "category": "pantry" },
+      { "key": "butter", "name": "Butter", "amount": "30g", "category": "dairy" },
+      { "key": "cooking-wine", "name": "Guangdong Rice Wine", "amount": "30g", "category": "seasoning" },
+      { "key": "ginger", "name": "Minced Ginger", "category": "veggie" },
+      { "key": "garlic", "name": "Minced Garlic", "category": "veggie" },
+      { "key": "onion", "name": "Chopped Onion", "category": "veggie" },
+      { "key": "bell-pepper", "name": "Chopped Bell Peppers", "category": "veggie" },
+      { "key": "oil", "name": "Cooking Oil", "category": "seasoning" },
+      { "key": "oyster-sauce", "name": "Oyster Sauce", "amount": "10g", "category": "seasoning" },
+      { "key": "water", "name": "Water", "amount": "30g", "category": "pantry" }
+    ],
+    "steps": [
+      "Prepare the Beef: Rinse the beef short ribs and pat them completely dry with paper towels.",
+      "Marinate the Beef: In a bowl, combine the beef short ribs with 10g Hua Diao wine, 10g light soy sauce, 5g dark soy sauce, 5g sugar, 2g black pepper, 2g baking soda, and 5g cornstarch. Mix thoroughly. Marinate for at least 2 hours, or overnight in the refrigerator for best results.",
+      "Prepare the Sauce: In a separate small bowl, whisk together 2g black pepper, 5g sugar, 10g light soy sauce, 10g oyster sauce, 5g dark soy sauce, 5g cornstarch, and 30g water until smooth. Set aside.",
+      "Pan-Fry the Ribs: Heat a generous amount of oil in a pan over medium-high heat. Sear the marinated ribs for about 1 minute per side until browned. Remove and set aside.",
+      "Sauté Aromatics & Vegetables: Clean the pan, add more oil and 30g butter. Once melted, sauté minced ginger and garlic until fragrant. Add chopped onions and bell peppers, and stir-fry on high heat until they begin to soften but remain crisp.",
+      "Combine: Return the seared ribs to the pan. Pour 30g Guangdong rice wine around the edge of the pan and stir-fry briefly.",
+      "Finish the Dish: Pour the prepared sauce mixture over everything. Continue to stir-fry over high heat until the sauce thickens and coats all the ingredients.",
+      "Serve immediately."
+    ],
+    "notes": [
+      "This recipe creates a flavorful and tender beef short rib dish, similar to what you might find at a Cantonese restaurant. Marinating the beef overnight is recommended for the best results."
+    ],
+    "videoLink": ""
+  },
+  {
+    "id": "swiss-roll-sour-cream",
+    "title": "Classic Swiss Roll with Sour Cream",
+    "tags": ["bakery", "dessert"],
+    "ingredients": [
+      { "key": "egg-white", "name": "Egg Whites", "amount": "170g", "category": "meat" },
+      { "key": "egg-yolk", "name": "Egg Yolks", "amount": "85g", "category": "meat" },
+      { "key": "milk", "name": "Milk", "amount": "20g", "category": "dairy" },
+      { "key": "oil", "name": "Corn Oil", "amount": "50g", "category": "seasoning" },
+      { "key": "sour-cream", "name": "Sour Cream", "amount": "70g", "category": "dairy" },
+      { "key": "cake-flour", "name": "Cake Flour", "amount": "70g", "category": "pantry" },
+      { "key": "salt", "name": "Sea Salt", "amount": "1.5g", "category": "seasoning" },
+      { "key": "lemon-juice", "name": "Lemon Juice", "amount": "A few drops", "category": "seasoning" },
+      { "key": "sugar", "name": "Sugar", "amount": "93g (75g + 18g)", "category": "seasoning" },
+      { "key": "heavy-cream", "name": "Heavy Cream, chilled", "amount": "300g", "category": "dairy" }
+    ],
+    "steps": [
+      "Prepare Yolks Batter: Separate eggs, chill whites. Whisk milk, corn oil, and sour cream, then warm to 40°C. Slowly whisk warm liquid into yolks. Sift in flour, whisk until smooth. Strain and keep warm.",
+      "Make Meringue: Beat chilled egg whites with salt and lemon juice. Gradually add 75g sugar in three parts, beating on high speed until medium-firm peaks form (slight curve at the tip). Stabilize on low speed.",
+      "Combine Batters: Lighten yolk batter with 1/3 of the meringue, then gently fold in the rest in two batches.",
+      "Bake: Pour into a 28x28 cm lined pan. Spread evenly. Bake at 190°C for 10 mins, then 150°C for 15 mins. Drop pan once done to release air. Cool on a rack.",
+      "Fill and Roll: Whip cold heavy cream with 18g sugar until firm. Trim cooled cake edges. Spread cream over the cake, leaving a thicker line at the starting edge.",
+      "Use parchment paper and a rolling pin to help roll the cake tightly. Wrap and refrigerate for at least 1 hour to set before slicing."
+    ],
+    "notes": [
+      "This recipe creates an exceptionally soft and moist Swiss roll with a unique flavor from sour cream."
+    ],
+    "videoLink": ""
   }
 ]
