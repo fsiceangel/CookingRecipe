@@ -3,6 +3,7 @@ import React from 'react';
 import { Recipe } from '../types';
 import { translations } from '../i18n/translations';
 import { ArrowLeftIcon, VideoCameraIcon, ClipboardListIcon, BeakerIcon, LightBulbIcon } from './Icons';
+import DifficultyStars from './DifficultyStars';
 
 interface RecipeDetailProps {
   recipe: Recipe;
@@ -21,7 +22,10 @@ const RecipeDetail: React.FC<RecipeDetailProps> = ({ recipe, onBack, uiText }) =
         <span>{uiText.backButton}</span>
       </button>
       
-      <h2 className="text-3xl sm:text-4xl font-extrabold text-primary-700 dark:text-primary-400 mb-4">{recipe.title}</h2>
+      <h2 className="text-3xl sm:text-4xl font-extrabold text-primary-700 dark:text-primary-400 mb-2">{recipe.title}</h2>
+      <div className="mb-6">
+        <DifficultyStars rating={recipe.difficulty} />
+      </div>
 
       {recipe.videoLink && (
         <a

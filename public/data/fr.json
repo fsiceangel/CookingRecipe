@@ -4,6 +4,7 @@
       "id": "chaoshan-beef-balls",
       "title": "Boulettes de boeuf Chaoshan",
       "tags": ["dish"],
+      "difficulty": 3.0,
       "ingredients": [
         {"key": "beef-hind-leg", "name": "Gigot de boeuf", "amount": "500g", "category": "meat"},
         {"key": "baking-soda", "name": "Bicarbonate de soude", "amount": "1g", "category": "seasoning"},
@@ -36,6 +37,7 @@
       "id": "fried-garlic-crisps",
       "title": "Croustilles d'ail frites (Huile d'ail)",
       "tags": ["dish"],
+      "difficulty": 1.5,
       "ingredients": [
         {"key": "garlic", "name": "Ail", "amount": "50g", "category": "veggie"},
         {"key": "oil", "name": "Huile végétale", "amount": "100g", "category": "seasoning"}
@@ -53,6 +55,7 @@
       "id": "kung-pao-chicken",
       "title": "Poulet Kung Pao",
       "tags": ["dish"],
+      "difficulty": 2.5,
       "ingredients": [
         {"key": "chicken-breast", "name": "Poitrine de poulet", "category": "meat"},
         {"key": "peanuts", "name": "Cacahuètes", "category": "veggie"},
@@ -87,6 +90,7 @@
       "id": "braised-pork-balls-lions-head",
       "title": "Boulettes de porc braisées (Tête de Lion)",
       "tags": ["dish"],
+      "difficulty": 4.0,
       "ingredients": [
         { "key": "pork-belly", "name": "Poitrine de porc", "amount": "1kg", "category": "meat" },
         { "key": "water-chestnut", "name": "Châtaignes d'eau", "amount": "60g", "category": "veggie" },
@@ -130,6 +134,7 @@
       "id": "evelyn-jemerson-pound-cake",
       "title": "Pound Cake d'Evelyn Jemerson",
       "tags": ["bakery", "dessert"],
+      "difficulty": 2.0,
       "ingredients": [
         { "key": "parkay-margarine", "name": "Margarine Parkay", "amount": "2 bâtonnets", "category": "dairy" },
         { "key": "butter", "name": "Beurre", "amount": "1 bâtonnet", "category": "dairy" },
@@ -150,7 +155,7 @@
       ],
       "notes": [
         "La quantité de vanille n'est pas spécifiée ; on utilise généralement 1 à 2 cuillères à café.",
-        "Les notes de temps de cuisson de la recette originale могут impliquer un temps total de 1 heure et 50 minutes. Les quatre-quarts prennent souvent environ 1,5 à 2 heures pour être complètement cuits."
+        "Les notes de temps de cuisson de la recette originale peuvent impliquer un temps total de 1 heure et 50 minutes. Les quatre-quarts prennent souvent environ 1,5 à 2 heures pour être complètement cuits."
       ],
       "videoLink": ""
     },
@@ -158,6 +163,7 @@
       "id": "braised-beef-shank",
       "title": "Jarret de boeuf braisé",
       "tags": ["dish"],
+      "difficulty": 3.5,
       "ingredients": [
         { "key": "beef-shank", "name": "Jarret de boeuf", "amount": "3kg", "category": "meat" },
         { "key": "star-anise", "name": "Anis étoilé", "amount": "12", "category": "seasoning" },
@@ -194,6 +200,7 @@
       "id": "korokke-croquette",
       "title": "Korokke (Croquette Japonaise)",
       "tags": ["dish"],
+      "difficulty": 3.0,
       "ingredients": [
         { "key": "potato", "name": "Pommes de terre", "amount": "300g", "category": "veggie" },
         { "key": "butter", "name": "Beurre", "amount": "10g", "category": "dairy" },
@@ -221,6 +228,7 @@
       "id": "madeleine-cake",
       "title": "Madeleines",
       "tags": ["bakery", "dessert"],
+      "difficulty": 3.5,
       "ingredients": [
         { "key": "cake-flour", "name": "Farine à gâteau", "amount": "125g", "category": "pantry" },
         { "key": "sugar", "name": "Sucre", "amount": "125g", "category": "seasoning" },
@@ -254,6 +262,7 @@
       "id": "three-onion-noodles",
       "title": "Nouilles aux trois oignons (Méthode à l'huile d'oignon vert)",
       "tags": ["dish"],
+      "difficulty": 1.5,
       "ingredients": [
         { "key": "scallion", "name": "Ciboule", "amount": "100g", "category": "veggie" },
         { "key": "scallion", "name": "Petite Ciboule", "amount": "100g", "category": "veggie" },
@@ -283,6 +292,7 @@
       "id": "antonio-carluccio-carbonara",
       "title": "La Vraie Carbonara d'Antonio Carluccio",
       "tags": ["dish"],
+      "difficulty": 3.5,
       "ingredients": [
         { "key": "spaghettoni", "name": "Spaghettoni", "amount": "pour 2 personnes", "category": "pantry" },
         { "key": "guanciale-pancetta", "name": "Guanciale ou pancetta", "amount": "en cubes", "category": "meat" },
@@ -315,6 +325,7 @@
       "id": "milk-steamed-buns",
       "title": "Brioches à la vapeur au lait",
       "tags": ["bakery"],
+      "difficulty": 3.0,
       "ingredients": [
         { "key": "flour", "name": "Farine tout usage", "amount": "200g", "category": "pantry" },
         { "key": "yeast", "name": "Levure en poudre", "amount": "2g", "category": "pantry" },
@@ -343,6 +354,7 @@
       "id": "butter-mochi-cake",
       "title": "Gâteau Mochi au Beurre",
       "tags": ["bakery", "dessert"],
+      "difficulty": 1.0,
       "ingredients": [
         { "key": "egg", "name": "Œuf entier", "amount": "50g", "category": "meat" },
         { "key": "milk", "name": "Lait", "amount": "200g", "category": "dairy" },
@@ -367,6 +379,7 @@
       "id": "taro-paste-filling",
       "title": "Fourrage à la Pâte de Taro",
       "tags": ["dessert"],
+      "difficulty": 1.0,
       "ingredients": [
         { "key": "taro", "name": "Taro", "amount": "500g (cuit à la vapeur)", "category": "veggie" },
         { "key": "sugar", "name": "Sucre en poudre", "amount": "75g", "category": "seasoning" },
@@ -383,6 +396,7 @@
       "id": "herb-baked-salmon",
       "title": "Saumon aux Herbes au Four",
       "tags": ["dish"],
+      "difficulty": 1.0,
       "ingredients": [
         { "key": "salmon-fillets", "name": "Filets de saumon", "category": "meat" },
         { "key": "oil", "name": "Huile d'olive", "category": "seasoning" },
@@ -409,6 +423,7 @@
       "id": "hamachi-kama",
       "title": "Collier de Sériole Grillé (Hamachi Kama)",
       "tags": ["dish"],
+      "difficulty": 1.0,
       "ingredients": [
         { "key": "hamachi-kama", "name": "Collier de sériole (Hamachi kama)", "category": "meat" },
         { "key": "salt", "name": "Sel Kasher", "category": "seasoning" },
@@ -434,6 +449,7 @@
       "id": "pan-fried-matsutake",
       "title": "Matsutake Poêlé au Beurre",
       "tags": ["dish"],
+      "difficulty": 0.5,
       "ingredients": [
         { "key": "matsutake-mushroom", "name": "Champignon Matsutake", "category": "veggie" },
         { "key": "butter", "name": "Beurre", "category": "dairy" },
@@ -460,6 +476,7 @@
       "id": "chili-stir-fried-pork",
       "title": "Porc Sauté aux Piments",
       "tags": ["dish"],
+      "difficulty": 2.5,
       "ingredients": [
         { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
         { "key": "chili-pepper", "name": "Piment 'Screwdriver'", "category": "veggie" },
@@ -495,6 +512,7 @@
       "id": "uncle-braised-pork",
       "title": "Poitrine de Porc Braisée Façon 'Tonton'",
       "tags": ["dish"],
+      "difficulty": 4.0,
       "ingredients": [
         { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
         { "key": "scallion", "name": "Ciboule", "category": "veggie" },
@@ -536,6 +554,7 @@
       "id": "jujube-braised-pork",
       "title": "Poitrine de Porc Braisée aux Jujubes",
       "tags": ["dish"],
+      "difficulty": 4.0,
       "ingredients": [
         { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
         { "key": "red-dates", "name": "Dattes rouges (Jujubes)", "category": "veggie" },
@@ -578,6 +597,7 @@
       "id": "tomato-scrambled-eggs",
       "title": "Œufs Brouillés à la Tomate",
       "tags": ["dish"],
+      "difficulty": 1.0,
       "ingredients": [
         { "key": "tomato", "name": "Tomate", "category": "veggie" },
         { "key": "egg", "name": "Œuf", "category": "meat" },
@@ -614,6 +634,7 @@
       "id": "japanese-light-cheesecake",
       "title": "Cheesecake Japonais Léger",
       "tags": ["dessert", "bakery"],
+      "difficulty": 5.0,
       "ingredients": [
         { "key": "cream-cheese", "name": "Fromage à la crème", "category": "dairy", "amount": "125g" },
         { "key": "butter", "name": "Beurre doux", "category": "dairy", "amount": "15g" },
@@ -653,6 +674,7 @@
       "id": "black-pepper-beef-short-ribs",
       "title": "Côtes Courtes de Bœuf au Poivre Noir",
       "tags": ["dish"],
+      "difficulty": 3.0,
       "ingredients": [
         { "key": "beef-short-ribs", "name": "Côtes courtes de bœuf", "amount": "400g", "category": "meat" },
         { "key": "cooking-wine", "name": "Vin de Hua Diao", "amount": "10g", "category": "seasoning" },
@@ -691,6 +713,7 @@
       "id": "swiss-roll-sour-cream",
       "title": "Gâteau Roulé Classique à la Crème Aigre",
       "tags": ["bakery", "dessert"],
+      "difficulty": 4.5,
       "ingredients": [
         { "key": "egg-white", "name": "Blancs d'œufs", "amount": "170g", "category": "meat" },
         { "key": "egg-yolk", "name": "Jaunes d'œufs", "amount": "85g", "category": "meat" },

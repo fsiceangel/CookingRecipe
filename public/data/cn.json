@@ -4,6 +4,7 @@
     "id": "chaoshan-beef-balls",
     "title": "潮汕牛肉丸",
     "tags": ["dish"],
+    "difficulty": 3.0,
     "ingredients": [
       {"key": "beef-hind-leg", "name": "牛后腿肉", "amount": "500g", "category": "meat"},
       {"key": "baking-soda", "name": "小苏打", "amount": "1g", "category": "seasoning"},
@@ -36,6 +37,7 @@
     "id": "fried-garlic-crisps",
     "title": "炸蒜酥（蒜头油）",
     "tags": ["dish"],
+    "difficulty": 1.5,
     "ingredients": [
       {"key": "garlic", "name": "大蒜", "amount": "50g", "category": "veggie"},
       {"key": "oil", "name": "植物油", "amount": "100g", "category": "seasoning"}
@@ -53,6 +55,7 @@
     "id": "kung-pao-chicken",
     "title": "宫保鸡丁",
     "tags": ["dish"],
+    "difficulty": 2.5,
     "ingredients": [
       {"key": "chicken-breast", "name": "鸡胸肉", "category": "meat"},
       {"key": "peanuts", "name": "花生米", "category": "veggie"},
@@ -87,6 +90,7 @@
     "id": "braised-pork-balls-lions-head",
     "title": "红烧狮子头",
     "tags": ["dish"],
+    "difficulty": 4.0,
     "ingredients": [
       { "key": "pork-belly", "name": "五花肉", "amount": "1kg", "category": "meat" },
       { "key": "water-chestnut", "name": "马蹄", "amount": "60g", "category": "veggie" },
@@ -130,6 +134,7 @@
     "id": "evelyn-jemerson-pound-cake",
     "title": "伊芙琳·杰默森的磅蛋糕",
     "tags": ["bakery", "dessert"],
+    "difficulty": 2.0,
     "ingredients": [
       { "key": "parkay-margarine", "name": "Parkay 人造黄油", "amount": "2条", "category": "dairy" },
       { "key": "butter", "name": "黄油", "amount": "1条", "category": "dairy" },
@@ -158,6 +163,7 @@
     "id": "braised-beef-shank",
     "title": "卤牛肉",
     "tags": ["dish"],
+    "difficulty": 3.5,
     "ingredients": [
       { "key": "beef-shank", "name": "牛腱子", "amount": "6斤", "category": "meat" },
       { "key": "star-anise", "name": "大料", "amount": "12个", "category": "seasoning" },
@@ -194,6 +200,7 @@
     "id": "korokke-croquette",
     "title": "可乐饼",
     "tags": ["dish"],
+    "difficulty": 3.0,
     "ingredients": [
       { "key": "potato", "name": "土豆", "amount": "300g", "category": "veggie" },
       { "key": "butter", "name": "黄油", "amount": "10g", "category": "dairy" },
@@ -221,6 +228,7 @@
     "id": "madeleine-cake",
     "title": "玛德琳蛋糕",
     "tags": ["bakery", "dessert"],
+    "difficulty": 3.5,
     "ingredients": [
       { "key": "cake-flour", "name": "低筋粉", "amount": "125g", "category": "pantry" },
       { "key": "sugar", "name": "糖", "amount": "125g", "category": "seasoning" },
@@ -254,6 +262,7 @@
     "id": "three-onion-noodles",
     "title": "三葱拌面 (葱油做法)",
     "tags": ["dish"],
+    "difficulty": 1.5,
     "ingredients": [
       { "key": "scallion", "name": "大葱", "amount": "100g", "category": "veggie" },
       { "key": "scallion", "name": "小葱", "amount": "100g", "category": "veggie" },
@@ -283,6 +292,7 @@
     "id": "antonio-carluccio-carbonara",
     "title": "安东尼奥·卡路奇奥的正宗卡邦尼意面",
     "tags": ["dish"],
+    "difficulty": 3.5,
     "ingredients": [
       { "key": "spaghettoni", "name": "意式粗面", "amount": "2人份", "category": "pantry" },
       { "key": "guanciale-pancetta", "name": "猪脸颊肉(Guanciale)或意式烟肉(pancetta)", "amount": "切丁", "category": "meat" },
@@ -315,6 +325,7 @@
     "id": "milk-steamed-buns",
     "title": "牛奶馒头",
     "tags": ["bakery"],
+    "difficulty": 3.0,
     "ingredients": [
       { "key": "flour", "name": "中筋面粉", "amount": "200克", "category": "pantry" },
       { "key": "yeast", "name": "酵母粉", "amount": "2克", "category": "pantry" },
@@ -343,6 +354,7 @@
     "id": "butter-mochi-cake",
     "title": "黄油年糕",
     "tags": ["bakery", "dessert"],
+    "difficulty": 1.0,
     "ingredients": [
       { "key": "egg", "name": "全蛋液", "amount": "50克", "category": "meat" },
       { "key": "milk", "name": "牛奶", "amount": "200克", "category": "dairy" },
@@ -367,6 +379,7 @@
     "id": "taro-paste-filling",
     "title": "芋泥馅",
     "tags": ["dessert"],
+    "difficulty": 1.0,
     "ingredients": [
       { "key": "taro", "name": "荔浦芋头", "amount": "500克 (蒸熟后)", "category": "veggie" },
       { "key": "sugar", "name": "细砂糖", "amount": "75克", "category": "seasoning" },
@@ -383,6 +396,7 @@
     "id": "herb-baked-salmon",
     "title": "香草烤三文鱼",
     "tags": ["dish"],
+    "difficulty": 1.0,
     "ingredients": [
       { "key": "salmon-fillets", "name": "三文鱼柳", "category": "meat" },
       { "key": "oil", "name": "橄榄油", "category": "seasoning" },
@@ -409,6 +423,7 @@
     "id": "hamachi-kama",
     "title": "烤鰤鱼颈肉 (Hamachi Kama)",
     "tags": ["dish"],
+    "difficulty": 1.0,
     "ingredients": [
       { "key": "hamachi-kama", "name": "鰤鱼颈肉", "category": "meat" },
       { "key": "salt", "name": "粗盐", "category": "seasoning" },
@@ -434,6 +449,7 @@
     "id": "pan-fried-matsutake",
     "title": "黄油煎松茸",
     "tags": ["dish"],
+    "difficulty": 0.5,
     "ingredients": [
       { "key": "matsutake-mushroom", "name": "松茸", "category": "veggie" },
       { "key": "butter", "name": "黄油", "category": "dairy" },
@@ -460,6 +476,7 @@
     "id": "chili-stir-fried-pork",
     "title": "辣椒炒肉",
     "tags": ["dish"],
+    "difficulty": 2.5,
     "ingredients": [
       { "key": "pork-belly", "name": "五花肉", "category": "meat" },
       { "key": "chili-pepper", "name": "螺丝椒", "category": "veggie" },
@@ -494,9 +511,8 @@
   {
     "id": "uncle-braised-pork",
     "title": "大爷红烧肉",
-    "tags": [
-      "dish"
-    ],
+    "tags": [ "dish" ],
+    "difficulty": 4.0,
     "ingredients": [
       { "key": "pork-belly", "name": "五花肉", "category": "meat" },
       { "key": "scallion", "name": "葱", "category": "veggie" },
@@ -537,9 +553,8 @@
   {
     "id": "jujube-braised-pork",
     "title": "枣香红烧肉",
-    "tags": [
-      "dish"
-    ],
+    "tags": [ "dish" ],
+    "difficulty": 4.0,
     "ingredients": [
       { "key": "pork-belly", "name": "五花肉", "category": "meat" },
       { "key": "red-dates", "name": "红枣", "category": "veggie" },
@@ -581,9 +596,8 @@
   {
     "id": "tomato-scrambled-eggs",
     "title": "西红柿炒蛋",
-    "tags": [
-      "dish"
-    ],
+    "tags": [ "dish" ],
+    "difficulty": 1.0,
     "ingredients": [
       { "key": "tomato", "name": "西红柿", "category": "veggie" },
       { "key": "egg", "name": "鸡蛋", "category": "meat" },
@@ -620,6 +634,7 @@
     "id": "japanese-light-cheesecake",
     "title": "日式轻乳酪蛋糕",
     "tags": ["dessert", "bakery"],
+    "difficulty": 5.0,
     "ingredients": [
       { "key": "cream-cheese", "name": "奶油奶酪", "category": "dairy", "amount": "125克" },
       { "key": "butter", "name": "无盐奶油", "category": "dairy", "amount": "15克" },
@@ -638,11 +653,11 @@
       "在另一个干净无油无水的碗中，放入3颗蛋白和柠檬汁，用打蛋器打至粗泡。",
       "将55克细砂糖分三次加入蛋白中，持续打发至湿性发泡（提起打蛋器时，蛋白霜呈现弯钩状态）。",
       "取1/3的蛋白霜加入蛋黄糊中，用切拌（J-fold）方式轻柔拌匀。",
-      "将拌匀的面糊倒回剩余的蛋白霜中，再次用切拌方式混合均匀，完成蛋糕面糊。",
+      "将拌匀的麵糊倒回剩馀的蛋白霜中，再次用切拌方式混合均匀，完成蛋糕面糊。",
       "将面糊倒入已铺好烘焙纸的6寸蛋糕模具中（底部和侧边皆需铺纸），轻敲几下震出大气泡。",
       "烤箱先预热上火250/下火140度。在烤盘里放常温水（水浴法）一起预热。",
       "将模具放入烤盘中，以上火240/下火140度 烤20分钟。",
-      "接着转为上火140/下火130度 续烤40分钟（总共烤60分钟）。",
+      "接著转为上火140/下火130度 续烤40分钟（总共烤60分钟）。",
       "烤完后打开炉门，让蛋糕在烤箱里闷5分钟再出炉。",
       "出炉后立即脱模并撕掉烘焙纸，放凉后即可食用，冷藏后风味更佳。"
     ],
@@ -659,6 +674,7 @@
     "id": "black-pepper-beef-short-ribs",
     "title": "黑椒牛小排",
     "tags": ["dish"],
+    "difficulty": 3.0,
     "ingredients": [
       { "key": "beef-short-ribs", "name": "牛小排", "amount": "400克", "category": "meat" },
       { "key": "cooking-wine", "name": "花雕酒", "amount": "10克", "category": "seasoning" },
@@ -697,6 +713,7 @@
     "id": "swiss-roll-sour-cream",
     "title": "经典酸奶油瑞士卷",
     "tags": ["bakery", "dessert"],
+    "difficulty": 4.5,
     "ingredients": [
       { "key": "egg-white", "name": "蛋白", "amount": "170克", "category": "meat" },
       { "key": "egg-yolk", "name": "蛋黄", "amount": "85克", "category": "meat" },

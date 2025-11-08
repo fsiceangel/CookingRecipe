@@ -17,6 +17,7 @@ export interface Recipe {
   notes?: string[];
   videoLink?: string;
   tags: Tag[];
+  difficulty: number;
 }
 
 export interface Translations {
