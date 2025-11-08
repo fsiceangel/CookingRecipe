@@ -1,3 +1,4 @@
+
 [
     {
       "id": "chaoshan-beef-balls",
@@ -10,7 +11,7 @@
         {"key": "sugar", "name": "Sucre", "amount": "4g", "category": "seasoning"},
         {"key": "msg", "name": "Glutamate monosodique", "amount": "2g", "category": "seasoning"},
         {"key": "cornstarch", "name": "Fécule de maïs", "amount": "15g", "category": "pantry"},
-        {"key": "ice-cubes", "name": "Glaçons", "amount": "50g", "category": "seasoning"},
+        {"key": "ice-cubes", "name": "Glaçons", "amount": "50g", "category": "pantry"},
         {"key": "beef-tallow", "name": "Morceaux de suif de boeuf", "category": "meat"},
         {"key": "beef-tendon", "name": "Morceaux de tendon de boeuf", "category": "meat"},
         {"key": "garlic", "name": "Ail", "category": "veggie"},
@@ -37,7 +38,7 @@
       "tags": ["dish"],
       "ingredients": [
         {"key": "garlic", "name": "Ail", "amount": "50g", "category": "veggie"},
-        {"key": "vegetable-oil", "name": "Huile végétale", "amount": "100g", "category": "seasoning"}
+        {"key": "oil", "name": "Huile végétale", "amount": "100g", "category": "seasoning"}
       ],
       "steps": [
         "Vous aurez besoin de 50g d'ail et 100g d'huile végétale.",
@@ -60,7 +61,7 @@
         {"key": "scallion", "name": "Ciboule", "category": "veggie"},
         {"key": "ginger", "name": "Gingembre", "category": "veggie"},
         {"key": "garlic", "name": "Ail", "category": "veggie"},
-        {"key": "soy-sauce", "name": "Sauce soja", "category": "seasoning"},
+        {"key": "light-soy-sauce", "name": "Sauce soja", "category": "seasoning"},
         {"key": "vinegar", "name": "Vinaigre", "category": "seasoning"},
         {"key": "sugar", "name": "Sucre", "category": "seasoning"},
         {"key": "cooking-wine", "name": "Vin de cuisine", "category": "seasoning"},
@@ -92,10 +93,10 @@
         { "key": "choy-sum", "name": "Choy sum", "amount": "pour la garniture", "category": "veggie" },
         { "key": "salt", "name": "Sel", "amount": "20g", "category": "seasoning" },
         { "key": "msg", "name": "Glutamate", "amount": "2g", "category": "seasoning" },
-        { "key": "pepper-powder", "name": "Poivre blanc", "amount": "2g", "category": "seasoning" },
+        { "key": "black-pepper", "name": "Poivre blanc", "amount": "2g", "category": "seasoning" },
         { "key": "scallion-ginger-water", "name": "Eau de ciboule et gingembre", "amount": "300g", "category": "seasoning" },
         { "key": "cornstarch", "name": "Fécule de maïs", "amount": "120g", "category": "pantry" },
-        { "key": "soy-sauce", "name": "Sauce soja", "amount": "80g", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja", "amount": "80g", "category": "seasoning" },
         { "key": "cooking-wine", "name": "Vin de Shaoxing", "amount": "100g", "category": "seasoning" },
         { "key": "scallion", "name": "Ciboule", "amount": "100g", "category": "veggie" },
         { "key": "ginger", "name": "Gingembre", "amount": "100g", "category": "veggie" },
@@ -149,7 +150,7 @@
       ],
       "notes": [
         "La quantité de vanille n'est pas spécifiée ; on utilise généralement 1 à 2 cuillères à café.",
-        "Les notes de temps de cuisson de la recette originale peuvent impliquer un temps total de 1 heure et 50 minutes. Les quatre-quarts prennent souvent environ 1,5 à 2 heures pour être complètement cuits."
+        "Les notes de temps de cuisson de la recette originale могут impliquer un temps total de 1 heure et 50 minutes. Les quatre-quarts prennent souvent environ 1,5 à 2 heures pour être complètement cuits."
       ],
       "videoLink": ""
     },
@@ -163,14 +164,14 @@
         { "key": "cinnamon-bark", "name": "Écorce de cannelle", "amount": "25g", "category": "seasoning" },
         { "key": "dried-yellow-bean-paste", "name": "Pâte de haricots jaunes séchée", "amount": "150g", "category": "seasoning" },
         { "key": "fennel-seeds", "name": "Graines de fenouil", "amount": "12g", "category": "seasoning" },
-        { "key": "soybean-sauce", "name": "Sauce de soja", "amount": "100g", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce de soja", "amount": "100g", "category": "seasoning" },
         { "key": "light-soy-sauce", "name": "Sauce soja claire", "amount": "50g", "category": "seasoning" },
         { "key": "salt", "name": "Sel", "amount": "70g", "category": "seasoning" },
         { "key": "scallion", "name": "Ciboule", "amount": "250g", "category": "veggie" },
         { "key": "ginger", "name": "Gingembre", "amount": "250g", "category": "veggie" },
-        { "key": "huadiao-wine", "name": "Vin de Huadiao", "amount": "au besoin", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin de Huadiao", "amount": "au besoin", "category": "seasoning" },
         { "key": "water", "name": "Eau", "amount": "3L", "category": "pantry" },
-        { "key": "soy-sauce", "name": "Sauce Soja", "amount": "100g", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce Soja", "amount": "100g", "category": "seasoning" },
         { "key": "chili-pepper", "name": "Piments séchés", "amount": "3", "category": "veggie" },
         { "key": "bay-leaf", "name": "Feuilles de laurier", "amount": "3", "category": "seasoning" },
         { "key": "sichuan-peppercorn", "name": "Poivre du Sichuan", "amount": "2g", "category": "seasoning" },
@@ -205,7 +206,7 @@
         { "key": "flour", "name": "Farine", "amount": "pour l'enrobage", "category": "pantry" },
         { "key": "egg", "name": "Œuf", "amount": "pour l'enrobage", "category": "meat" },
         { "key": "panko", "name": "Panko (Chapelure)", "amount": "pour l'enrobage", "category": "pantry" },
-        { "key": "vegetable-oil", "name": "Huile", "amount": "pour la friture", "category": "seasoning" }
+        { "key": "oil", "name": "Huile", "amount": "pour la friture", "category": "seasoning" }
       ],
       "steps": [
         "Faire bouillir 300g de pommes de terre dans l'eau pendant 30 minutes. Une fois cuites, retirer, peler et les réduire en purée.",
@@ -255,14 +256,14 @@
       "tags": ["dish"],
       "ingredients": [
         { "key": "scallion", "name": "Ciboule", "amount": "100g", "category": "veggie" },
-        { "key": "small-scallion", "name": "Petite Ciboule", "amount": "100g", "category": "veggie" },
+        { "key": "scallion", "name": "Petite Ciboule", "amount": "100g", "category": "veggie" },
         { "key": "onion", "name": "Oignon", "amount": "100g", "category": "veggie" },
         { "key": "light-soy-sauce", "name": "Sauce soja claire", "amount": "100g", "category": "seasoning" },
         { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "amount": "25g", "category": "seasoning" },
         { "key": "oyster-sauce", "name": "Sauce d'huître", "amount": "25g", "category": "seasoning" },
         { "key": "aged-vinegar", "name": "Vinaigre vieilli", "amount": "20g", "category": "seasoning" },
         { "key": "sugar", "name": "Sucre", "amount": "25g", "category": "seasoning" },
-        { "key": "rapeseed-oil", "name": "Huile de colza", "amount": "150g", "category": "seasoning" }
+        { "key": "oil", "name": "Huile de colza", "amount": "150g", "category": "seasoning" }
       ],
       "steps": [
         "Préparation : Couper 100g de ciboule en losanges, 100g de petite ciboule en sections, et 100g d'oignon en fines lanières.",
@@ -285,7 +286,7 @@
       "ingredients": [
         { "key": "spaghettoni", "name": "Spaghettoni", "amount": "pour 2 personnes", "category": "pantry" },
         { "key": "guanciale-pancetta", "name": "Guanciale ou pancetta", "amount": "en cubes", "category": "meat" },
-        { "key": "olive-oil", "name": "Huile d'olive de bonne qualité", "amount": "un filet", "category": "seasoning" },
+        { "key": "oil", "name": "Huile d'olive de bonne qualité", "amount": "un filet", "category": "seasoning" },
         { "key": "egg", "name": "Gros œufs frais", "amount": "2", "category": "meat" },
         { "key": "egg-yolk", "name": "Jaune d'œuf supplémentaire", "amount": "1 (facultatif)", "category": "meat" },
         { "key": "parmesan-pecorino", "name": "Parmesan ou Pecorino", "amount": "généreuse quantité", "category": "dairy" },
@@ -384,7 +385,7 @@
       "tags": ["dish"],
       "ingredients": [
         { "key": "salmon-fillets", "name": "Filets de saumon", "category": "meat" },
-        { "key": "olive-oil", "name": "Huile d'olive", "category": "seasoning" },
+        { "key": "oil", "name": "Huile d'olive", "category": "seasoning" },
         { "key": "salt", "name": "Sel", "category": "seasoning" },
         { "key": "black-pepper", "name": "Poivre noir concassé", "category": "seasoning" },
         { "key": "garlic", "name": "Ail haché", "category": "veggie" },
@@ -411,7 +412,7 @@
       "ingredients": [
         { "key": "hamachi-kama", "name": "Collier de sériole (Hamachi kama)", "category": "meat" },
         { "key": "salt", "name": "Sel Kasher", "category": "seasoning" },
-        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja", "category": "seasoning" },
         { "key": "yuzu-juice", "name": "Jus de yuzu", "category": "seasoning" },
         { "key": "lemon", "name": "Quartiers de citron", "category": "veggie" }
       ],
@@ -461,12 +462,12 @@
       "tags": ["dish"],
       "ingredients": [
         { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
-        { "key": "screwdriver-pepper", "name": "Piment 'Screwdriver'", "category": "veggie" },
-        { "key": "thai-chili", "name": "Piment thaï", "category": "veggie" },
+        { "key": "chili-pepper", "name": "Piment 'Screwdriver'", "category": "veggie" },
+        { "key": "chili-pepper", "name": "Piment thaï", "category": "veggie" },
         { "key": "garlic", "name": "Ail", "category": "veggie" },
         { "key": "liuyang-fermented-soybeans", "name": "Soja fermenté de Liuyang", "category": "seasoning" },
         { "key": "cooking-wine", "name": "Vin de cuisine", "category": "seasoning" },
-        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja", "category": "seasoning" },
         { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "category": "seasoning" }
       ],
       "steps": [
@@ -502,11 +503,11 @@
         { "key": "cinnamon-bark", "name": "Écorce de cannelle", "category": "seasoning" },
         { "key": "bay-leaf", "name": "Feuille de laurier", "category": "seasoning" },
         { "key": "sichuan-peppercorn", "name": "Poivre du Sichuan", "category": "seasoning" },
-        { "key": "huadiao-wine", "name": "Vin de Huadiao", "category": "seasoning" },
-        { "key": "soft-white-sugar", "name": "Sucre en poudre", "category": "seasoning" },
-        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
-        { "key": "yellow-wine", "name": "Vin jaune / Vin de Shaoxing", "category": "seasoning" },
-        { "key": "pepper-powder", "name": "Poivre en poudre", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin de Huadiao", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre en poudre", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin jaune / Vin de Shaoxing", "category": "seasoning" },
+        { "key": "black-pepper", "name": "Poivre en poudre", "category": "seasoning" },
         { "key": "salt", "name": "Sel", "category": "seasoning" },
         { "key": "oil", "name": "Huile", "category": "seasoning" }
       ],
@@ -538,7 +539,7 @@
       "ingredients": [
         { "key": "pork-belly", "name": "Poitrine de porc", "category": "meat" },
         { "key": "red-dates", "name": "Dattes rouges (Jujubes)", "category": "veggie" },
-        { "key": "white-sugar", "name": "Sucre", "category": "seasoning" },
+        { "key": "sugar", "name": "Sucre", "category": "seasoning" },
         { "key": "light-soy-sauce", "name": "Sauce soja claire", "category": "seasoning" },
         { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "category": "seasoning" },
         { "key": "star-anise", "name": "Anis étoilé", "category": "seasoning" },
@@ -582,7 +583,7 @@
         { "key": "egg", "name": "Œuf", "category": "meat" },
         { "key": "scallion", "name": "Ciboule", "category": "veggie" },
         { "key": "oil", "name": "Huile", "category": "seasoning" },
-        { "key": "soy-sauce", "name": "Sauce soja", "category": "seasoning" },
+        { "key": "light-soy-sauce", "name": "Sauce soja", "category": "seasoning" },
         { "key": "sugar", "name": "Sucre", "category": "seasoning" },
         { "key": "salt", "name": "Sel", "category": "seasoning" }
       ],
@@ -615,10 +616,10 @@
       "tags": ["dessert", "bakery"],
       "ingredients": [
         { "key": "cream-cheese", "name": "Fromage à la crème", "category": "dairy", "amount": "125g" },
-        { "key": "unsalted-butter", "name": "Beurre doux", "category": "dairy", "amount": "15g" },
+        { "key": "butter", "name": "Beurre doux", "category": "dairy", "amount": "15g" },
         { "key": "milk", "name": "Lait", "category": "dairy", "amount": "65g" },
         { "key": "cake-flour", "name": "Farine à gâteau (Type 45)", "category": "pantry", "amount": "15g" },
-        { "key": "corn-flour", "name": "Fécule de maïs", "category": "pantry", "amount": "12g" },
+        { "key": "cornstarch", "name": "Fécule de maïs", "category": "pantry", "amount": "12g" },
         { "key": "egg-yolk", "name": "Jaune d'œuf", "category": "meat", "amount": "3 (environ 52g)" },
         { "key": "egg-white", "name": "Blanc d'œuf", "category": "meat", "amount": "3 (environ 95g)" },
         { "key": "sugar", "name": "Sucre en poudre", "category": "seasoning", "amount": "55g" },
@@ -654,7 +655,7 @@
       "tags": ["dish"],
       "ingredients": [
         { "key": "beef-short-ribs", "name": "Côtes courtes de bœuf", "amount": "400g", "category": "meat" },
-        { "key": "huadiao-wine", "name": "Vin de Hua Diao", "amount": "10g", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin de Hua Diao", "amount": "10g", "category": "seasoning" },
         { "key": "light-soy-sauce", "name": "Sauce soja claire", "amount": "20g", "category": "seasoning" },
         { "key": "dark-soy-sauce", "name": "Sauce soja foncée", "amount": "10g", "category": "seasoning" },
         { "key": "sugar", "name": "Sucre", "amount": "10g", "category": "seasoning" },
@@ -662,7 +663,7 @@
         { "key": "baking-soda", "name": "Bicarbonate de soude", "amount": "2g", "category": "seasoning" },
         { "key": "cornstarch", "name": "Fécule de maïs", "amount": "10g", "category": "pantry" },
         { "key": "butter", "name": "Beurre", "amount": "30g", "category": "dairy" },
-        { "key": "guangdong-rice-wine", "name": "Vin de riz du Guangdong", "amount": "30g", "category": "seasoning" },
+        { "key": "cooking-wine", "name": "Vin de riz du Guangdong", "amount": "30g", "category": "seasoning" },
         { "key": "ginger", "name": "Gingembre haché", "category": "veggie" },
         { "key": "garlic", "name": "Ail haché", "category": "veggie" },
         { "key": "onion", "name": "Oignon haché", "category": "veggie" },
@@ -694,7 +695,7 @@
         { "key": "egg-white", "name": "Blancs d'œufs", "amount": "170g", "category": "meat" },
         { "key": "egg-yolk", "name": "Jaunes d'œufs", "amount": "85g", "category": "meat" },
         { "key": "milk", "name": "Lait", "amount": "20g", "category": "dairy" },
-        { "key": "corn-oil", "name": "Huile de maïs", "amount": "50g", "category": "seasoning" },
+        { "key": "oil", "name": "Huile de maïs", "amount": "50g", "category": "seasoning" },
         { "key": "sour-cream", "name": "Crème aigre", "amount": "70g", "category": "dairy" },
         { "key": "cake-flour", "name": "Farine à gâteau", "amount": "70g", "category": "pantry" },
         { "key": "salt", "name": "Sel de mer", "amount": "1.5g", "category": "seasoning" },
