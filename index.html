@@ -5,6 +5,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Personal Recipe Book</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      :root {
+        --color-background: 219 234 254; /* sky-100 */
+        --color-card-solid: 255 255 255; /* white */
+        --color-card-translucent: 255 255 255 / 0.8;
+        --color-card-header: 255 255 255 / 0.6;
+        --color-text-primary: 30 41 59; /* slate-800 */
+        --color-text-secondary: 71 85 105; /* slate-500 */
+        --color-border: 186 230 253; /* sky-200 */
+        --color-border-header: 125 211 252; /* sky-300 */
+        --color-accent-bg: 37 99 235; /* primary-600 */
+        --color-accent-bg-hover: 29 78 216; /* primary-700 */
+        --color-accent-heading: 29 78 216; /* primary-700 */
+        --color-gradient-from: 59 130 246; /* primary-500 */
+        --color-gradient-to: 29 78 216; /* primary-700 */
+        --color-chip-bg: 219 234 254; /* sky-100 */
+        --color-chip-bg-alt: 240 249 255; /* sky-50 */
+        --color-chip-text: 7 89 133; /* sky-800 */
+        --color-star-empty: 191 219 254; /* sky-200 */
+        --color-button-secondary-bg: 255 255 255; /* white */
+        --color-button-secondary-bg-hover: 219 234 254; /* sky-100 */
+        --color-button-secondary-text: 12 74 110; /* sky-800 */
+        --color-button-secondary-border: 186 230 253; /* sky-200 */
+      }
+      .dark {
+        --color-background: 15 23 42; /* slate-900 */
+        --color-card-solid: 30 41 59; /* slate-800 */
+        --color-card-translucent: 30 41 59 / 0.6;
+        --color-card-header: 30 41 59; /* slate-800 */
+        --color-text-primary: 226 232 240; /* slate-200 */
+        --color-text-secondary: 148 163 184; /* slate-400 */
+        --color-border: 51 65 85; /* slate-700 */
+        --color-border-header: 51 65 85; /* slate-700 */
+        --color-accent-bg: 59 130 246; /* primary-500 */
+        --color-accent-bg-hover: 37 99 235; /* primary-600 */
+        --color-accent-heading: 96 165 250; /* primary-400 */
+        --color-gradient-from: 96 165 250; /* primary-400 */
+        --color-gradient-to: 37 99 235; /* primary-600 */
+        --color-chip-bg: 51 65 85; /* slate-700 */
+        --color-chip-bg-alt: 51 65 85 / 0.5;
+        --color-chip-text: 203 213 225; /* slate-300 */
+        --color-star-empty: 71 85 105; /* slate-600 */
+        --color-button-secondary-bg: 51 65 85; /* slate-700 */
+        --color-button-secondary-bg-hover: 71 85 105; /* slate-600 */
+        --color-button-secondary-text: 203 213 225; /* slate-300 */
+        --color-button-secondary-border: 71 85 105; /* slate-600 */
+      }
+    </style>
     <script>
       // On page load or when changing themes, best to add inline in `head` to avoid FOUC
       // Sets dark mode by default, only applies light mode if explicitly set.
@@ -15,23 +63,58 @@
       }
     </script>
     <script>
+      const withOpacity = (variableName) => {
+        return ({ opacityValue }) => {
+          if (opacityValue !== undefined) {
+            return `rgba(var(${variableName}), ${opacityValue})`;
+          }
+          return `rgb(var(${variableName}))`;
+        };
+      };
+
       tailwind.config = {
         darkMode: 'class',
         theme: {
           extend: {
             colors: {
+              background: withOpacity('--color-background'),
+              card: {
+                solid: withOpacity('--color-card-solid'),
+                translucent: `rgba(var(--color-card-translucent))`,
+                header: withOpacity('--color-card-header'),
+              },
+              border: withOpacity('--color-border'),
+              'border-header': withOpacity('--color-border-header'),
+              text: {
+                primary: withOpacity('--color-text-primary'),
+                secondary: withOpacity('--color-text-secondary'),
+              },
+              accent: {
+                DEFAULT: withOpacity('--color-accent-bg'),
+                hover: withOpacity('--color-accent-bg-hover'),
+                heading: withOpacity('--color-accent-heading'),
+              },
+              chip: {
+                bg: withOpacity('--color-chip-bg'),
+                'bg-alt': withOpacity('--color-chip-bg-alt'),
+                text: withOpacity('--color-chip-text'),
+              },
+              'star-empty': withOpacity('--color-star-empty'),
+              button: {
+                secondary: {
+                  DEFAULT: withOpacity('--color-button-secondary-bg'),
+                  hover: withOpacity('--color-button-secondary-bg-hover'),
+                  text: withOpacity('--color-button-secondary-text'),
+                  border: withOpacity('--color-button-secondary-border'),
+                }
+              },
+              'gradient-from': 'var(--color-gradient-from)',
+              'gradient-to': 'var(--color-gradient-to)',
               primary: {
-                '50': '#eff6ff',
-                '100': '#dbeafe',
-                '200': '#bfdbfe',
-                '300': '#93c5fd',
-                '400': '#60a5fa',
-                '500': '#3b82f6',
-                '600': '#2563eb',
-                '700': '#1d4ed8',
-                '800': '#1e40af',
-                '900': '#1e3a8a',
-                '950': '#172554',
+                '50': '#eff6ff', '100': '#dbeafe', '200': '#bfdbfe',
+                '300': '#93c5fd', '400': '#60a5fa', '500': '#3b82f6',
+                '600': '#2563eb', '700': '#1d4ed8', '800': '#1e40af',
+                '900': '#1e3a8a', '950': '#172554',
               },
             }
           }
@@ -50,7 +133,7 @@
   }
 }
 </script>
-  <script type="module" crossorigin src="/CookingRecipe/assets/index-DjjW81sY.js"></script>
+  <script type="module" crossorigin src="/CookingRecipe/assets/index-BHreeFD1.js"></script>
 </head>
   <body>
     <div id="root"></div>
