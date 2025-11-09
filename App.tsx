@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Recipe, Ingredient, IngredientCategory, Tag } from './types';
 import { translations } from './i18n/translations';
+import { ingredientNames } from './i18n/ingredientNames';
 import RecipeCard from './components/RecipeCard';
 import RecipeDetail from './components/RecipeDetail';
 import IngredientChip from './components/IngredientChip';
@@ -87,15 +88,21 @@ const App: React.FC = () => {
 
   const uniqueIngredients = useMemo(() => {
     const ingredientsMap = new Map<string, Ingredient>();
+    const standardIngredientNames = ingredientNames[language];
+
     recipes.forEach(recipe => {
       recipe.ingredients.forEach(ing => {
         if (!ingredientsMap.has(ing.key)) {
-          ingredientsMap.set(ing.key, ing);
+          // Use standard name for filtering, but keep other properties from the first encounter.
+          ingredientsMap.set(ing.key, {
+            ...ing,
+            name: standardIngredientNames[ing.key] || ing.name,
+          });
         }
       });
     });
     return Array.from(ingredientsMap.values());
-  }, [recipes]);
+  }, [recipes, language]);
 
   const groupedIngredients = useMemo(() => {
     const groups = uniqueIngredients.reduce((acc, ingredient) => {
