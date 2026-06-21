@@ -1,0 +1,220 @@
+{
+  "id": "jujube-braised-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.bilibili.com/video/BV198411S7LW",
+  "ingredientKeys": [
+    "pork-belly",
+    "red-dates",
+    "sugar",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "star-anise",
+    "cinnamon-bark",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "oil",
+    "salt",
+    "msg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "枣香红烧肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "红枣"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "生抽"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "大料"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        }
+      ],
+      "steps": [
+        "猪五花修整。",
+        "猪肉冷水下锅，加葱、姜、大料、桂皮，水开煮到断生，开锅撇沫。",
+        "盖盖转中火煮半小时，直到插筷子无血水流出。",
+        "捞出改刀切成2.8cm见方的小块。",
+        "炒糖色：锅烧底油，加白糖50g和少量水，先大火熬，变黄后改小火，熬成枣红色糖浆。",
+        "下入肉块、2个大料、小块桂皮、葱、姜煸炒。",
+        "烹入生抽30g，再烹料酒10g，然后加入热水没过肉块。",
+        "加盐2g、味精1g、白糖40g（酌情调整）、老抽搅匀，大火煮3分钟使肉块上色。",
+        "将肉块和汤转移到高压锅内，加入热水正好没过肉块，再加入红枣、补盐。",
+        "高压锅大火上汽后转中火压20分钟。",
+        "捞出锅内料渣。",
+        "（可选步骤）可选择把肉浸在汤中半天以便更入味。",
+        "将肉（不要皮朝下）和汤转移到铁锅内，另加红枣，开大火收汁至粘稠。"
+      ],
+      "notes": [
+        "煮肉时，插筷子无血水流出即为断生。",
+        "炒糖色：先大火，变黄改小火。",
+        "收汁时，肉块不要皮朝下，以免粘锅。",
+        "可选：高压锅压完后，可将肉浸泡在汤汁中半天以更入味。"
+      ]
+    },
+    "en": {
+      "title": "Braised Pork Belly with Jujubes",
+      "ingredients": [
+        {
+          "name": "Pork Belly"
+        },
+        {
+          "name": "Red Dates (Jujubes)"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Light Soy Sauce"
+        },
+        {
+          "name": "Dark Soy Sauce"
+        },
+        {
+          "name": "Star Anise"
+        },
+        {
+          "name": "Cinnamon Bark"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Cooking Wine"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        }
+      ],
+      "steps": [
+        "Trim the pork belly.",
+        "Place the pork in a pot with cold water, add scallion, ginger, star anise, and cinnamon bark. Bring to a boil until cooked through, skimming off any scum.",
+        "Cover and simmer over medium heat for 30 minutes, until a chopstick inserted into the meat comes out clean with no blood.",
+        "Remove the pork and cut it into 2.8cm square cubes.",
+        "Make caramel sauce: Heat a little oil in a wok, add 50g of white sugar and a small amount of water. Cook on high heat first, then switch to low heat when it turns yellow, cooking until it becomes a date-red syrup.",
+        "Add the pork cubes, 2 star anise, a small piece of cinnamon bark, scallion, and ginger. Stir-fry.",
+        "Add 30g of light soy sauce, then 10g of cooking wine. Add hot water to cover the pork.",
+        "Add 2g salt, 1g MSG, 40g white sugar (adjust to taste), and dark soy sauce. Stir well and cook on high heat for 3 minutes to color the pork.",
+        "Transfer the pork and sauce to a pressure cooker. Add hot water to just cover the meat, then add red dates and more salt if needed.",
+        "Cook in the pressure cooker on high heat. Once it reaches pressure, switch to medium heat and cook for 20 minutes.",
+        "Remove the solid spices from the pot.",
+        "(Optional step) You can let the pork soak in the sauce for half a day for more flavor.",
+        "Transfer the pork (skin-side up) and sauce to a wok. Add more red dates and reduce the sauce over high heat until it thickens."
+      ],
+      "notes": [
+        "When boiling the pork, it's cooked through when a chopstick inserted comes out clean with no blood.",
+        "For the caramel sauce: start with high heat, then switch to low when it turns yellow.",
+        "When reducing the sauce, do not place the pork skin-side down to avoid sticking.",
+        "Optional: After pressure cooking, you can soak the pork in the sauce for half a day for richer flavor."
+      ]
+    },
+    "fr": {
+      "title": "Poitrine de Porc Braisée aux Jujubes",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Dattes rouges (Jujubes)"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sauce soja claire"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate monosodique"
+        }
+      ],
+      "steps": [
+        "Parer la poitrine de porc.",
+        "Placer le porc dans une casserole d'eau froide, ajouter la ciboule, le gingembre, l'anis étoilé et l'écorce de cannelle. Porter à ébullition jusqu'à cuisson complète, en écumant les impuretés.",
+        "Couvrir et laisser mijoter à feu moyen pendant 30 minutes, jusqu'à ce qu'une baguette insérée dans la viande en ressorte propre, sans sang.",
+        "Retirer le porc et le couper en cubes de 2,8 cm de côté.",
+        "Faire une sauce caramel : Chauffer un peu d'huile dans un wok, ajouter 50g de sucre blanc et une petite quantité d'eau. Cuire d'abord à feu vif, puis passer à feu doux lorsque le mélange jaunit, jusqu'à obtenir un sirop de couleur datte.",
+        "Ajouter les cubes de porc, 2 anis étoilés, un petit morceau d'écorce de cannelle, la ciboule et le gingembre. Faire sauter.",
+        "Ajouter 30g de sauce soja claire, puis 10g de vin de cuisine. Ajouter de l'eau chaude pour couvrir le porc.",
+        "Ajouter 2g de sel, 1g de glutamate, 40g de sucre blanc (ajuster au goût) et de la sauce soja foncée. Bien mélanger et cuire à feu vif pendant 3 minutes pour colorer le porc.",
+        "Transférer le porc et la sauce dans un autocuiseur. Ajouter de l'eau chaude juste pour couvrir la viande, puis ajouter les dattes rouges et plus de sel si nécessaire.",
+        "Cuire dans l'autocuiseur à feu vif. Une fois la pression atteinte, passer à feu moyen et cuire pendant 20 minutes.",
+        "Retirer les épices solides de la casserole.",
+        "(Étape facultative) Vous pouvez laisser le porc tremper dans la sauce pendant une demi-journée pour plus de saveur.",
+        "Transférer le porc (côté peau vers le haut) et la sauce dans un wok. Ajouter d'autres dattes rouges et réduire la sauce à feu vif jusqu'à ce qu'elle épaississe."
+      ],
+      "notes": [
+        "Lors de la cuisson du porc, il est cuit à cœur lorsqu'une baguette insérée en ressort propre, sans sang.",
+        "Pour la sauce caramel : commencer à feu vif, puis passer à feu doux lorsqu'elle jaunit.",
+        "Lors de la réduction de la sauce, ne pas placer le porc côté peau vers le bas pour éviter qu'il n'attache.",
+        "Facultatif : Après la cuisson sous pression, vous pouvez laisser tremper le porc dans la sauce pendant une demi-journée pour une saveur plus riche."
+      ]
+    }
+  }
+}

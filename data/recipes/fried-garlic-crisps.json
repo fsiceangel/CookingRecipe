@@ -1,0 +1,74 @@
+{
+  "id": "fried-garlic-crisps",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B",
+  "ingredientKeys": [
+    "garlic",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炸蒜酥（蒜头油）",
+      "ingredients": [
+        {
+          "name": "大蒜",
+          "amount": "50g"
+        },
+        {
+          "name": "植物油",
+          "amount": "100g"
+        }
+      ],
+      "steps": [
+        "大蒜50g，植物油100g。",
+        "大蒜用料理机打成颗粒，清洗一下，沥干水分。",
+        "油温60度，下入蒜粒，小火慢炸至微黄立即捞出，即为炸蒜酥。",
+        "炸蒜酥泡在炸过的油里，即为蒜头油。"
+      ],
+      "notes": []
+    },
+    "en": {
+      "title": "Fried Garlic Crisps (Garlic Oil)",
+      "ingredients": [
+        {
+          "name": "Garlic",
+          "amount": "50g"
+        },
+        {
+          "name": "Vegetable oil",
+          "amount": "100g"
+        }
+      ],
+      "steps": [
+        "You will need 50g garlic and 100g vegetable oil.",
+        "Mince the garlic into small particles using a food processor, then rinse and drain well.",
+        "Heat oil to 60°C (140°F), add garlic bits, and fry over low heat until lightly golden. Remove immediately to get fried garlic crisps.",
+        "Store the fried garlic crisps in the oil they were fried in; this is garlic oil."
+      ],
+      "notes": []
+    },
+    "fr": {
+      "title": "Croustilles d'ail frites (Huile d'ail)",
+      "ingredients": [
+        {
+          "name": "Ail",
+          "amount": "50g"
+        },
+        {
+          "name": "Huile végétale",
+          "amount": "100g"
+        }
+      ],
+      "steps": [
+        "Vous aurez besoin de 50g d'ail et 100g d'huile végétale.",
+        "Hacher l'ail en petites particules à l'aide d'un robot culinaire, puis rincer et bien égoutter.",
+        "Chauffer l'huile à 60°C, ajouter les morceaux d'ail et frire à feu doux jusqu'à ce qu'ils soient légèrement dorés. Retirer immédiatement pour obtenir des croustilles d'ail frites.",
+        "Conserver les croustilles d'ail frites dans l'huile de friture ; c'est de l'huile d'ail."
+      ],
+      "notes": []
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "milk-steamed-buns",
+  "tags": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.bilibili.com/video/BV1rE411o7zi",
+  "ingredientKeys": [
+    "flour",
+    "yeast",
+    "sugar",
+    "milk",
+    "warm-water",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "牛奶馒头",
+      "ingredients": [
+        {
+          "name": "中筋面粉",
+          "amount": "200克"
+        },
+        {
+          "name": "酵母粉",
+          "amount": "2克"
+        },
+        {
+          "name": "糖",
+          "amount": "15克"
+        },
+        {
+          "name": "牛奶",
+          "amount": "100克"
+        },
+        {
+          "name": "温水(40℃)",
+          "amount": "20克"
+        },
+        {
+          "name": "油",
+          "amount": "15克"
+        }
+      ],
+      "steps": [
+        "我们先准备好材料，把糖和酵母加到温水里，让酵母恢复活性。白糖可以增加酵母的活性。如果你想少吃点糖，可以不用加，适当的延长发酵时间就可以了。一直搅拌到白糖融化，把它倒到面粉里，再加入油和牛奶。",
+        "拿到案板上揉，用手掌根贴着揉，身体用力往一个方向揉面，揉到光滑以后马上停止，（再继续揉，面团就会升温，不断的产生气泡，变得越来越粗糙。）揉 15 分钟，面团就揉好了。",
+        "整圆后醒面5分钟。",
+        "台面上撒一点面粉，拿住擀面杖往上下擀，（不擀到头，上下多留一点）然后把它横过来开始擀。（刚开始两个头留着，面团就到两边去了，这样基本一个长方形的形状就出来了。）",
+        "擀大一点开始卷。表面均匀刷上清水。一边用手把它按薄，从另一边开始紧密地卷起来，卷的时候要适当地卷一下形，让它宽度一致。",
+        "再从面团中心向两边轻轻揉搓。搓成直径 3 厘米左右，粗细均匀的长条。然后用刀切开两根手指的宽度。",
+        "把面团松散的放到蒸笼里，不能放得太紧，不然发酵变大以后容易粘在一起，盖上盖子，我们让它室温发酵到 1.5 倍大。",
+        "发酵好后，用手指腹轻轻的按一下，面团会缓慢的回弹，不回弹就是发过头了，不能再继续发了。切开看一下，里面有均匀微小的气孔。",
+        "蒸锅上汽以后，把蒸笼放进去用大火蒸 10 分钟。10 分钟以后关火就可以直接开盖食用~"
+      ],
+      "notes": [
+        "需要工具：蒸笼"
+      ]
+    },
+    "en": {
+      "title": "Milk Steamed Buns",
+      "ingredients": [
+        {
+          "name": "All-purpose Flour",
+          "amount": "200g"
+        },
+        {
+          "name": "Yeast Powder",
+          "amount": "2g"
+        },
+        {
+          "name": "Sugar",
+          "amount": "15g"
+        },
+        {
+          "name": "Milk",
+          "amount": "100g"
+        },
+        {
+          "name": "Warm Water (40°C)",
+          "amount": "20g"
+        },
+        {
+          "name": "Oil",
+          "amount": "15g"
+        }
+      ],
+      "steps": [
+        "First, prepare the ingredients. Add the sugar and yeast to the warm water to activate the yeast. Sugar helps activate the yeast, but you can omit it and simply extend the proofing time. Stir until the sugar dissolves, then pour it into the flour along with the oil and milk.",
+        "Transfer the dough to a work surface. Knead with the heel of your hand, pushing in one direction. Stop immediately once the dough is smooth (over-kneading will warm the dough, causing it to bubble and become rough). Kneading for about 15 minutes should be sufficient.",
+        "Shape the dough into a ball and let it rest for 5 minutes.",
+        "Sprinkle a little flour on the work surface. Use a rolling pin to roll the dough out, leaving a small border at the top and bottom. Then, turn it horizontally and continue rolling to form a rectangular shape.",
+        "Once rolled out, brush the surface evenly with a little water. Press one edge thin with your fingers, then start rolling tightly from the opposite edge, shaping it as you go to maintain a consistent width.",
+        "Gently roll the dough from the center outwards to form a long, even log about 3 cm in diameter. Cut it into pieces about two fingers wide.",
+        "Place the dough pieces loosely in a steamer, leaving space between them as they will expand. Cover and let them proof at room temperature until they are 1.5 times their original size.",
+        "To check if the dough is ready, gently press it with your fingertip. It should bounce back slowly. If it doesn't bounce back, it's over-proofed. A cross-section should show small, uniform air pockets.",
+        "Once the water in the steamer is boiling, place the steamer basket inside and steam over high heat for 10 minutes. After 10 minutes, turn off the heat. You can open the lid and serve them immediately."
+      ],
+      "notes": [
+        "Tools needed: A steamer."
+      ]
+    },
+    "fr": {
+      "title": "Brioches à la vapeur au lait",
+      "ingredients": [
+        {
+          "name": "Farine tout usage",
+          "amount": "200g"
+        },
+        {
+          "name": "Levure en poudre",
+          "amount": "2g"
+        },
+        {
+          "name": "Sucre",
+          "amount": "15g"
+        },
+        {
+          "name": "Lait",
+          "amount": "100g"
+        },
+        {
+          "name": "Eau tiède (40°C)",
+          "amount": "20g"
+        },
+        {
+          "name": "Huile",
+          "amount": "15g"
+        }
+      ],
+      "steps": [
+        "D'abord, préparer les ingrédients. Ajouter le sucre et la levure à l'eau tiède pour activer la levure. Le sucre aide à activer la levure, mais vous pouvez l'omettre et simplement prolonger le temps de levée. Remuer jusqu'à dissolution du sucre, puis verser dans la farine avec l'huile et le lait.",
+        "Transférer la pâte sur un plan de travail. Pétrir avec le talon de la main, en poussant dans une seule direction. Arrêter immédiatement une fois que la pâte est lisse (un pétrissage excessif réchauffera la pâte, la faisant buller et devenir rugueuse). Un pétrissage d'environ 15 minutes devrait suffire.",
+        "Former la pâte en boule et la laisser reposer 5 minutes.",
+        "Saupoudrer un peu de farine sur le plan de travail. Utiliser un rouleau à pâtisserie pour étaler la pâte, en laissant une petite bordure en haut et en bas. Ensuite, la tourner horizontalement et continuer à rouler pour former un rectangle.",
+        "Une fois étalée, badigeonner uniformément la surface d'un peu d'eau. Presser un bord pour l'amincir avec vos doigts, puis commencer à rouler serré depuis le bord opposé, en lui donnant forme au fur et à mesure pour maintenir une largeur constante.",
+        "Rouler doucement la pâte du centre vers l'extérieur pour former un long boudin uniforme d'environ 3 cm de diamètre. Le couper en morceaux de la largeur de deux doigts.",
+        "Placer les morceaux de pâte sans les serrer dans un panier vapeur, en laissant de l'espace entre eux car ils vont gonfler. Couvrir et laisser lever à température ambiante jusqu'à ce qu'ils atteignent 1,5 fois leur taille d'origine.",
+        "Pour vérifier si la pâte est prête, appuyer doucement dessus avec le bout du doigt. Elle devrait revenir lentement. Si elle ne revient pas, elle est trop levée. Une coupe transversale devrait montrer de petites poches d'air uniformes.",
+        "Une fois que l'eau dans le cuiseur vapeur bout, placer le panier vapeur à l'intérieur et cuire à la vapeur à feu vif pendant 10 minutes. Après 10 minutes, éteindre le feu. Vous pouvez ouvrir le couvercle et les servir immédiatement."
+      ],
+      "notes": [
+        "Outils nécessaires : Un cuiseur vapeur."
+      ]
+    }
+  }
+}

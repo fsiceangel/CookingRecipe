@@ -1,0 +1,224 @@
+{
+  "id": "uncle-braised-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.bilibili.com/video/BV1Tf4y1q7gW/",
+  "ingredientKeys": [
+    "pork-belly",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cinnamon-bark",
+    "bay-leaf",
+    "sichuan-peppercorn",
+    "cooking-wine",
+    "sugar",
+    "light-soy-sauce",
+    "cooking-wine",
+    "black-pepper",
+    "salt",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "大爷红烧肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "八角"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "香叶"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "花雕酒"
+        },
+        {
+          "name": "绵白糖"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "黄酒"
+        },
+        {
+          "name": "胡椒"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "先将洗好的五花肉切成小块。",
+        "准备葱姜，八角，桂皮，香叶，花椒。",
+        "将切好的五花肉放入锅中焯水，倒入花雕酒去腥，最后将焯好的五花肉冲洗一遍。",
+        "起锅烧油，放入绵白糖首先炒个糖色。",
+        "炒至变色由大泡变成小泡，糖色就炒好了。",
+        "将五花肉倒入炒好的糖色里面，把提前准备好的香料直接放入炒进去并将煸香煸熟。",
+        "倒入酱油和少许黄酒开始加水炖肉，切记不要加凉水。",
+        "再炖的同时放点胡椒，顺便再打一打血沫。",
+        "待锅开冒大泡的时候，放入高压锅开始压25分钟。",
+        "最后将压好的红烧肉放入铁锅开大火收汁。",
+        "味道不够再及时添加点盐，将汁收粘稠就可以出锅了。"
+      ],
+      "notes": [
+        "焯水时使用花雕酒去腥。",
+        "炒糖色要炒至由大泡变成小泡。",
+        "炖肉时切记不要加凉水。",
+        "高压锅压25分钟后，需转回铁锅大火收汁。"
+      ]
+    },
+    "en": {
+      "title": "Uncle's Braised Pork Belly",
+      "ingredients": [
+        {
+          "name": "Pork Belly"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Star Anise"
+        },
+        {
+          "name": "Cinnamon Bark"
+        },
+        {
+          "name": "Bay Leaf"
+        },
+        {
+          "name": "Sichuan Peppercorn"
+        },
+        {
+          "name": "Huadiao Wine"
+        },
+        {
+          "name": "Caster Sugar"
+        },
+        {
+          "name": "Soy Sauce"
+        },
+        {
+          "name": "Yellow Wine / Shaoxing Wine"
+        },
+        {
+          "name": "Pepper Powder"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "First, wash and cut the pork belly into small cubes.",
+        "Prepare scallion, ginger, star anise, cinnamon bark, bay leaf, and Sichuan peppercorns.",
+        "Blanch the pork belly in a pot of water. Add Huadiao wine to remove any gamey smell. Finally, rinse the blanched pork belly.",
+        "Heat oil in a wok, add caster sugar to make a caramel sauce.",
+        "Stir-fry until the sugar changes color and the large bubbles turn into small bubbles; the caramel is ready.",
+        "Add the pork belly to the caramel sauce. Add the prepared spices and stir-fry until fragrant.",
+        "Pour in soy sauce and a little yellow wine, then add water to braise the pork. Remember not to add cold water.",
+        "While braising, add some pepper powder and skim off any scum.",
+        "When the pot comes to a rolling boil with large bubbles, transfer to a pressure cooker and cook for 25 minutes.",
+        "Finally, transfer the braised pork back to a wok and reduce the sauce over high heat.",
+        "If needed, add salt to taste. Once the sauce thickens, it's ready to serve."
+      ],
+      "notes": [
+        "Use Huadiao wine when blanching to remove any gamey smell.",
+        "When making the caramel, stir-fry until large bubbles turn into small bubbles.",
+        "Remember not to add cold water when braising the pork.",
+        "After pressure cooking for 25 minutes, return the pork to a wok to reduce the sauce over high heat."
+      ]
+    },
+    "fr": {
+      "title": "Poitrine de Porc Braisée Façon 'Tonton'",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Feuille de laurier"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Vin de Huadiao"
+        },
+        {
+          "name": "Sucre en poudre"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Vin jaune / Vin de Shaoxing"
+        },
+        {
+          "name": "Poivre en poudre"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "D'abord, lavez et coupez la poitrine de porc en petits cubes.",
+        "Préparez la ciboule, le gingembre, l'anis étoilé, l'écorce de cannelle, la feuille de laurier et le poivre du Sichuan.",
+        "Blanchir la poitrine de porc dans une casserole d'eau. Ajouter du vin de Huadiao pour éliminer l'odeur de viande. Enfin, rincer la poitrine de porc blanchie.",
+        "Chauffer de l'huile dans un wok, ajouter du sucre en poudre pour faire une sauce caramel.",
+        "Faire sauter jusqu'à ce que le sucre change de couleur et que les grosses bulles se transforment en petites bulles ; le caramel est prêt.",
+        "Ajouter la poitrine de porc à la sauce caramel. Ajouter les épices préparées et faire sauter jusqu'à ce qu'elles soient parfumées.",
+        "Verser la sauce soja et un peu de vin jaune, puis ajouter de l'eau pour braiser le porc. N'oubliez pas de ne pas ajouter d'eau froide.",
+        "Pendant le braisage, ajouter un peu de poivre en poudre et écumer les impuretés.",
+        "Lorsque la casserole atteint une forte ébullition avec de grosses bulles, transférer dans un autocuiseur et cuire pendant 25 minutes.",
+        "Enfin, transférer le porc braisé dans un wok et réduire la sauce à feu vif.",
+        "Si nécessaire, ajouter du sel au goût. Une fois la sauce épaissie, c'est prêt à servir."
+      ],
+      "notes": [
+        "Utilisez du vin de Huadiao lors du blanchiment pour éliminer toute odeur de viande.",
+        "Lors de la préparation du caramel, faites sauter jusqu'à ce que les grosses bulles se transforment en petites bulles.",
+        "N'oubliez pas de ne pas ajouter d'eau froide lors du braisage du porc.",
+        "Après 25 minutes de cuisson sous pression, remettre le porc dans un wok pour réduire la sauce à feu vif."
+      ]
+    }
+  }
+}

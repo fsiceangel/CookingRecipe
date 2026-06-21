@@ -1,0 +1,192 @@
+{
+  "id": "swiss-roll-sour-cream",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 4.5,
+  "videoLink": "",
+  "ingredientKeys": [
+    "egg-white",
+    "egg-yolk",
+    "milk",
+    "oil",
+    "sour-cream",
+    "cake-flour",
+    "salt",
+    "lemon-juice",
+    "sugar",
+    "heavy-cream"
+  ],
+  "translations": {
+    "cn": {
+      "title": "经典酸奶油瑞士卷",
+      "ingredients": [
+        {
+          "name": "蛋白",
+          "amount": "170克"
+        },
+        {
+          "name": "蛋黄",
+          "amount": "85克"
+        },
+        {
+          "name": "牛奶",
+          "amount": "20克"
+        },
+        {
+          "name": "玉米油",
+          "amount": "50克"
+        },
+        {
+          "name": "酸奶油",
+          "amount": "70克"
+        },
+        {
+          "name": "低筋面粉",
+          "amount": "70克"
+        },
+        {
+          "name": "海盐",
+          "amount": "1.5克"
+        },
+        {
+          "name": "柠檬汁",
+          "amount": "几滴"
+        },
+        {
+          "name": "砂糖",
+          "amount": "93克 (75克+18克)"
+        },
+        {
+          "name": "淡奶油（冷藏）",
+          "amount": "300克"
+        }
+      ],
+      "steps": [
+        "准备蛋黄糊：分离蛋黄和蛋白，将蛋白冷冻。将牛奶、玉米油和酸奶油搅拌至乳化，然后隔水加热至40°C。将温热的液体缓慢搅入蛋黄中。筛入面粉，搅拌均匀。过筛后保温备用。",
+        "制作蛋白霜：搅打冷冻过的蛋白，加入盐和柠檬汁。分三次加入75克糖，高速搅打至中性偏硬性发泡（提起打蛋头有略带弯钩的尖角）。最后用中低速整理气泡。",
+        "混合面糊：取1/3的蛋白霜与蛋黄糊混合均匀，然后分两次与剩余的蛋白霜轻轻翻拌均匀。",
+        "烘烤：将面糊倒入28x28厘米的烤盘中，抹平。在190°C下烘烤10分钟，然后降至150°C再烤15分钟。出炉后震盘散热，待冷却至温热。",
+        "准备奶油并卷起：将冷藏的淡奶油与18克糖隔冰水打发至硬挺。在冷却的蛋糕片上修边。在起始端涂抹一条较厚的奶油，其余部分涂抹薄层奶油。",
+        "借助擀面杖和油纸将蛋糕紧紧卷起。用刮板辅助定型。",
+        "用油纸包好，冷藏至少1小时定型后即可切片享用。"
+      ],
+      "notes": [
+        "加入了酸奶油，使蛋糕体异常柔软湿润，风味独特。"
+      ]
+    },
+    "en": {
+      "title": "Classic Swiss Roll with Sour Cream",
+      "ingredients": [
+        {
+          "name": "Egg Whites",
+          "amount": "170g"
+        },
+        {
+          "name": "Egg Yolks",
+          "amount": "85g"
+        },
+        {
+          "name": "Milk",
+          "amount": "20g"
+        },
+        {
+          "name": "Corn Oil",
+          "amount": "50g"
+        },
+        {
+          "name": "Sour Cream",
+          "amount": "70g"
+        },
+        {
+          "name": "Cake Flour",
+          "amount": "70g"
+        },
+        {
+          "name": "Sea Salt",
+          "amount": "1.5g"
+        },
+        {
+          "name": "Lemon Juice",
+          "amount": "A few drops"
+        },
+        {
+          "name": "Sugar",
+          "amount": "93g (75g + 18g)"
+        },
+        {
+          "name": "Heavy Cream, chilled",
+          "amount": "300g"
+        }
+      ],
+      "steps": [
+        "Prepare Yolks Batter: Separate eggs, chill whites. Whisk milk, corn oil, and sour cream, then warm to 40°C. Slowly whisk warm liquid into yolks. Sift in flour, whisk until smooth. Strain and keep warm.",
+        "Make Meringue: Beat chilled egg whites with salt and lemon juice. Gradually add 75g sugar in three parts, beating on high speed until medium-firm peaks form (slight curve at the tip). Stabilize on low speed.",
+        "Combine Batters: Lighten yolk batter with 1/3 of the meringue, then gently fold in the rest in two batches.",
+        "Bake: Pour into a 28x28 cm lined pan. Spread evenly. Bake at 190°C for 10 mins, then 150°C for 15 mins. Drop pan once done to release air. Cool on a rack.",
+        "Fill and Roll: Whip cold heavy cream with 18g sugar until firm. Trim cooled cake edges. Spread cream over the cake, leaving a thicker line at the starting edge.",
+        "Use parchment paper and a rolling pin to help roll the cake tightly. Wrap and refrigerate for at least 1 hour to set before slicing."
+      ],
+      "notes": [
+        "This recipe creates an exceptionally soft and moist Swiss roll with a unique flavor from sour cream."
+      ]
+    },
+    "fr": {
+      "title": "Gâteau Roulé Classique à la Crème Aigre",
+      "ingredients": [
+        {
+          "name": "Blancs d'œufs",
+          "amount": "170g"
+        },
+        {
+          "name": "Jaunes d'œufs",
+          "amount": "85g"
+        },
+        {
+          "name": "Lait",
+          "amount": "20g"
+        },
+        {
+          "name": "Huile de maïs",
+          "amount": "50g"
+        },
+        {
+          "name": "Crème aigre",
+          "amount": "70g"
+        },
+        {
+          "name": "Farine à gâteau",
+          "amount": "70g"
+        },
+        {
+          "name": "Sel de mer",
+          "amount": "1.5g"
+        },
+        {
+          "name": "Jus de citron",
+          "amount": "Quelques gouttes"
+        },
+        {
+          "name": "Sucre",
+          "amount": "93g (75g + 18g)"
+        },
+        {
+          "name": "Crème fleurette (froide)",
+          "amount": "300g"
+        }
+      ],
+      "steps": [
+        "Préparer la pâte aux jaunes : Séparer les œufs, refroidir les blancs. Fouetter le lait, l'huile de maïs et la crème aigre, puis chauffer à 40°C. Verser lentement le liquide chaud sur les jaunes en fouettant. Tamiser la farine, fouetter jusqu'à consistance lisse. Filtrer et garder au chaud.",
+        "Faire la meringue : Battre les blancs d'œufs refroidis avec le sel et le jus de citron. Ajouter progressivement 75g de sucre en trois fois, en battant à vitesse élevée jusqu'à l'obtention de pics moyens-fermes (légère courbe à la pointe). Stabiliser à basse vitesse.",
+        "Combiner les pâtes : Alléger la pâte aux jaunes avec 1/3 de la meringue, puis incorporer délicatement le reste en deux fois.",
+        "Cuisson : Verser dans un moule de 28x28 cm tapissé de papier sulfurisé. Étaler uniformément. Cuire à 190°C pendant 10 min, puis à 150°C pendant 15 min. Laisser tomber le moule une fois cuit pour libérer l'air. Laisser refroidir sur une grille.",
+        "Garnir et rouler : Fouetter la crème fleurette froide avec 18g de sucre jusqu'à consistance ferme. Tailler les bords du gâteau refroidi. Étaler la crème sur le gâteau, en laissant une ligne plus épaisse au début.",
+        "Utiliser du papier sulfurisé et un rouleau à pâtisserie pour aider à rouler le gâteau fermement. Envelopper et réfrigérer pendant au moins 1 heure pour qu'il prenne avant de le trancher."
+      ],
+      "notes": [
+        "Cette recette crée un gâteau roulé exceptionnellement doux et moelleux avec une saveur unique grâce à la crème aigre."
+      ]
+    }
+  }
+}

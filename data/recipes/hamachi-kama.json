@@ -1,0 +1,113 @@
+{
+  "id": "hamachi-kama",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1,
+  "videoLink": "",
+  "ingredientKeys": [
+    "hamachi-kama",
+    "salt",
+    "light-soy-sauce",
+    "yuzu-juice",
+    "lemon"
+  ],
+  "translations": {
+    "cn": {
+      "title": "烤鰤鱼颈肉 (Hamachi Kama)",
+      "ingredients": [
+        {
+          "name": "鰤鱼颈肉"
+        },
+        {
+          "name": "粗盐"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "柚子汁"
+        },
+        {
+          "name": "柠檬角"
+        }
+      ],
+      "steps": [
+        "预热烤箱的上火（broiler），将烤架放置在距离顶部加热元件约6英寸（15厘米）的位置。",
+        "在烤盘上铺上铝箔纸。",
+        "将鱼皮朝下放在铝箔纸上。均匀撒上粗盐。",
+        "使用中火（Medium）设置，烤8-10分钟，直到鱼肉表面出现轻微的焦斑和金黄色。",
+        "在烤鱼的同时，将酱油和柚子汁在一个小碗中混合，制作蘸酱。",
+        "立即上桌，配上柠檬角和柚子蘸酱。"
+      ],
+      "notes": [
+        "如果你打算用柚子味酱油蘸食，可以省略撒盐的步骤。",
+        "推荐使用烤箱的上火功能以获得最佳效果，但烘烤也是一个选择。"
+      ]
+    },
+    "en": {
+      "title": "Hamachi Kama (Broiled Yellowtail Collar)",
+      "ingredients": [
+        {
+          "name": "Hamachi Kama (yellowtail collar)"
+        },
+        {
+          "name": "Kosher Salt"
+        },
+        {
+          "name": "Soy Sauce"
+        },
+        {
+          "name": "Yuzu Juice"
+        },
+        {
+          "name": "Lemon wedges"
+        }
+      ],
+      "steps": [
+        "Preheat the broiler with the rack about 6 inches (15 cm) away from the top heating element.",
+        "Line a baking sheet with aluminum foil.",
+        "Place the fish skin side down on the foil. Sprinkle generously with kosher salt.",
+        "Broil on the Medium setting for 8–10 minutes until the surface is lightly blistered and browned.",
+        "While the fish is broiling, mix the soy sauce and yuzu juice in a small bowl to create a dipping sauce.",
+        "Serve immediately with lemon wedges and the yuzu dipping sauce."
+      ],
+      "notes": [
+        "Skip the salt if you plan to dip the fish in the yuzu-flavored soy sauce.",
+        "Broiling is recommended for the best results, but you could also bake it."
+      ]
+    },
+    "fr": {
+      "title": "Collier de Sériole Grillé (Hamachi Kama)",
+      "ingredients": [
+        {
+          "name": "Collier de sériole (Hamachi kama)"
+        },
+        {
+          "name": "Sel Kasher"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Jus de yuzu"
+        },
+        {
+          "name": "Quartiers de citron"
+        }
+      ],
+      "steps": [
+        "Préchauffer le gril (broil) du four avec la grille à environ 15 cm (6 pouces) de l'élément chauffant supérieur.",
+        "Tapisser une plaque de cuisson de papier d'aluminium.",
+        "Placer le poisson, côté peau vers le bas, sur le papier d'aluminium. Saupoudrer généreusement de sel kasher.",
+        "Griller à intensité Moyenne pendant 8 à 10 minutes jusqu'à ce que la surface soit légèrement cloquée et dorée.",
+        "Pendant que le poisson grille, mélanger la sauce soja et le jus de yuzu dans un petit bol pour créer une sauce d'accompagnement.",
+        "Servir immédiatement avec des quartiers de citron et la sauce au yuzu."
+      ],
+      "notes": [
+        "Omettez le sel si vous prévoyez de tremper légèrement le poisson dans la sauce soja au yuzu.",
+        "Le gril est recommandé pour les meilleurs résultats, mais vous pouvez aussi le cuire au four."
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "butter-mochi-cake",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w",
+  "ingredientKeys": [
+    "egg",
+    "milk",
+    "sugar",
+    "salt",
+    "butter",
+    "milk-powder",
+    "glutinous-rice-flour"
+  ],
+  "translations": {
+    "cn": {
+      "title": "黄油年糕",
+      "ingredients": [
+        {
+          "name": "全蛋液",
+          "amount": "50克"
+        },
+        {
+          "name": "牛奶",
+          "amount": "200克"
+        },
+        {
+          "name": "细砂糖",
+          "amount": "50克"
+        },
+        {
+          "name": "盐",
+          "amount": "1.5克"
+        },
+        {
+          "name": "黄油 (融化)",
+          "amount": "30克"
+        },
+        {
+          "name": "奶粉",
+          "amount": "20克"
+        },
+        {
+          "name": "糯米粉",
+          "amount": "160克"
+        }
+      ],
+      "steps": [
+        "在碗中加入牛奶、鸡蛋、融化的黄油、细砂糖和盐，搅拌至糖和盐完全融化。",
+        "加入奶粉和糯米粉，搅拌至没有大的颗粒。",
+        "将面糊过筛两次，使其更加细腻。",
+        "在模具内壁刷上一层软化的黄油。",
+        "将面糊倒入模具中，约八九分满。",
+        "放入预热好的烤箱中下层，实际温度180度，烘烤约35分钟。"
+      ],
+      "notes": []
+    },
+    "en": {
+      "title": "Butter Mochi Cake",
+      "ingredients": [
+        {
+          "name": "Whole Egg",
+          "amount": "50g"
+        },
+        {
+          "name": "Milk",
+          "amount": "200g"
+        },
+        {
+          "name": "Caster Sugar",
+          "amount": "50g"
+        },
+        {
+          "name": "Salt",
+          "amount": "1.5g"
+        },
+        {
+          "name": "Butter (melted)",
+          "amount": "30g"
+        },
+        {
+          "name": "Milk Powder",
+          "amount": "20g"
+        },
+        {
+          "name": "Glutinous Rice Flour",
+          "amount": "160g"
+        }
+      ],
+      "steps": [
+        "In a bowl, add milk, egg, melted butter, caster sugar, and salt. Stir until the sugar and salt are completely dissolved.",
+        "Add the milk powder and glutinous rice flour, and stir until there are no large lumps.",
+        "Sift the batter twice to make it finer.",
+        "Brush the inside of the mold with a layer of softened butter.",
+        "Pour the batter into the mold, about 80-90% full.",
+        "Place in a preheated oven on the lower-middle rack. Bake at 180°C (355°F) for about 35 minutes."
+      ],
+      "notes": []
+    },
+    "fr": {
+      "title": "Gâteau Mochi au Beurre",
+      "ingredients": [
+        {
+          "name": "Œuf entier",
+          "amount": "50g"
+        },
+        {
+          "name": "Lait",
+          "amount": "200g"
+        },
+        {
+          "name": "Sucre en poudre",
+          "amount": "50g"
+        },
+        {
+          "name": "Sel",
+          "amount": "1.5g"
+        },
+        {
+          "name": "Beurre (fondu)",
+          "amount": "30g"
+        },
+        {
+          "name": "Lait en poudre",
+          "amount": "20g"
+        },
+        {
+          "name": "Farine de riz gluant",
+          "amount": "160g"
+        }
+      ],
+      "steps": [
+        "Dans un bol, ajouter le lait, l'œuf, le beurre fondu, le sucre en poudre et le sel. Remuer jusqu'à ce que le sucre et le sel soient complètement dissous.",
+        "Ajouter le lait en poudre et la farine de riz gluant, et remuer jusqu'à ce qu'il n'y ait plus de gros grumeaux.",
+        "Tamiser la pâte deux fois pour la rendre plus fine.",
+        "Badigeonner l'intérieur du moule avec une couche de beurre ramolli.",
+        "Verser la pâte dans le moule, en le remplissant à environ 80-90%.",
+        "Placer dans un four préchauffé sur la grille inférieure-moyenne. Cuire à 180°C pendant environ 35 minutes."
+      ],
+      "notes": []
+    }
+  }
+}

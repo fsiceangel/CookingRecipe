@@ -1,0 +1,204 @@
+{
+  "id": "korokke-croquette",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.bilibili.com/video/BV1MG4y1R7L3",
+  "ingredientKeys": [
+    "potato",
+    "butter",
+    "onion",
+    "minced-meat",
+    "salt",
+    "sugar",
+    "black-pepper",
+    "light-cream",
+    "flour",
+    "egg",
+    "panko",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "可乐饼",
+      "ingredients": [
+        {
+          "name": "土豆",
+          "amount": "300g"
+        },
+        {
+          "name": "黄油",
+          "amount": "10g"
+        },
+        {
+          "name": "洋葱",
+          "amount": "100g"
+        },
+        {
+          "name": "肉沫",
+          "amount": "100g"
+        },
+        {
+          "name": "盐",
+          "amount": "2g"
+        },
+        {
+          "name": "糖",
+          "amount": "2g"
+        },
+        {
+          "name": "黑胡椒",
+          "amount": "1g"
+        },
+        {
+          "name": "淡奶油",
+          "amount": "20g"
+        },
+        {
+          "name": "面粉",
+          "amount": "适量"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "适量"
+        },
+        {
+          "name": "面包糠",
+          "amount": "适量"
+        },
+        {
+          "name": "油",
+          "amount": "用于油炸"
+        }
+      ],
+      "steps": [
+        "水开放入300g土豆，煮30分钟，捞出来去皮捣成泥。",
+        "锅里加入10g黄油，加入100g洋葱翻炒，再加入100g肉沫炒香，加入2g盐，2g糖，1g黑胡椒，20g淡奶油翻炒，然后倒入土豆泥里混合均匀，分成5份。",
+        "裹粉：先裹面粉，再裹蛋液，最后裹面包糠。",
+        "油温150度，转小火下入饼胚，炸2分钟后升温，炸制金黄捞出。"
+      ],
+      "notes": []
+    },
+    "en": {
+      "title": "Korokke (Japanese Croquette)",
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "amount": "300g"
+        },
+        {
+          "name": "Butter",
+          "amount": "10g"
+        },
+        {
+          "name": "Onion",
+          "amount": "100g"
+        },
+        {
+          "name": "Minced Meat",
+          "amount": "100g"
+        },
+        {
+          "name": "Salt",
+          "amount": "2g"
+        },
+        {
+          "name": "Sugar",
+          "amount": "2g"
+        },
+        {
+          "name": "Black Pepper",
+          "amount": "1g"
+        },
+        {
+          "name": "Light Cream",
+          "amount": "20g"
+        },
+        {
+          "name": "Flour",
+          "amount": "for coating"
+        },
+        {
+          "name": "Egg",
+          "amount": "for coating"
+        },
+        {
+          "name": "Panko (Breadcrumbs)",
+          "amount": "for coating"
+        },
+        {
+          "name": "Oil",
+          "amount": "for deep frying"
+        }
+      ],
+      "steps": [
+        "Boil 300g of potatoes in water for 30 minutes. Once cooked, remove, peel, and mash them into a puree.",
+        "In a pan, add 10g of butter. Sauté 100g of onion, then add 100g of minced meat and fry until fragrant. Season with 2g of salt, 2g of sugar, 1g of black pepper, and 20g of light cream. Stir-fry well, then pour the mixture into the mashed potatoes and mix evenly. Divide into 5 portions.",
+        "Breading: First, coat each portion with flour, then dip in beaten egg, and finally cover with panko (breadcrumbs).",
+        "Heat oil to 150°C (300°F). Turn the heat to low, place the croquettes in the oil. Fry for 2 minutes, then increase the temperature and continue frying until golden brown. Remove and drain."
+      ],
+      "notes": []
+    },
+    "fr": {
+      "title": "Korokke (Croquette Japonaise)",
+      "ingredients": [
+        {
+          "name": "Pommes de terre",
+          "amount": "300g"
+        },
+        {
+          "name": "Beurre",
+          "amount": "10g"
+        },
+        {
+          "name": "Oignon",
+          "amount": "100g"
+        },
+        {
+          "name": "Viande hachée",
+          "amount": "100g"
+        },
+        {
+          "name": "Sel",
+          "amount": "2g"
+        },
+        {
+          "name": "Sucre",
+          "amount": "2g"
+        },
+        {
+          "name": "Poivre noir",
+          "amount": "1g"
+        },
+        {
+          "name": "Crème légère",
+          "amount": "20g"
+        },
+        {
+          "name": "Farine",
+          "amount": "pour l'enrobage"
+        },
+        {
+          "name": "Œuf",
+          "amount": "pour l'enrobage"
+        },
+        {
+          "name": "Panko (Chapelure)",
+          "amount": "pour l'enrobage"
+        },
+        {
+          "name": "Huile",
+          "amount": "pour la friture"
+        }
+      ],
+      "steps": [
+        "Faire bouillir 300g de pommes de terre dans l'eau pendant 30 minutes. Une fois cuites, retirer, peler et les réduire en purée.",
+        "Dans une poêle, ajouter 10g de beurre. Faire sauter 100g d'oignon, puis ajouter 100g de viande hachée et frire jusqu'à ce qu'elle soit parfumée. Assaisonner avec 2g de sel, 2g de sucre, 1g de poivre noir et 20g de crème légère. Bien faire sauter, puis verser le mélange dans la purée de pommes de terre et mélanger uniformément. Diviser en 5 portions.",
+        "Panure : D'abord, enrober chaque portion de farine, puis tremper dans l'œuf battu, et enfin couvrir de panko (chapelure).",
+        "Chauffer l'huile à 150°C. Baisser le feu, placer les croquettes dans l'huile. Frire pendant 2 minutes, puis augmenter la température et continuer à frire jusqu'à ce qu'elles soient dorées. Retirer et égoutter."
+      ],
+      "notes": []
+    }
+  }
+}

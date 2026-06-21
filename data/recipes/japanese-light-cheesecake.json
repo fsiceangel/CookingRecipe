@@ -1,0 +1,211 @@
+{
+  "id": "japanese-light-cheesecake",
+  "tags": [
+    "dessert",
+    "bakery"
+  ],
+  "difficulty": 5,
+  "videoLink": "https://www.youtube.com/watch?v=A7CTqQvfU2Y",
+  "ingredientKeys": [
+    "cream-cheese",
+    "butter",
+    "milk",
+    "cake-flour",
+    "cornstarch",
+    "egg-yolk",
+    "egg-white",
+    "sugar",
+    "lemon-juice"
+  ],
+  "translations": {
+    "cn": {
+      "title": "日式轻乳酪蛋糕",
+      "ingredients": [
+        {
+          "name": "奶油奶酪",
+          "amount": "125克"
+        },
+        {
+          "name": "无盐奶油",
+          "amount": "15克"
+        },
+        {
+          "name": "牛奶",
+          "amount": "65克"
+        },
+        {
+          "name": "低筋面粉",
+          "amount": "15克"
+        },
+        {
+          "name": "玉米粉",
+          "amount": "12克"
+        },
+        {
+          "name": "蛋黄",
+          "amount": "3颗 (约52克)"
+        },
+        {
+          "name": "蛋白",
+          "amount": "3颗 (约95克)"
+        },
+        {
+          "name": "细砂糖",
+          "amount": "55克"
+        },
+        {
+          "name": "柠檬汁",
+          "amount": "3克"
+        }
+      ],
+      "steps": [
+        "将奶油奶酪、无盐奶油和牛奶放入一个碗中，隔水加热并搅拌均匀，直到呈现光滑无颗粒的状态。",
+        "离火后，将过筛的低筋面粉和玉米粉加入奶酪糊中，快速搅拌均匀。",
+        "待面糊稍微冷却后，分次加入3颗蛋黄，搅拌均匀，完成蛋黄糊备用。",
+        "在另一个干净无油无水的碗中，放入3颗蛋白和柠檬汁，用打蛋器打至粗泡。",
+        "将55克细砂糖分三次加入蛋白中，持续打发至湿性发泡（提起打蛋器时，蛋白霜呈现弯钩状态）。",
+        "取1/3的蛋白霜加入蛋黄糊中，用切拌（J-fold）方式轻柔拌匀。",
+        "将拌匀的麵糊倒回剩馀的蛋白霜中，再次用切拌方式混合均匀，完成蛋糕面糊。",
+        "将面糊倒入已铺好烘焙纸的6寸蛋糕模具中（底部和侧边皆需铺纸），轻敲几下震出大气泡。",
+        "烤箱先预热上火250/下火140度。在烤盘里放常温水（水浴法）一起预热。",
+        "将模具放入烤盘中，以上火240/下火140度 烤20分钟。",
+        "接著转为上火140/下火130度 续烤40分钟（总共烤60分钟）。",
+        "烤完后打开炉门，让蛋糕在烤箱里闷5分钟再出炉。",
+        "出炉后立即脱模并撕掉烘焙纸，放凉后即可食用，冷藏后风味更佳。"
+      ],
+      "notes": [
+        "此配方适用于一个6寸圆形模具。",
+        "全程需使用水浴法（烤盘加热水）烘烤，水量需能覆蓋烤盘底部。",
+        "混合蛋白霜和蛋黄糊时，切勿过度搅拌以免消泡。",
+        "烤完闷5分钟有助于防止蛋糕快速回缩。",
+        "蛋白霜打至湿性发泡即可，不需到干性发泡，口感才会湿润细致。"
+      ]
+    },
+    "en": {
+      "title": "Japanese Light Cheesecake",
+      "ingredients": [
+        {
+          "name": "Cream Cheese",
+          "amount": "125g"
+        },
+        {
+          "name": "Unsalted Butter",
+          "amount": "15g"
+        },
+        {
+          "name": "Milk",
+          "amount": "65g"
+        },
+        {
+          "name": "Cake Flour",
+          "amount": "15g"
+        },
+        {
+          "name": "Corn Starch",
+          "amount": "12g"
+        },
+        {
+          "name": "Egg Yolk",
+          "amount": "3 (approx. 52g)"
+        },
+        {
+          "name": "Egg White",
+          "amount": "3 (approx. 95g)"
+        },
+        {
+          "name": "Caster Sugar",
+          "amount": "55g"
+        },
+        {
+          "name": "Lemon Juice",
+          "amount": "3g"
+        }
+      ],
+      "steps": [
+        "In a bowl, place cream cheese, unsalted butter, and milk. Heat over a double boiler and stir until smooth and lump-free.",
+        "Remove from heat. Add the sifted cake flour and corn starch to the cheese mixture and mix quickly until well combined.",
+        "After the batter has cooled slightly, add 3 egg yolks one at a time, mixing well after each addition. This is the yolk batter.",
+        "In a separate, clean, oil-free, and water-free bowl, beat 3 egg whites and lemon juice with an electric mixer until large bubbles form.",
+        "Gradually add 55g of caster sugar to the egg whites in three additions, continuing to beat until soft peaks form (the meringue should form a hook when the beater is lifted).",
+        "Gently fold 1/3 of the meringue into the yolk batter using a J-fold technique.",
+        "Pour the combined mixture back into the remaining meringue and fold again until just combined. This is the final cake batter.",
+        "Pour the batter into a 6-inch cake pan lined with parchment paper (bottom and sides). Tap the pan a few times to release large air bubbles.",
+        "Preheat the oven to 250°C top heat / 140°C bottom heat. Place room temperature water in a baking tray (for a water bath) and preheat it with the oven.",
+        "Place the cake pan into the water bath tray. Bake at 240°C top heat / 140°C bottom heat for 20 minutes.",
+        "Then, reduce the temperature to 140°C top heat / 130°C bottom heat and continue baking for 40 minutes (total baking time is 60 minutes).",
+        "After baking, open the oven door slightly and let the cake rest inside for 5 minutes before removing.",
+        "Immediately unmold and remove the parchment paper. Let it cool before serving. The flavor is even better after refrigeration."
+      ],
+      "notes": [
+        "This recipe is for one 6-inch round cake pan.",
+        "A water bath (baking tray with hot water) is required for the entire baking process. The water level should cover the bottom of the tray.",
+        "When folding the meringue and yolk batter, do not overmix, as this will deflate the meringue.",
+        "Resting the cake in the oven for 5 minutes after baking helps prevent it from shrinking rapidly.",
+        "Beating the meringue to soft peaks is sufficient; do not beat to stiff peaks. This ensures a moist and delicate texture."
+      ]
+    },
+    "fr": {
+      "title": "Cheesecake Japonais Léger",
+      "ingredients": [
+        {
+          "name": "Fromage à la crème",
+          "amount": "125g"
+        },
+        {
+          "name": "Beurre doux",
+          "amount": "15g"
+        },
+        {
+          "name": "Lait",
+          "amount": "65g"
+        },
+        {
+          "name": "Farine à gâteau (Type 45)",
+          "amount": "15g"
+        },
+        {
+          "name": "Fécule de maïs",
+          "amount": "12g"
+        },
+        {
+          "name": "Jaune d'œuf",
+          "amount": "3 (environ 52g)"
+        },
+        {
+          "name": "Blanc d'œuf",
+          "amount": "3 (environ 95g)"
+        },
+        {
+          "name": "Sucre en poudre",
+          "amount": "55g"
+        },
+        {
+          "name": "Jus de citron",
+          "amount": "3g"
+        }
+      ],
+      "steps": [
+        "Dans un bol, placer le fromage à la crème, le beurre doux et le lait. Chauffer au bain-marie et remuer jusqu'à consistance lisse et sans grumeaux.",
+        "Retirer du feu. Ajouter la farine à gâteau et la fécule de maïs tamisées au mélange de fromage et mélanger rapidement jusqu'à ce que tout soit bien incorporé.",
+        "Une fois la pâte légèrement refroidie, ajouter les 3 jaunes d'œufs un par un, en mélangeant bien après chaque ajout. C'est la pâte aux jaunes.",
+        "Dans un autre bol propre, sans huile ni eau, battre les 3 blancs d'œufs et le jus de citron avec un batteur électrique jusqu'à formation de grosses bulles.",
+        "Ajouter progressivement 55g de sucre en poudre aux blancs d'œufs en trois fois, en continuant de battre jusqu'à l'obtention de pics mous (la meringue doit former un crochet lorsque le batteur est soulevé).",
+        "Incorporer délicatement 1/3 de la meringue à la pâte aux jaunes en utilisant une technique de pliage.",
+        "Verser le mélange combiné dans le reste de la meringue et plier à nouveau jusqu'à ce que le tout soit juste combiné. C'est la pâte à gâteau finale.",
+        "Verser la pâte dans un moule à gâteau de 15 cm (6 pouces) tapissé de papier sulfurisé (fond et côtés). Taper le moule quelques fois pour libérer les grosses bulles d'air.",
+        "Préchauffer le four à 250°C chaleur de voûte / 140°C chaleur de sole. Placer de l'eau à température ambiante dans une plaque de cuisson (pour un bain-marie) et la préchauffer avec le four.",
+        "Placer le moule à gâteau dans la plaque du bain-marie. Cuire à 240°C chaleur de voûte / 140°C chaleur de sole pendant 20 minutes.",
+        "Ensuite, réduire la température à 140°C chaleur de voûte / 130°C chaleur de sole et poursuivre la cuisson pendant 40 minutes (temps de cuisson total de 60 minutes).",
+        "Après la cuisson, ouvrir légèrement la porte du four et laisser le gâteau reposer à l'intérieur pendant 5 minutes avant de le sortir.",
+        "Démouler immédiatement et retirer le papier sulfurisé. Laisser refroidir avant de servir. Le goût est encore meilleur après réfrigération."
+      ],
+      "notes": [
+        "Cette recette est pour un moule à gâteau rond de 15 cm (6 pouces).",
+        "Un bain-marie (plaque de cuisson avec de l'eau) est nécessaire pendant toute la cuisson. Le niveau d'eau doit couvrir le fond de la plaque.",
+        "Lors de l'incorporation de la meringue et de la pâte aux jaunes, ne pas trop mélanger pour ne pas faire retomber la meringue.",
+        "Laisser reposer le gâteau dans le four pendant 5 minutes après la cuisson aide à l'empêcher de rétrécir rapidement.",
+        "Il suffit de battre la meringue jusqu'à l'obtention de pics mous ; ne pas battre jusqu'à des pics fermes. Cela garantit une texture humide et délicate."
+      ]
+    }
+  }
+}

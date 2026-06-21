@@ -1,0 +1,160 @@
+{
+  "id": "tomato-scrambled-eggs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=lZlxOoIpm1Q",
+  "ingredientKeys": [
+    "tomato",
+    "egg",
+    "scallion",
+    "oil",
+    "light-soy-sauce",
+    "sugar",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "西红柿炒蛋",
+      "ingredients": [
+        {
+          "name": "西红柿"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "糖"
+        },
+        {
+          "name": "盐"
+        }
+      ],
+      "steps": [
+        "在锅中放水烧开，将西红柿烫一下，然后去皮。",
+        "将大葱的葱白切段（炝锅用），葱尾（葱叶）切成小圈（点缀用）。",
+        "准备4个鸡蛋，（视频中的专业做法是）去掉2个蛋黄让颜色更漂亮，家庭制作可使用4个全鸡蛋。",
+        "将鸡蛋打散，注意：蛋液中不要加盐。",
+        "热锅，倒入适量油，油热后下入蛋液。",
+        "将鸡蛋炒得略微“老”一点，炒至膨胀、焦香后盛出备用。",
+        "锅中留底油（或另加少许油），下入葱段炝锅。",
+        "下入去皮的西红柿块翻炒。",
+        "沿着炙热的锅边淋入酱油（炝出香味），然后加入糖和盐调味。",
+        "待西红柿的汤汁炒出后，倒回之前炒好的鸡蛋。",
+        "翻炒均匀，让鸡蛋充分吸收汤汁。",
+        "出锅前撒上准备好的葱花（葱尾）点缀即可。"
+      ],
+      "notes": [
+        "西红柿烫一下去皮，可以让成品的红色更鲜艳。",
+        "蛋液中不要提前加盐，否则炒出来的鸡蛋颜色会发黑，并且口感发“死”。",
+        "鸡蛋要炒得略微“老”一点（比嫩滑的炒蛋要熟），这样更香，且更容易吸收汤汁。",
+        "酱油要沿着热锅边淋入，高温能激发酱油的香味。",
+        "使用葱尾（葱叶）做最后的点缀，因为它不出水，能保持菜品干香。"
+      ]
+    },
+    "en": {
+      "title": "Stir-fried Tomato and Eggs",
+      "ingredients": [
+        {
+          "name": "Tomato"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Soy Sauce"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Salt"
+        }
+      ],
+      "steps": [
+        "Bring a pot of water to a boil, blanch the tomatoes, then peel them.",
+        "Cut the white part of the scallion into sections (for stir-frying) and the green part into small rings (for garnish).",
+        "Prepare 4 eggs. (The professional method in the video is to remove 2 yolks for a better color, but for home cooking, you can use 4 whole eggs).",
+        "Beat the eggs. Note: do not add salt to the egg mixture.",
+        "Heat a wok, add a suitable amount of oil. When the oil is hot, pour in the beaten eggs.",
+        "Scramble the eggs until they are slightly 'overcooked', puffed up, and fragrant. Remove and set aside.",
+        "Leave the remaining oil in the wok (or add a little more), and stir-fry the scallion whites until fragrant.",
+        "Add the peeled tomato chunks and stir-fry.",
+        "Drizzle soy sauce along the hot edge of the wok (to release its aroma), then add sugar and salt to taste.",
+        "Once the tomato juice is released, return the scrambled eggs to the wok.",
+        "Stir-fry evenly, allowing the eggs to fully absorb the sauce.",
+        "Before serving, sprinkle with the prepared scallion greens for garnish."
+      ],
+      "notes": [
+        "Blanching and peeling the tomatoes gives the finished dish a more vibrant red color.",
+        "Do not add salt to the egg mixture beforehand, as it can make the scrambled eggs dark and tough.",
+        "The eggs should be cooked a bit 'older' (more cooked than silky scrambled eggs) to be more fragrant and better at absorbing the sauce.",
+        "Drizzle the soy sauce along the hot edge of the wok; the high heat brings out its aroma.",
+        "Use the green parts of the scallion for garnish as they don't release water, keeping the dish fragrant."
+      ]
+    },
+    "fr": {
+      "title": "Œufs Brouillés à la Tomate",
+      "ingredients": [
+        {
+          "name": "Tomate"
+        },
+        {
+          "name": "Œuf"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sel"
+        }
+      ],
+      "steps": [
+        "Porter une casserole d'eau à ébullition, blanchir les tomates, puis les peler.",
+        "Couper la partie blanche de la ciboule en sections (pour la cuisson) et la partie verte en petits anneaux (pour la garniture).",
+        "Préparer 4 œufs. (La méthode professionnelle dans la vidéo consiste à retirer 2 jaunes pour une meilleure couleur, mais pour la cuisine maison, vous pouvez utiliser 4 œufs entiers).",
+        "Battre les œufs. Note : ne pas ajouter de sel au mélange d'œufs.",
+        "Chauffer un wok, ajouter une quantité appropriée d'huile. Lorsque l'huile est chaude, verser les œufs battus.",
+        "Brouiller les œufs jusqu'à ce qu'ils soient légèrement 'trop cuits', gonflés et parfumés. Retirer et mettre de côté.",
+        "Laisser l'huile restante dans le wok (ou en ajouter un peu), et faire revenir les blancs de ciboule jusqu'à ce qu'ils soient parfumés.",
+        "Ajouter les morceaux de tomate pelée et faire sauter.",
+        "Verser la sauce soja le long du bord chaud du wok (pour libérer son arôme), puis ajouter le sucre et le sel au goût.",
+        "Une fois que le jus de tomate est libéré, remettre les œufs brouillés dans le wok.",
+        "Faire sauter uniformément, en laissant les œufs absorber complètement la sauce.",
+        "Avant de servir, saupoudrer de la verdure de ciboule préparée pour la garniture."
+      ],
+      "notes": [
+        "Blanchir et peler les tomates donne au plat fini une couleur rouge plus vive.",
+        "N'ajoutez pas de sel au mélange d'œufs à l'avance, car cela peut rendre les œufs brouillés foncés et durs.",
+        "Les œufs doivent être cuits un peu 'plus vieux' (plus cuits que des œufs brouillés soyeux) pour être plus parfumés et mieux absorber la sauce.",
+        "Versez la sauce soja le long du bord chaud du wok ; la chaleur élevée fait ressortir son arôme.",
+        "Utilisez les parties vertes de la ciboule pour la garniture car elles ne libèrent pas d'eau, ce qui garde le plat parfumé."
+      ]
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "kung-pao-chicken",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "",
+  "ingredientKeys": [
+    "chicken-breast",
+    "peanuts",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "scallion",
+    "ginger",
+    "garlic",
+    "light-soy-sauce",
+    "vinegar",
+    "sugar",
+    "cooking-wine",
+    "cornstarch"
+  ],
+  "translations": {
+    "cn": {
+      "title": "宫保鸡丁",
+      "ingredients": [
+        {
+          "name": "鸡胸肉"
+        },
+        {
+          "name": "花生米"
+        },
+        {
+          "name": "干辣椒"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "大蒜"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "醋"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "淀粉"
+        }
+      ],
+      "steps": [
+        "鸡胸肉切丁，加盐、料酒、淀粉腌制15分钟。",
+        "花生米用油炸熟或烤熟备用。",
+        "葱姜蒜切末，干辣椒切段。",
+        "调一个碗汁：酱油、醋、白糖、料酒、淀粉和少量水混合均匀。",
+        "热锅冷油，放入鸡丁滑炒至变色盛出。",
+        "锅中留底油，放入干辣椒和花椒小火炒香。",
+        "放入葱姜蒜末爆香。",
+        "倒入鸡丁翻炒，淋入碗汁，大火翻炒均匀。",
+        "最后加入花生米，翻炒几下即可出锅。"
+      ],
+      "notes": [
+        "花生米一定要最后放，保持酥脆口感。"
+      ]
+    },
+    "en": {
+      "title": "Kung Pao Chicken",
+      "ingredients": [
+        {
+          "name": "Chicken breast"
+        },
+        {
+          "name": "Peanuts"
+        },
+        {
+          "name": "Dried chili peppers"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Vinegar"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Starch"
+        }
+      ],
+      "steps": [
+        "Dice chicken breast, marinate with salt, cooking wine, and starch for 15 minutes.",
+        "Fry or roast peanuts until cooked. Set aside.",
+        "Mince scallion, ginger, and garlic. Cut dried chili peppers into sections.",
+        "Prepare the sauce: mix soy sauce, vinegar, sugar, cooking wine, starch, and a small amount of water.",
+        "Heat oil in a wok, stir-fry the chicken until it changes color, then remove.",
+        "Leave some oil in the wok, add dried chili peppers and Sichuan peppercorns, and stir-fry over low heat until fragrant.",
+        "Add minced scallion, ginger, and garlic and stir-fry.",
+        "Return the chicken to the wok, pour in the sauce, and stir-fry quickly over high heat.",
+        "Finally, add the peanuts, mix well, and serve."
+      ],
+      "notes": [
+        "Add peanuts at the very end to keep them crispy."
+      ]
+    },
+    "fr": {
+      "title": "Poulet Kung Pao",
+      "ingredients": [
+        {
+          "name": "Poitrine de poulet"
+        },
+        {
+          "name": "Cacahuètes"
+        },
+        {
+          "name": "Piments séchés"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Vinaigre"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Fécule"
+        }
+      ],
+      "steps": [
+        "Couper la poitrine de poulet en dés, mariner avec du sel, du vin de cuisine et de la fécule pendant 15 minutes.",
+        "Frire ou rôtir les cacahuètes jusqu'à ce qu'elles soient cuites. Mettre de côté.",
+        "Hacher la ciboule, le gingembre et l'ail. Couper les piments séchés en morceaux.",
+        "Préparer la sauce : mélanger la sauce soja, le vinaigre, le sucre, le vin de cuisine, la fécule et un peu d'eau.",
+        "Chauffer l'huile dans un wok, faire sauter le poulet jusqu'à ce qu'il change de couleur, puis le retirer.",
+        "Laisser un peu d'huile dans le wok, ajouter les piments séchés et le poivre du Sichuan, et faire sauter à feu doux jusqu'à ce qu'ils soient parfumés.",
+        "Ajouter la ciboule, le gingembre et l'ail hachés et faire sauter.",
+        "Remettre le poulet dans le wok, verser la sauce et faire sauter rapidement à feu vif.",
+        "Enfin, ajouter les cacahuètes, bien mélanger et servir."
+      ],
+      "notes": [
+        "Ajouter les cacahuètes à la toute fin pour les garder croustillantes."
+      ]
+    }
+  }
+}
