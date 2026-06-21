@@ -1,0 +1,30 @@
+{
+  "name": "personal-recipe-book",
+  "homepage": "https://fsiceangel.github.io/CookingRecipe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/update-index.mjs --include-private",
+    "dev": "vite",
+    "prebuild": "node scripts/update-index.mjs",
+    "build": "vite build",
+    "postbuild": "node scripts/strip-private.mjs",
+    "lint": "echo 'Linting not set up yet'",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "gh-pages": "^6.1.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  }
+}

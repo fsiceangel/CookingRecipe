@@ -1,0 +1,164 @@
+{
+  "id": "chili-stir-fried-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=ntllsS_vmoQ",
+  "ingredientKeys": [
+    "pork-belly",
+    "chili-pepper",
+    "chili-pepper",
+    "garlic",
+    "liuyang-fermented-soybeans",
+    "cooking-wine",
+    "light-soy-sauce",
+    "dark-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "辣椒炒肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "螺丝椒"
+        },
+        {
+          "name": "小米辣"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "浏阳豆豉"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "老抽"
+        }
+      ],
+      "steps": [
+        "五花肉去皮，切成片，注意不要切得太薄。",
+        "螺丝椒切滚刀块。如果想更辣，可将小米辣切薄片。",
+        "蒜切片备用。",
+        "将锅烧热，不放油，直接下入螺丝椒。",
+        "开大火干煸，将辣椒“杀青”，炒至去除青气味、表面带一点糊点时，盛出备用。",
+        "锅再次烧热，不放油，直接下入五花肉片。",
+        "用大火煸炒，将猪肉里的油煸出来，炒到肉片出油、焦香，呈“半油沾状”。",
+        "下入浏阳豆豉炒香，接着下入蒜片。",
+        "烹入一点料酒去腥，加入酱油调味，再点少许老抽上色。",
+        "将之前干煸过的辣椒（和小米辣）倒回锅中。",
+        "所有食材大火快速翻炒均匀，即可关火出锅。"
+      ],
+      "notes": [
+        "五花肉不要选太瘦的，带点肥油煸出来才香。",
+        "干煸辣椒和五花肉都需要大火，产生“锅气”。",
+        "这道菜的重点是辣焦香和肉的油香，成品会带着点油，非常下饭。",
+        "视频中提到，家庭制作豆豉可以不蒸，直接使用。"
+      ]
+    },
+    "en": {
+      "title": "Chili Stir-fried Pork",
+      "ingredients": [
+        {
+          "name": "Pork Belly"
+        },
+        {
+          "name": "Screwdriver Pepper"
+        },
+        {
+          "name": "Thai Chili"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Liuyang Fermented Soybeans"
+        },
+        {
+          "name": "Cooking Wine"
+        },
+        {
+          "name": "Soy Sauce"
+        },
+        {
+          "name": "Dark Soy Sauce"
+        }
+      ],
+      "steps": [
+        "Remove the skin from the pork belly and slice it, ensuring the slices aren't too thin.",
+        "Cut the screwdriver peppers into rolling chunks. For extra heat, slice the Thai chilis thinly.",
+        "Slice the garlic and set aside.",
+        "Heat the wok until hot, then add the screwdriver peppers without any oil.",
+        "Stir-fry on high heat to 'blanch' the peppers, cooking until the raw green smell is gone and the surface is slightly charred. Remove and set aside.",
+        "Reheat the wok until hot, then add the pork belly slices without any oil.",
+        "Stir-fry on high heat to render the fat from the pork, cooking until the slices are releasing oil, are fragrant and browned.",
+        "Add the Liuyang fermented soybeans and stir-fry until fragrant, then add the garlic slices.",
+        "Deglaze with a splash of cooking wine, add soy sauce for flavor, and a little dark soy sauce for color.",
+        "Return the previously stir-fried peppers (and Thai chilis) to the wok.",
+        "Quickly stir-fry all ingredients together on high heat until well combined, then turn off the heat and serve."
+      ],
+      "notes": [
+        "Choose pork belly that isn't too lean; some fat is needed for flavor when rendered.",
+        "Both the peppers and the pork belly need to be stir-fried on high heat to achieve 'wok hei' (the breath of the wok).",
+        "The essence of this dish is the spicy, charred aroma of the peppers and the rich flavor of the pork fat. The finished dish will be oily, which makes it a perfect companion for rice.",
+        "The video mentions that for home cooking, the fermented soybeans can be used directly without steaming first."
+      ]
+    },
+    "fr": {
+      "title": "Porc Sauté aux Piments",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Piment 'Screwdriver'"
+        },
+        {
+          "name": "Piment thaï"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Soja fermenté de Liuyang"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sauce soja foncée"
+        }
+      ],
+      "steps": [
+        "Retirer la peau de la poitrine de porc et la trancher, en veillant à ce que les tranches ne soient pas trop fines.",
+        "Couper les piments 'screwdriver' en morceaux irréguliers. Pour plus de piquant, émincer finement les piments thaïs.",
+        "Émincer l'ail et réserver.",
+        "Chauffer le wok à sec, puis ajouter les piments 'screwdriver' sans huile.",
+        "Faire sauter à feu vif pour 'blanchir' les piments, jusqu'à ce que l'odeur de cru disparaisse et que la surface soit légèrement grillée. Retirer et réserver.",
+        "Réchauffer le wok à sec, puis ajouter les tranches de poitrine de porc sans huile.",
+        "Faire sauter à feu vif pour extraire la graisse du porc, jusqu'à ce que les tranches rendent leur gras, soient parfumées et dorées.",
+        "Ajouter le soja fermenté de Liuyang et faire revenir jusqu'à ce qu'il soit parfumé, puis ajouter les tranches d'ail.",
+        "Déglacer avec un filet de vin de cuisine, ajouter de la sauce soja pour l'assaisonnement, et un peu de sauce soja foncée pour la couleur.",
+        "Remettre les piments précédemment sautés (et les piments thaïs) dans le wok.",
+        "Mélanger rapidement tous les ingrédients à feu vif jusqu'à ce qu'ils soient bien combinés, puis éteindre le feu et servir."
+      ],
+      "notes": [
+        "Choisissez de la poitrine de porc qui n'est pas trop maigre ; un peu de gras est nécessaire pour la saveur une fois fondu.",
+        "Les piments et la poitrine de porc doivent tous deux être sautés à feu vif pour obtenir le 'wok hei' (le souffle du wok).",
+        "L'essence de ce plat est l'arôme épicé et grillé des piments et la riche saveur de la graisse de porc. Le plat fini sera huileux, ce qui le rend parfait pour accompagner le riz.",
+        "La vidéo mentionne que pour la cuisine maison, le soja fermenté peut être utilisé directement sans être cuit à la vapeur au préalable."
+      ]
+    }
+  }
+}

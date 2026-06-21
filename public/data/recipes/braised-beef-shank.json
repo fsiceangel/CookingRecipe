@@ -1,0 +1,281 @@
+{
+  "id": "braised-beef-shank",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.bilibili.com/video/BV1Yu41177FD",
+  "ingredientKeys": [
+    "beef-shank",
+    "star-anise",
+    "cinnamon-bark",
+    "dried-yellow-bean-paste",
+    "fennel-seeds",
+    "light-soy-sauce",
+    "light-soy-sauce",
+    "salt",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "water",
+    "light-soy-sauce",
+    "chili-pepper",
+    "bay-leaf",
+    "sichuan-peppercorn",
+    "rock-sugar"
+  ],
+  "translations": {
+    "cn": {
+      "title": "卤牛肉",
+      "ingredients": [
+        {
+          "name": "牛腱子",
+          "amount": "6斤"
+        },
+        {
+          "name": "大料",
+          "amount": "12个"
+        },
+        {
+          "name": "桂皮",
+          "amount": "25g"
+        },
+        {
+          "name": "干黄酱",
+          "amount": "150g"
+        },
+        {
+          "name": "小茴香",
+          "amount": "12g"
+        },
+        {
+          "name": "大豆酱油",
+          "amount": "100g"
+        },
+        {
+          "name": "鲜味酱油",
+          "amount": "50g"
+        },
+        {
+          "name": "盐",
+          "amount": "70g"
+        },
+        {
+          "name": "大葱",
+          "amount": "250g"
+        },
+        {
+          "name": "姜",
+          "amount": "250g"
+        },
+        {
+          "name": "花雕酒",
+          "amount": "适量"
+        },
+        {
+          "name": "水",
+          "amount": "6斤"
+        },
+        {
+          "name": "酱油",
+          "amount": "100g"
+        },
+        {
+          "name": "干辣椒",
+          "amount": "3个"
+        },
+        {
+          "name": "香叶",
+          "amount": "3片"
+        },
+        {
+          "name": "花椒",
+          "amount": "2g"
+        },
+        {
+          "name": "冰糖",
+          "amount": "适量"
+        }
+      ],
+      "steps": [
+        "牛腱子表面的油和皮去掉（不扔掉，卤汤一块炖），牛肉先中间改刀再分成小块。",
+        "用竹签在牛肉块表面均匀扎孔，便于入味。",
+        "牛肉加入香料、黄酱、花雕酒稀释黄酱、大豆酱油、鲜味酱油、葱姜、盐，反复抓匀腌制（最短两小时）。",
+        "锅中加底油，葱姜煸黄。变色后倒入香料和干辣椒，煸出香味，加入黄酱，加酱油，水，烧开。颜色浅的话补酱油，味合适后加冰糖（汤比正常咸就行）。",
+        "卤汤倒入高压锅，另起一锅水烧开，腌好的牛肉放入，开锅后撇去浮沫。捞入高压锅中，开头片下的油也加进去。",
+        "高压锅盖盖，上汽后40分钟。再浸泡20分钟，出锅。"
+      ],
+      "notes": [
+        "可以拌面！"
+      ]
+    },
+    "en": {
+      "title": "Braised Beef Shank",
+      "ingredients": [
+        {
+          "name": "Beef Shank",
+          "amount": "3kg (6 jin)"
+        },
+        {
+          "name": "Star Anise",
+          "amount": "12"
+        },
+        {
+          "name": "Cinnamon Bark",
+          "amount": "25g"
+        },
+        {
+          "name": "Dried Yellow Bean Paste",
+          "amount": "150g"
+        },
+        {
+          "name": "Fennel Seeds",
+          "amount": "12g"
+        },
+        {
+          "name": "Soybean Sauce",
+          "amount": "100g"
+        },
+        {
+          "name": "Light Soy Sauce",
+          "amount": "50g"
+        },
+        {
+          "name": "Salt",
+          "amount": "70g"
+        },
+        {
+          "name": "Scallion",
+          "amount": "250g"
+        },
+        {
+          "name": "Ginger",
+          "amount": "250g"
+        },
+        {
+          "name": "Huadiao Wine",
+          "amount": "as needed"
+        },
+        {
+          "name": "Water",
+          "amount": "3L (6 jin)"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": "100g"
+        },
+        {
+          "name": "Dried Chili Peppers",
+          "amount": "3"
+        },
+        {
+          "name": "Bay Leaves",
+          "amount": "3"
+        },
+        {
+          "name": "Sichuan Peppercorns",
+          "amount": "2g"
+        },
+        {
+          "name": "Rock Sugar",
+          "amount": "as needed"
+        }
+      ],
+      "steps": [
+        "Trim the fat and skin from the beef shank (do not discard, braise with the meat), then cut the shank into smaller chunks.",
+        "Use a skewer to poke holes all over the beef chunks to help the marinade penetrate.",
+        "Add spices, yellow bean paste (diluted with Huadiao wine), soybean sauce, light soy sauce, scallion, ginger, and salt to the beef. Mix thoroughly and marinate for at least two hours.",
+        "Heat oil in a wok and sauté scallion and ginger until golden brown. Add spices and dried chili peppers, stir-frying until fragrant. Add yellow bean paste, soy sauce, and water. Bring to a boil. If the color is too light, add more soy sauce. Add rock sugar to taste (the broth should be saltier than normal).",
+        "Transfer the braising liquid to a pressure cooker. In a separate pot, bring water to a boil, blanch the marinated beef, and skim off any scum. Transfer the blanched beef and the reserved fat/skin to the pressure cooker.",
+        "Secure the lid of the pressure cooker. After it reaches pressure, cook for 40 minutes. Let it rest and soak in the liquid for another 20 minutes before serving."
+      ],
+      "notes": [
+        "Great with noodles!"
+      ]
+    },
+    "fr": {
+      "title": "Jarret de boeuf braisé",
+      "ingredients": [
+        {
+          "name": "Jarret de boeuf",
+          "amount": "3kg"
+        },
+        {
+          "name": "Anis étoilé",
+          "amount": "12"
+        },
+        {
+          "name": "Écorce de cannelle",
+          "amount": "25g"
+        },
+        {
+          "name": "Pâte de haricots jaunes séchée",
+          "amount": "150g"
+        },
+        {
+          "name": "Graines de fenouil",
+          "amount": "12g"
+        },
+        {
+          "name": "Sauce de soja",
+          "amount": "100g"
+        },
+        {
+          "name": "Sauce soja claire",
+          "amount": "50g"
+        },
+        {
+          "name": "Sel",
+          "amount": "70g"
+        },
+        {
+          "name": "Ciboule",
+          "amount": "250g"
+        },
+        {
+          "name": "Gingembre",
+          "amount": "250g"
+        },
+        {
+          "name": "Vin de Huadiao",
+          "amount": "au besoin"
+        },
+        {
+          "name": "Eau",
+          "amount": "3L"
+        },
+        {
+          "name": "Sauce Soja",
+          "amount": "100g"
+        },
+        {
+          "name": "Piments séchés",
+          "amount": "3"
+        },
+        {
+          "name": "Feuilles de laurier",
+          "amount": "3"
+        },
+        {
+          "name": "Poivre du Sichuan",
+          "amount": "2g"
+        },
+        {
+          "name": "Sucre candi",
+          "amount": "au besoin"
+        }
+      ],
+      "steps": [
+        "Parer la graisse et la peau du jarret de boeuf (ne pas jeter, braiser avec la viande), puis couper le jarret en morceaux plus petits.",
+        "Utiliser une brochette pour piquer des trous partout sur les morceaux de boeuf pour aider la marinade à pénétrer.",
+        "Ajouter les épices, la pâte de haricots jaunes (diluée avec du vin de Huadiao), la sauce de soja, la sauce soja claire, la ciboule, le gingembre et le sel au boeuf. Bien mélanger et laisser mariner pendant au moins deux heures.",
+        "Chauffer l'huile dans un wok et faire sauter la ciboule et le gingembre jusqu'à ce qu'ils soient dorés. Ajouter les épices et les piments séchés, en remuant jusqu'à ce qu'ils soient parfumés. Ajouter la pâte de haricots jaunes, la sauce soja et l'eau. Porter à ébullition. Si la couleur est trop claire, ajouter plus de sauce soja. Ajouter du sucre candi au goût (le bouillon doit être plus salé que la normale).",
+        "Transférer le liquide de braisage dans un autocuiseur. Dans une autre casserole, porter l'eau à ébullition, blanchir le boeuf mariné et écumer toute impureté. Transférer le boeuf blanchi et la graisse/peau réservée dans l'autocuiseur.",
+        "Fermer le couvercle de l'autocuiseur. Après avoir atteint la pression, cuire pendant 40 minutes. Laisser reposer et tremper dans le liquide pendant 20 minutes supplémentaires avant de servir."
+      ],
+      "notes": [
+        "Excellent avec des nouilles !"
+      ]
+    }
+  }
+}

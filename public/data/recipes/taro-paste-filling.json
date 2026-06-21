@@ -1,0 +1,87 @@
+{
+  "id": "taro-paste-filling",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w",
+  "ingredientKeys": [
+    "taro",
+    "sugar",
+    "butter"
+  ],
+  "translations": {
+    "cn": {
+      "title": "芋泥馅",
+      "ingredients": [
+        {
+          "name": "荔浦芋头",
+          "amount": "500克 (蒸熟后)"
+        },
+        {
+          "name": "细砂糖",
+          "amount": "75克"
+        },
+        {
+          "name": "黄油",
+          "amount": "25克"
+        }
+      ],
+      "steps": [
+        "芋头去皮切块，上锅蒸30分钟。",
+        "将蒸熟的芋头、细砂糖和黄油放入料理机中搅打至细腻。"
+      ],
+      "notes": [
+        "可选的甜点馅料。"
+      ]
+    },
+    "en": {
+      "title": "Taro Paste Filling",
+      "ingredients": [
+        {
+          "name": "Taro",
+          "amount": "500g (steamed)"
+        },
+        {
+          "name": "Caster Sugar",
+          "amount": "75g"
+        },
+        {
+          "name": "Butter",
+          "amount": "25g"
+        }
+      ],
+      "steps": [
+        "Peel and chop the taro, then steam for 30 minutes.",
+        "Place the steamed taro, caster sugar, and butter in a food processor and blend until smooth and delicate."
+      ],
+      "notes": [
+        "Optional filling for desserts."
+      ]
+    },
+    "fr": {
+      "title": "Fourrage à la Pâte de Taro",
+      "ingredients": [
+        {
+          "name": "Taro",
+          "amount": "500g (cuit à la vapeur)"
+        },
+        {
+          "name": "Sucre en poudre",
+          "amount": "75g"
+        },
+        {
+          "name": "Beurre",
+          "amount": "25g"
+        }
+      ],
+      "steps": [
+        "Peler et couper le taro en morceaux, puis cuire à la vapeur pendant 30 minutes.",
+        "Placer le taro cuit à la vapeur, le sucre en poudre et le beurre dans un robot culinaire et mixer jusqu'à l'obtention d'une consistance lisse et délicate."
+      ],
+      "notes": [
+        "Fourrage facultatif pour les desserts."
+      ]
+    }
+  }
+}

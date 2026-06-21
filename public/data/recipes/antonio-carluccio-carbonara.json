@@ -1,0 +1,179 @@
+{
+  "id": "antonio-carluccio-carbonara",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=3AAdKl1UYZs",
+  "ingredientKeys": [
+    "spaghettoni",
+    "guanciale-pancetta",
+    "oil",
+    "egg",
+    "egg-yolk",
+    "parmesan-pecorino",
+    "black-pepper",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "安东尼奥·卡路奇奥的正宗卡邦尼意面",
+      "ingredients": [
+        {
+          "name": "意式粗面",
+          "amount": "2人份"
+        },
+        {
+          "name": "猪脸颊肉(Guanciale)或意式烟肉(pancetta)",
+          "amount": "切丁"
+        },
+        {
+          "name": "优质橄榄油",
+          "amount": "少量"
+        },
+        {
+          "name": "大号新鲜鸡蛋",
+          "amount": "2个"
+        },
+        {
+          "name": "额外蛋黄",
+          "amount": "1个 (可选)"
+        },
+        {
+          "name": "帕玛森或佩克里诺芝士",
+          "amount": "大量"
+        },
+        {
+          "name": "黑胡椒",
+          "amount": "现磨"
+        },
+        {
+          "name": "盐",
+          "amount": "用于煮面"
+        }
+      ],
+      "steps": [
+        "将一大锅水烧至滚沸。每升水加入约10克盐。加入意式粗面，煮至有嚼劲（al dente），大约需要10分钟。不要在水中加油。",
+        "煮面的同时，将猪脸颊肉切成小方块。在冷锅中加入少量橄榄油，然后放入猪脸颊肉。",
+        "用中火煎至猪肉酥脆并析出油脂。如果油脂过多，可以去除一部分。",
+        "在另一个碗中，轻轻打散两个鸡蛋和一个额外的蛋黄。加入大量现磨的芝士和足量的现磨黑胡椒，搅拌均匀。",
+        "意面煮好后，关掉煎猪肉的锅的火，让其稍微冷却。这是防止鸡蛋炒熟的关键步骤。",
+        "将煮好的意面沥干，立即加入到有猪脸颊肉和其油脂的锅中，充分搅拌使其裹上油脂。",
+        "将鸡蛋和芝士混合物倒在热意面上，快速持续搅拌。意面的余温会将鸡蛋煮熟，形成奶油般的酱汁。",
+        "立即上桌，再撒上一些额外的芝士碎和现磨黑胡椒作为装饰。"
+      ],
+      "notes": [
+        "如果想要更奶油般的酱汁，可以加入可选的额外蛋黄。",
+        "正宗的卡邦尼意面不使用奶油；其奶油质感来自鸡蛋、芝士和煮面水。",
+        "在加入鸡蛋前，让锅稍微冷却是至关重要的，这样可以防止鸡蛋被炒熟结块。",
+        "强烈建议使用现磨的芝士和现磨的黑胡椒，以获得最佳的风味和质感。"
+      ]
+    },
+    "en": {
+      "title": "Antonio Carluccio's Real Carbonara",
+      "ingredients": [
+        {
+          "name": "Spaghettoni",
+          "amount": "for 2 people"
+        },
+        {
+          "name": "Guanciale or pancetta",
+          "amount": "cubed"
+        },
+        {
+          "name": "Good quality olive oil",
+          "amount": "a splash"
+        },
+        {
+          "name": "Large, fresh eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Extra egg yolk",
+          "amount": "1 (optional)"
+        },
+        {
+          "name": "Parmesan or Pecorino cheese",
+          "amount": "generous amount"
+        },
+        {
+          "name": "Black pepper",
+          "amount": "freshly ground"
+        },
+        {
+          "name": "Salt",
+          "amount": "for pasta water"
+        }
+      ],
+      "steps": [
+        "Bring a large pot of water to a rolling boil. Add about 10g of salt per liter of water. Cook spaghettoni until al dente (around 10 minutes). Do not add oil to the water.",
+        "While pasta cooks, cut the guanciale into small cubes. Add a splash of olive oil to a cold pan, then add the guanciale.",
+        "Cook over medium heat until the pork is crispy and has rendered its fat. If there is excess fat, you can remove some.",
+        "In a separate bowl, lightly beat two eggs and one additional egg yolk. Add a generous amount of freshly grated cheese and plenty of freshly ground black pepper. Whisk together.",
+        "Once pasta is al dente, turn off the heat for the pan with the guanciale to let it cool slightly. This is a crucial step to prevent the eggs from scrambling.",
+        "Drain the pasta and immediately add it to the pan with the guanciale and rendered fat. Toss well to coat.",
+        "Pour the egg and cheese mixture over the hot pasta, stirring quickly and continuously. The residual heat will cook the eggs into a creamy sauce.",
+        "Serve immediately, garnished with an extra sprinkle of grated cheese and a final grind of black pepper."
+      ],
+      "notes": [
+        "For a creamier sauce, add the optional extra egg yolk.",
+        "Authentic carbonara does not use cream; the creaminess comes from the egg, cheese, and pasta water.",
+        "It is crucial to let the pan cool slightly before adding the eggs to prevent them from scrambling.",
+        "Using freshly grated cheese and freshly ground black pepper is highly recommended for the best flavor and texture."
+      ]
+    },
+    "fr": {
+      "title": "La Vraie Carbonara d'Antonio Carluccio",
+      "ingredients": [
+        {
+          "name": "Spaghettoni",
+          "amount": "pour 2 personnes"
+        },
+        {
+          "name": "Guanciale ou pancetta",
+          "amount": "en cubes"
+        },
+        {
+          "name": "Huile d'olive de bonne qualité",
+          "amount": "un filet"
+        },
+        {
+          "name": "Gros œufs frais",
+          "amount": "2"
+        },
+        {
+          "name": "Jaune d'œuf supplémentaire",
+          "amount": "1 (facultatif)"
+        },
+        {
+          "name": "Parmesan ou Pecorino",
+          "amount": "généreuse quantité"
+        },
+        {
+          "name": "Poivre noir",
+          "amount": "fraîchement moulu"
+        },
+        {
+          "name": "Sel",
+          "amount": "pour l'eau des pâtes"
+        }
+      ],
+      "steps": [
+        "Porter une grande casserole d'eau à ébullition. Ajouter environ 10g de sel par litre d'eau. Cuire les spaghettoni jusqu'à ce qu'ils soient al dente (environ 10 minutes). Ne pas ajouter d'huile dans l'eau.",
+        "Pendant que les pâtes cuisent, couper le guanciale en petits cubes. Ajouter un filet d'huile d'olive dans une poêle froide, puis ajouter le guanciale.",
+        "Cuire à feu moyen jusqu'à ce que le porc soit croustillant et ait rendu sa graisse. S'il y a un excès de graisse, vous pouvez en retirer une partie.",
+        "Dans un bol séparé, battre légèrement deux œufs et un jaune d'œuf supplémentaire. Ajouter une généreuse quantité de fromage fraîchement râpé et beaucoup de poivre noir fraîchement moulu. Fouetter ensemble.",
+        "Une fois les pâtes al dente, éteindre le feu de la poêle avec le guanciale pour la laisser refroidir légèrement. C'est une étape cruciale pour éviter que les œufs ne coagulent.",
+        "Égoutter les pâtes et les ajouter immédiatement dans la poêle avec le guanciale et la graisse rendue. Bien mélanger pour enrober.",
+        "Verser le mélange d'œufs et de fromage sur les pâtes chaudes, en remuant rapidement et continuellement. La chaleur résiduelle cuira les œufs en une sauce crémeuse.",
+        "Servir immédiatement, garni d'une pincée supplémentaire de fromage râpé et d'un dernier tour de moulin à poivre."
+      ],
+      "notes": [
+        "Pour une sauce plus crémeuse, ajouter le jaune d'œuf supplémentaire facultatif.",
+        "La carbonara authentique n'utilise pas de crème ; l'onctuosité vient de l'œuf, du fromage et de l'eau de cuisson des pâtes.",
+        "Il est crucial de laisser la poêle refroidir légèrement avant d'ajouter les œufs pour éviter qu'ils ne coagulent.",
+        "Il est fortement recommandé d'utiliser du fromage fraîchement râpé et du poivre fraîchement moulu pour obtenir la meilleure saveur et texture."
+      ]
+    }
+  }
+}

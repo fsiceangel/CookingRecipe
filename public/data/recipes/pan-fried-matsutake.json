@@ -1,0 +1,109 @@
+{
+  "id": "pan-fried-matsutake",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 0.5,
+  "videoLink": "",
+  "ingredientKeys": [
+    "matsutake-mushroom",
+    "butter",
+    "salt",
+    "black-pepper"
+  ],
+  "translations": {
+    "cn": {
+      "title": "黄油煎松茸",
+      "ingredients": [
+        {
+          "name": "松茸"
+        },
+        {
+          "name": "黄油"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "黑胡椒"
+        }
+      ],
+      "steps": [
+        "用湿纸巾轻轻擦拭松茸表面的泥土，去除根部泥土部分。",
+        "将松茸切成约0.5厘米厚的片状。",
+        "在平底锅中加入适量黄油，用中小火加热至融化。",
+        "将切好的松茸片平铺在锅中，避免堆叠。",
+        "保持中小火，慢煎至松茸的一面呈金黄色。",
+        "翻面后继续煎至另一面也呈金黄色，确保松茸熟透。",
+        "煎好后，根据个人口味撒上适量的盐和黑胡椒碎即可。",
+        "装盘，可以根据喜好用迷迭香或小葱花点缀。"
+      ],
+      "notes": [
+        "处理松茸时应轻柔擦拭，避免用水冲洗，以免影响其独特的香气和口感。",
+        "最好使用不粘锅并用小火慢煎，以保留其原有的香气和Q弹口感。"
+      ]
+    },
+    "en": {
+      "title": "Pan-Fried Matsutake with Butter",
+      "ingredients": [
+        {
+          "name": "Matsutake Mushroom"
+        },
+        {
+          "name": "Butter"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Black Pepper"
+        }
+      ],
+      "steps": [
+        "Gently wipe the surface of the matsutake mushrooms with a damp paper towel to remove any dirt. Trim off the earthy base of the stem.",
+        "Slice the matsutake into pieces about 0.5 cm thick.",
+        "Add an appropriate amount of butter to a frying pan and heat over medium-low heat until melted.",
+        "Lay the matsutake slices flat in the pan, avoiding overlap.",
+        "Pan-fry over medium-low heat until one side is golden brown.",
+        "Flip the slices and continue to fry until the other side is also golden brown and the mushrooms are cooked through.",
+        "After frying, season with salt and black pepper to taste.",
+        "Transfer to a plate. Garnish with rosemary or chopped scallions if desired."
+      ],
+      "notes": [
+        "Clean matsutake gently with a wipe instead of washing with water to preserve their unique aroma and texture.",
+        "It's best to use a non-stick pan and low heat to retain the mushroom's natural fragrance and firm, bouncy texture."
+      ]
+    },
+    "fr": {
+      "title": "Matsutake Poêlé au Beurre",
+      "ingredients": [
+        {
+          "name": "Champignon Matsutake"
+        },
+        {
+          "name": "Beurre"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Poivre noir"
+        }
+      ],
+      "steps": [
+        "Essuyez délicatement la surface des champignons matsutake avec un essuie-tout humide pour enlever toute saleté. Coupez la base terreuse de la tige.",
+        "Trancher les matsutake en morceaux d'environ 0,5 cm d'épaisseur.",
+        "Ajouter une quantité appropriée de beurre dans une poêle et chauffer à feu moyen-doux jusqu'à ce qu'il soit fondu.",
+        "Disposer les tranches de matsutake à plat dans la poêle, en évitant de les superposer.",
+        "Faire revenir à feu moyen-doux jusqu'à ce qu'un côté soit doré.",
+        "Retourner les tranches et continuer à frire jusqu'à ce que l'autre côté soit également doré et que les champignons soient bien cuits.",
+        "Après la cuisson, assaisonner de sel et de poivre noir au goût.",
+        "Transférer dans une assiette. Garnir de romarin ou de ciboule hachée si désiré."
+      ],
+      "notes": [
+        "Nettoyez délicatement les matsutake en les essuyant plutôt qu'en les lavant à l'eau pour préserver leur arôme et leur texture uniques.",
+        "Il est préférable d'utiliser une poêle antiadhésive et un feu doux pour conserver le parfum naturel du champignon et sa texture ferme et rebondie."
+      ]
+    }
+  }
+}

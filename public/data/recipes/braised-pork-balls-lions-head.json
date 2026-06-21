@@ -1,0 +1,302 @@
+{
+  "id": "braised-pork-balls-lions-head",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.bilibili.com/video/BV1hp4y1T7dU",
+  "ingredientKeys": [
+    "pork-belly",
+    "water-chestnut",
+    "choy-sum",
+    "salt",
+    "msg",
+    "black-pepper",
+    "scallion-ginger-water",
+    "cornstarch",
+    "light-soy-sauce",
+    "cooking-wine",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cinnamon-bark",
+    "sugar",
+    "dark-soy-sauce",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红烧狮子头",
+      "ingredients": [
+        {
+          "name": "五花肉",
+          "amount": "1kg"
+        },
+        {
+          "name": "马蹄",
+          "amount": "60g"
+        },
+        {
+          "name": "菜心",
+          "amount": "适量"
+        },
+        {
+          "name": "盐",
+          "amount": "20g"
+        },
+        {
+          "name": "味精",
+          "amount": "2g"
+        },
+        {
+          "name": "胡椒粉",
+          "amount": "2g"
+        },
+        {
+          "name": "葱姜水",
+          "amount": "300g"
+        },
+        {
+          "name": "淀粉",
+          "amount": "120g"
+        },
+        {
+          "name": "味达美鲜味酱油",
+          "amount": "80g"
+        },
+        {
+          "name": "黄酒",
+          "amount": "100g"
+        },
+        {
+          "name": "葱",
+          "amount": "100g"
+        },
+        {
+          "name": "姜",
+          "amount": "100g"
+        },
+        {
+          "name": "大料",
+          "amount": "4g"
+        },
+        {
+          "name": "桂皮",
+          "amount": "5g"
+        },
+        {
+          "name": "糖",
+          "amount": "30g"
+        },
+        {
+          "name": "冰糖老抽",
+          "amount": "50g"
+        },
+        {
+          "name": "水淀粉",
+          "amount": "适量"
+        }
+      ],
+      "steps": [
+        "五花肉去皮，先切片再切成石榴粒大小的丁，然后粗略地斩剁几下。",
+        "肉丁中加入盐6g、味精2g、胡椒粉1g，少量多次加入葱姜水，顺着一个方向搅打上劲。",
+        "加入淀粉80g和马蹄碎，拌匀。",
+        "准备底汤：起锅烧油，煸香葱80g、姜20g、大料4g、桂皮5g。",
+        "加入酱油、水、黄酒、剩余的盐、糖、味精和冰糖老抽，搅匀烧开后倒入砂锅中。",
+        "将肉馅团成大的丸子（狮子头）。",
+        "起锅烧大量的油，油温六成热时（约180°C），下入狮子头，炸至表面金黄定型。",
+        "将炸好的狮子头捞出，放入砂锅的汤中。",
+        "大火烧开后，转为中小火，盖盖慢炖100分钟，直至软烂入味。",
+        "将炖好的狮子头捞出装盘。",
+        "砂锅中剩余的汤汁用适量水淀粉勾芡，淋在狮子头上。",
+        "最后用焯好水的菜心围边点缀即可。"
+      ],
+      "notes": [
+        "搅打肉馅时，葱姜水要少量多次加入，让肉馅充分吸收。",
+        "炸狮子头是为了定型和增加风味，炖煮时间要足够长才能软烂。"
+      ]
+    },
+    "en": {
+      "title": "Braised Pork Balls (Lion's Head)",
+      "ingredients": [
+        {
+          "name": "Pork belly",
+          "amount": "1kg"
+        },
+        {
+          "name": "Water chestnuts",
+          "amount": "60g"
+        },
+        {
+          "name": "Choy sum",
+          "amount": "for garnish"
+        },
+        {
+          "name": "Salt",
+          "amount": "20g"
+        },
+        {
+          "name": "MSG",
+          "amount": "2g"
+        },
+        {
+          "name": "White pepper",
+          "amount": "2g"
+        },
+        {
+          "name": "Scallion ginger water",
+          "amount": "300g"
+        },
+        {
+          "name": "Cornstarch",
+          "amount": "120g"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "80g"
+        },
+        {
+          "name": "Shaoxing wine",
+          "amount": "100g"
+        },
+        {
+          "name": "Scallion",
+          "amount": "100g"
+        },
+        {
+          "name": "Ginger",
+          "amount": "100g"
+        },
+        {
+          "name": "Star anise",
+          "amount": "4g"
+        },
+        {
+          "name": "Cinnamon bark",
+          "amount": "5g"
+        },
+        {
+          "name": "Sugar",
+          "amount": "30g"
+        },
+        {
+          "name": "Dark soy sauce",
+          "amount": "50g"
+        },
+        {
+          "name": "Cornstarch slurry",
+          "amount": "as needed"
+        }
+      ],
+      "steps": [
+        "Peel the pork belly, slice it, then dice it into pomegranate seed-sized pieces. Roughly chop the diced pork.",
+        "To the minced pork, add 6g salt, 2g MSG, and 1g white pepper. Gradually add scallion-ginger water in small amounts, stirring vigorously in one direction to develop texture.",
+        "Add 80g of cornstarch and finely chopped water chestnuts. Mix well.",
+        "Prepare the braising liquid: Heat oil in a wok and sauté 80g scallion, 20g ginger, 4g star anise, and 5g cinnamon bark until fragrant.",
+        "Add soy sauce, water, Shaoxing wine, the remaining salt, sugar, MSG, and dark soy sauce. Stir well, bring to a boil, then transfer to a clay pot or large Dutch oven.",
+        "Form the pork mixture into large meatballs (the 'lion\\'s heads').",
+        "Heat a generous amount of oil in the wok to about 60% hot (approx. 180°C / 350°F). Deep-fry the meatballs until golden brown and firm on the outside.",
+        "Remove the fried meatballs and place them in the clay pot with the braising liquid.",
+        "Bring the liquid back to a boil, then reduce the heat to a simmer. Cover and cook for 100 minutes until the meatballs are exceptionally tender.",
+        "Carefully remove the cooked meatballs and arrange them on a serving platter.",
+        "Thicken the remaining braising liquid in the pot with a cornstarch slurry to create a sauce.",
+        "Pour the sauce over the meatballs and garnish with blanced choy sum around the edges."
+      ],
+      "notes": [
+        "Add the scallion-ginger water gradually to ensure the meat absorbs it fully.",
+        "Frying the meatballs first helps them hold their shape and adds flavor. A long simmering time is crucial for a melt-in-your-mouth texture."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de porc braisées (Tête de Lion)",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc",
+          "amount": "1kg"
+        },
+        {
+          "name": "Châtaignes d'eau",
+          "amount": "60g"
+        },
+        {
+          "name": "Choy sum",
+          "amount": "pour la garniture"
+        },
+        {
+          "name": "Sel",
+          "amount": "20g"
+        },
+        {
+          "name": "Glutamate",
+          "amount": "2g"
+        },
+        {
+          "name": "Poivre blanc",
+          "amount": "2g"
+        },
+        {
+          "name": "Eau de ciboule et gingembre",
+          "amount": "300g"
+        },
+        {
+          "name": "Fécule de maïs",
+          "amount": "120g"
+        },
+        {
+          "name": "Sauce soja",
+          "amount": "80g"
+        },
+        {
+          "name": "Vin de Shaoxing",
+          "amount": "100g"
+        },
+        {
+          "name": "Ciboule",
+          "amount": "100g"
+        },
+        {
+          "name": "Gingembre",
+          "amount": "100g"
+        },
+        {
+          "name": "Anis étoilé",
+          "amount": "4g"
+        },
+        {
+          "name": "Écorce de cannelle",
+          "amount": "5g"
+        },
+        {
+          "name": "Sucre",
+          "amount": "30g"
+        },
+        {
+          "name": "Sauce soja foncée",
+          "amount": "50g"
+        },
+        {
+          "name": "Liaison à la fécule de maïs",
+          "amount": "au besoin"
+        }
+      ],
+      "steps": [
+        "Peler la poitrine de porc, la trancher, puis la couper en dés de la taille de graines de grenade. Hacher grossièrement le porc en dés.",
+        "Au porc haché, ajouter 6g de sel, 2g de glutamate et 1g de poivre blanc. Ajouter progressivement l'eau de ciboule et de gingembre par petites quantités, en remuant vigoureusement dans une seule direction pour développer la texture.",
+        "Ajouter 80g de fécule de maïs et les châtaignes d'eau finement hachées. Bien mélanger.",
+        "Préparer le liquide de braisage : Chauffer l'huile dans un wok et faire sauter 80g de ciboule, 20g de gingembre, 4g d'anis étoilé et 5g d'écorce de cannelle jusqu'à ce qu'ils soient parfumés.",
+        "Ajouter la sauce soja, l'eau, le vin de Shaoxing, le reste du sel, le sucre, le glutamate et la sauce soja foncée. Bien mélanger, porter à ébullition, puis transférer dans une cocotte en terre ou une grande cocotte.",
+        "Former le mélange de porc en grosses boulettes (les 'têtes de lion').",
+        "Chauffer une généreuse quantité d'huile dans le wok à environ 60% de chaleur (environ 180°C). Frire les boulettes jusqu'à ce qu'elles soient dorées et fermes à l'extérieur.",
+        "Retirer les boulettes frites et les placer dans la cocotte avec le liquide de braisage.",
+        "Porter le liquide à ébullition, puis réduire le feu à un frémissement. Couvrir et cuire pendant 100 minutes jusqu'à ce que les boulettes soient exceptionnellement tendres.",
+        "Retirer délicatement les boulettes cuites et les disposer sur un plat de service.",
+        "Épaissir le liquide de braisage restant dans la cocotte avec une liaison à la fécule de maïs pour créer une sauce.",
+        "Verser la sauce sur les boulettes et garnir de choy sum blanchi sur les bords."
+      ],
+      "notes": [
+        "Ajouter l'eau de ciboule et de gingembre progressivement pour que la viande l'absorbe complètement.",
+        "Frire les boulettes d'abord les aide à conserver leur forme et ajoute de la saveur. Un long temps de mijotage est crucial pour une texture fondante en bouche."
+      ]
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "herb-baked-salmon",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1,
+  "videoLink": "",
+  "ingredientKeys": [
+    "salmon-fillets",
+    "oil",
+    "salt",
+    "black-pepper",
+    "garlic",
+    "italian-herbs",
+    "lemon"
+  ],
+  "translations": {
+    "cn": {
+      "title": "香草烤三文鱼",
+      "ingredients": [
+        {
+          "name": "三文鱼柳"
+        },
+        {
+          "name": "橄榄油"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "现磨黑胡椒"
+        },
+        {
+          "name": "蒜末"
+        },
+        {
+          "name": "意大利香草调料"
+        },
+        {
+          "name": "柠檬"
+        }
+      ],
+      "steps": [
+        "预热烤箱至400华氏度（200摄氏度），并给一个大烤盘抹油。将三文鱼柳放在烤盘上，并用盐和胡椒粉充分调味。",
+        "将橄榄油、蒜末、香草和半个柠檬的汁搅拌在一起。将此酱汁舀在三文鱼柳上，确保涂抹在三文鱼的顶部和侧面，使其没有干燥的地方。将剩下的半个柠檬切成薄片，每片三文鱼上放一片柠檬。",
+        "将三文鱼放入烤箱烘烤12-15分钟，或直到三文鱼变得不透明，用叉子一拨就散开。如果需要，可以在最后1-2分钟使用烧烤模式。",
+        "如果需要，可以用新鲜的百里香或欧芹装饰后上桌。"
+      ],
+      "notes": [
+        "选择新鲜的三文鱼柳，颜色粉嫩湿润。",
+        "可以用植物油代替橄榄油。",
+        "也可以使用普罗旺斯香草代替意大利香草调料。"
+      ]
+    },
+    "en": {
+      "title": "Herb Baked Salmon",
+      "ingredients": [
+        {
+          "name": "Salmon Fillets"
+        },
+        {
+          "name": "Olive Oil"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Cracked Black Pepper"
+        },
+        {
+          "name": "Minced Garlic"
+        },
+        {
+          "name": "Italian Herb Seasoning"
+        },
+        {
+          "name": "Lemon"
+        }
+      ],
+      "steps": [
+        "Preheat the oven to 400°F (200°C) and grease a large baking pan. Arrange the salmon fillets on the baking sheet and season generously with salt and pepper.",
+        "Stir together the olive oil, garlic, herbs, and juice of 1/2 of the lemon. Spoon this sauce over salmon fillets, being sure to rub all over the tops and sides of the salmon so it has no dry spots. Thinly slice the remaining 1/2 of the lemon and top each piece of salmon with a slice of lemon.",
+        "Bake the salmon in the oven for 12-15 minutes or until the salmon is opaque and flaky when pulled apart with a fork. You can broil the last 1-2 minutes if desired.",
+        "Garnish with fresh thyme or parsley if desired and serve."
+      ],
+      "notes": [
+        "Look for fresh salmon fillets that are nice and pink and moist.",
+        "You can substitute vegetable oil for olive oil.",
+        "Herbs de Provence can be used instead of Italian Herb Seasoning."
+      ]
+    },
+    "fr": {
+      "title": "Saumon aux Herbes au Four",
+      "ingredients": [
+        {
+          "name": "Filets de saumon"
+        },
+        {
+          "name": "Huile d'olive"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Poivre noir concassé"
+        },
+        {
+          "name": "Ail haché"
+        },
+        {
+          "name": "Mélange d'herbes italiennes"
+        },
+        {
+          "name": "Citron"
+        }
+      ],
+      "steps": [
+        "Préchauffer le four à 200°C (400°F) et graisser une grande plaque de cuisson. Disposer les filets de saumon sur la plaque et assaisonner généreusement de sel et de poivre.",
+        "Mélanger l'huile d'olive, l'ail, les herbes et le jus d'une demi-citron. Napper les filets de saumon avec cette sauce, en veillant à bien enrober le dessus et les côtés pour qu'il n'y ait pas de parties sèches. Trancher finement la moitié restante du citron et garnir chaque morceau de saumon d'une tranche de citron.",
+        "Cuire le saumon au four pendant 12-15 minutes ou jusqu'à ce que le saumon soit opaque et s'effeuille facilement à la fourchette. Vous pouvez utiliser le mode gril pour les 1-2 dernières minutes si désiré.",
+        "Garnir de thym frais ou de persil si désiré et servir."
+      ],
+      "notes": [
+        "Recherchez des filets de saumon frais, bien roses et humides.",
+        "Vous pouvez remplacer l'huile d'olive par de l'huile végétale.",
+        "Les herbes de Provence peuvent être utilisées à la place du mélange d'herbes italiennes."
+      ]
+    }
+  }
+}

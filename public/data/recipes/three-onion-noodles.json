@@ -1,0 +1,180 @@
+{
+  "id": "three-onion-noodles",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.bilibili.com/video/BV11H4y1c7Fa",
+  "ingredientKeys": [
+    "scallion",
+    "scallion",
+    "onion",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "oyster-sauce",
+    "aged-vinegar",
+    "sugar",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "三葱拌面 (葱油做法)",
+      "ingredients": [
+        {
+          "name": "大葱",
+          "amount": "100g"
+        },
+        {
+          "name": "小葱",
+          "amount": "100g"
+        },
+        {
+          "name": "洋葱",
+          "amount": "100g"
+        },
+        {
+          "name": "生抽",
+          "amount": "100g"
+        },
+        {
+          "name": "老抽",
+          "amount": "25g"
+        },
+        {
+          "name": "蚝油",
+          "amount": "25g"
+        },
+        {
+          "name": "陈醋",
+          "amount": "20g"
+        },
+        {
+          "name": "白糖",
+          "amount": "25g"
+        },
+        {
+          "name": "菜籽油",
+          "amount": "150g"
+        }
+      ],
+      "steps": [
+        "准备工作：大葱100g切菱形，小葱100g切段，洋葱100g切细条。",
+        "调制料汁：将生抽100g，老抽25g，蚝油25g，陈醋20g，白糖25g混合均匀备用。",
+        "制作葱油（选择一个版本操作）：",
+        "【无葱版 - 葱香浓郁，无葱渣】起锅烧热150g菜籽油，下入所有葱料。大火炸开至微焦后转小火，慢炸至葱料完全焦黄。捞出所有葱料丢弃，将调好的料汁倒入油中，大火煮开即可。",
+        "【有葱版 - 保留葱的口感】起锅烧热150g菜籽油，先下入一半的葱料（葱绿和一半洋葱、大葱），大火炸至微焦后转小火，炸至焦黄后捞出丢弃。再下入剩下的一半葱料，大火炸软。最后倒入调好的料汁，大火煮开即可。",
+        "将做好的葱油拌入煮好的面条中即可享用。"
+      ],
+      "notes": [
+        "做好的葱油可以密封冷藏保存，随吃随用。",
+        "无葱版适合不喜欢吃到葱的人，葱油味道更纯粹；有葱版则保留了葱的香甜口感。"
+      ]
+    },
+    "en": {
+      "title": "Three-Onion Noodles (Scallion Oil Method)",
+      "ingredients": [
+        {
+          "name": "Scallion",
+          "amount": "100g"
+        },
+        {
+          "name": "Small Scallion",
+          "amount": "100g"
+        },
+        {
+          "name": "Onion",
+          "amount": "100g"
+        },
+        {
+          "name": "Light Soy Sauce",
+          "amount": "100g"
+        },
+        {
+          "name": "Dark Soy Sauce",
+          "amount": "25g"
+        },
+        {
+          "name": "Oyster Sauce",
+          "amount": "25g"
+        },
+        {
+          "name": "Aged Vinegar",
+          "amount": "20g"
+        },
+        {
+          "name": "Sugar",
+          "amount": "25g"
+        },
+        {
+          "name": "Rapeseed Oil",
+          "amount": "150g"
+        }
+      ],
+      "steps": [
+        "Prep: Cut 100g scallion into diamond shapes, 100g small scallion into sections, and 100g onion into thin strips.",
+        "Sauce Mixture: Combine 100g light soy sauce, 25g dark soy sauce, 25g oyster sauce, 20g aged vinegar, and 25g sugar. Mix well and set aside.",
+        "Make Scallion Oil (Choose one version):",
+        "[Version 1 - Onions Removed]: Heat 150g of rapeseed oil in a wok. Add all prepared onions. Fry on high until slightly browned, then switch to low heat. Fry until deep golden brown and crispy. Remove and discard all fried onions. Pour the sauce mixture into the hot oil and bring to a boil.",
+        "[Version 2 - With Soft Onions]: Heat 150g of rapeseed oil. First, add half of the prepared onions (use the green parts of the small scallions, and half of the regular scallions and onions). Fry on high heat until slightly browned, then switch to low heat and continue frying until deep golden brown. Discard these fried onions to infuse the oil. Then, add the remaining half of the fresh onions to the infused oil and fry on high heat until softened. Finally, pour in the sauce mixture and bring to a boil.",
+        "To serve, mix the finished scallion oil with freshly cooked noodles."
+      ],
+      "notes": [
+        "The finished scallion oil can be stored in a sealed container in the refrigerator for later use.",
+        "Version 1 is ideal for those who prefer a smooth oil without onion bits. Version 2 retains the sweet texture of the softened onions."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles aux trois oignons (Méthode à l'huile d'oignon vert)",
+      "ingredients": [
+        {
+          "name": "Ciboule",
+          "amount": "100g"
+        },
+        {
+          "name": "Petite Ciboule",
+          "amount": "100g"
+        },
+        {
+          "name": "Oignon",
+          "amount": "100g"
+        },
+        {
+          "name": "Sauce soja claire",
+          "amount": "100g"
+        },
+        {
+          "name": "Sauce soja foncée",
+          "amount": "25g"
+        },
+        {
+          "name": "Sauce d'huître",
+          "amount": "25g"
+        },
+        {
+          "name": "Vinaigre vieilli",
+          "amount": "20g"
+        },
+        {
+          "name": "Sucre",
+          "amount": "25g"
+        },
+        {
+          "name": "Huile de colza",
+          "amount": "150g"
+        }
+      ],
+      "steps": [
+        "Préparation : Couper 100g de ciboule en losanges, 100g de petite ciboule en sections, et 100g d'oignon en fines lanières.",
+        "Mélange de sauce : Combiner 100g de sauce soja claire, 25g de sauce soja foncée, 25g de sauce d'huître, 20g de vinaigre vieilli et 25g de sucre. Bien mélanger et réserver.",
+        "Faire l'huile d'oignon (Choisir une version) :",
+        "[Version 1 - Oignons retirés] : Chauffer 150g d'huile de colza dans un wok. Ajouter tous les oignons préparés. Frire à feu vif jusqu'à légère coloration, puis passer à feu doux. Frire jusqu'à ce qu'ils soient bien dorés et croustillants. Retirer et jeter tous les oignons frits. Verser le mélange de sauce dans l'huile chaude et porter à ébullition.",
+        "[Version 2 - Avec oignons tendres] : Chauffer 150g d'huile de colza. D'abord, ajouter la moitié des oignons préparés (utiliser les parties vertes des petites ciboules, et la moitié des ciboules et oignons réguliers). Frire à feu vif jusqu'à légère coloration, puis passer à feu doux et continuer à frire jusqu'à ce qu'ils soient bien dorés. Jeter ces oignons frits pour infuser l'huile. Ensuite, ajouter la moitié restante des oignons frais à l'huile infusée et frire à feu vif jusqu'à ce qu'ils soient tendres. Enfin, verser le mélange de sauce et porter à ébullition.",
+        "Pour servir, mélanger l'huile d'oignon finie avec des nouilles fraîchement cuites."
+      ],
+      "notes": [
+        "L'huile d'oignon finie peut être conservée dans un récipient hermétique au réfrigérateur pour une utilisation ultérieure.",
+        "La version 1 est idéale pour ceux qui préfèrent une huile lisse sans morceaux d'oignon. La version 2 conserve la texture sucrée des oignons ramollis."
+      ]
+    }
+  }
+}

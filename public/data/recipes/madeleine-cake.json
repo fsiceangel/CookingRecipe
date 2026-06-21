@@ -1,0 +1,173 @@
+{
+  "id": "madeleine-cake",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.bilibili.com/video/BV1K5411574o",
+  "ingredientKeys": [
+    "cake-flour",
+    "sugar",
+    "baking-powder",
+    "salt",
+    "citrus",
+    "butter",
+    "egg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "玛德琳蛋糕",
+      "ingredients": [
+        {
+          "name": "低筋粉",
+          "amount": "125g"
+        },
+        {
+          "name": "糖",
+          "amount": "125g"
+        },
+        {
+          "name": "泡打粉",
+          "amount": "5g"
+        },
+        {
+          "name": "盐",
+          "amount": "1.5g"
+        },
+        {
+          "name": "柑橘皮",
+          "amount": "2颗"
+        },
+        {
+          "name": "黄油",
+          "amount": "130g"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "175g (约3.5个)"
+        }
+      ],
+      "steps": [
+        "准备干材料：混合低筋粉125g、糖125g、泡打粉5g、盐1.5g。刨入两颗柑橘的皮屑，注意不要加入白色部分。",
+        "准备湿材料：将130g黄油加热软化至40摄氏度（或制作焦化黄油以增加风味）。",
+        "将175g鸡蛋液加入干材料中混合。注意混合物温度不要超过70摄氏度。",
+        "将软化的黄油（或焦化黄油）加入面糊中，搅拌均匀。",
+        "烤箱预热至190摄氏度。",
+        "将蛋糕糊挤入玛德琳模具中，约75%满。",
+        "在190摄氏度下烘烤7-9分钟，直到蛋糕中央鼓起（形成标志性的“肚子”）。",
+        "将温度降至170摄氏度，再烘烤5分钟，以增加焦香。",
+        "出炉后，让蛋糕在模具中静置5分钟，然后脱模。",
+        "在冷却架上再放置10分钟，此时外壳酥脆，是最佳食用时间。"
+      ],
+      "notes": [
+        "需要玛德琳模具！",
+        "技巧：为了风味更佳，可以制作焦化黄油代替普通软化黄油。",
+        "加入鸡蛋时，确保面糊温度不要过高，以免将鸡蛋烫熟。",
+        "柑橘皮屑只要外层有颜色的部分，白色部分会带来苦味。"
+      ]
+    },
+    "en": {
+      "title": "Madeleine Cake",
+      "ingredients": [
+        {
+          "name": "Cake Flour",
+          "amount": "125g"
+        },
+        {
+          "name": "Sugar",
+          "amount": "125g"
+        },
+        {
+          "name": "Baking Powder",
+          "amount": "5g"
+        },
+        {
+          "name": "Salt",
+          "amount": "1.5g"
+        },
+        {
+          "name": "Citrus Zest",
+          "amount": "from 2"
+        },
+        {
+          "name": "Butter",
+          "amount": "130g"
+        },
+        {
+          "name": "Eggs",
+          "amount": "175g (~3.5 large)"
+        }
+      ],
+      "steps": [
+        "Prepare dry ingredients: Mix 125g cake flour, 125g sugar, 5g baking powder, and 1.5g salt. Zest two citrus fruits into the mixture, avoiding the white pith.",
+        "Prepare wet ingredients: Melt 130g of butter until it reaches 40°C (104°F), or make brown butter for enhanced flavor.",
+        "Add 175g of beaten eggs to the dry ingredients and mix. Ensure the mixture temperature does not exceed 70°C (158°F).",
+        "Pour the melted butter (or brown butter) into the batter and mix until just combined.",
+        "Preheat the oven to 190°C (375°F).",
+        "Pipe the batter into a madeleine mold, filling each cavity about 75% full.",
+        "Bake at 190°C (375°F) for 7-9 minutes, until the signature 'hump' forms in the center.",
+        "Reduce the temperature to 170°C (340°F) and bake for another 5 minutes to add a caramelized flavor.",
+        "After removing from the oven, let the cakes rest in the mold for 5 minutes before unmolding.",
+        "Let them cool on a wire rack for 10 minutes. They are best eaten at this point when the shell is crispy."
+      ],
+      "notes": [
+        "A Madeleine mold is required!",
+        "Tip: For better flavor, use brown butter instead of just melted butter.",
+        "When adding eggs, ensure the mixture is not too hot to avoid scrambling them.",
+        "Only use the colored part of the citrus peel; the white pith is bitter."
+      ]
+    },
+    "fr": {
+      "title": "Madeleines",
+      "ingredients": [
+        {
+          "name": "Farine à gâteau",
+          "amount": "125g"
+        },
+        {
+          "name": "Sucre",
+          "amount": "125g"
+        },
+        {
+          "name": "Levure chimique",
+          "amount": "5g"
+        },
+        {
+          "name": "Sel",
+          "amount": "1.5g"
+        },
+        {
+          "name": "Zeste d'agrumes",
+          "amount": "de 2"
+        },
+        {
+          "name": "Beurre",
+          "amount": "130g"
+        },
+        {
+          "name": "Oeufs",
+          "amount": "175g (~3.5 gros)"
+        }
+      ],
+      "steps": [
+        "Préparer les ingrédients secs : Mélanger 125g de farine à gâteau, 125g de sucre, 5g de levure chimique et 1.5g de sel. Zester deux agrumes dans le mélange, en évitant le ziste blanc.",
+        "Préparer les ingrédients humides : Faire fondre 130g de beurre jusqu'à ce qu'il atteigne 40°C, ou faire du beurre noisette pour une saveur rehaussée.",
+        "Ajouter 175g d'œufs battus aux ingrédients secs et mélanger. S'assurer que la température du mélange ne dépasse pas 70°C.",
+        "Verser le beurre fondu (ou beurre noisette) dans la pâte et mélanger juste assez pour combiner.",
+        "Préchauffer le four à 190°C.",
+        "Pocher la pâte dans un moule à madeleines, en remplissant chaque cavité à environ 75%.",
+        "Cuire à 190°C pendant 7-9 minutes, jusqu'à ce que la bosse caractéristique se forme au centre.",
+        "Réduire la température à 170°C et cuire pendant 5 minutes supplémentaires pour ajouter une saveur caramélisée.",
+        "Après avoir retiré du four, laisser les gâteaux reposer dans le moule pendant 5 minutes avant de les démouler.",
+        "Laisser refroidir sur une grille pendant 10 minutes. Elles sont meilleures à ce stade lorsque la coque est croustillante."
+      ],
+      "notes": [
+        "Un moule à madeleines est requis !",
+        "Astuce : Pour une meilleure saveur, utiliser du beurre noisette au lieu de beurre simplement fondu.",
+        "Lors de l'ajout des œufs, s'assurer que le mélange n'est pas trop chaud pour éviter de les brouiller.",
+        "Utiliser uniquement la partie colorée du zeste d'agrume ; le ziste blanc est amer."
+      ]
+    }
+  }
+}
