@@ -1,0 +1,183 @@
+{
+  "id": "pagoda-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=xDkwNOKDbM8",
+  "ingredientKeys": [
+    "pork-belly",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "light-soy-sauce",
+    "hoisin-sauce",
+    "fermented-bean-curd",
+    "garlic",
+    "preserved-mustard-greens"
+  ],
+  "translations": {
+    "cn": {
+      "title": "宝塔肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "海鲜酱"
+        },
+        {
+          "name": "南乳汁"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "梅菜"
+        }
+      ],
+      "steps": [
+        "选一块中段的五花肉，表面稍作修整，使厚薄一致。",
+        "整块下锅，加葱、姜、料酒，煮到筷子能扎透、不冒血即熟，只取肉不用汤，全程不焯水。",
+        "煮好后用两块板压上、上面压重物定型，放凉。（家庭做可省略，仅方便切片。）",
+        "放凉后表面抹一层酱油上色，不粘锅加底油，将肉单面煎上色。",
+        "按模具大小把四边修小，使其能放入模具。",
+        "从上往下直刀切片，切到接近底部、与肉片厚度一致时调转方向继续切，注意不要切断，使肉相连成塔形。",
+        "调酱汁：200克海鲜酱加50克南乳汁上色增香，再加约30克料酒稀释，放入蒜末拌匀。",
+        "梅菜洗净泡开，下锅炒香备用。",
+        "把切好的肉扒开缝隙，将酱汁顺缝浇入并往上烫开，让每一层都裹上酱，里外一个味。",
+        "把肉一层层推入模具叠好，中间没沾到酱的地方补酱。",
+        "把炒过的梅菜拌入剩余酱汁，填到肉底部并按紧压实，防止蒸后塌形。",
+        "表面盖一层保鲜膜封住，防止蒸锅水汽冲淡酱味。",
+        "上汽后蒸约1至2小时，越久越烂。",
+        "蒸好揭去保鲜膜，倒扣装盘即可。"
+      ],
+      "notes": [
+        "肉一定要扒开缝把酱汁烫进每一层，里外才是一个味。",
+        "梅菜底要按紧压实，否则蒸后塔形会塌。",
+        "在家可不切塔形，直接切厚片拌酱蒸，味道一样好。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Pagoda Pork",
+      "ingredients": [
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Hoisin sauce"
+        },
+        {
+          "name": "Red fermented bean curd sauce"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Preserved mustard greens (mei cai)"
+        }
+      ],
+      "steps": [
+        "Choose a center-cut piece of pork belly and trim the surface so the thickness is even.",
+        "Boil the whole piece with scallion, ginger, and cooking wine until a chopstick pierces through with no blood. Use only the meat, not the broth; never blanch.",
+        "Press the cooked belly between two boards weighted on top, and let it cool to set its shape. (Optional at home; it just makes slicing easier.)",
+        "Once cool, brush the surface with soy sauce for color, then pan-sear one side in a little oil in a nonstick pan to color it.",
+        "Trim the four sides smaller to fit your mold.",
+        "Slice straight down from the top; when you reach near the bottom and the gap matches the slice thickness, turn and continue from the other side, taking care not to cut through, so the slices stay connected into a tower.",
+        "Make the sauce: 200g hoisin sauce plus 50g red fermented bean curd sauce for color and aroma, thin with about 30g cooking wine, then stir in minced garlic.",
+        "Rinse and soak the preserved mustard greens, then stir-fry until fragrant and set aside.",
+        "Pry the slices open and pour the sauce down into the gaps, working it up so every layer is coated inside and out.",
+        "Push the slices layer by layer into the mold to stack them; touch up any spots that missed the sauce.",
+        "Mix the stir-fried mustard greens into the leftover sauce, pack it onto the bottom of the meat, and press firmly so the tower won't collapse after steaming.",
+        "Cover the top tightly with plastic wrap so steam water doesn't dilute the sauce.",
+        "Steam for about 1 to 2 hours once steaming; longer makes it more tender.",
+        "Peel off the wrap, invert onto a plate, and serve."
+      ],
+      "notes": [
+        "Always pry the slices open and work the sauce into every layer so the flavor is the same inside and out.",
+        "Pack the mustard-green base firmly, or the tower will slump after steaming.",
+        "At home you can skip the tower shape and just steam thick slices coated in sauce; it tastes just as good.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc en Pagode",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sauce hoisin"
+        },
+        {
+          "name": "Sauce de tofu fermenté rouge"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Légumes moutarde confits (mei cai)"
+        }
+      ],
+      "steps": [
+        "Choisir un morceau central de poitrine de porc et parer la surface pour une épaisseur uniforme.",
+        "Faire bouillir le morceau entier avec ciboule, gingembre et vin de cuisine jusqu'à ce qu'une baguette le transperce sans sang. N'utiliser que la viande, pas le bouillon ; ne jamais blanchir.",
+        "Presser la poitrine cuite entre deux planches lestées et laisser refroidir pour la mettre en forme. (Facultatif à la maison ; cela facilite la découpe.)",
+        "Une fois froide, badigeonner la surface de sauce soja pour la couleur, puis saisir une face dans un peu d'huile dans une poêle antiadhésive.",
+        "Parer les quatre côtés pour que la pièce entre dans le moule.",
+        "Trancher droit du haut ; arrivé près du bas et quand l'écart égale l'épaisseur d'une tranche, retourner et continuer de l'autre côté sans couper jusqu'au bout, pour que les tranches restent reliées en tour.",
+        "Préparer la sauce : 200 g de sauce hoisin plus 50 g de sauce de tofu fermenté rouge pour la couleur et l'arôme, détendre avec environ 30 g de vin de cuisine, puis incorporer l'ail haché.",
+        "Rincer et faire tremper les légumes moutarde confits, puis les faire sauter jusqu'à ce qu'ils soient parfumés et réserver.",
+        "Écarter les tranches et verser la sauce dans les fentes en la faisant remonter pour enrober chaque couche, dedans comme dehors.",
+        "Pousser les tranches couche par couche dans le moule pour les empiler ; retoucher les endroits manquant de sauce.",
+        "Mélanger les légumes moutarde sautés à la sauce restante, tasser au fond de la viande et bien presser pour que la tour ne s'effondre pas à la cuisson.",
+        "Couvrir hermétiquement le dessus de film alimentaire pour que la vapeur ne dilue pas la sauce.",
+        "Cuire à la vapeur environ 1 à 2 heures une fois la vapeur montée ; plus c'est long, plus c'est fondant.",
+        "Retirer le film, démouler sur une assiette et servir."
+      ],
+      "notes": [
+        "Toujours écarter les tranches et faire pénétrer la sauce dans chaque couche pour un goût identique dedans et dehors.",
+        "Bien tasser la base de légumes moutarde, sinon la tour s'affaisse à la cuisson.",
+        "À la maison, on peut renoncer à la forme en tour et cuire simplement des tranches épaisses enrobées de sauce ; c'est tout aussi bon.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

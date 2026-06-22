@@ -1,0 +1,264 @@
+{
+  "id": "sichuan-boiled-beef",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=VRENTjQVqgc",
+  "ingredientKeys": [
+    "beef",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "doubanjiang",
+    "garlic",
+    "scallion",
+    "ginger",
+    "egg",
+    "cornstarch",
+    "edible-alkali",
+    "scallion-ginger-water",
+    "salt",
+    "dark-soy-sauce",
+    "light-soy-sauce",
+    "white-pepper",
+    "msg",
+    "sugar",
+    "sesame-seeds"
+  ],
+  "translations": {
+    "cn": {
+      "title": "水煮牛肉",
+      "ingredients": [
+        {
+          "name": "牛外脊"
+        },
+        {
+          "name": "干辣椒"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "豆瓣酱"
+        },
+        {
+          "name": "蒜末"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜末"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "食用碱"
+        },
+        {
+          "name": "葱姜水"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "生抽"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "糖"
+        },
+        {
+          "name": "芝麻"
+        }
+      ],
+      "steps": [
+        "牛外脊去掉表面的筋，顶丝（垂直纹路）切断肉纤维，切成约1毫米厚的大片，肉冻硬一点更好切。",
+        "腌肉：加盐、味精、少许老抽上色、食用碱嫩肉，用手按摩抓匀，到有点粘稠劲。",
+        "分次少量加葱姜水打进去（约一斤肉打二两多），既嫩肉又去碱味。",
+        "打入一个全蛋，蛋黄的脂肪让肉更嫩，鸡蛋一定要打匀。",
+        "加淀粉（用水稀释）抓匀上浆，到肉表面挂一层淀粉、颜色稍浅，加点老抽调色，表面封一层油防干。",
+        "干辣椒条用手攥碎；干净锅不放油，先小火把辣椒碎炒香盛出，再把花椒炒干盛出磨成花椒面。",
+        "锅里加底油，放点花椒炸香后捞出（炸花椒和花椒面是复合香味）。",
+        "下豆瓣酱炒香（要不停搅动防止糊锅），再下蒜末、葱、姜末炒香（留一点蒜末葱花最后激油用）。",
+        "倒入辣椒碎炒香，加水，加花椒面、生抽，关小火，加胡椒粉、味精、糖，尝味。",
+        "全程大火，慢慢下肉片，等汤开，下完不开稍等一下，煮熟后盛入盆中。",
+        "面上撒花椒面、辣椒碎、葱花、蒜末，另起锅烧干净油到六七成热冒烟，浇在上面。",
+        "最后撒点芝麻，上菜。"
+      ],
+      "notes": [
+        "选瘦肉多、筋少的牛外脊，和牛最好；务必顶丝切断纤维才好嚼。",
+        "腌肉打水后加蛋、上浆、封油，是牛肉又嫩又不柴的关键。",
+        "水和牛肉的比例见视频片尾，按比例增减。"
+      ]
+    },
+    "en": {
+      "title": "Sichuan Boiled Beef in Chili Oil",
+      "ingredients": [
+        {
+          "name": "Beef striploin"
+        },
+        {
+          "name": "Dried chili peppers"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Doubanjiang"
+        },
+        {
+          "name": "Minced garlic"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Minced ginger"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Edible alkali"
+        },
+        {
+          "name": "Scallion ginger water"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Light soy sauce"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Sesame seeds"
+        }
+      ],
+      "steps": [
+        "Trim the surface tendon from the beef striploin, slice against the grain to cut the muscle fibers, into large slices about 1 mm thick (partly frozen meat is easier to slice).",
+        "Marinate the beef: add salt, MSG, a little dark soy sauce for color, and edible alkali to tenderize, then massage and mix by hand until slightly sticky.",
+        "Beat in scallion-ginger water a little at a time (about 125 g per 500 g of meat), which both tenderizes and removes the alkaline taste.",
+        "Beat in one whole egg; the fat in the yolk makes the meat more tender, and make sure the egg is fully mixed in.",
+        "Add cornstarch (thinned with water) and mix to coat, until the surface carries a layer of starch and looks slightly pale; add a little dark soy sauce for color and seal the surface with a thin film of oil to keep it from drying.",
+        "Crush the dried chili by hand; in a clean dry wok with no oil, fry the crushed chili over low heat until fragrant and remove, then dry-fry the Sichuan peppercorns and grind them into powder.",
+        "Add a little oil to the wok, fry some peppercorns until fragrant and remove them (fried peppercorns plus the powder give a layered aroma).",
+        "Add the doubanjiang and fry until fragrant (stir constantly to prevent scorching), then add the minced garlic, scallion, and minced ginger and fry until fragrant (reserve a little garlic and scallion for the final oil drizzle).",
+        "Add the crushed chili and fry until fragrant, add water, then add the peppercorn powder and light soy sauce, lower the heat, add white pepper, MSG, and sugar, and taste.",
+        "Keep the heat high and lower the beef slices in slowly; wait for the broth to boil, and if it doesn't right away, wait a moment, then cook through and transfer to a bowl.",
+        "Top with peppercorn powder, crushed chili, chopped scallion, and minced garlic; heat clean oil in another pan to about 60-70% hot until smoking, and pour it over.",
+        "Finish with a sprinkle of sesame seeds and serve."
+      ],
+      "notes": [
+        "Choose lean, low-tendon beef striploin, ideally wagyu; you must slice against the grain to cut the fibers for tender bites.",
+        "Beating in water, then adding egg, coating with starch, and sealing with oil are the keys to tender, never-tough beef.",
+        "The water-to-beef ratio is shown on the video's end screen; scale to taste."
+      ]
+    },
+    "fr": {
+      "title": "Boeuf Bouilli à la Sichuanaise dans l'Huile Pimentée",
+      "ingredients": [
+        {
+          "name": "Faux-filet de boeuf"
+        },
+        {
+          "name": "Piments séchés"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Doubanjiang"
+        },
+        {
+          "name": "Ail haché"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre haché"
+        },
+        {
+          "name": "Oeuf"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Alcali alimentaire"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Sauce soja claire"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Graines de sésame"
+        }
+      ],
+      "steps": [
+        "Parer le tendon de surface du faux-filet, trancher dans le sens contraire des fibres pour les couper, en grandes tranches d'environ 1 mm d'épaisseur (la viande à demi congelée se tranche plus facilement).",
+        "Mariner le boeuf : ajouter du sel, du glutamate, un peu de sauce soja foncée pour la couleur et de l'alcali alimentaire pour attendrir, puis masser et mélanger à la main jusqu'à ce que ce soit légèrement collant.",
+        "Incorporer l'eau de ciboule et gingembre peu à peu (environ 125 g pour 500 g de viande), ce qui attendrit et ôte le goût d'alcali.",
+        "Incorporer un oeuf entier ; le gras du jaune rend la viande plus tendre, et bien mélanger l'oeuf.",
+        "Ajouter la fécule (diluée à l'eau) et mélanger pour enrober, jusqu'à ce que la surface porte une couche de fécule et paraisse légèrement pâle ; ajouter un peu de sauce soja foncée pour la couleur et sceller la surface d'un mince film d'huile pour éviter qu'elle ne sèche.",
+        "Écraser les piments séchés à la main ; dans un wok propre et sec sans huile, faire revenir les piments écrasés à feu doux jusqu'à ce que ce soit parfumé puis retirer, puis griller à sec le poivre du Sichuan et le moudre en poudre.",
+        "Ajouter un peu d'huile dans le wok, faire revenir un peu de poivre du Sichuan jusqu'à ce que ce soit parfumé puis le retirer (le poivre frit plus la poudre donnent un arôme en couches).",
+        "Ajouter le doubanjiang et faire revenir jusqu'à ce que ce soit parfumé (remuer sans cesse pour éviter qu'il n'attache), puis ajouter l'ail haché, la ciboule et le gingembre haché et faire revenir (réserver un peu d'ail et de ciboule pour l'huile finale).",
+        "Ajouter les piments écrasés et faire revenir jusqu'à ce que ce soit parfumé, ajouter de l'eau, puis la poudre de poivre et la sauce soja claire, baisser le feu, ajouter le poivre blanc, le glutamate et le sucre, et goûter.",
+        "Garder un feu vif et plonger les tranches de boeuf lentement ; attendre que le bouillon bout, et s'il ne bout pas tout de suite, attendre un instant, puis cuire à coeur et transférer dans un bol.",
+        "Garnir de poudre de poivre, de piments écrasés, de ciboule ciselée et d'ail haché ; chauffer de l'huile propre dans une autre poêle à environ 60-70 % jusqu'à fumer, et la verser dessus.",
+        "Finir d'une pincée de graines de sésame et servir."
+      ],
+      "notes": [
+        "Choisir un faux-filet maigre et peu nerveux, idéalement du wagyu ; trancher impérativement dans le sens contraire des fibres pour des bouchées tendres.",
+        "Incorporer de l'eau, puis l'oeuf, enrober de fécule et sceller d'huile sont les clés d'un boeuf tendre et jamais sec.",
+        "Le rapport eau/boeuf est indiqué à la fin de la vidéo ; ajuster selon le goût."
+      ]
+    }
+  }
+}

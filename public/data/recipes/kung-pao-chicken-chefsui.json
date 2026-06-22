@@ -1,0 +1,150 @@
+{
+  "id": "kung-pao-chicken-chefsui",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=KFZX7VRN_oY",
+  "ingredientKeys": [
+    "chicken-drumstick",
+    "peanuts",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "scallion",
+    "ginger",
+    "garlic",
+    "salt",
+    "white-pepper",
+    "scallion-ginger-water",
+    "cornstarch",
+    "sugar",
+    "vinegar",
+    "cooking-wine",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "chili-powder",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "宫保鸡丁（峨眉酒家版）",
+      "ingredients": [
+        { "name": "鸡腿肉" },
+        { "name": "花生米" },
+        { "name": "干辣椒" },
+        { "name": "花椒" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "盐" },
+        { "name": "胡椒粉" },
+        { "name": "葱姜水" },
+        { "name": "淀粉" },
+        { "name": "白糖" },
+        { "name": "醋" },
+        { "name": "料酒" },
+        { "name": "酱油" },
+        { "name": "老抽" },
+        { "name": "辣椒面" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "整鸡取两个鸡腿，去骨，剞十字花刀后切成约2.5到3厘米的丁。",
+        "鸡丁先加盐和胡椒粉，再分次打入葱姜水（约一斤肉二两水），抓到发粘。",
+        "加少量淀粉抓匀，表面挂一层薄薄的浆，再封一点油。",
+        "调碗芡：白糖、醋、料酒、酱油、老抽、水淀粉调匀备用。",
+        "花生米用热水烫后去皮，凉油下锅炸至微黄，捞到吸油纸上控油。",
+        "锅留底油，下花椒小火炸到将糊时捞出，再下干辣椒炸成棕红色捞出。",
+        "下上浆的鸡丁滑炒，使花椒、辣椒的味道煸进鸡肉里。",
+        "鸡肉变色后放入姜蒜炒香，倒入辣椒面上色。",
+        "下葱段，倒入碗芡，开大火快速翻炒，不能久炒以免醋味挥发。",
+        "倒入花生米炒到粘稠，最后下回炸好的干辣椒，翻匀出锅。"
+      ],
+      "notes": [
+        "腌肉一定要先加盐再加葱姜水，盐能帮助肉吸住水分。",
+        "干辣椒最后放，吃起来才脆；碗芡入锅后要大火快炒锁住醋香。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Kung Pao Chicken (Emei Restaurant Style)",
+      "ingredients": [
+        { "name": "Chicken leg meat" },
+        { "name": "Peanuts" },
+        { "name": "Dried chili peppers" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "Scallion ginger water" },
+        { "name": "Cornstarch" },
+        { "name": "Sugar" },
+        { "name": "Vinegar" },
+        { "name": "Cooking wine" },
+        { "name": "Soy sauce" },
+        { "name": "Dark soy sauce" },
+        { "name": "Chili powder" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Bone two chicken legs, score them in a crosshatch, then cut into roughly 2.5-3 cm dice.",
+        "Season the chicken with salt and white pepper first, then beat in scallion-ginger water in batches (about 100g water per 500g meat) until sticky.",
+        "Mix in a little cornstarch to coat with a thin layer of slurry, then seal with a little oil.",
+        "Prepare the sauce: combine sugar, vinegar, cooking wine, soy sauce, dark soy sauce, and cornstarch slurry; set aside.",
+        "Blanch peanuts in hot water and peel, then fry from cold oil until lightly golden; drain on paper.",
+        "Leaving base oil in the wok, fry Sichuan peppercorns over low heat until nearly scorched and remove, then fry dried chilies to a brown-red and remove.",
+        "Add the coated chicken and stir-fry so the peppercorn and chili flavors are absorbed into the meat.",
+        "Once the chicken changes color, add ginger and garlic and stir-fry, then add chili powder for color.",
+        "Add the scallion pieces, pour in the sauce, and stir-fry quickly over high heat - do not cook long or the vinegar aroma will evaporate.",
+        "Add the peanuts and toss until thickened, finally return the fried dried chilies, mix well, and serve."
+      ],
+      "notes": [
+        "Always salt the meat before adding scallion-ginger water - salt helps the meat hold the water.",
+        "Add dried chilies at the very end so they stay crisp; once the sauce hits the wok, stir-fry fast over high heat to lock in the vinegar aroma.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poulet Kung Pao (Style Restaurant Emei)",
+      "ingredients": [
+        { "name": "Chair de cuisse de poulet" },
+        { "name": "Cacahuètes" },
+        { "name": "Piments séchés" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Eau de ciboule et gingembre" },
+        { "name": "Fécule de maïs" },
+        { "name": "Sucre" },
+        { "name": "Vinaigre" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sauce soja" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Poudre de piment" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Désossez deux cuisses de poulet, incisez-les en croisillons, puis coupez en dés d'environ 2,5 à 3 cm.",
+        "Assaisonnez d'abord le poulet de sel et de poivre blanc, puis incorporez l'eau de ciboule-gingembre en plusieurs fois (environ 100 g d'eau pour 500 g de viande) jusqu'à ce que ce soit collant.",
+        "Mélangez un peu de fécule pour enrober d'une fine couche, puis scellez avec un peu d'huile.",
+        "Préparez la sauce : mélangez sucre, vinaigre, vin de cuisine, sauce soja, sauce soja foncée et liaison à la fécule ; réservez.",
+        "Blanchissez les cacahuètes à l'eau chaude et pelez-les, puis faites-les frire à partir d'huile froide jusqu'à légèrement dorées ; égouttez sur papier.",
+        "En laissant un fond d'huile dans le wok, faites frire le poivre du Sichuan à feu doux jusqu'à presque brûlé et retirez, puis faites frire les piments séchés jusqu'à brun-rouge et retirez.",
+        "Ajoutez le poulet enrobé et faites sauter pour que les saveurs du poivre et du piment imprègnent la viande.",
+        "Quand le poulet a changé de couleur, ajoutez gingembre et ail et faites sauter, puis ajoutez la poudre de piment pour la couleur.",
+        "Ajoutez les morceaux de ciboule, versez la sauce et faites sauter rapidement à feu vif - ne cuisez pas longtemps sinon l'arôme du vinaigre s'évapore.",
+        "Ajoutez les cacahuètes et remuez jusqu'à épaississement, remettez enfin les piments séchés frits, mélangez bien et servez."
+      ],
+      "notes": [
+        "Salez toujours la viande avant d'ajouter l'eau de ciboule-gingembre - le sel aide la viande à retenir l'eau.",
+        "Ajoutez les piments séchés à la toute fin pour qu'ils restent croustillants ; dès que la sauce entre dans le wok, faites sauter vite à feu vif pour fixer l'arôme du vinaigre.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

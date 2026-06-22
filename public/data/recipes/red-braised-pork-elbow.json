@@ -1,0 +1,118 @@
+{
+  "id": "red-braised-pork-elbow",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=hfeitYYdVws",
+  "ingredientKeys": [
+    "pig-trotter",
+    "rock-sugar",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "cooking-wine",
+    "salt",
+    "msg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红烧肘子",
+      "ingredients": [
+        { "name": "猪前肘" },
+        { "name": "冰糖" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料（八角）" },
+        { "name": "生抽" },
+        { "name": "老抽" },
+        { "name": "花雕酒" },
+        { "name": "盐" },
+        { "name": "味精" }
+      ],
+      "steps": [
+        "选一个猪前肘，把表面的毛处理干净，改刀：沿着上圈把肉切断，刀贴着骨头尽量往里伸，慢慢转着把肉与骨头剥离，两头都开口便于入味。",
+        "把肘子冷水下锅焯水，加点料酒，烧开后撇去浮沫，煮三五分钟后捞出。",
+        "炒锅烧热用油润一遍（炒糖色易粘锅），留底油下冰糖，可加少量水帮助融化。",
+        "小火慢炒糖色，看边上冒烟就关小火，快凝固就开大火，炒到浅枣红色、无白色颗粒时烹入热水（一定要热水），大火烧开。",
+        "把炒好的糖色倒入高压锅。",
+        "另起锅煸香葱姜和大料，烹一勺生抽，倒入锅中，加盐、冰糖、花雕酒、味精。",
+        "把焯过水的肘子放入高压锅，先大火滚一会儿再盖盖（急着盖盖颜色容易不准），颜色浅可补点老抽。",
+        "盖盖上汽后转小火压90分钟，用筷子能轻松插透即熟。",
+        "关火后焖一会儿让味道渗透，再开火稍微收汁，淋在肘子上。",
+        "装盘后另起锅取汤汁勾芡，再补一点花雕酒补酒香，大火烧开转小火边下边搅，淋成略透明的芡汁浇在肘子上。"
+      ],
+      "notes": [
+        "酒分两次加：焯水时去腥，收汁时补酒香。",
+        "成品是甜咸口，糖的量要稍大一点以平衡糖色的微苦。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Red-Braised Pork Elbow",
+      "ingredients": [
+        { "name": "Front pork knuckle" },
+        { "name": "Rock sugar" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Light soy sauce" },
+        { "name": "Dark soy sauce" },
+        { "name": "Shaoxing wine" },
+        { "name": "Salt" },
+        { "name": "MSG" }
+      ],
+      "steps": [
+        "Pick a front pork knuckle, clean off surface hairs, then debone: cut around the top, slide the knife along the bone as deep as possible, slowly turning to separate meat from bone, leaving both ends open so it absorbs flavor.",
+        "Blanch the knuckle from cold water with a splash of cooking wine; once boiling, skim the foam, simmer 3-5 minutes, then remove.",
+        "Heat a wok and wipe it with oil (caramel sticks easily); leave a little oil, add rock sugar and a touch of water to help it melt.",
+        "Cook the caramel over low heat: lower the heat when the edges smoke, raise it when it starts to set; once it turns light reddish-brown with no white lumps, pour in hot water (must be hot, cold water will splatter) and bring to a boil.",
+        "Pour the caramel into a pressure cooker.",
+        "In another pan, fry scallion, ginger, and star anise until golden, splash in a spoon of light soy sauce, then add to the pot along with salt, rock sugar, Shaoxing wine, and MSG.",
+        "Add the blanched knuckle, let it boil uncovered for a moment before sealing the lid (sealing too soon throws off the color); top up with dark soy sauce if the color is too light.",
+        "Once steaming, reduce to low and pressure-cook for 90 minutes, until a chopstick passes through easily.",
+        "Turn off the heat and let it rest so the flavor penetrates, then reheat to reduce the sauce slightly and baste the knuckle.",
+        "Plate it, then take the braising liquid in a pan, thicken with a starch slurry, add a little more Shaoxing wine for aroma, bring to a boil, lower the heat, stir while adding, and pour the glossy glaze over the knuckle."
+      ],
+      "notes": [
+        "Add wine twice: first when blanching to remove odor, again when finishing to restore aroma.",
+        "The dish is sweet-savory; use slightly more sugar to balance the faint bitterness of the caramel.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Jarret de Porc Braisé en Sauce Rouge",
+      "ingredients": [
+        { "name": "Jarret de porc avant" },
+        { "name": "Sucre candi" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Sauce soja claire" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Vin de Shaoxing" },
+        { "name": "Sel" },
+        { "name": "Glutamate" }
+      ],
+      "steps": [
+        "Choisir un jarret de porc avant, nettoyer les poils en surface, puis désosser : couper autour du haut, glisser le couteau le long de l'os le plus profond possible en tournant lentement pour séparer la viande de l'os, en laissant les deux extrémités ouvertes pour mieux s'imprégner.",
+        "Blanchir le jarret à l'eau froide avec un trait de vin de cuisine ; à ébullition, écumer, laisser mijoter 3 à 5 minutes, puis retirer.",
+        "Chauffer un wok et l'essuyer d'huile (le caramel attache facilement) ; laisser un peu d'huile, ajouter le sucre candi et un peu d'eau pour aider à le faire fondre.",
+        "Cuire le caramel à feu doux : baisser le feu quand les bords fument, l'augmenter quand il commence à figer ; lorsqu'il devient brun rougeâtre clair sans grumeaux blancs, verser de l'eau chaude (obligatoirement chaude, l'eau froide éclabousse) et porter à ébullition.",
+        "Verser le caramel dans une cocotte-minute.",
+        "Dans une autre poêle, faire revenir ciboule, gingembre et anis étoilé jusqu'à coloration dorée, ajouter une cuillère de sauce soja claire, puis verser dans la cocotte avec le sel, le sucre candi, le vin de Shaoxing et le glutamate.",
+        "Ajouter le jarret blanchi, le laisser bouillir à découvert un instant avant de fermer le couvercle (fermer trop tôt fausse la couleur) ; compléter avec de la sauce soja foncée si la couleur est trop claire.",
+        "Une fois sous pression, réduire à feu doux et cuire 90 minutes, jusqu'à ce qu'une baguette traverse facilement.",
+        "Éteindre le feu et laisser reposer pour que la saveur pénètre, puis réchauffer pour réduire légèrement la sauce et en arroser le jarret.",
+        "Dresser, puis prendre le jus de braisage dans une poêle, lier avec un peu de fécule, ajouter un peu de vin de Shaoxing pour l'arôme, porter à ébullition, baisser le feu, remuer en versant, et napper le jarret de ce glaçage brillant."
+      ],
+      "notes": [
+        "Ajouter le vin en deux fois : d'abord au blanchiment pour ôter l'odeur, puis à la fin pour relever l'arôme.",
+        "Le plat est sucré-salé ; utiliser un peu plus de sucre pour équilibrer la légère amertume du caramel.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": "cross-bridge-spare-ribs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=Z71U7UWyzX0",
+  "ingredientKeys": [
+    "pork-ribs",
+    "scallion",
+    "ginger",
+    "sichuan-peppercorn",
+    "star-anise",
+    "cinnamon-bark",
+    "light-soy-sauce",
+    "salt",
+    "lard",
+    "garlic",
+    "chili-pepper",
+    "onion",
+    "garlic-scapes",
+    "la-xian-lu"
+  ],
+  "translations": {
+    "cn": {
+      "title": "过桥排骨",
+      "ingredients": [
+        {
+          "name": "猪排骨"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "大料"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "猪油"
+        },
+        {
+          "name": "大蒜"
+        },
+        {
+          "name": "辣椒"
+        },
+        {
+          "name": "洋葱"
+        },
+        {
+          "name": "蒜苔"
+        },
+        {
+          "name": "辣鲜露"
+        }
+      ],
+      "steps": [
+        "让肉摊给三根相连、整根不剁的猪排骨。买回家用葱姜泡洗去腥。",
+        "锅里烧水，加葱、姜、花椒、大料、桂皮（桂皮一定少放，容易抢味），排骨放入。",
+        "加点酱油上色调成浅红色，再少放点盐提前进底味，尝味后大火烧开转小火炖约50到80分钟至软透。",
+        "取出排骨晾一晾，把脆骨取下，沿骨把肉划开使肉与骨分离，整块肉取下来。",
+        "锅烧热下猪油，放大蒜煸黄出香，加辣椒、洋葱炒香，放入蒜苔。",
+        "加入水、辣鲜露和少许鲜味酱油调味，尝味调好。",
+        "把取出的整块肉放进去稍微微一下入味，中火烧约一分钟。",
+        "把肉放案板改刀，脆骨垫在下边，再把改好的排骨摆回原处归回原样。",
+        "把炒好的料汁浇在排骨上即可。"
+      ],
+      "notes": [
+        "排骨煮时就加盐进底味，吃着才厚重有回味。",
+        "桂皮容易抢味，一定要少放。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Cross-Bridge Spare Ribs",
+      "ingredients": [
+        {
+          "name": "Pork spare ribs"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Cinnamon bark"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Lard"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Chili peppers"
+        },
+        {
+          "name": "Onion"
+        },
+        {
+          "name": "Garlic scapes"
+        },
+        {
+          "name": "La Xian Lu (savory chili soy seasoning)"
+        }
+      ],
+      "steps": [
+        "Ask the butcher for a slab of three connected ribs, left whole and uncut. Rinse at home and soak with scallion and ginger to remove odor.",
+        "Bring water to a boil with scallion, ginger, Sichuan peppercorns, star anise, and cinnamon bark (use little cinnamon, as it easily overpowers). Add the ribs.",
+        "Add a little soy sauce to tint the broth a pale red, plus a little salt to season the meat early. Taste, then bring to a boil and simmer over low heat for 50 to 80 minutes until tender.",
+        "Remove the ribs and let cool. Detach the soft cartilage, slice the meat away along the bone to separate it, and lift off the whole slab of meat.",
+        "Heat lard in a wok, fry the garlic until golden and fragrant, add chili peppers and onion, then add the garlic scapes.",
+        "Add water, la xian lu, and a little soy sauce. Taste and adjust the seasoning.",
+        "Add the slab of meat and simmer over medium heat for about a minute to absorb the flavor.",
+        "Place the meat on a board and slice it, lay the cartilage underneath, then reassemble the cut ribs back into their original shape.",
+        "Pour the cooked sauce over the ribs and serve."
+      ],
+      "notes": [
+        "Salt the ribs while boiling so the flavor runs deep with a lasting savor.",
+        "Cinnamon bark easily overpowers, so use only a little.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Travers de Porc \"Pont Traversé\"",
+      "ingredients": [
+        {
+          "name": "Travers de porc"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Saindoux"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Piments"
+        },
+        {
+          "name": "Oignon"
+        },
+        {
+          "name": "Tiges d'ail"
+        },
+        {
+          "name": "La Xian Lu (assaisonnement soja pimenté)"
+        }
+      ],
+      "steps": [
+        "Demander au boucher une pièce de trois côtes attenantes, entières et non coupées. Rincer à la maison et faire tremper avec ciboule et gingembre pour ôter l'odeur.",
+        "Porter de l'eau à ébullition avec ciboule, gingembre, poivre du Sichuan, anis étoilé et écorce de cannelle (peu de cannelle, car elle domine vite). Ajouter les côtes.",
+        "Ajouter un peu de sauce soja pour teinter le bouillon en rouge pâle, et un peu de sel pour assaisonner tôt la viande. Goûter, puis porter à ébullition et mijoter à feu doux 50 à 80 minutes jusqu'à tendreté.",
+        "Retirer les côtes et laisser refroidir. Détacher le cartilage mou, trancher la viande le long de l'os pour la séparer, et soulever le pavé de viande entier.",
+        "Chauffer le saindoux dans un wok, faire revenir l'ail jusqu'à doré et parfumé, ajouter piments et oignon, puis les tiges d'ail.",
+        "Ajouter de l'eau, le la xian lu et un peu de sauce soja. Goûter et rectifier l'assaisonnement.",
+        "Ajouter le pavé de viande et mijoter à feu moyen environ une minute pour qu'il s'imprègne.",
+        "Poser la viande sur une planche et la trancher, placer le cartilage dessous, puis remonter les côtes coupées dans leur forme d'origine.",
+        "Verser la sauce cuite sur les côtes et servir."
+      ],
+      "notes": [
+        "Saler les côtes pendant l'ébullition pour une saveur profonde et persistante.",
+        "L'écorce de cannelle domine facilement, n'en mettre qu'un peu.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

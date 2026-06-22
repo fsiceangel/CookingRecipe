@@ -1,0 +1,132 @@
+{
+  "id": "black-powder-fried-chicken",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=rK0mQ34sIWU",
+  "ingredientKeys": [
+    "chicken",
+    "onion",
+    "cilantro",
+    "garlic",
+    "chili-pepper",
+    "ginger",
+    "salt",
+    "msg",
+    "flour",
+    "cornstarch",
+    "baking-powder",
+    "bamboo-charcoal-powder",
+    "dragon-fruit",
+    "honey",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "黑粉炸鸡",
+      "ingredients": [
+        { "name": "鸡腿（鸡翅也可）" },
+        { "name": "洋葱" },
+        { "name": "香菜" },
+        { "name": "蒜" },
+        { "name": "辣椒" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "面粉" },
+        { "name": "生粉" },
+        { "name": "泡打粉" },
+        { "name": "竹炭粉" },
+        { "name": "火龙果" },
+        { "name": "蜂蜜" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "鸡腿沿骨破开，表面划几刀便于入味。",
+        "洋葱、香菜、蒜、辣椒、姜加水用破壁机打碎成蒜汁（没有破壁机可剁碎后用手挤汁）。",
+        "把鸡腿放盆里，倒入蒜汁，加盐、味精拌匀，腌制：急吃口味咸点腌两小时；隔夜吃则淡一点腌一小时腌透。",
+        "调脆浆糊：面粉、生粉、泡打粉，再加竹炭粉（一放就变黑），搅匀。",
+        "少量多次加水，把所有疙瘩搅开，再淋入油拌到油和糊完全融合，放一旁饧着。",
+        "做蘸汁：红心火龙果加辣椒打/拌碎，加蜂蜜调成甜辣果汁味。",
+        "腌好的鸡腿拍上薄薄一层淀粉，再裹一层黑脆浆。",
+        "油烧到五成热，下鸡腿炸至表面定型后转中火轻炸。",
+        "炸熟后捞出，浇上火龙果辣酱即可（外壳酥脆，里面鸡肉鲜嫩）。"
+      ],
+      "notes": [
+        "竹炭粉一放糊就变黑，是这道菜'黑'的来源；浆糊里加油能让外壳更脆。",
+        "料放得不多，鸡肉本味更突出。腌料和脆浆的具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Black-Powder Fried Chicken",
+      "ingredients": [
+        { "name": "Chicken legs (wings also work)" },
+        { "name": "Onion" },
+        { "name": "Cilantro" },
+        { "name": "Garlic" },
+        { "name": "Chili" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Flour" },
+        { "name": "Cornstarch" },
+        { "name": "Baking powder" },
+        { "name": "Bamboo charcoal powder" },
+        { "name": "Dragon fruit" },
+        { "name": "Honey" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Cut the chicken legs open along the bone and score the surface a few times so they take on flavor.",
+        "Blitz the onion, cilantro, garlic, chili, and ginger with water in a blender into a savory marinade (no blender — chop fine, then squeeze out the juice by hand).",
+        "Put the chicken in a bowl, pour in the marinade, add salt and MSG, and mix; to eat soon, season saltier and marinate two hours; for next-day eating, keep it lighter and marinate one hour until well soaked.",
+        "Make the crispy batter: flour, cornstarch, and baking powder, then add bamboo charcoal powder (it turns black at once); mix.",
+        "Add water a little at a time, breaking up all the lumps, then drizzle in oil and mix until the oil and batter fully combine; set aside to rest.",
+        "Make the dipping sauce: blend/mash red dragon fruit with chili, then add honey for a sweet-and-spicy fruit flavor.",
+        "Dust the marinated chicken with a thin layer of cornstarch, then coat in the black crispy batter.",
+        "Heat oil to about 50% hot, lower in the chicken, and once the surface sets, reduce to medium heat and fry gently.",
+        "When cooked through, remove and spoon over the dragon-fruit chili sauce (crisp shell, tender juicy chicken inside)."
+      ],
+      "notes": [
+        "Bamboo charcoal powder turns the batter black the moment it's added — that's where the dish's color comes from; oil in the batter makes the crust crispier.",
+        "Not much seasoning is used so the chicken's own flavor stands out. Exact marinade and batter ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poulet Frit à la Poudre Noire",
+      "ingredients": [
+        { "name": "Cuisses de poulet (les ailes conviennent aussi)" },
+        { "name": "Oignon" },
+        { "name": "Coriandre" },
+        { "name": "Ail" },
+        { "name": "Piment" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Farine" },
+        { "name": "Fécule" },
+        { "name": "Levure chimique" },
+        { "name": "Poudre de charbon de bambou" },
+        { "name": "Fruit du dragon" },
+        { "name": "Miel" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Ouvrir les cuisses de poulet le long de l'os et inciser la surface à quelques reprises pour qu'elles s'imprègnent de goût.",
+        "Mixer l'oignon, la coriandre, l'ail, le piment et le gingembre avec de l'eau au blender pour obtenir une marinade savoureuse (sans blender — hacher fin, puis presser le jus à la main).",
+        "Mettre le poulet dans un saladier, verser la marinade, ajouter sel et glutamate, et mélanger ; pour manger vite, saler davantage et mariner deux heures ; pour le lendemain, plus léger et mariner une heure bien à fond.",
+        "Préparer la pâte croustillante : farine, fécule et levure chimique, puis ajouter la poudre de charbon de bambou (elle noircit aussitôt) ; mélanger.",
+        "Ajouter l'eau petit à petit en défaisant tous les grumeaux, puis verser un filet d'huile et mélanger jusqu'à ce que l'huile et la pâte s'unissent ; réserver pour reposer.",
+        "Préparer la sauce : mixer/écraser le fruit du dragon rouge avec du piment, puis ajouter du miel pour un goût fruité sucré-piquant.",
+        "Saupoudrer le poulet mariné d'une fine couche de fécule, puis l'enrober de la pâte noire croustillante.",
+        "Chauffer l'huile à environ 50 %, plonger le poulet, et une fois la surface figée, baisser à feu moyen et frire doucement.",
+        "Une fois cuit, égoutter et napper de la sauce au fruit du dragon et piment (croûte croustillante, poulet tendre et juteux à l'intérieur)."
+      ],
+      "notes": [
+        "La poudre de charbon de bambou noircit la pâte dès qu'on l'ajoute — c'est de là que vient la couleur du plat ; l'huile dans la pâte rend la croûte plus croustillante.",
+        "Peu d'assaisonnement est utilisé pour que la saveur propre du poulet ressorte. Les proportions exactes de marinade et de pâte sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

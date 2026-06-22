@@ -1,0 +1,182 @@
+{
+  "id": "vinegar-scrambled-eggs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=jw3En5IW5D0",
+  "ingredientKeys": [
+    "egg",
+    "chopped-salted-chili",
+    "chili-pepper",
+    "light-soy-sauce",
+    "vinegar",
+    "sugar",
+    "msg",
+    "garlic",
+    "scallion",
+    "cornstarch-slurry",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "醋炒蛋",
+      "ingredients": [
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "剁椒"
+        },
+        {
+          "name": "鲜辣椒"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "醋"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "蒜末"
+        },
+        {
+          "name": "葱花"
+        },
+        {
+          "name": "水淀粉"
+        },
+        {
+          "name": "香油"
+        }
+      ],
+      "steps": [
+        "调一个万能醋溜汁：酱油、醋、白糖、味精、水混合均匀。",
+        "鸡蛋打入碗中，不用搅，放入一半剁椒、一半鲜辣椒。",
+        "平底锅放底油，把蛋液直接倒进去，用铲子把蛋黄戳破，像煎太阳蛋一样单面煎，让辣椒在蛋里均匀分布。",
+        "先大火，底部成壳开始飘动后转小火慢慢成熟，表面蛋黄保持半流状态即可，盛入盘中。",
+        "另起锅烧油，下蒜末、葱花炒香，倒入调好的醋溜汁烧开。",
+        "稍微熬一会儿，让葱蒜的味道融进汁里。",
+        "转小火，用勺子勾芡，勾到像稠米粥的状态，淋点香油。",
+        "把汁浇到煎好的蛋上，撒上葱花即可。"
+      ],
+      "notes": [
+        "鸡蛋单面煎，底部一层薄脆壳，上面保持软嫩。",
+        "这是万能醋溜汁，也可做醋溜鱼、醋溜白菜、醋溜木耳。",
+        "具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Vinegar Scrambled Eggs",
+      "ingredients": [
+        {
+          "name": "Eggs"
+        },
+        {
+          "name": "Chopped salted chili"
+        },
+        {
+          "name": "Fresh chili pepper"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Vinegar"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Minced garlic"
+        },
+        {
+          "name": "Chopped scallion"
+        },
+        {
+          "name": "Cornstarch slurry"
+        },
+        {
+          "name": "Sesame oil"
+        }
+      ],
+      "steps": [
+        "Make an all-purpose sweet-and-sour vinegar sauce: mix soy sauce, vinegar, sugar, MSG, and water.",
+        "Crack the eggs into a bowl without beating them, then add half chopped salted chili and half fresh chili.",
+        "Add a little oil to a flat pan, pour in the eggs, break the yolks with a spatula, and fry on one side like a sunny-side-up so the chilies spread evenly through the eggs.",
+        "Start on high heat; once the bottom sets into a crust and begins to slide, lower to low heat and cook gently until the top yolks are still half-runny, then transfer to a plate.",
+        "In a separate pan, heat oil, fry the minced garlic and scallion until fragrant, then pour in the vinegar sauce and bring to a boil.",
+        "Simmer briefly so the scallion and garlic flavors blend into the sauce.",
+        "Lower the heat and thicken with cornstarch slurry, stirring with a ladle until it reaches a thick rice-porridge consistency, then drizzle in sesame oil.",
+        "Pour the sauce over the fried eggs and sprinkle with chopped scallion."
+      ],
+      "notes": [
+        "Fry the eggs on one side only so the bottom forms a thin crisp crust while the top stays soft and tender.",
+        "This all-purpose vinegar sauce also works for vinegar fish, vinegar cabbage, or vinegar wood-ear.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Oeufs Sautés au Vinaigre",
+      "ingredients": [
+        {
+          "name": "Oeufs"
+        },
+        {
+          "name": "Piment haché salé"
+        },
+        {
+          "name": "Piment frais"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Vinaigre"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Ail haché"
+        },
+        {
+          "name": "Ciboule ciselée"
+        },
+        {
+          "name": "Liaison à la fécule"
+        },
+        {
+          "name": "Huile de sésame"
+        }
+      ],
+      "steps": [
+        "Préparer une sauce aigre-douce au vinaigre tout usage : mélanger la sauce soja, le vinaigre, le sucre, le glutamate et l'eau.",
+        "Casser les oeufs dans un bol sans les battre, puis ajouter moitié piment haché salé, moitié piment frais.",
+        "Mettre un peu d'huile dans une poêle plate, y verser les oeufs, percer les jaunes avec une spatule et faire cuire d'un seul côté comme un oeuf au plat, pour que les piments se répartissent uniformément.",
+        "Commencer à feu vif ; une fois que le fond a pris en croûte et commence à glisser, baisser à feu doux et cuire doucement jusqu'à ce que les jaunes du dessus soient encore mi-coulants, puis transférer dans une assiette.",
+        "Dans une autre poêle, chauffer de l'huile, faire revenir l'ail et la ciboule jusqu'à ce qu'ils soient parfumés, puis verser la sauce au vinaigre et porter à ébullition.",
+        "Laisser mijoter brièvement pour que les saveurs de ciboule et d'ail se fondent dans la sauce.",
+        "Baisser le feu et lier avec la liaison à la fécule, en remuant à la louche jusqu'à une consistance de bouillie de riz épaisse, puis arroser d'huile de sésame.",
+        "Verser la sauce sur les oeufs frits et parsemer de ciboule ciselée."
+      ],
+      "notes": [
+        "Faire cuire les oeufs d'un seul côté pour que le fond forme une fine croûte croustillante tandis que le dessus reste moelleux.",
+        "Cette sauce au vinaigre tout usage convient aussi au poisson, au chou ou aux champignons noirs au vinaigre.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

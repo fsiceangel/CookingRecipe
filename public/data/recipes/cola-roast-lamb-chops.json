@@ -1,0 +1,211 @@
+{
+  "id": "cola-roast-lamb-chops",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=ykKjcfrP5wg",
+  "ingredientKeys": [
+    "lamb",
+    "carrot",
+    "onion",
+    "scallion",
+    "ginger",
+    "sichuan-peppercorn",
+    "water",
+    "red-yeast-rice",
+    "cola",
+    "salt",
+    "cumin",
+    "sesame-seeds",
+    "chili-crisp"
+  ],
+  "translations": {
+    "cn": {
+      "title": "烤羊排",
+      "ingredients": [
+        {
+          "name": "小羊排"
+        },
+        {
+          "name": "胡萝卜"
+        },
+        {
+          "name": "洋葱"
+        },
+        {
+          "name": "小葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "水"
+        },
+        {
+          "name": "红麴米"
+        },
+        {
+          "name": "可乐"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "孜然"
+        },
+        {
+          "name": "芝麻"
+        },
+        {
+          "name": "辣椒酥"
+        }
+      ],
+      "steps": [
+        "选1.5公斤以下的小羊排，把上端切齐摆入盘中。",
+        "胡萝卜、洋葱、小葱、姜、花椒水加水用破壁机打碎，倒入羊排里。",
+        "倒入煮好的红麴米水上色，没有可用酱油代替。",
+        "倒入可乐，汁要没过羊排：碳酸促进肉成熟，焦糖帮助上色，还能盖住红麴米的苦味。",
+        "加足盐打底味，盖盖上锅蒸100度60分钟，蒸到骨头能抽出即熟。",
+        "孜然下热锅小火炒香，再同法炒香芝麻，晾凉后擀成半粒半粉的状态。",
+        "把辣椒酥擀碎备用。",
+        "羊排蒸好捞出，放到烤盘上，清理掉表面残留的蔬菜汁，划几刀便于入味。",
+        "入烤箱220度先烤10分钟，烤掉表面水分、逼出油脂。",
+        "取出撒上孜然辣椒面，放回再烤5分钟。",
+        "出炉撒上辣椒碎、芝麻、小葱即可。"
+      ],
+      "notes": [
+        "底味一定要足，否则羊排味道飘、吃着没回味。",
+        "可乐的甜味会被红麴米的微苦中和，吃不出甜也尝不出碳酸。",
+        "具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Cola-Marinated Roast Lamb Chops",
+      "ingredients": [
+        {
+          "name": "Lamb chops"
+        },
+        {
+          "name": "Carrot"
+        },
+        {
+          "name": "Onion"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Water"
+        },
+        {
+          "name": "Red yeast rice"
+        },
+        {
+          "name": "Cola"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Cumin"
+        },
+        {
+          "name": "Sesame seeds"
+        },
+        {
+          "name": "Chili crisp"
+        }
+      ],
+      "steps": [
+        "Choose small lamb chops under 1.5kg. Trim the top edge even and lay them in a dish.",
+        "Blend carrot, onion, scallion, ginger, and Sichuan-peppercorn water with water in a blender, then pour over the lamb.",
+        "Pour in brewed red yeast rice water for color; substitute soy sauce if unavailable.",
+        "Pour in cola until it covers the lamb: the carbonation tenderizes the meat, the caramel aids browning and masks the slight bitterness of the red yeast rice.",
+        "Add plenty of salt for a base flavor, cover, and steam at 100°C for 60 minutes, until the bone pulls free.",
+        "Toast cumin in a hot pan over low heat until fragrant, toast sesame seeds the same way, cool, then crush to a half-grain, half-powder texture.",
+        "Crush the chili crisp and set aside.",
+        "Remove the steamed lamb to a baking tray, wipe off leftover vegetable juices, and score it a few times to absorb flavor.",
+        "Roast at 220°C for 10 minutes first, to dry the surface and render the fat.",
+        "Sprinkle on the cumin-chili mix and roast another 5 minutes.",
+        "Finish with crushed chili crisp, sesame seeds, and scallion."
+      ],
+      "notes": [
+        "Build a strong base seasoning, or the lamb tastes flat with no lingering flavor.",
+        "The cola's sweetness is balanced by the slight bitterness of the red yeast rice, so you taste neither sweetness nor carbonation.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Côtelettes d'Agneau Rôties au Cola",
+      "ingredients": [
+        {
+          "name": "Côtelettes d'agneau"
+        },
+        {
+          "name": "Carotte"
+        },
+        {
+          "name": "Oignon"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Eau"
+        },
+        {
+          "name": "Riz à levure rouge"
+        },
+        {
+          "name": "Cola"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Cumin"
+        },
+        {
+          "name": "Graines de sésame"
+        },
+        {
+          "name": "Chili croustillant"
+        }
+      ],
+      "steps": [
+        "Choisir de petites côtelettes d'agneau de moins de 1,5 kg. Égaliser le bord supérieur et les disposer dans un plat.",
+        "Mixer carotte, oignon, ciboule, gingembre et eau de poivre du Sichuan avec de l'eau, puis verser sur l'agneau.",
+        "Verser de l'eau de riz à levure rouge pour la couleur ; remplacer par de la sauce soja à défaut.",
+        "Verser du cola jusqu'à couvrir l'agneau : les bulles attendrissent la viande, le caramel favorise la coloration et masque la légère amertume du riz rouge.",
+        "Ajouter beaucoup de sel pour le fond de goût, couvrir et cuire à la vapeur à 100°C pendant 60 minutes, jusqu'à ce que l'os se détache.",
+        "Torréfier le cumin à feu doux jusqu'à parfum, torréfier de même les graines de sésame, laisser refroidir, puis écraser en texture mi-grain mi-poudre.",
+        "Écraser le chili croustillant et réserver.",
+        "Sortir l'agneau cuit sur une plaque, essuyer les jus de légumes restants et l'inciser pour qu'il absorbe les saveurs.",
+        "Rôtir d'abord à 220°C pendant 10 minutes pour sécher la surface et faire fondre la graisse.",
+        "Saupoudrer du mélange cumin-piment et rôtir encore 5 minutes.",
+        "Terminer avec le chili croustillant écrasé, les graines de sésame et la ciboule."
+      ],
+      "notes": [
+        "Assaisonner généreusement à la base, sinon l'agneau est fade et sans rémanence.",
+        "Le sucré du cola est équilibré par la légère amertume du riz rouge ; on ne perçoit ni sucre ni gaz.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

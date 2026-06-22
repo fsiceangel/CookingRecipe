@@ -1,0 +1,163 @@
+{
+  "id": "hot-sour-potato-shreds",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=6l2_7M2fxCI",
+  "ingredientKeys": [
+    "potato",
+    "chili-pepper",
+    "garlic",
+    "salt",
+    "msg",
+    "vinegar",
+    "aged-vinegar",
+    "cilantro",
+    "sesame-oil",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸辣土豆丝",
+      "ingredients": [
+        {
+          "name": "土豆"
+        },
+        {
+          "name": "辣椒丝"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "米醋"
+        },
+        {
+          "name": "陈醋"
+        },
+        {
+          "name": "香菜杆"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "土豆削皮，先片成薄片（脆性原料推刀上片），再切成火柴棍粗细（约1到1.5毫米）的细丝。",
+        "切好的土豆丝泡水把表面淀粉泡出一部分：喜欢绵软泡3到5分钟，喜欢清脆泡15分钟并多洗两遍。",
+        "开火锅里放油，油热后下蒜小火，再下辣椒丝煎出香味。",
+        "放入土豆丝，下锅后改大火，全程大火快炒不用关小火。",
+        "炒到土豆丝变软、变透明就差不多了，开始调味：盐、味精、米醋，再点一点点陈醋。",
+        "倒入香菜杆，淋点香油，翻匀即可出锅。"
+      ],
+      "notes": [
+        "用米醋打底再加一点陈醋，增加复合的酸味；陈醋色重不要放太多，否则菜不好看。",
+        "全程大火快炒，咸、鲜、酸要平衡，没有哪一味突出。"
+      ]
+    },
+    "en": {
+      "title": "Hot and Sour Potato Shreds",
+      "ingredients": [
+        {
+          "name": "Potato"
+        },
+        {
+          "name": "Chili pepper shreds"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Rice vinegar"
+        },
+        {
+          "name": "Aged vinegar"
+        },
+        {
+          "name": "Cilantro stems"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Peel the potatoes, first slice them thin (push-cut crisp ingredients into flat slices), then cut into shreds the thickness of a matchstick (about 1 to 1.5 mm).",
+        "Soak the potato shreds in water to rinse out some of the surface starch: 3 to 5 minutes for a softer texture, or 15 minutes plus a couple extra rinses for crisp.",
+        "Heat oil in the wok, add the garlic over low heat, then add the chili shreds and fry out their aroma.",
+        "Add the potato shreds, raise to high heat, and stir-fry fast over high heat the whole way — no need to lower it.",
+        "Once the shreds turn soft and translucent they're about done; season with salt, MSG, rice vinegar, and just a touch of aged vinegar.",
+        "Add the cilantro stems, drizzle in sesame oil, toss to combine, and serve."
+      ],
+      "notes": [
+        "Base the sourness on rice vinegar with a little aged vinegar for a more complex tang; aged vinegar is dark, so don't add too much or the dish looks muddy.",
+        "Stir-fry hot and fast throughout; salt, umami and sourness should be balanced with no single note dominating."
+      ]
+    },
+    "fr": {
+      "title": "Julienne de Pommes de Terre Aigre-Piquante",
+      "ingredients": [
+        {
+          "name": "Pomme de terre"
+        },
+        {
+          "name": "Julienne de piment"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Vinaigre de riz"
+        },
+        {
+          "name": "Vinaigre vieilli"
+        },
+        {
+          "name": "Tiges de coriandre"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Éplucher les pommes de terre, les trancher d'abord finement (couper les ingrédients croquants en tranches plates au couteau poussé), puis en julienne de l'épaisseur d'une allumette (environ 1 à 1,5 mm).",
+        "Faire tremper la julienne dans l'eau pour rincer une partie de la fécule de surface : 3 à 5 minutes pour une texture plus moelleuse, ou 15 minutes avec quelques rinçages de plus pour du croquant.",
+        "Chauffer l'huile dans le wok, ajouter l'ail à feu doux, puis la julienne de piment et en faire ressortir l'arôme.",
+        "Ajouter la julienne de pommes de terre, monter à feu vif, et faire sauter vite à feu vif du début à la fin — inutile de baisser.",
+        "Une fois la julienne tendre et translucide, c'est presque prêt ; assaisonner de sel, glutamate, vinaigre de riz et juste une pointe de vinaigre vieilli.",
+        "Ajouter les tiges de coriandre, arroser d'huile de sésame, mélanger et servir."
+      ],
+      "notes": [
+        "Baser l'acidité sur le vinaigre de riz avec un peu de vinaigre vieilli pour un goût acidulé plus complexe ; le vinaigre vieilli étant foncé, ne pas trop en mettre sinon le plat paraît terne.",
+        "Faire sauter chaud et vite tout du long ; sel, umami et acidité doivent être équilibrés, sans note dominante."
+      ]
+    }
+  }
+}

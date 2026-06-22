@@ -1,0 +1,115 @@
+{
+  "id": "cherry-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=Fc9om6UDErg",
+  "ingredientKeys": [
+    "pork-belly",
+    "red-yeast-rice",
+    "sugar",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cooking-wine",
+    "salt",
+    "vinegar",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "樱桃肉",
+      "ingredients": [
+        { "name": "猪五花肉" },
+        { "name": "红麴米" },
+        { "name": "白糖" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料" },
+        { "name": "料酒" },
+        { "name": "盐" },
+        { "name": "醋" },
+        { "name": "水" }
+      ],
+      "steps": [
+        "猪五花肉片薄一点，先切两厘米宽的条，再切成两厘米的方丁（现在看着大，做的时候会缩水）。",
+        "焯水时加入红麴米，把水煮成枣红色，下肉丁煮上一层底色，然后把红麴米捞出不要，肉捞出。",
+        "锅里倒干净油润锅，加入白糖、少烹一点水，全程中小火炒糖色，快到枣红色时立刻关小火（一秒就会变）。",
+        "下肉丁煸炒上色，同时煸出一部分油脂。",
+        "放入葱姜和四个大料瓣，烹入料酒，转大火。",
+        "第二遍加糖（去掉炒糖色的微苦，并带出酸甜味），加盐、放点醋调味。",
+        "加热水至与肉齐平，看肉已上色即可转入高压锅。",
+        "高压锅上气压十分钟；没有高压锅则小火炖三十到三十五分钟。",
+        "开盖后旺火收浓汤汁，让肉挂上亮汁即可出锅。"
+      ],
+      "notes": [
+        "红麴米只用来上色，煮出枣红色后即捞出弃掉。",
+        "炒糖色没经验时全程中小火，接近枣红色时立刻关小火，否则一秒就糊。",
+        "盐和糖的比例较重要，精确配方见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Cherry Pork",
+      "ingredients": [
+        { "name": "Pork belly" },
+        { "name": "Red yeast rice" },
+        { "name": "Sugar" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Cooking wine" },
+        { "name": "Salt" },
+        { "name": "Vinegar" },
+        { "name": "Water" }
+      ],
+      "steps": [
+        "Slice the pork belly fairly thin, cut into 2 cm wide strips, then into 2 cm cubes (they look big now but shrink during cooking).",
+        "When blanching, add red yeast rice and simmer the water to a deep jujube-red, add the pork cubes to take on a base color, then scoop out and discard the red yeast rice and lift out the pork.",
+        "Wipe the wok with clean oil, add sugar and a splash of water, and cook the caramel over medium-low heat throughout; the moment it approaches jujube-red, immediately turn the heat low (it changes in a second).",
+        "Add the pork cubes and stir-fry to color them while rendering out some of the fat.",
+        "Add scallion, ginger, and four pieces of star anise, splash in cooking wine, and turn the heat to high.",
+        "Add sugar a second time (to remove the slight bitterness from the caramel and bring out a sweet-sour note), then season with salt and a little vinegar.",
+        "Add hot water to the level of the pork; once the meat is colored, transfer to a pressure cooker.",
+        "Pressure cook for ten minutes once it builds steam; without a pressure cooker, simmer over low heat for thirty to thirty-five minutes.",
+        "Open the lid and reduce the sauce over high heat until thick and glossy and clinging to the meat, then serve."
+      ],
+      "notes": [
+        "The red yeast rice is only for color; scoop it out and discard once the water turns jujube-red.",
+        "If inexperienced with caramel, keep it on medium-low heat the whole time and cut the heat the instant it nears jujube-red, or it burns within a second.",
+        "The salt-to-sugar ratio matters; the exact recipe is shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Cerise",
+      "ingredients": [
+        { "name": "Poitrine de porc" },
+        { "name": "Riz à levure rouge" },
+        { "name": "Sucre" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sel" },
+        { "name": "Vinaigre" },
+        { "name": "Eau" }
+      ],
+      "steps": [
+        "Trancher la poitrine de porc assez finement, la couper en lanières de 2 cm, puis en dés de 2 cm (ils paraissent gros mais rétrécissent à la cuisson).",
+        "Au blanchiment, ajouter le riz à levure rouge et faire mijoter l'eau jusqu'à un rouge jujube profond, ajouter les dés de porc pour qu'ils prennent une couleur de base, puis retirer et jeter le riz rouge et sortir le porc.",
+        "Culotter le wok à l'huile propre, ajouter le sucre et un filet d'eau, et cuire le caramel à feu moyen-doux tout du long ; dès qu'il approche du rouge jujube, baisser aussitôt le feu (cela change en une seconde).",
+        "Ajouter les dés de porc et les faire sauter pour les colorer tout en faisant fondre une partie du gras.",
+        "Ajouter ciboule, gingembre et quatre morceaux d'anis étoilé, verser le vin de cuisine et monter à feu vif.",
+        "Ajouter du sucre une seconde fois (pour ôter la légère amertume du caramel et faire ressortir une note aigre-douce), puis assaisonner de sel et d'un peu de vinaigre.",
+        "Ajouter de l'eau chaude au niveau du porc ; une fois la viande colorée, transférer dans un autocuiseur.",
+        "Cuire sous pression dix minutes une fois la vapeur montée ; sans autocuiseur, mijoter à feu doux trente à trente-cinq minutes.",
+        "Ouvrir le couvercle et réduire la sauce à feu vif jusqu'à ce qu'elle soit épaisse, brillante et nappe la viande, puis servir."
+      ],
+      "notes": [
+        "Le riz à levure rouge ne sert qu'à la couleur ; le retirer et le jeter une fois l'eau devenue rouge jujube.",
+        "Si l'on manque d'expérience avec le caramel, le garder à feu moyen-doux tout le temps et couper le feu dès qu'il approche du rouge jujube, sinon il brûle en une seconde.",
+        "Le rapport sel-sucre est important ; la recette exacte est indiquée à la fin de la vidéo."
+      ]
+    }
+  }
+}

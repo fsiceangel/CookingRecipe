@@ -1,0 +1,170 @@
+{
+  "id": "mala-xiang-guo",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=c0LAocpGMTc",
+  "ingredientKeys": [
+    "sichuan-peppercorn",
+    "chili-powder",
+    "hotpot-base",
+    "hoisin-sauce",
+    "onion",
+    "scallion",
+    "garlic",
+    "ginger",
+    "oil",
+    "light-soy-sauce",
+    "potato",
+    "lotus-root",
+    "bell-pepper",
+    "corn",
+    "beef-tripe",
+    "pork-intestine",
+    "beef-balls",
+    "kelp",
+    "luncheon-meat",
+    "wood-ear-mushroom",
+    "tofu-skin",
+    "shrimp",
+    "cilantro"
+  ],
+  "translations": {
+    "cn": {
+      "title": "麻辣香锅",
+      "ingredients": [
+        { "name": "花椒和麻椒" },
+        { "name": "辣椒面" },
+        { "name": "火锅底料" },
+        { "name": "海鲜酱" },
+        { "name": "洋葱" },
+        { "name": "葱" },
+        { "name": "蒜" },
+        { "name": "姜" },
+        { "name": "油" },
+        { "name": "酱油" },
+        { "name": "土豆" },
+        { "name": "藕片" },
+        { "name": "彩椒" },
+        { "name": "玉米" },
+        { "name": "毛肚" },
+        { "name": "肥肠" },
+        { "name": "牛肉丸" },
+        { "name": "海带" },
+        { "name": "午餐肉" },
+        { "name": "木耳" },
+        { "name": "豆皮" },
+        { "name": "虾仁" },
+        { "name": "香菜" }
+      ],
+      "steps": [
+        "先做香锅酱：锅里加油，下花椒和麻椒（各一半），加洋葱小火慢炸成花椒料油，把花椒麻椒的味道全炸出来，洋葱焦黄后捞出。",
+        "小火状态下放葱花、蒜末，倒入粗辣椒面炒出香味。",
+        "倒入火锅底料，关小火炒匀（辣椒面易糊，注意理火）。",
+        "加入麻椒花椒打的粉再补一点麻味，加少量水让味道融合。",
+        "加点海鲜酱增加复合味，香锅酱即熬好出锅备用。",
+        "另起大锅，下油，放洋葱、大蒜、两片姜，全程大火，把葱蒜洋葱煸黄。",
+        "依次放入焯过水的食材：土豆、藕片、彩椒，把土豆煎到一面焦黄。",
+        "放入毛肚、肥肠、牛肉丸、海带、午餐肉、木耳、豆皮、虾仁、玉米，翻炒让食材失去一些水分。",
+        "关小火，加入熬好的香锅酱，拌匀。",
+        "加酱油炒出香味，翻炒均匀。",
+        "出锅前撒入香菜点缀，再来点蒜，盛在铺底的食材上即可。"
+      ],
+      "notes": [
+        "食材先焯水再炒，炒去水分后更能吸味，吃着重而不薄。",
+        "辣度取决于所选辣椒面的品种。调味只放了点酱油，辣椒本身的香味就足够。"
+      ]
+    },
+    "en": {
+      "title": "Mala Xiang Guo (Spicy Stir-Fry Pot)",
+      "ingredients": [
+        { "name": "Sichuan & numbing peppercorns" },
+        { "name": "Chili powder" },
+        { "name": "Hotpot base" },
+        { "name": "Hoisin sauce" },
+        { "name": "Onion" },
+        { "name": "Scallion" },
+        { "name": "Garlic" },
+        { "name": "Ginger" },
+        { "name": "Oil" },
+        { "name": "Soy sauce" },
+        { "name": "Potato" },
+        { "name": "Lotus root" },
+        { "name": "Bell pepper" },
+        { "name": "Corn" },
+        { "name": "Beef tripe" },
+        { "name": "Pork intestine" },
+        { "name": "Beef balls" },
+        { "name": "Kelp" },
+        { "name": "Luncheon meat" },
+        { "name": "Wood ear mushroom" },
+        { "name": "Tofu skin" },
+        { "name": "Shrimp" },
+        { "name": "Cilantro" }
+      ],
+      "steps": [
+        "First make the xiang guo sauce: heat oil in a wok, add Sichuan and numbing peppercorns (half and half), add onion and slowly fry over low heat into a peppercorn-infused oil, drawing out all the aroma; remove the onion once golden-brown.",
+        "Over low heat, add chopped scallion and minced garlic, then add coarse chili powder and stir-fry until fragrant.",
+        "Add the hotpot base, keep the heat low, and stir to combine (chili powder burns easily, so manage the flame).",
+        "Add ground numbing and Sichuan peppercorns for extra numbing aroma, plus a little water to blend the flavors.",
+        "Add some hoisin sauce for a more complex taste; the sauce is now done — set aside.",
+        "In a large pot, heat oil and fry onion, garlic and two slices of ginger over high heat throughout until golden.",
+        "Add the blanched ingredients in order: potato, lotus root and bell pepper, pan-frying the potato until one side is golden-brown.",
+        "Add beef tripe, pork intestine, beef balls, kelp, luncheon meat, wood ear, tofu skin, shrimp and corn, and stir-fry to cook off some moisture.",
+        "Lower the heat, add the prepared xiang guo sauce, and toss to coat.",
+        "Add soy sauce and stir-fry until fragrant, mixing evenly.",
+        "Before serving, sprinkle with cilantro and a little garlic, then pile onto a bed of base ingredients."
+      ],
+      "notes": [
+        "Blanch the ingredients first, then stir-fry; cooking off the moisture lets them absorb more flavor for a richer taste.",
+        "The spiciness depends on the type of chili powder you choose. Only a bit of soy sauce was added — the chilies provide plenty of aroma on their own."
+      ]
+    },
+    "fr": {
+      "title": "Mala Xiang Guo (Marmite Sautée Épicée)",
+      "ingredients": [
+        { "name": "Poivre du Sichuan et poivre engourdissant" },
+        { "name": "Poudre de piment" },
+        { "name": "Base de fondue chinoise" },
+        { "name": "Sauce hoisin" },
+        { "name": "Oignon" },
+        { "name": "Ciboule" },
+        { "name": "Ail" },
+        { "name": "Gingembre" },
+        { "name": "Huile" },
+        { "name": "Sauce soja" },
+        { "name": "Pomme de terre" },
+        { "name": "Racine de lotus" },
+        { "name": "Poivron" },
+        { "name": "Maïs" },
+        { "name": "Tripes de boeuf" },
+        { "name": "Intestin de porc" },
+        { "name": "Boulettes de boeuf" },
+        { "name": "Algue kombu" },
+        { "name": "Pâté de jambon" },
+        { "name": "Champignon noir" },
+        { "name": "Feuille de tofu" },
+        { "name": "Crevettes" },
+        { "name": "Coriandre" }
+      ],
+      "steps": [
+        "D'abord la sauce xiang guo : chauffer l'huile dans un wok, ajouter les poivres du Sichuan et engourdissant (moitié-moitié), ajouter l'oignon et frire lentement à feu doux pour obtenir une huile parfumée au poivre ; retirer l'oignon une fois doré.",
+        "À feu doux, ajouter la ciboule hachée et l'ail émincé, puis ajouter la poudre de piment grossière et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter la base de fondue, garder le feu doux et mélanger (la poudre de piment brûle facilement, surveiller le feu).",
+        "Ajouter des poivres engourdissant et du Sichuan moulus pour plus d'arôme engourdissant, plus un peu d'eau pour fondre les saveurs.",
+        "Ajouter un peu de sauce hoisin pour un goût plus complexe ; la sauce est prête — réserver.",
+        "Dans une grande marmite, chauffer l'huile et faire revenir l'oignon, l'ail et deux tranches de gingembre à feu vif jusqu'à coloration dorée.",
+        "Ajouter les ingrédients blanchis dans l'ordre : pomme de terre, racine de lotus et poivron, en faisant dorer une face de la pomme de terre.",
+        "Ajouter les tripes de boeuf, l'intestin de porc, les boulettes de boeuf, l'algue, le pâté de jambon, le champignon noir, la feuille de tofu, les crevettes et le maïs, et faire revenir pour évaporer un peu d'humidité.",
+        "Baisser le feu, ajouter la sauce xiang guo préparée et mélanger pour enrober.",
+        "Ajouter la sauce soja et faire revenir jusqu'à ce que ce soit parfumé, en mélangeant uniformément.",
+        "Avant de servir, parsemer de coriandre et d'un peu d'ail, puis dresser sur un lit d'ingrédients de base."
+      ],
+      "notes": [
+        "Blanchir d'abord les ingrédients, puis les faire revenir ; évaporer l'humidité leur permet d'absorber plus de saveur pour un goût plus riche.",
+        "Le piquant dépend du type de poudre de piment choisi. Seul un peu de sauce soja a été ajouté — les piments apportent assez d'arôme à eux seuls."
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "stir-roasted-lamb",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=EQdjgPgCwJw",
+  "ingredientKeys": [
+    "lamb",
+    "scallion",
+    "onion",
+    "cilantro",
+    "light-soy-sauce",
+    "sichuan-peppercorn",
+    "cinnamon-bark",
+    "cumin",
+    "white-pepper",
+    "cooking-wine",
+    "scallion-ginger-water",
+    "sesame-oil",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炒烤羊肉",
+      "ingredients": [
+        {
+          "name": "肥瘦羊肉"
+        },
+        {
+          "name": "大葱"
+        },
+        {
+          "name": "洋葱"
+        },
+        {
+          "name": "香菜"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "孜然"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "姜蒜水"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "葱油"
+        }
+      ],
+      "steps": [
+        "选肥瘦相间的羊肉，顶刀切成一两毫米的薄片。",
+        "锅里放葱油润锅，加一勺酱油、花椒、桂皮、孜然、胡椒粉。",
+        "倒入料酒，开锅后转小火慢熬约两分钟，把香料味熬进酱油里，做成复合腌肉汁，盛出晾凉。",
+        "切好的羊肉加入熬好的酱油汁，再加姜蒜水，搅拌让羊肉把水吃进去。",
+        "加入葱段、洋葱和香油，腌制约三分钟。",
+        "炒锅热锅凉油润透，烧到冒烟后倒出多余的油，只留薄薄一层。",
+        "羊肉分两锅炒，下锅后用勺子把肉摊平贴住锅底，模仿铁板让它快速成熟、少出汤。",
+        "把肉扒到锅边露出锅底，让汤汁收干，肉面出焦色。",
+        "放入大葱和香菜，翻匀即可出锅。"
+      ],
+      "notes": [
+        "三个关键：熬好复合酱油汁；炒时把肉摊平贴锅底模仿铁板；葱和香菜一定要多。",
+        "家用灶火力有限，羊肉要分两锅炒，一锅炒太多会出很多汤。",
+        "具体配料和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Stir-Roasted Lamb",
+      "ingredients": [
+        {
+          "name": "Lamb (marbled, fatty-lean)"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Onion"
+        },
+        {
+          "name": "Cilantro"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Cinnamon bark"
+        },
+        {
+          "name": "Cumin"
+        },
+        {
+          "name": "Ground white pepper"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Scallion-ginger water"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Scallion oil"
+        }
+      ],
+      "steps": [
+        "Choose marbled lamb and slice it against the grain into 1-2 mm thin slices.",
+        "Coat the wok with scallion oil, then add a spoon of soy sauce, Sichuan peppercorns, cinnamon bark, cumin, and white pepper.",
+        "Add cooking wine, bring to a boil, then lower the heat and simmer about two minutes to infuse the spice flavor into the soy sauce, making a compound marinade; pour out and let cool.",
+        "Add the cooled soy marinade to the sliced lamb, then add scallion-ginger water and stir so the lamb absorbs the liquid.",
+        "Add scallion segments, onion, and sesame oil, and marinate about three minutes.",
+        "Heat the wok, coat thoroughly with oil until smoking, then pour off the excess, leaving only a thin film.",
+        "Cook the lamb in two batches; once in, use a ladle to spread and press the meat flat against the pan to mimic a griddle so it cooks fast with little liquid loss.",
+        "Push the meat to the side to expose the pan bottom, let the released liquid cook off, and let the surface of the meat char.",
+        "Add scallion and cilantro, toss to combine, and serve."
+      ],
+      "notes": [
+        "Three keys: simmer a proper compound soy marinade; press the meat flat against the pan to mimic a griddle; use plenty of scallion and cilantro.",
+        "Home stoves are weak, so cook the lamb in two batches; one overloaded batch releases too much liquid.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Agneau Sauté Façon Grillé",
+      "ingredients": [
+        {
+          "name": "Agneau (persillé, gras et maigre)"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Oignon"
+        },
+        {
+          "name": "Coriandre"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Cumin"
+        },
+        {
+          "name": "Poivre blanc moulu"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Huile de ciboule"
+        }
+      ],
+      "steps": [
+        "Choisir un agneau persillé et le trancher contre le grain en fines lamelles de 1 à 2 mm.",
+        "Enduire le wok d'huile de ciboule, puis ajouter une cuillère de sauce soja, du poivre du Sichuan, de l'écorce de cannelle, du cumin et du poivre blanc.",
+        "Ajouter le vin de cuisine, porter à ébullition, puis baisser le feu et laisser mijoter environ deux minutes pour infuser les épices dans la sauce soja, formant une marinade composée; verser et laisser refroidir.",
+        "Ajouter la marinade refroidie à l'agneau tranché, puis l'eau de ciboule et gingembre, et mélanger pour que l'agneau absorbe le liquide.",
+        "Ajouter les tronçons de ciboule, l'oignon et l'huile de sésame, et laisser mariner environ trois minutes.",
+        "Chauffer le wok, l'enduire généreusement d'huile jusqu'à ce qu'elle fume, puis verser l'excédent en ne laissant qu'un film mince.",
+        "Cuire l'agneau en deux fois; une fois dedans, étaler et presser la viande à plat contre la poêle avec une louche pour imiter une plaque, afin qu'elle cuise vite en perdant peu de jus.",
+        "Pousser la viande sur le côté pour exposer le fond de la poêle, laisser le jus s'évaporer et laisser la surface de la viande caraméliser.",
+        "Ajouter la ciboule et la coriandre, mélanger et servir."
+      ],
+      "notes": [
+        "Trois clés : mijoter une vraie marinade de soja composée; presser la viande à plat contre la poêle pour imiter une plaque; mettre beaucoup de ciboule et de coriandre.",
+        "Les feux domestiques sont faibles, cuire l'agneau en deux fois; une fournée surchargée rend trop de jus.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

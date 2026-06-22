@@ -1,0 +1,129 @@
+{
+  "id": "cui-zhu-fish-flowers",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4.5,
+  "videoLink": "https://www.youtube.com/watch?v=nCT0vT8Eo9w",
+  "ingredientKeys": [
+    "grass-carp",
+    "celtuce",
+    "cornstarch",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "salt",
+    "ketchup",
+    "vinegar",
+    "sugar",
+    "garlic",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "翠珠鱼花",
+      "ingredients": [
+        { "name": "草鱼" },
+        { "name": "莴笋" },
+        { "name": "淀粉" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "料酒" },
+        { "name": "盐" },
+        { "name": "番茄酱" },
+        { "name": "白醋" },
+        { "name": "白糖" },
+        { "name": "大蒜" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "草鱼斜切去鳃，尾巴斜切修成燕尾形；从中间沿脊骨片开，去骨取两片鱼肉。",
+        "去掉胸骨，把鱼肉片成薄厚均匀的长条平片。",
+        "在鱼肉上打十字花刀：下刀稳准狠，斜片到鱼皮但不切断，再交叉打一遍。",
+        "第二片在三分之二处切断；切完后鱼肉能卷成卷，草鱼细刺也被切断。",
+        "打好花刀的鱼肉放入葱姜料酒加盐的水里泡着，入味去腥。",
+        "莴笋去皮切方块，按线削成十二面骰子形，再用小刀在每面镂空，把中间雕成一颗能活动的'玲珑球'。",
+        "腌好的鱼肉先过淀粉水，再裹干淀粉（不要用蛋清蛋黄，否则不酥脆），抖掉多余淀粉。",
+        "用竹签把鱼花别成卷固定，鱼头鱼尾也拍上淀粉，鱼嘴塞东西使其张开。",
+        "起锅烧油至五成热，下鱼花炸定型，用筷子顶成圆圈，全程大火快速定型，捞出。",
+        "复炸一遍至酥脆，竹签一转即可拧下，鱼摆盘，把莴笋玲珑球放在旁边。",
+        "做糖醋汁：锅里放油，下葱姜蒜大火炒香，放番茄酱炒匀，加白醋、白糖、大蒜泥、水、盐烧开调味。",
+        "捞出小料，把炸好的鱼回锅煮一下挂汁，少量多次煮稠，浇汁即可。"
+      ],
+      "notes": [
+        "鱼肉裹粉只用淀粉水加干淀粉，不加蛋液，炸出来才够酥脆。",
+        "草鱼细刺多，花刀切断并炸酥后即可放心食用。具体调味比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Cui Zhu Fish Flowers",
+      "ingredients": [
+        { "name": "Grass carp" },
+        { "name": "Celtuce" },
+        { "name": "Cornstarch" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Cooking wine" },
+        { "name": "Salt" },
+        { "name": "Ketchup" },
+        { "name": "White vinegar" },
+        { "name": "Sugar" },
+        { "name": "Garlic" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Cut the grass carp on a slant behind the gills; trim the tail on a slant into a swallowtail shape. Split along the backbone and fillet off the two sides, removing the bones.",
+        "Remove the rib bones and slice each fillet into an even, flat long strip.",
+        "Score a crosshatch (cross knife cuts) into the flesh: cut firmly and accurately down to but not through the skin, then cross over and score again.",
+        "On the second fillet, cut through at the two-thirds point; once scored, the flesh will curl into a roll and the fine pin bones of the grass carp are severed.",
+        "Soak the scored fish in water with scallion, ginger, cooking wine, and salt to season and remove odor.",
+        "Peel the celtuce and cut into a cube, then pare it into a twelve-sided die shape; with a paring knife hollow out each face and carve the center into a movable 'linglong ball'.",
+        "Pass the marinated fish through a cornstarch slurry, then coat in dry cornstarch (do not use egg white or yolk, or it won't be crispy); shake off the excess.",
+        "Pin the fish flowers into rolls with bamboo skewers to hold their shape; dust the head and tail with cornstarch too, and prop the mouth open.",
+        "Heat oil to about 50% hot, lower in the fish flowers to set the shape, using chopsticks to hold them into a round; keep the heat high to set quickly, then remove.",
+        "Re-fry until crisp; the skewers twist right out. Plate the fish and set the celtuce linglong balls beside it.",
+        "Make the sweet-and-sour sauce: heat oil, stir-fry scallion, ginger, and garlic over high heat until fragrant, add ketchup and stir, then add white vinegar, sugar, garlic paste, water, and salt; bring to a boil and adjust.",
+        "Remove the aromatics, return the fried fish to simmer briefly and coat in the sauce, thickening it gradually, then spoon over and serve."
+      ],
+      "notes": [
+        "Coat the fish only with cornstarch slurry plus dry cornstarch — no egg — so it fries up genuinely crisp.",
+        "Grass carp has many fine bones; the scoring severs them and frying crisps them so they are safe to eat. Exact seasoning ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Fleurs de Poisson Cui Zhu",
+      "ingredients": [
+        { "name": "Carpe herbivore" },
+        { "name": "Celtuce" },
+        { "name": "Fécule" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sel" },
+        { "name": "Ketchup" },
+        { "name": "Vinaigre blanc" },
+        { "name": "Sucre" },
+        { "name": "Ail" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Couper la carpe en biais derrière les ouïes ; tailler la queue en biais en forme de queue d'aronde. Fendre le long de l'arête et lever les deux filets en retirant les arêtes.",
+        "Retirer les arêtes des côtes et trancher chaque filet en une longue lanière plate et régulière.",
+        "Inciser la chair en croisillons : couper fermement et précisément jusqu'à la peau sans la traverser, puis recroiser et inciser de nouveau.",
+        "Sur le second filet, couper de part en part aux deux tiers ; une fois incisée, la chair s'enroule et les fines arêtes de la carpe sont sectionnées.",
+        "Faire tremper le poisson incisé dans l'eau avec ciboule, gingembre, vin de cuisine et sel pour l'assaisonner et ôter l'odeur.",
+        "Peler la celtuce et la couper en cube, puis la tailler en forme de dé à douze faces ; avec un couteau d'office, évider chaque face et sculpter le centre en une 'boule linglong' mobile.",
+        "Passer le poisson mariné dans une liaison de fécule, puis l'enrober de fécule sèche (ne pas utiliser de blanc ni de jaune d'œuf, sinon il ne sera pas croustillant) ; secouer l'excédent.",
+        "Fixer les fleurs de poisson en rouleaux avec des piques en bambou pour maintenir leur forme ; fariner aussi la tête et la queue, et caler la bouche ouverte.",
+        "Chauffer l'huile à environ 50 %, plonger les fleurs de poisson pour figer la forme, en les maintenant en rond avec des baguettes ; garder le feu vif pour figer vite, puis retirer.",
+        "Refrire jusqu'à ce que ce soit croustillant ; les piques se retirent d'un tour. Dresser le poisson et placer les boules linglong de celtuce à côté.",
+        "Préparer la sauce aigre-douce : chauffer l'huile, faire revenir ciboule, gingembre et ail à feu vif jusqu'à ce que ce soit parfumé, ajouter le ketchup et mélanger, puis ajouter vinaigre blanc, sucre, purée d'ail, eau et sel ; porter à ébullition et ajuster.",
+        "Retirer les aromates, remettre le poisson frit à mijoter brièvement et l'enrober de sauce en l'épaississant peu à peu, puis napper et servir."
+      ],
+      "notes": [
+        "N'enrober le poisson que de liaison de fécule et de fécule sèche — sans œuf — pour qu'il soit vraiment croustillant.",
+        "La carpe herbivore a beaucoup d'arêtes fines ; les incisions les sectionnent et la friture les rend croustillantes, donc sans danger. Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

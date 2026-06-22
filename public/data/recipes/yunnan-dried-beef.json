@@ -1,0 +1,126 @@
+{
+  "id": "yunnan-dried-beef",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=GC2XzC4CxhQ",
+  "ingredientKeys": [
+    "beef",
+    "scallion",
+    "ginger",
+    "salt",
+    "cooking-wine",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "garlic",
+    "oil",
+    "chicken-bouillon",
+    "beef-bouillon",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "干巴牛肉",
+      "ingredients": [
+        { "name": "牛前腿肉（板腱）" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "黄酒" },
+        { "name": "干辣椒" },
+        { "name": "花椒" },
+        { "name": "蒜片" },
+        { "name": "油" },
+        { "name": "鸡粉" },
+        { "name": "牛肉粉" },
+        { "name": "香油" }
+      ],
+      "steps": [
+        "牛前腿板腱改成大块，无需焯水，直接下凉水锅小火加热逼出血水。",
+        "持续撇沫约五分钟，至不再出沫、汤色变清。",
+        "加葱姜、盐、料酒，其他什么都不放，再煮约五分钟即关火，时间不要超时否则肉柴。",
+        "捞出冲凉，趁热把牛肉断丝切成约4到5毫米厚的片。",
+        "干辣椒提前用温水泡透，顺刀切开。",
+        "锅下干净油烧到约180度（冒泡作响），牛肉分两次下锅炸，把表面水分炸干微起皮。",
+        "锅留底油，放回牛肉煸炒，先撒一层盐，把肉里的水分煸干。",
+        "下葱姜炒出香味，烹入黄酒把盐化开并煸干，让牛肉吸味。",
+        "按一份花椒、两份辣椒的比例下干辣椒和花椒，中小火慢慢煸到水分干、油变清。",
+        "最后下蒜片和少许葱花，加少量鸡粉、牛肉粉补味（盐够就不再加盐），点几滴香油出锅。"
+      ],
+      "notes": [
+        "牛肉一定要断丝切，吃起来才不塞牙；煮的火候要抢好，断生即可。",
+        "反复分次煸炒，让辣椒、花椒和调料的味道一层层吸进牛肉里。",
+        "可凉吃也可热吃，确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Yunnan Dried Beef (Ganba Niurou)",
+      "ingredients": [
+        { "name": "Beef chuck (front leg)" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "Yellow wine" },
+        { "name": "Dried chili peppers" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Sliced garlic" },
+        { "name": "Oil" },
+        { "name": "Chicken bouillon" },
+        { "name": "Beef bouillon" },
+        { "name": "Sesame oil" }
+      ],
+      "steps": [
+        "Cut beef chuck into large chunks; no need to blanch - put it straight into a pot of cold water and heat gently to draw out the blood.",
+        "Skim off the foam continuously for about five minutes, until no more foam rises and the broth runs clear.",
+        "Add scallion, ginger, salt, and cooking wine - nothing else - simmer about five more minutes, then turn off the heat; do not overcook or the beef turns tough.",
+        "Lift out and rinse cool, then while warm slice across the grain into pieces about 4-5 mm thick.",
+        "Soak the dried chilies in warm water until fully softened, then cut along the length.",
+        "Heat clean oil to about 180°C (bubbling and crackling) and fry the beef in two batches until the surface is dried out and lightly crisped.",
+        "Leave base oil in the wok, return the beef and stir-fry; sprinkle on a layer of salt first and dry-fry off the moisture in the meat.",
+        "Add scallion and ginger and fry until fragrant, splash in yellow wine to dissolve the salt and cook it off, letting the beef absorb the flavor.",
+        "Add dried chilies and Sichuan peppercorns in a ratio of one part peppercorns to two parts chilies; dry-fry over medium-low heat until the moisture is gone and the oil runs clear.",
+        "Finally add sliced garlic and a little scallion, season with a little chicken and beef bouillon (no more salt if already salty enough), drizzle a few drops of sesame oil, and serve."
+      ],
+      "notes": [
+        "Always slice the beef across the grain so it isn't chewy; nail the cooking time - just barely cooked through.",
+        "Dry-fry repeatedly in stages so the chili, peppercorn, and seasoning flavors are absorbed layer by layer into the beef.",
+        "Can be eaten hot or cold. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Bœuf Séché du Yunnan (Ganba Niurou)",
+      "ingredients": [
+        { "name": "Paleron de bœuf (patte avant)" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Vin jaune" },
+        { "name": "Piments séchés" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Ail en lamelles" },
+        { "name": "Huile" },
+        { "name": "Bouillon de poulet en poudre" },
+        { "name": "Bouillon de bœuf en poudre" },
+        { "name": "Huile de sésame" }
+      ],
+      "steps": [
+        "Coupez le paleron de bœuf en gros morceaux ; inutile de blanchir - mettez-le directement dans une casserole d'eau froide et chauffez doucement pour extraire le sang.",
+        "Écumez la mousse en continu pendant environ cinq minutes, jusqu'à ce qu'il n'y ait plus de mousse et que le bouillon soit clair.",
+        "Ajoutez ciboule, gingembre, sel et vin de cuisine - rien d'autre - laissez mijoter encore environ cinq minutes, puis coupez le feu ; ne surcuisez pas sinon le bœuf devient dur.",
+        "Retirez et rincez à froid, puis tant qu'il est tiède, tranchez en travers du grain en morceaux d'environ 4 à 5 mm d'épaisseur.",
+        "Faites tremper les piments séchés dans l'eau tiède jusqu'à ramollissement complet, puis coupez-les dans la longueur.",
+        "Chauffez de l'huile propre à environ 180°C (bouillonnante et crépitante) et faites frire le bœuf en deux fois jusqu'à ce que la surface soit asséchée et légèrement croustillante.",
+        "Laissez un fond d'huile dans le wok, remettez le bœuf et faites sauter ; saupoudrez d'abord d'une couche de sel et faites évaporer l'humidité de la viande.",
+        "Ajoutez ciboule et gingembre et faites revenir jusqu'à parfumé, déglacez au vin jaune pour dissoudre le sel et le faire évaporer, laissant le bœuf absorber les saveurs.",
+        "Ajoutez les piments séchés et le poivre du Sichuan dans un rapport d'une part de poivre pour deux parts de piments ; faites sauter à feu moyen-doux jusqu'à ce que l'humidité disparaisse et que l'huile soit claire.",
+        "Ajoutez enfin l'ail en lamelles et un peu de ciboule, assaisonnez d'un peu de bouillon de poulet et de bœuf (plus de sel si déjà assez salé), versez quelques gouttes d'huile de sésame et servez."
+      ],
+      "notes": [
+        "Tranchez toujours le bœuf en travers du grain pour qu'il ne soit pas coriace ; maîtrisez le temps de cuisson - juste cuit à cœur.",
+        "Faites sauter à sec à plusieurs reprises pour que les saveurs du piment, du poivre et des assaisonnements s'imprègnent couche par couche dans le bœuf.",
+        "Peut se manger chaud ou froid. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

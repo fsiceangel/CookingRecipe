@@ -1,0 +1,125 @@
+{
+  "id": "bundled-chicken",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=ZOprmHYjBAE",
+  "ingredientKeys": [
+    "chicken",
+    "ham",
+    "shiitake-mushroom",
+    "bamboo-shoot",
+    "carrot",
+    "scallion",
+    "ginger",
+    "oyster-sauce",
+    "salt",
+    "msg",
+    "white-pepper",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "柴把鸡",
+      "ingredients": [
+        { "name": "鸡" },
+        { "name": "火腿" },
+        { "name": "干香菇" },
+        { "name": "笋" },
+        { "name": "胡萝卜" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蚝油" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "胡椒粉" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "纯肉方火腿切成条；笋、胡萝卜比着火腿切成同样长短的条（刀工不稳就拿火腿比着切）。",
+        "干香菇泡发后加油、葱姜、蚝油上蒸箱蒸约半小时，去掉干涩味、更润口，再切条。",
+        "胡萝卜条焯一下水，软糊到和其他食材质感一致。",
+        "整鸡改刀，去头，鸡腿在关节处掰开；主要用鸡胸和鸡腿部分，鸡翅鸡爪可另作他用。",
+        "鸡肉洗去血水至水清，下锅焯水，捞出放高压锅，加葱姜，上汽压约四十分钟。",
+        "捞出大块鸡腿、鸡胸去骨，切成与蔬菜一样长短的条。",
+        "每束取胡萝卜、香菇、笋各一条加一块鸡肉，用火腿和小串捆扎成柴把状，整齐码入盘中。",
+        "碗中加味精、盐、胡椒粉，舀一勺煮鸡的原汤，浇到柴把鸡上。",
+        "上蒸锅，盖盖上汽蒸五分钟，取出把蒸出的汤倒回锅里，撇去渣子。",
+        "汤定味，慢慢淋入水淀粉勾成米汤芡，浇回鸡上即可。"
+      ],
+      "notes": [
+        "捆扎时把笋、胡萝卜、香菇放下面，火腿本身有咸香放上面，蒸出的汁水往下流，味道更融合。",
+        "干香菇务必先蒸过再用，口感更润、香味更足。"
+      ]
+    },
+    "en": {
+      "title": "Bundled Chicken (Chai-ba Ji)",
+      "ingredients": [
+        { "name": "Chicken" },
+        { "name": "Ham" },
+        { "name": "Dried shiitake mushroom" },
+        { "name": "Bamboo shoot" },
+        { "name": "Carrot" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Oyster sauce" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "White pepper" },
+        { "name": "Cornstarch slurry" }
+      ],
+      "steps": [
+        "Cut the ham into strips; cut the bamboo shoot and carrot into strips the same length (use the ham as a guide if your knife work is shaky).",
+        "Rehydrate the dried shiitake, then steam them about 30 minutes with oil, scallion, ginger and oyster sauce to remove the dry, harsh taste; then cut into strips.",
+        "Blanch the carrot strips until soft, so they match the texture of the other ingredients.",
+        "Break down a whole chicken, discard the head, and snap the legs at the joint; use mainly the breast and leg meat (save wings and feet for other dishes).",
+        "Rinse the chicken until the water runs clear, blanch it, then transfer to a pressure cooker with scallion and ginger and cook about 40 minutes after it comes up to pressure.",
+        "Lift out the large pieces, debone the leg and breast, and cut into strips the same length as the vegetables.",
+        "For each bundle, take one strip each of carrot, shiitake and bamboo shoot plus a piece of chicken, then tie it into a little faggot with a strip of ham and kitchen twine; arrange neatly on a plate.",
+        "In a bowl, mix MSG, salt and white pepper, add a ladle of the chicken cooking broth, and pour it over the bundles.",
+        "Steam, covered, for 5 minutes once steaming; remove, pour the collected liquid back into a pot and skim off any bits.",
+        "Season the liquid, slowly stir in cornstarch slurry to a thin rice-soup consistency, and pour it back over the chicken to serve."
+      ],
+      "notes": [
+        "When bundling, put bamboo shoot, carrot and shiitake at the bottom and the salty, savory ham on top so its juices run down as it steams, blending the flavors.",
+        "Always steam the dried shiitake before using them for a more tender bite and fuller aroma.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poulet en Fagots",
+      "ingredients": [
+        { "name": "Poulet" },
+        { "name": "Jambon" },
+        { "name": "Champignon shiitake séché" },
+        { "name": "Pousse de bambou" },
+        { "name": "Carotte" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Sauce d'huître" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Poivre blanc" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Coupez le jambon en lamelles ; coupez la pousse de bambou et la carotte en lamelles de même longueur (servez-vous du jambon comme repère).",
+        "Réhydratez les shiitakes séchés, puis faites-les cuire à la vapeur environ 30 minutes avec huile, ciboule, gingembre et sauce d'huître pour ôter leur goût sec ; coupez-les ensuite en lamelles.",
+        "Blanchissez les lamelles de carotte jusqu'à ce qu'elles soient tendres, pour qu'elles aient la même texture que le reste.",
+        "Découpez un poulet entier, retirez la tête et cassez les cuisses à l'articulation ; utilisez surtout le blanc et la cuisse (réservez ailes et pattes).",
+        "Rincez le poulet jusqu'à ce que l'eau soit claire, blanchissez-le, puis mettez-le à l'autocuiseur avec ciboule et gingembre environ 40 minutes sous pression.",
+        "Retirez les gros morceaux, désossez cuisse et blanc, et coupez en lamelles de la longueur des légumes.",
+        "Pour chaque fagot, prenez une lamelle de carotte, de shiitake et de bambou plus un morceau de poulet, et liez le tout avec une lamelle de jambon et de la ficelle ; disposez sur un plat.",
+        "Dans un bol, mélangez glutamate, sel et poivre blanc, ajoutez une louche de bouillon de cuisson du poulet et versez sur les fagots.",
+        "Faites cuire à la vapeur 5 minutes ; retirez, reversez le jus recueilli dans une casserole et écumez.",
+        "Assaisonnez le jus, incorporez lentement la liaison à la fécule jusqu'à consistance légère, et nappez le poulet pour servir."
+      ],
+      "notes": [
+        "En liant les fagots, placez bambou, carotte et shiitake en bas et le jambon salé en haut pour que son jus s'écoule à la vapeur et fonde les saveurs.",
+        "Faites toujours cuire les shiitakes séchés à la vapeur avant usage pour une texture plus moelleuse et un arôme plus riche.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

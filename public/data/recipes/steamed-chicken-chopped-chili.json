@@ -1,0 +1,192 @@
+{
+  "id": "steamed-chicken-chopped-chili",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=-VdH2GqF83M",
+  "ingredientKeys": [
+    "chicken",
+    "chopped-salted-chili",
+    "chili-pepper",
+    "lard",
+    "scallion",
+    "ginger",
+    "garlic",
+    "liuyang-fermented-soybeans",
+    "scallion-ginger-water",
+    "msg",
+    "sugar",
+    "light-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "剁椒蒸鸡",
+      "ingredients": [
+        {
+          "name": "三黄鸡"
+        },
+        {
+          "name": "剁椒"
+        },
+        {
+          "name": "鲜辣椒"
+        },
+        {
+          "name": "猪油"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "豆豉"
+        },
+        {
+          "name": "葱姜水"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "糖"
+        },
+        {
+          "name": "酱油"
+        }
+      ],
+      "steps": [
+        "选一只小三黄鸡，检查去净毛，剁去鸡爪、鸡嘴和鸡屁股。",
+        "在鸡身上打几下划刀斩一斩，更容易入味和成熟，洗净后放入葱姜水里泡一会儿。",
+        "炒剁椒：锅里放猪油，下葱块，全程大火，再放姜、蒜、豆豉，倒入剁椒和鲜辣椒炒香。",
+        "关小火调味：加味精、糖，炒透出香味，盛出。",
+        "把泡好的鸡捞出，沥干表面水分，鸡头不易熟可劈一下。",
+        "把炒好的剁椒浇在鸡身上，先腌10分钟让味道渗入。",
+        "锅中水烧开，鸡放入大火蒸18分钟（鸡大或老需延长，剁小块约5分钟）。",
+        "出锅撒上香葱，淋点热油，再淋点酱油即可。"
+      ],
+      "notes": [
+        "选小嫩鸡，蒸出来软嫩；鸡老则至少蒸半小时蒸透。",
+        "湖南菜多用猪油，鸡肉吃着更香更嫩。",
+        "家里把控不好火候，直接把鸡剁成小块再蒸更稳妥。"
+      ]
+    },
+    "en": {
+      "title": "Steamed Chicken with Chopped Chili",
+      "ingredients": [
+        {
+          "name": "Three-yellow chicken"
+        },
+        {
+          "name": "Chopped salted chili"
+        },
+        {
+          "name": "Fresh chili pepper"
+        },
+        {
+          "name": "Lard"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Fermented black soybeans"
+        },
+        {
+          "name": "Scallion ginger water"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Soy sauce"
+        }
+      ],
+      "steps": [
+        "Choose a small three-yellow chicken, check it is free of feathers, then chop off the feet, beak, and tail.",
+        "Score the chicken with a few cuts so it absorbs flavor and cooks more easily; rinse, then soak it in scallion-ginger water for a while.",
+        "Fry the chili topping: heat lard in a wok, add chunks of scallion over high heat, then add ginger, garlic, and fermented black soybeans, and stir in the chopped salted chili and fresh chili until fragrant.",
+        "Lower the heat to season: add MSG and sugar, stir-fry thoroughly until aromatic, then remove.",
+        "Lift the chicken out, pat the surface dry, and split the head a little since it cooks slowly.",
+        "Pour the fried chili topping over the chicken and let it marinate for 10 minutes so the flavor soaks in.",
+        "Bring water to a boil in the steamer, add the chicken, and steam over high heat for 18 minutes (longer for a bigger or older bird, about 5 minutes for small pieces).",
+        "Remove, sprinkle with chopped scallion, drizzle with hot oil, then a little soy sauce, and serve."
+      ],
+      "notes": [
+        "Use a small tender chicken for soft, juicy meat; an older bird needs at least 30 minutes to steam through.",
+        "Hunan cooking uses plenty of lard, which makes the chicken more fragrant and tender.",
+        "If you can't judge the timing at home, just chop the chicken into small pieces before steaming."
+      ]
+    },
+    "fr": {
+      "title": "Poulet Vapeur au Piment Haché",
+      "ingredients": [
+        {
+          "name": "Poulet trois-jaunes"
+        },
+        {
+          "name": "Piment haché salé"
+        },
+        {
+          "name": "Piment frais"
+        },
+        {
+          "name": "Saindoux"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Soja noir fermenté"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sauce soja"
+        }
+      ],
+      "steps": [
+        "Choisir un petit poulet trois-jaunes, vérifier qu'il n'a plus de plumes, puis couper les pattes, le bec et le croupion.",
+        "Inciser le poulet de quelques coups de couteau pour qu'il s'imprègne et cuise plus vite ; le rincer puis le faire tremper un moment dans l'eau de ciboule et gingembre.",
+        "Préparer la garniture au piment : chauffer le saindoux dans un wok, ajouter des tronçons de ciboule à feu vif, puis le gingembre, l'ail et le soja noir fermenté, et incorporer le piment haché salé et le piment frais jusqu'à ce que ce soit parfumé.",
+        "Baisser le feu pour assaisonner : ajouter le glutamate et le sucre, faire revenir jusqu'à ce que ce soit bien aromatique, puis retirer.",
+        "Sortir le poulet, sécher la surface en tapotant et fendre légèrement la tête car elle cuit lentement.",
+        "Verser la garniture au piment sur le poulet et laisser mariner 10 minutes pour que la saveur pénètre.",
+        "Porter l'eau du cuiseur vapeur à ébullition, ajouter le poulet et cuire à la vapeur à feu vif pendant 18 minutes (plus longtemps pour un poulet plus gros ou plus vieux, environ 5 minutes pour de petits morceaux).",
+        "Retirer, parsemer de ciboule ciselée, arroser d'huile chaude puis d'un peu de sauce soja, et servir."
+      ],
+      "notes": [
+        "Utiliser un petit poulet tendre pour une chair moelleuse ; un poulet plus vieux doit cuire au moins 30 minutes.",
+        "La cuisine du Hunan emploie beaucoup de saindoux, ce qui rend le poulet plus parfumé et tendre.",
+        "Si vous maîtrisez mal le temps de cuisson, coupez simplement le poulet en petits morceaux avant de le cuire."
+      ]
+    }
+  }
+}

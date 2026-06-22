@@ -1,0 +1,123 @@
+{
+  "id": "sweet-sour-fish-slices",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=AG4PJAGlDfo",
+  "ingredientKeys": [
+    "carp",
+    "scallion",
+    "ginger",
+    "garlic",
+    "salt",
+    "cornstarch",
+    "ketchup",
+    "sugar",
+    "vinegar",
+    "water",
+    "oil",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "糖醋鱼片",
+      "ingredients": [
+        { "name": "鲤鱼" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜末" },
+        { "name": "盐" },
+        { "name": "玉米淀粉" },
+        { "name": "番茄酱" },
+        { "name": "白糖" },
+        { "name": "白醋" },
+        { "name": "水" },
+        { "name": "油" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "一条鲤鱼去头去尾，从中间片开，把背鳍剁掉，鱼骨剁成段（中间最粗的硬骨不要，炸不酥）。",
+        "把鱼肋排剔下来剁成条，两片鱼肉片成两三毫米厚的片，清洗后加一勺盐。",
+        "做葱姜水：葱姜切片放水里用手攥出味，鱼片放进去浸泡。",
+        "兑糖醋汁：番茄酱、白糖、水、白醋混合备用。",
+        "泡好的鱼片倒掉水，拍上玉米淀粉，表面有一层薄薄的白淀粉即可。",
+        "热锅凉油（油烧到冒烟再加凉油），下鱼骨炸至定型、转小火浅炸；鱼片同样中火浅炸定型。",
+        "再把鱼骨和鱼片一起回锅复炸加热，捞出。",
+        "锅留底油，放盐、蒜末，倒入糖醋汁，烧开勾芡。",
+        "倒入炸好的鱼片，迅速翻匀让鱼片吸汁，出锅。"
+      ],
+      "notes": [
+        "鱼片浸泡时一定要加葱姜水去腥。",
+        "鱼骨中间特别粗的硬骨一定不要，那是真炸不酥的；其余切小块趁热裹汁。",
+        "确切比例请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sweet & Sour Fish Slices",
+      "ingredients": [
+        { "name": "Carp" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Minced garlic" },
+        { "name": "Salt" },
+        { "name": "Cornstarch" },
+        { "name": "Ketchup" },
+        { "name": "Sugar" },
+        { "name": "White vinegar" },
+        { "name": "Water" },
+        { "name": "Oil" },
+        { "name": "Starch slurry" }
+      ],
+      "steps": [
+        "Remove the head and tail of a carp, fillet it from the middle, cut off the back fin, and chop the backbone into sections (discard the thickest central bone, it won't fry crisp).",
+        "Cut the rib bones off and chop into strips; slice the two fillets into 2-3mm pieces, rinse, and add a spoon of salt.",
+        "Make scallion-ginger water: slice scallion and ginger into water and squeeze by hand to release the flavor, then soak the fish in it.",
+        "Mix the sweet & sour sauce: ketchup, sugar, water, and white vinegar; set aside.",
+        "Drain the soaked fish, dredge in cornstarch until lightly coated white.",
+        "Heat the wok, add oil (heat oil until smoking, then add cold oil), fry the fish bones until set and turn the heat low to shallow-fry; shallow-fry the fish slices over medium heat until set.",
+        "Return both bones and slices to the oil to refry and reheat, then remove.",
+        "Leave a little oil in the wok, add salt and minced garlic, pour in the sweet & sour sauce, bring to a boil, and thicken with starch slurry.",
+        "Add the fried fish, quickly toss so it absorbs the sauce, and serve."
+      ],
+      "notes": [
+        "Always add scallion-ginger water when soaking to remove the fishy smell.",
+        "Discard the thick central bone, which truly won't crisp; cut the rest small and coat with sauce while hot.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tranches de Poisson Aigre-Douce",
+      "ingredients": [
+        { "name": "Carpe" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail haché" },
+        { "name": "Sel" },
+        { "name": "Fécule de maïs" },
+        { "name": "Ketchup" },
+        { "name": "Sucre" },
+        { "name": "Vinaigre blanc" },
+        { "name": "Eau" },
+        { "name": "Huile" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Retirer la tête et la queue d'une carpe, la lever en filets par le milieu, couper la nageoire dorsale et débiter l'arête en tronçons (jeter l'os central le plus épais, il ne deviendra pas croustillant).",
+        "Détacher les arêtes des côtes et les couper en lanières ; trancher les deux filets en morceaux de 2 à 3 mm, rincer et ajouter une cuillère de sel.",
+        "Préparer l'eau de ciboule-gingembre : trancher ciboule et gingembre dans l'eau et presser à la main pour libérer les arômes, puis y faire tremper le poisson.",
+        "Mélanger la sauce aigre-douce : ketchup, sucre, eau et vinaigre blanc ; réserver.",
+        "Égoutter le poisson, le fariner de fécule de maïs jusqu'à une fine couche blanche.",
+        "Chauffer le wok, ajouter l'huile (chauffer jusqu'à fumée puis ajouter de l'huile froide), frire les arêtes jusqu'à ce qu'elles tiennent puis baisser le feu pour une friture légère ; frire de même les tranches à feu moyen jusqu'à ce qu'elles tiennent.",
+        "Remettre arêtes et tranches dans l'huile pour les refrire et réchauffer, puis retirer.",
+        "Laisser un peu d'huile dans le wok, ajouter le sel et l'ail haché, verser la sauce aigre-douce, porter à ébullition et lier à la fécule.",
+        "Ajouter le poisson frit, mélanger rapidement pour qu'il absorbe la sauce, et servir."
+      ],
+      "notes": [
+        "Toujours ajouter de l'eau de ciboule-gingembre lors du trempage pour ôter l'odeur de poisson.",
+        "Jeter l'os central épais qui ne croustillera pas ; couper le reste en petits morceaux et enrober de sauce à chaud.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

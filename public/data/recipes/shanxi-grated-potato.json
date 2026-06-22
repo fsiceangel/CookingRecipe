@@ -1,0 +1,111 @@
+{
+  "id": "shanxi-grated-potato",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=Y7fhhJcrs4Q",
+  "ingredientKeys": [
+    "potato",
+    "flour",
+    "pork-loin",
+    "scallion",
+    "garlic",
+    "chili-pepper",
+    "onion",
+    "lard",
+    "light-soy-sauce",
+    "chicken-bouillon"
+  ],
+  "translations": {
+    "cn": {
+      "title": "洋芋擦擦",
+      "ingredients": [
+        { "name": "土豆" },
+        { "name": "面粉" },
+        { "name": "肉丝" },
+        { "name": "大葱" },
+        { "name": "大蒜" },
+        { "name": "尖椒" },
+        { "name": "洋葱" },
+        { "name": "猪油" },
+        { "name": "酱油" },
+        { "name": "鸡精" }
+      ],
+      "steps": [
+        "土豆去皮，用粗孔擦子擦成约三四毫米宽的粗丝，注意安全。",
+        "擦好的土豆丝拌入普通面粉，让每一根都裹满面粉、互不粘连，无需用高筋粉。",
+        "上锅蒸熟，蒸到一扒就软糊、带点弹性即可，盛出备用。",
+        "锅烧热放油润锅后倒出，换小火下一勺猪油（热锅凉油）。",
+        "油热后下肉丝滑散，再下大葱段炒出葱香。",
+        "全程大火，下蒜末煸至微黄，再下尖椒、洋葱炒出辣味和洋葱香（喜辣可加炒米辣）。",
+        "烹入酱油，倒入蒸好的土豆擦擦，转小火翻拌均匀。",
+        "加鸡精调味（鸡精比味精更易炒化），翻匀即可出锅。"
+      ],
+      "notes": [
+        "热锅凉油加猪油，土豆才香润不粘锅。",
+        "全程大火把葱姜蒜和肉的香味逼进油里，再裹到土豆上。"
+      ]
+    },
+    "en": {
+      "title": "Shanxi Grated Potato (Yangyu Cǎ-cǎ)",
+      "ingredients": [
+        { "name": "Potato" },
+        { "name": "Flour" },
+        { "name": "Shredded pork" },
+        { "name": "Scallion" },
+        { "name": "Garlic" },
+        { "name": "Green chili pepper" },
+        { "name": "Onion" },
+        { "name": "Lard" },
+        { "name": "Soy sauce" },
+        { "name": "Chicken bouillon" }
+      ],
+      "steps": [
+        "Peel the potatoes and grate them into coarse strands about 3-4 mm wide on a coarse grater; mind your fingers.",
+        "Toss the grated potato with all-purpose flour so every strand is coated and won't stick together; no high-gluten flour needed.",
+        "Steam until soft and slightly springy (it should mash easily when poked). Set aside.",
+        "Heat oil in the wok to season it, pour it off, then add a spoon of lard over low heat (hot wok, cool oil).",
+        "Once hot, add the shredded pork and stir to separate, then add scallion and fry until fragrant.",
+        "Over high heat, add minced garlic and fry until lightly golden, then add the green chili and onion and fry out their heat and aroma (add bird's-eye chili if you like it spicier).",
+        "Splash in soy sauce, add the steamed grated potato, lower the heat and toss to combine.",
+        "Season with chicken bouillon (it melts in more easily than MSG), toss well and serve."
+      ],
+      "notes": [
+        "Use a hot wok with cool oil plus lard so the potato turns fragrant and won't stick.",
+        "Keep the heat high to drive the aroma of the aromatics and pork into the oil, which then coats the potato.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Pommes de Terre Râpées du Shanxi",
+      "ingredients": [
+        { "name": "Pomme de terre" },
+        { "name": "Farine" },
+        { "name": "Porc émincé" },
+        { "name": "Ciboule" },
+        { "name": "Ail" },
+        { "name": "Piment vert" },
+        { "name": "Oignon" },
+        { "name": "Saindoux" },
+        { "name": "Sauce soja" },
+        { "name": "Bouillon de poulet en poudre" }
+      ],
+      "steps": [
+        "Épluchez les pommes de terre et râpez-les en filaments épais d'environ 3-4 mm avec une râpe à gros trous ; attention aux doigts.",
+        "Mélangez les filaments râpés avec de la farine ordinaire pour que chacun soit enrobé et ne colle pas ; pas besoin de farine à forte teneur en gluten.",
+        "Faites cuire à la vapeur jusqu'à ce qu'ils soient tendres et légèrement élastiques. Réservez.",
+        "Chauffez de l'huile dans le wok pour le culotter, retirez-la, puis ajoutez une cuillère de saindoux à feu doux (wok chaud, huile froide).",
+        "Une fois chaud, ajoutez le porc émincé et séparez-le, puis ajoutez la ciboule et faites revenir jusqu'à ce que ce soit parfumé.",
+        "À feu vif, ajoutez l'ail haché et faites-le dorer légèrement, puis ajoutez le piment vert et l'oignon et faites ressortir leur piquant et leur arôme.",
+        "Versez la sauce soja, ajoutez les pommes de terre râpées cuites, baissez le feu et mélangez.",
+        "Assaisonnez avec le bouillon de poulet en poudre (il fond plus facilement que le glutamate), mélangez bien et servez."
+      ],
+      "notes": [
+        "Utilisez un wok chaud avec de l'huile froide et du saindoux pour que la pomme de terre soit parfumée et n'accroche pas.",
+        "Gardez un feu vif pour faire pénétrer l'arôme des aromates et du porc dans l'huile, qui enrobe ensuite la pomme de terre.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

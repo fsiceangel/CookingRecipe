@@ -1,0 +1,179 @@
+{
+  "id": "sour-radish-beef-omasum",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=cKwi7YMsJiQ",
+  "ingredientKeys": [
+    "beef-omasum",
+    "pickled-radish",
+    "chili-pepper",
+    "scallion",
+    "ginger",
+    "garlic",
+    "lard",
+    "light-soy-sauce",
+    "cooking-wine",
+    "msg",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸萝卜炒百叶",
+      "ingredients": [
+        {
+          "name": "水发百叶"
+        },
+        {
+          "name": "酸萝卜"
+        },
+        {
+          "name": "辣椒"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "猪油"
+        },
+        {
+          "name": "生抽"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "盐"
+        }
+      ],
+      "steps": [
+        "酸萝卜切丁，用水泡一泡，尝着不咸即可；辣椒、葱姜蒜切好备用。",
+        "起锅烧水，加点葱姜、酱油、盐、料酒，把水发百叶倒进去焯煮，让里面的水分先出来，去掉腥味。",
+        "开锅后关小火稍煮，捞出沥干。",
+        "起锅烧油放猪油，下葱姜蒜，全程大火炒香。",
+        "倒入酸萝卜和辣椒，炒出香味。",
+        "把百叶倒进去煸炒，让它吸足辣味、酸味和葱姜蒜的味道。",
+        "倒入生抽、味精，少放点盐（酸萝卜本身有咸味），全程大火把水汽炒掉，定味出锅。"
+      ],
+      "notes": [
+        "重点是处理水发百叶：先用加了葱姜、酱油、盐、料酒的水焯煮去腥出水。",
+        "猪油用得多吃着香；百叶会把油吸进去，所以炒完锅底几乎没油。",
+        "同样的焯水方法适用于水煮、盐爆、葱爆、黑椒等各种炒百叶的做法。"
+      ]
+    },
+    "en": {
+      "title": "Sour Radish Stir-Fried Beef Omasum",
+      "ingredients": [
+        {
+          "name": "Soaked beef omasum"
+        },
+        {
+          "name": "Pickled radish"
+        },
+        {
+          "name": "Chili pepper"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Lard"
+        },
+        {
+          "name": "Light soy sauce"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Salt"
+        }
+      ],
+      "steps": [
+        "Dice the pickled radish and soak it in water until it tastes no longer too salty; prepare the chili, scallion, ginger, and garlic.",
+        "Bring water to a boil, add some scallion and ginger, soy sauce, salt, and cooking wine, then add the soaked beef omasum to parboil it, drawing out its water and removing the off-odor.",
+        "Once boiling, lower the heat and simmer briefly, then drain.",
+        "Heat oil and lard in a wok, add the scallion, ginger, and garlic, and fry until fragrant over high heat throughout.",
+        "Add the pickled radish and chili and fry until fragrant.",
+        "Add the omasum and stir-fry so it soaks up the spicy, sour, and aromatic flavors.",
+        "Add light soy sauce and MSG, with just a little salt (the pickled radish is already salty), keep the heat high to drive off moisture, adjust seasoning, and serve."
+      ],
+      "notes": [
+        "The key is prepping the soaked beef omasum: parboil it first in water with scallion, ginger, soy sauce, salt, and cooking wine to remove odor and excess water.",
+        "Generous lard makes it fragrant; the omasum absorbs the oil, so the wok is nearly dry by the end.",
+        "The same parboiling method works for boiling, salt-fried, scallion-fried, or black-pepper versions of omasum."
+      ]
+    },
+    "fr": {
+      "title": "Feuillet de Boeuf Sauté au Radis Aigre",
+      "ingredients": [
+        {
+          "name": "Feuillet de boeuf réhydraté"
+        },
+        {
+          "name": "Radis mariné"
+        },
+        {
+          "name": "Piment"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Saindoux"
+        },
+        {
+          "name": "Sauce soja claire"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sel"
+        }
+      ],
+      "steps": [
+        "Couper le radis mariné en dés et le faire tremper dans l'eau jusqu'à ce qu'il ne soit plus trop salé ; préparer le piment, la ciboule, le gingembre et l'ail.",
+        "Porter de l'eau à ébullition, ajouter de la ciboule et du gingembre, de la sauce soja, du sel et du vin de cuisine, puis y plonger le feuillet de boeuf réhydraté pour le précuire, en extraire l'eau et ôter l'odeur.",
+        "À ébullition, baisser le feu et laisser frémir brièvement, puis égoutter.",
+        "Chauffer l'huile et le saindoux dans un wok, ajouter la ciboule, le gingembre et l'ail, et faire revenir jusqu'à ce que ce soit parfumé, à feu vif tout du long.",
+        "Ajouter le radis mariné et le piment et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter le feuillet de boeuf et faire sauter pour qu'il s'imprègne des saveurs piquante, acidulée et aromatique.",
+        "Ajouter la sauce soja claire et le glutamate, avec juste un peu de sel (le radis mariné est déjà salé), garder un feu vif pour évaporer l'humidité, rectifier l'assaisonnement et servir."
+      ],
+      "notes": [
+        "L'essentiel est de préparer le feuillet de boeuf réhydraté : le précuire d'abord dans une eau avec ciboule, gingembre, sauce soja, sel et vin de cuisine pour ôter l'odeur et l'eau en excès.",
+        "Un saindoux généreux le rend parfumé ; le feuillet absorbe l'huile, le wok est donc presque sec à la fin.",
+        "La même méthode de précuisson convient aux versions bouillie, sautée au sel, sautée à la ciboule ou au poivre noir."
+      ]
+    }
+  }
+}

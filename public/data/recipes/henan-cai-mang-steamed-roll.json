@@ -1,0 +1,115 @@
+{
+  "id": "henan-cai-mang-steamed-roll",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=LRb5c3-b9GI",
+  "ingredientKeys": [
+    "flour",
+    "salt",
+    "water",
+    "chinese-chives",
+    "egg",
+    "carrot",
+    "glass-noodles",
+    "chili-pepper",
+    "light-soy-sauce",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "菜蟒",
+      "ingredients": [
+        { "name": "面粉" },
+        { "name": "盐" },
+        { "name": "水" },
+        { "name": "韭菜" },
+        { "name": "鸡蛋" },
+        { "name": "胡萝卜" },
+        { "name": "粉条" },
+        { "name": "尖椒" },
+        { "name": "生抽" },
+        { "name": "葱油" }
+      ],
+      "steps": [
+        "和面：一斤面里加两克盐（增加面的筋性），搅匀；夏天用常温水、冬天用温水，慢慢加水和成稍硬的面团。",
+        "揉到手光、面光、盆光，盖上盖子放旁边醒着。",
+        "炒馅：鸡蛋打散，锅烧热加油烧到冒烟，倒入蛋液，高油温会让鸡蛋蓬起，炒香后用勺怼散，扒到一边晾凉。",
+        "锅里放葱油，下胡萝卜丝；粉条泡好切段一起炒，转小火，再下尖椒，让粉条吸收胡萝卜和尖椒的水气与香味。",
+        "粉条炒到透明变软，加点生抽顶味，熄火，把炒好的粉条倒在鸡蛋旁边一起晾凉。",
+        "醒好的面再揉一下，醒到表面光滑、横切面网孔很少，分成剂子搓圆，抹点油防干。",
+        "拌韭菜馅：韭菜先拌两勺油形成油膜（防止过早出水），再放入鸡蛋和炒好的粉条，最后加盐拌匀。",
+        "案板和擀面棍抹油，把剂子擀成大薄片，四边擀薄，铺上馅料平铺，盖上、卷起，两头留点位置。",
+        "蒸屉抹油，把卷好的菜蟒放进去，中间留缝；水开上汽后蒸10分钟即可。"
+      ],
+      "notes": [
+        "葱油的加入很关键，能把各种馅料的复合层次都勾连起来。",
+        "拌韭菜馅前先用油把韭菜裹一层油膜，可防止出水；这个馅用来包包子也很好吃。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Henan Cai Mang (Steamed Vegetable Roll)",
+      "ingredients": [
+        { "name": "Flour" },
+        { "name": "Salt" },
+        { "name": "Water" },
+        { "name": "Chinese chives" },
+        { "name": "Egg" },
+        { "name": "Carrot" },
+        { "name": "Glass noodles" },
+        { "name": "Green chili pepper" },
+        { "name": "Light soy sauce" },
+        { "name": "Scallion oil" }
+      ],
+      "steps": [
+        "Make the dough: add 2 g salt per 500 g flour (for better gluten) and mix; use room-temperature water in summer or warm water in winter, adding it slowly to form a slightly firm dough.",
+        "Knead until your hands, the dough, and the bowl are all clean, then cover and let it rest.",
+        "Cook the filling: beat the eggs, heat oil in a wok until smoking, pour in the eggs (high oil heat makes them puff), scramble until fragrant, break apart with the spoon, and push aside to cool.",
+        "Add scallion oil to the wok and add shredded carrot; cut soaked glass noodles into segments and stir-fry together, lower the heat, then add green chili so the noodles absorb the moisture and aroma of the carrot and chili.",
+        "Stir-fry until the noodles turn translucent and soft, add a little light soy sauce for flavor, turn off the heat, and tip the noodles next to the eggs to cool together.",
+        "Knead the rested dough again until smooth with few air holes in cross-section, divide into portions, roll into balls, and coat with a little oil to prevent drying.",
+        "Mix the filling: first toss the chives with two spoons of oil to form an oil film (so they release water more slowly), then add the eggs and cooked noodles, and finally add salt and mix.",
+        "Oil the board and rolling pin, roll each portion into a large thin sheet with thin edges, spread the filling flat, fold over, and roll up, leaving a little space at both ends.",
+        "Oil the steamer tray, place the rolls in with gaps between them; once the water boils and steams, steam for 10 minutes."
+      ],
+      "notes": [
+        "Adding scallion oil is key, tying together the layered flavors of the various filling ingredients.",
+        "Coating the chives in an oil film before mixing keeps them from releasing water too soon; this filling is also great for steamed buns.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Cai Mang du Henan (Rouleau de Légumes Vapeur)",
+      "ingredients": [
+        { "name": "Farine" },
+        { "name": "Sel" },
+        { "name": "Eau" },
+        { "name": "Ciboulette chinoise" },
+        { "name": "Œuf" },
+        { "name": "Carotte" },
+        { "name": "Vermicelles de patate douce" },
+        { "name": "Piment vert" },
+        { "name": "Sauce soja claire" },
+        { "name": "Huile de ciboule" }
+      ],
+      "steps": [
+        "Préparer la pâte : ajouter 2 g de sel pour 500 g de farine (pour un meilleur gluten) et mélanger ; utiliser de l'eau à température ambiante en été ou de l'eau tiède en hiver, en l'ajoutant lentement pour former une pâte légèrement ferme.",
+        "Pétrir jusqu'à ce que les mains, la pâte et le bol soient propres, puis couvrir et laisser reposer.",
+        "Cuire la garniture : battre les œufs, chauffer l'huile dans un wok jusqu'à ce qu'elle fume, verser les œufs (la forte chaleur les fait gonfler), brouiller jusqu'à ce qu'ils soient parfumés, les défaire à la cuillère et les pousser sur le côté pour refroidir.",
+        "Ajouter l'huile de ciboule dans le wok et ajouter la carotte râpée ; couper les vermicelles trempés en tronçons et les faire sauter ensemble, baisser le feu, puis ajouter le piment vert pour que les vermicelles absorbent l'humidité et l'arôme de la carotte et du piment.",
+        "Faire sauter jusqu'à ce que les vermicelles deviennent translucides et tendres, ajouter un peu de sauce soja claire, éteindre le feu et verser les vermicelles à côté des œufs pour refroidir ensemble.",
+        "Pétrir à nouveau la pâte reposée jusqu'à ce qu'elle soit lisse avec peu de trous en coupe, diviser en portions, former des boules et enduire d'un peu d'huile pour éviter le dessèchement.",
+        "Mélanger la garniture : d'abord enrober la ciboulette de deux cuillères d'huile pour former un film huileux (afin qu'elle rende l'eau plus lentement), puis ajouter les œufs et les vermicelles cuits, et enfin ajouter le sel et mélanger.",
+        "Huiler le plan de travail et le rouleau, étaler chaque portion en une grande feuille fine aux bords minces, répartir la garniture à plat, replier et rouler, en laissant un peu d'espace aux deux extrémités.",
+        "Huiler le panier vapeur, y placer les rouleaux en les espaçant ; une fois l'eau bouillante et la vapeur montée, cuire 10 minutes."
+      ],
+      "notes": [
+        "L'ajout d'huile de ciboule est essentiel, il relie les saveurs en couches des différents ingrédients de la garniture.",
+        "Enrober la ciboulette d'un film d'huile avant de mélanger l'empêche de rendre son eau trop tôt ; cette garniture est aussi excellente pour les petits pains vapeur.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

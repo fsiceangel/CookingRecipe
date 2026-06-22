@@ -1,0 +1,119 @@
+{
+  "id": "century-egg-meatballs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=Oj43_6bzvgs",
+  "ingredientKeys": [
+    "minced-meat",
+    "century-egg",
+    "salted-egg-yolk",
+    "salt",
+    "white-pepper",
+    "msg",
+    "scallion",
+    "ginger",
+    "sesame-oil",
+    "cornstarch",
+    "egg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "皮蛋肉丸（湖南）",
+      "ingredients": [
+        { "name": "猪肉" },
+        { "name": "皮蛋" },
+        { "name": "咸蛋黄" },
+        { "name": "盐" },
+        { "name": "胡椒粉" },
+        { "name": "味精" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "香油" },
+        { "name": "淀粉" },
+        { "name": "鸡蛋" }
+      ],
+      "steps": [
+        "选一块猪肉，先切片再切碎，然后剁成有大有小、带颗粒感的肉糜，不要直接买肉馅（黏度不够）。",
+        "肉糜调味：加盐、胡椒粉、味精、葱姜，搅到发粘、纤维相互拉扯。",
+        "摔打上劲，淋一点香油增香，加入约25克淀粉，再摔打上劲后备用。",
+        "如果肉馅太紧实，可以打入一个鸡蛋调整口感。",
+        "皮蛋切成小粒，放入大盘扒开备用。",
+        "咸蛋黄选成品咸蛋的蛋黄，便宜且成型不流油；切成两半。",
+        "取一份肉馅包住半个咸蛋黄，团圆并反复摔打使表面紧实粘连。",
+        "把肉丸放到皮蛋粒上滚一滚，让表面裹满皮蛋。",
+        "高压锅内放篦子，铺上剩下的葱姜，码入肉丸，上汽蒸约14分钟（先6分钟、再8分钟）至熟透松软。"
+      ],
+      "notes": [
+        "肉一定要手工剁，纤维拉得紧实才好成型，比直接买的肉馅口感好得多。",
+        "咸蛋黄的品质是关键，要选沙沙起油的，否则没有沙沙的口感。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Century-Egg Meatballs (Hunan Style)",
+      "ingredients": [
+        { "name": "Pork" },
+        { "name": "Century egg" },
+        { "name": "Salted egg yolk" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "MSG" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Sesame oil" },
+        { "name": "Cornstarch" },
+        { "name": "Egg" }
+      ],
+      "steps": [
+        "Take a piece of pork, slice then chop it into an uneven, coarse mince with some texture - do not use pre-ground meat, which lacks stickiness.",
+        "Season the mince with salt, white pepper, MSG, scallion, and ginger; stir until sticky and the fibers pull together.",
+        "Throw the mince against the bowl to develop springiness, drizzle in a little sesame oil, add about 25g cornstarch, and throw again until springy; set aside.",
+        "If the mince is too firm, beat in one egg to adjust the texture.",
+        "Dice the century eggs small and spread them out on a large plate.",
+        "Use the yolks from ready-made salted eggs (cheap and firm, won't ooze oil); cut each in half.",
+        "Wrap a portion of mince around half a salted egg yolk, roll into a ball, and slap repeatedly to firm and seal the surface.",
+        "Roll each meatball over the diced century egg so the surface is fully coated.",
+        "Place a rack in a pressure cooker, scatter the remaining scallion and ginger, arrange the meatballs, and steam under pressure about 14 minutes (6 then 8) until cooked through and soft."
+      ],
+      "notes": [
+        "The meat must be hand-chopped - the tightly pulled fibers hold their shape and taste far better than store-bought ground meat.",
+        "The quality of the salted egg yolk is key; choose ones that turn sandy and oily, or the signature grainy texture will be missing.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de Viande aux Œufs de Cent Ans (Style Hunan)",
+      "ingredients": [
+        { "name": "Porc" },
+        { "name": "Œuf de cent ans" },
+        { "name": "Jaune d'œuf salé" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Glutamate" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Huile de sésame" },
+        { "name": "Fécule de maïs" },
+        { "name": "Œuf" }
+      ],
+      "steps": [
+        "Prenez un morceau de porc, tranchez-le puis hachez-le en une mince grossière et irrégulière avec du grain - n'utilisez pas de viande déjà hachée, qui manque de liant.",
+        "Assaisonnez la mince de sel, poivre blanc, glutamate, ciboule et gingembre ; mélangez jusqu'à ce que ce soit collant et que les fibres se lient.",
+        "Jetez la mince contre le bol pour développer l'élasticité, versez un peu d'huile de sésame, ajoutez environ 25 g de fécule et jetez à nouveau ; réservez.",
+        "Si la mince est trop ferme, incorporez un œuf pour ajuster la texture.",
+        "Coupez les œufs de cent ans en petits dés et étalez-les sur une grande assiette.",
+        "Utilisez les jaunes d'œufs salés tout prêts (bon marché et fermes, sans suinter d'huile) ; coupez chacun en deux.",
+        "Enveloppez une portion de mince autour d'un demi-jaune d'œuf salé, roulez en boule et claquez à plusieurs reprises pour raffermir et sceller la surface.",
+        "Roulez chaque boulette dans les dés d'œuf de cent ans pour bien enrober la surface.",
+        "Placez une grille dans un autocuiseur, parsemez du reste de ciboule et gingembre, disposez les boulettes et cuisez sous pression environ 14 minutes (6 puis 8) jusqu'à cuisson complète et moelleuse."
+      ],
+      "notes": [
+        "La viande doit être hachée à la main - les fibres bien serrées gardent la forme et le goût bien mieux que la viande hachée du commerce.",
+        "La qualité du jaune d'œuf salé est essentielle ; choisissez ceux qui deviennent sableux et huileux, sinon la texture granuleuse caractéristique manquera.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

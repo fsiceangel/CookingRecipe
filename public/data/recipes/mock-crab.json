@@ -1,0 +1,123 @@
+{
+  "id": "mock-crab",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=elnmsltnHfY",
+  "ingredientKeys": [
+    "yellow-croaker",
+    "salted-egg-yolk",
+    "egg-white",
+    "ginger",
+    "cornstarch",
+    "oil",
+    "salt",
+    "white-pepper",
+    "sugar",
+    "vinegar",
+    "light-soy-sauce",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "赛螃蟹",
+      "ingredients": [
+        { "name": "黄鱼" },
+        { "name": "咸鸭蛋黄" },
+        { "name": "蛋清" },
+        { "name": "姜" },
+        { "name": "淀粉" },
+        { "name": "油" },
+        { "name": "盐" },
+        { "name": "胡椒粉" },
+        { "name": "糖" },
+        { "name": "醋" },
+        { "name": "鲜味酱油" },
+        { "name": "香油" }
+      ],
+      "steps": [
+        "选海黄鱼，口感最像蟹腿。打掉鱼头，贴着脊骨取下两片鱼肉（注意安全），鱼头鱼骨可另熬白菜豆腐汤。",
+        "片掉鱼肉上的胸刺，鱼肉上铺姜片，上锅和咸鸭蛋黄一起蒸约8分钟（鱼肉小可蒸5分钟），蒸熟即可。",
+        "蒸好后挑去姜，只取洁白的鱼肉，去掉中间血线部分，挑成像蟹腿的鱼肉。",
+        "咸鸭蛋黄趁热用筷子拨碎，模拟蟹黄口感（一定要配姜蒸，味道才像蟹黄）。",
+        "蛋清里少放点淀粉搅匀，防止炒时出水。",
+        "调姜醋汁：姜末、醋、鲜味酱油、香油搅匀（必须放鲜味酱油，否则纯醋太酸）。",
+        "净锅用油润一下，留少许底油，下姜末炝锅，倒入蛋清，小火慢炒（火不能太高，否则蛋清变色发老）。",
+        "蛋清快凝固时倒入蒸好的黄鱼肉，慢慢翻匀使二者混为一体。",
+        "关火加盐、胡椒粉、糖调味，慢慢翻匀，底部稍出汤可少勾点淀粉。",
+        "开火炒匀，最后放入碎咸鸭蛋黄（蟹黄），轻轻一拌即可出锅，蘸姜醋汁吃。"
+      ],
+      "notes": [
+        "蒸鱼和蛋黄时一定要放姜，味道才像蟹；炒蛋清要小火慢炒，像炒鲜奶一样才嫩。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Mock Crab (Scrambled Croaker and Egg)",
+      "ingredients": [
+        { "name": "Yellow croaker" },
+        { "name": "Salted duck egg yolk" },
+        { "name": "Egg white" },
+        { "name": "Ginger" },
+        { "name": "Starch" },
+        { "name": "Oil" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "Sugar" },
+        { "name": "Vinegar" },
+        { "name": "Fresh soy sauce" },
+        { "name": "Sesame oil" }
+      ],
+      "steps": [
+        "Use sea yellow croaker, whose texture is most like crab leg. Remove the head, fillet the two sides off the spine (be careful), and reserve the head and bones for a napa cabbage tofu soup if you like.",
+        "Trim the rib bones off the fillets, lay ginger slices on the fish, and steam it together with the salted duck egg yolks for about 8 minutes (5 minutes if the fillets are small), just until cooked.",
+        "After steaming, remove the ginger and take only the white fish meat, discarding the dark bloodline, and flake it into crab-leg-like pieces.",
+        "Mash the salted duck egg yolks while hot with chopsticks to mimic crab roe (steaming with ginger is essential for the crab-roe flavor).",
+        "Mix a little starch into the egg whites so they don't release water when cooked.",
+        "Make the ginger-vinegar sauce: combine minced ginger, vinegar, fresh soy sauce, and sesame oil (the soy sauce is a must, or plain vinegar is too sharp).",
+        "Coat a clean wok with oil, leave a little in, sizzle the minced ginger, pour in the egg whites, and scramble gently over low heat (too hot and the whites discolor and toughen).",
+        "When the whites are nearly set, add the steamed croaker meat and gently fold so the two combine.",
+        "Turn off the heat, season with salt, white pepper, and sugar, fold gently, and if liquid pools at the bottom, add a little starch.",
+        "Turn the heat back on and toss, finally add the mashed salted duck egg yolk (the 'crab roe'), stir gently, and serve with the ginger-vinegar sauce."
+      ],
+      "notes": [
+        "Always add ginger when steaming the fish and yolk so it tastes like crab; scramble the egg whites gently over low heat, like cooking milk, to keep them tender.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Faux Crabe (Croaker et Blanc d'Oeuf Brouillés)",
+      "ingredients": [
+        { "name": "Maigre jaune" },
+        { "name": "Jaune d'oeuf de cane salé" },
+        { "name": "Blanc d'oeuf" },
+        { "name": "Gingembre" },
+        { "name": "Fécule" },
+        { "name": "Huile" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Sucre" },
+        { "name": "Vinaigre" },
+        { "name": "Sauce soja umami" },
+        { "name": "Huile de sésame" }
+      ],
+      "steps": [
+        "Utiliser du maigre jaune de mer, dont la texture rappelle le plus la patte de crabe. Retirer la tête, lever les deux filets le long de l'arête (prudence) et garder tête et arêtes pour une soupe de chou chinois et tofu.",
+        "Parer les arêtes des filets, poser des tranches de gingembre dessus et cuire à la vapeur avec les jaunes d'oeufs de cane salés environ 8 minutes (5 si les filets sont petits), juste cuit.",
+        "Après cuisson, retirer le gingembre et ne prendre que la chair blanche, en ôtant la veine sombre, puis l'effilocher en morceaux façon patte de crabe.",
+        "Écraser les jaunes salés à chaud avec des baguettes pour imiter le corail de crabe (la cuisson avec gingembre est essentielle pour ce goût).",
+        "Mélanger un peu de fécule aux blancs d'oeufs pour qu'ils ne rendent pas d'eau à la cuisson.",
+        "Préparer la sauce gingembre-vinaigre : mêler gingembre haché, vinaigre, sauce soja umami et huile de sésame (la sauce soja est indispensable, sinon le vinaigre est trop âpre).",
+        "Enduire un wok propre d'huile, en laisser un peu, faire grésiller le gingembre, verser les blancs et les brouiller doucement à feu doux (trop chaud, ils se colorent et durcissent).",
+        "Quand les blancs sont presque pris, ajouter la chair de maigre cuite et mélanger délicatement pour les unir.",
+        "Couper le feu, assaisonner de sel, poivre blanc et sucre, mélanger doucement, et si du liquide se forme au fond, ajouter un peu de fécule.",
+        "Remettre le feu et mélanger, ajouter enfin le jaune salé écrasé (le « corail »), remuer délicatement et servir avec la sauce gingembre-vinaigre."
+      ],
+      "notes": [
+        "Toujours ajouter du gingembre à la cuisson vapeur du poisson et du jaune pour le goût de crabe ; brouiller les blancs doucement à feu doux, comme du lait, pour les garder tendres.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "tomato-beef-brisket",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=tj_vTYIpQdE",
+  "ingredientKeys": [
+    "beef-brisket",
+    "tomato",
+    "ketchup",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "oil",
+    "salt",
+    "msg",
+    "sugar",
+    "cilantro"
+  ],
+  "translations": {
+    "cn": {
+      "title": "番茄牛腩",
+      "ingredients": [
+        { "name": "牛肋腩" },
+        { "name": "西红柿" },
+        { "name": "番茄酱" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料" },
+        { "name": "油" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "糖" },
+        { "name": "香菜" }
+      ],
+      "steps": [
+        "选带筋带肉带油的牛肋腩，直接切块，块可以切大一点，煮后会缩水。",
+        "西红柿去皮切大丁，便于一会儿炒化。",
+        "牛腩冷水下锅，烧开后撇净血沫，因为煮肉的汤后面还要用。",
+        "把焯好的牛腩捞入高压锅，加水、葱姜和两颗大料，上汽后压30分钟至软烂。",
+        "另起锅下少量底油，下葱片煸黄增香。",
+        "倒入西红柿丁炒软，再加番茄酱炒香（注意是番茄酱不是番茄沙司）。",
+        "倒入压好的牛腩，并把煮牛肉的汤一起加入，全程不加清水。",
+        "加盐、味精、糖调味，糖可以柔和番茄的酸味。",
+        "转小火炖三两分钟，让葱、番茄酱和牛肉的味道融为一体，最后撒香菜出锅。"
+      ],
+      "notes": [
+        "全程不加清水，要加就加煮牛肉的原汤，汤才浓厚不寡淡。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Tomato Beef Brisket Stew",
+      "ingredients": [
+        { "name": "Beef brisket" },
+        { "name": "Tomato" },
+        { "name": "Ketchup" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Oil" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Sugar" },
+        { "name": "Cilantro" }
+      ],
+      "steps": [
+        "Choose beef brisket with tendon, meat, and fat. Cut into chunks, a bit large since they shrink when cooked.",
+        "Peel the tomatoes and cut into large dice so they break down later.",
+        "Put the brisket in a pot of cold water, bring to a boil, and skim off the foam thoroughly, since the cooking liquid will be used later.",
+        "Transfer the blanched brisket to a pressure cooker, add water, scallion, ginger, and two pieces of star anise, and pressure-cook for 30 minutes until tender.",
+        "In another wok, add a little oil and fry the scallion until golden and fragrant.",
+        "Add the diced tomatoes and cook until soft, then add ketchup and fry until fragrant (note: ketchup, not tomato sauce).",
+        "Add the pressure-cooked brisket along with the beef cooking broth; do not add any plain water at any point.",
+        "Season with salt, MSG, and sugar; the sugar mellows the tartness of the tomato.",
+        "Turn to low heat and simmer for a few minutes so the scallion, ketchup, and beef flavors blend together, then sprinkle with cilantro and serve."
+      ],
+      "notes": [
+        "Never add plain water; only add the broth the beef was cooked in, so the soup stays rich.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Ragoût de Tendron de Boeuf à la Tomate",
+      "ingredients": [
+        { "name": "Tendron de boeuf" },
+        { "name": "Tomate" },
+        { "name": "Ketchup" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Huile" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" },
+        { "name": "Coriandre" }
+      ],
+      "steps": [
+        "Choisir du tendron de boeuf avec tendon, viande et gras. Couper en gros morceaux, car ils rétrécissent à la cuisson.",
+        "Peler les tomates et les couper en gros dés pour qu'elles fondent ensuite.",
+        "Mettre le tendron dans une casserole d'eau froide, porter à ébullition et bien écumer, car le bouillon de cuisson servira plus tard.",
+        "Transférer le tendron blanchi dans un autocuiseur, ajouter eau, ciboule, gingembre et deux anis étoilés, et cuire 30 minutes sous pression jusqu'à tendreté.",
+        "Dans un wok, ajouter un peu d'huile et faire revenir la ciboule jusqu'à ce qu'elle soit dorée et parfumée.",
+        "Ajouter les dés de tomate et cuire jusqu'à ce qu'ils ramollissent, puis ajouter le ketchup et faire revenir (du ketchup, pas du coulis).",
+        "Ajouter le tendron cuit avec le bouillon de cuisson du boeuf ; ne jamais ajouter d'eau claire.",
+        "Assaisonner de sel, glutamate et sucre ; le sucre adoucit l'acidité de la tomate.",
+        "Réduire à feu doux et laisser mijoter quelques minutes pour que les saveurs se mêlent, puis parsemer de coriandre et servir."
+      ],
+      "notes": [
+        "Ne jamais ajouter d'eau claire ; n'ajouter que le bouillon de cuisson du boeuf pour une soupe riche.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "cilantro-blasted-jellyfish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=g9fqWQEdECs",
+  "ingredientKeys": [
+    "jellyfish-head",
+    "cilantro",
+    "scallion",
+    "ginger",
+    "garlic",
+    "dark-soy-sauce",
+    "salt",
+    "white-pepper",
+    "msg",
+    "vinegar",
+    "sesame-oil",
+    "cooking-wine"
+  ],
+  "translations": {
+    "cn": {
+      "title": "芫爆蛰头",
+      "ingredients": [
+        { "name": "海蜇头" },
+        { "name": "香菜" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "老抽" },
+        { "name": "盐" },
+        { "name": "胡椒粉" },
+        { "name": "味精" },
+        { "name": "醋" },
+        { "name": "香油" },
+        { "name": "料酒" }
+      ],
+      "steps": [
+        "选盐浸的海蜇头，用清水多泡几次去咸味。",
+        "用抹刀片成约一毫米厚的连刀片（每片都带着前一片的花），片好后再用小流水冲漂去盐味。",
+        "片好飘过水的海蜇头加点老抽上色，拌成酱油蜇头备用。",
+        "锅里放清水烧到约六七十度（不用开锅）转小火，把海蜇片倒进去，开火稍微一打卷就立刻捞出。",
+        "兑碗汁：盐、胡椒粉、味精、醋、香油、料酒搅匀。",
+        "另起锅开大火加干净油，烧到六成热冒烟，下葱姜蒜炒香。",
+        "倒入焯好的海蜇头，快速烹入碗汁，旺火爆炒十几秒即出锅，撒上香菜。"
+      ],
+      "notes": [
+        "蜇头含水多，火候是关键——旺火爆炒十几秒，既要炒入味又要保持脆嫩、少出水。",
+        "焯水水温别太高（六七十度即可），稍一打卷就捞，过火就老。"
+      ]
+    },
+    "en": {
+      "title": "Cilantro-Blasted Jellyfish Head",
+      "ingredients": [
+        { "name": "Jellyfish head" },
+        { "name": "Cilantro" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Dark soy sauce" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "MSG" },
+        { "name": "Vinegar" },
+        { "name": "Sesame oil" },
+        { "name": "Cooking wine" }
+      ],
+      "steps": [
+        "Use salt-cured jellyfish head and soak it in several changes of fresh water to draw out the salt.",
+        "Slice it with a flat blade into connected pieces about 1 mm thick (each slice still attached to the last), then rinse under a thin stream of water to wash out the salt.",
+        "Toss the sliced, rinsed jellyfish with a little dark soy for color and set aside.",
+        "Heat water in the wok to about 60-70°C (don't let it boil) and lower the heat, add the jellyfish slices, turn the heat on, and the moment they curl, scoop them out immediately.",
+        "Mix a bowl sauce: salt, white pepper, MSG, vinegar, sesame oil and cooking wine.",
+        "In a fresh wok over high heat, add clean oil, heat to about 60% (just smoking), and fry the scallion, ginger and garlic until fragrant.",
+        "Add the blanched jellyfish, quickly splash in the bowl sauce, stir-fry hard for about ten seconds, then plate and scatter cilantro on top."
+      ],
+      "notes": [
+        "Jellyfish holds a lot of water, so timing is everything: a hard ten-second blast over high heat to season it while keeping it crisp and tender without weeping water.",
+        "Keep the blanching water cool (60-70°C) and scoop the jellyfish the instant it curls; overcooking makes it rubbery.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tête de Méduse Sautée à la Coriandre",
+      "ingredients": [
+        { "name": "Tête de méduse" },
+        { "name": "Coriandre" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Glutamate" },
+        { "name": "Vinaigre" },
+        { "name": "Huile de sésame" },
+        { "name": "Vin de cuisine" }
+      ],
+      "steps": [
+        "Utilisez une tête de méduse salée et faites-la tremper dans plusieurs eaux fraîches pour en retirer le sel.",
+        "Tranchez-la à la lame plate en morceaux reliés d'environ 1 mm d'épaisseur, puis rincez sous un filet d'eau pour éliminer le sel.",
+        "Mélangez la méduse tranchée et rincée avec un peu de sauce soja foncée pour la colorer et réservez.",
+        "Chauffez de l'eau dans le wok à environ 60-70 °C (sans la faire bouillir), baissez le feu, ajoutez les tranches de méduse, allumez le feu et, dès qu'elles s'enroulent, retirez-les aussitôt.",
+        "Préparez une sauce en bol : sel, poivre blanc, glutamate, vinaigre, huile de sésame et vin de cuisine.",
+        "Dans un wok propre à feu vif, ajoutez de l'huile propre, chauffez à environ 60 % (légère fumée) et faites revenir ciboule, gingembre et ail.",
+        "Ajoutez la méduse blanchie, versez vivement la sauce en bol, faites sauter à feu vif une dizaine de secondes, dressez et parsemez de coriandre."
+      ],
+      "notes": [
+        "La méduse retient beaucoup d'eau ; le minutage est essentiel : un saut vif d'une dizaine de secondes à feu vif pour l'assaisonner tout en la gardant croquante.",
+        "Gardez l'eau de blanchiment tiède (60-70 °C) et retirez la méduse dès qu'elle s'enroule ; trop cuite, elle devient caoutchouteuse.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "stir-fried-round-cabbage",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=ST51DbNAV1I",
+  "ingredientKeys": [
+    "round-cabbage",
+    "sichuan-peppercorn",
+    "chili-pepper",
+    "light-soy-sauce",
+    "vinegar",
+    "sugar",
+    "msg",
+    "salt",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炝炒莲花白",
+      "ingredients": [
+        { "name": "莲花白（圆白菜）" },
+        { "name": "花椒" },
+        { "name": "干辣椒" },
+        { "name": "生抽" },
+        { "name": "米醋" },
+        { "name": "白糖" },
+        { "name": "味精" },
+        { "name": "盐" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "选用松弛的圆白菜，掰开叶片，去掉硬梗只留叶片部分，撕成大片。",
+        "提前对好碗汁：生抽、米醋、白糖、味精、盐混合均匀。",
+        "锅里放少量油润锅，再加一勺油，下花椒小火炸香。",
+        "加一点凉油降温，下干辣椒小火炒出红色香味。",
+        "转最大火，倒入圆白菜快速翻炒。",
+        "看到菜叶微微变软，沿锅边淋入碗汁，大火快速翻匀即可出锅。"
+      ],
+      "notes": [
+        "火候是关键：圆白菜的量绝对不能超过锅，否则降温太快、口感变差。",
+        "成菜应是似脆非脆、似软非软的临界口感，需要多练习。",
+        "精确的碗汁配比见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Stir-Fried Round Cabbage",
+      "ingredients": [
+        { "name": "Round cabbage" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Dried chili peppers" },
+        { "name": "Light soy sauce" },
+        { "name": "Rice vinegar" },
+        { "name": "Sugar" },
+        { "name": "MSG" },
+        { "name": "Salt" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Choose a loose-leaf round cabbage, separate the leaves, discard the tough ribs, and tear the leaves into large pieces.",
+        "Mix the sauce in advance: light soy sauce, rice vinegar, sugar, MSG, and salt.",
+        "Add a little oil to season the wok, then add a spoon of oil and fry the Sichuan peppercorns over low heat until fragrant.",
+        "Add a splash of cool oil to lower the temperature, then add the dried chilies and fry over low heat until red and fragrant.",
+        "Turn the heat to maximum and add the cabbage, stir-frying quickly.",
+        "When the leaves just begin to wilt, pour the sauce in around the edge of the wok, toss quickly over high heat, and serve immediately."
+      ],
+      "notes": [
+        "Heat control is everything: never exceed the wok's capacity with cabbage, or the temperature drops too fast and the texture suffers.",
+        "The goal is a borderline texture, just barely crisp and just barely tender; it takes practice.",
+        "Exact sauce ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Chou Rond Sauté",
+      "ingredients": [
+        { "name": "Chou rond" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Piments séchés" },
+        { "name": "Sauce soja claire" },
+        { "name": "Vinaigre de riz" },
+        { "name": "Sucre" },
+        { "name": "Glutamate" },
+        { "name": "Sel" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Choisir un chou rond à feuilles lâches, détacher les feuilles, retirer les côtes dures et déchirer les feuilles en grands morceaux.",
+        "Préparer la sauce à l'avance : mélanger la sauce soja claire, le vinaigre de riz, le sucre, le glutamate et le sel.",
+        "Mettre un peu d'huile pour culotter le wok, ajouter une cuillère d'huile et faire revenir le poivre du Sichuan à feu doux jusqu'à ce qu'il embaume.",
+        "Ajouter un filet d'huile froide pour baisser la température, puis ajouter les piments séchés et les faire revenir à feu doux jusqu'à ce qu'ils rougissent et parfument.",
+        "Monter le feu au maximum et ajouter le chou, en le faisant sauter rapidement.",
+        "Dès que les feuilles commencent à flétrir, verser la sauce le long du bord du wok, mélanger vivement à feu vif et servir aussitôt."
+      ],
+      "notes": [
+        "La maîtrise du feu est essentielle : ne jamais dépasser la capacité du wok, sinon la température chute trop vite et la texture en pâtit.",
+        "Le but est une texture limite, à peine croquante et à peine tendre ; cela demande de la pratique.",
+        "Les proportions exactes de la sauce sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

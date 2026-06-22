@@ -1,0 +1,219 @@
+{
+  "id": "vinegar-moo-shu-lamb",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=9kfj26jNy2E",
+  "ingredientKeys": [
+    "lamb",
+    "egg",
+    "vinegar",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "salt",
+    "msg",
+    "white-pepper",
+    "cornstarch",
+    "sesame-oil",
+    "scallion",
+    "ginger",
+    "garlic",
+    "oil",
+    "baking-soda"
+  ],
+  "translations": {
+    "cn": {
+      "title": "醋溜木须",
+      "ingredients": [
+        {
+          "name": "羊外脊"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "米醋"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "小苏打"
+        }
+      ],
+      "steps": [
+        "羊外脊（前腿、后腿等筋少的部位均可）切薄片，便于快熟。",
+        "羊肉片加酱油、胡椒粉、味精、盐腌一下，酱油可去腥增香并入底味；加少许水抓匀，再加淀粉锁水，最后加点油防止下锅炒时粘连。",
+        "若肉质偏老，可每斤肉加约两克小苏打腌半小时使其更嫩。",
+        "调碗芡：米醋、酱油、盐、味精、胡椒粉、少许水、老抽、淀粉、香油，再放入蒜和葱拌匀。",
+        "锅中倒干净油烧热，倒入打散的鸡蛋炒到刚断生即盛出，鸡蛋不要炒太老。",
+        "锅烧热加凉油，下葱姜炸香，用炸过葱姜的油炒羊肉片去腥增香，然后把葱姜捞出，倒入腌好的肉片全程中火。",
+        "肉片炒到约八成变色，烹入一点醋去腥增香。",
+        "倒入炒好的鸡蛋，再倒入调好的碗芡，开大火翻炒至淀粉凝结、汤汁包裹住所有食材即可出锅。"
+      ],
+      "notes": [
+        "先用葱姜炸出料油再炒肉，配合烹醋这一步，能很好地去掉羊膻味。",
+        "鸡蛋炒到断生即可，太老不好吃。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Vinegar Moo Shu Lamb",
+      "ingredients": [
+        {
+          "name": "Lamb loin"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Rice vinegar"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Baking soda"
+        }
+      ],
+      "steps": [
+        "Thinly slice the lamb loin (front or hind leg, or any cut with little sinew works) so it cooks quickly.",
+        "Marinate the lamb with soy sauce, white pepper, MSG, and salt; the soy sauce removes gaminess, adds aroma, and gives base flavor. Add a little water and mix in, then add cornstarch to lock in moisture, and finally a little oil to keep the slices from sticking when fried.",
+        "If the meat is tough, add about 2 g of baking soda per 500 g and marinate for half an hour to tenderize.",
+        "Mix the sauce: rice vinegar, soy sauce, salt, MSG, white pepper, a little water, dark soy sauce, cornstarch, and sesame oil; stir in the garlic and scallion.",
+        "Heat clean oil in the wok, pour in the beaten eggs, and scramble just until set, then remove. Do not overcook the eggs.",
+        "Reheat the wok, add cool oil, fry the scallion and ginger until fragrant, and use that aromatic oil to cook the lamb (this removes gaminess and adds aroma). Fish out the scallion and ginger, add the marinated lamb, and cook over medium heat throughout.",
+        "When the lamb is about 80% cooked, splash in a little vinegar to remove gaminess and boost aroma.",
+        "Add the scrambled eggs back, pour in the mixed sauce, and stir-fry over high heat until the starch thickens and the sauce coats everything, then serve."
+      ],
+      "notes": [
+        "Frying scallion and ginger first to make aromatic oil, plus the splash of vinegar, effectively removes the lamb's gamy smell.",
+        "Scramble the eggs only until just set; overcooked eggs taste worse. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Moo Shu d'Agneau au Vinaigre",
+      "ingredients": [
+        {
+          "name": "Longe d'agneau"
+        },
+        {
+          "name": "Oeuf"
+        },
+        {
+          "name": "Vinaigre de riz"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Bicarbonate de soude"
+        }
+      ],
+      "steps": [
+        "Trancher finement la longe d'agneau (cuisseau avant ou arrière, ou tout morceau peu nerveux) pour une cuisson rapide.",
+        "Mariner l'agneau avec la sauce soja, le poivre blanc, le glutamate et le sel ; la sauce soja enlève le goût fort, ajoute de l'arôme et un goût de fond. Ajouter un peu d'eau et incorporer, puis la fécule pour retenir l'humidité, et enfin un peu d'huile pour éviter que les tranches collent.",
+        "Si la viande est dure, ajouter environ 2 g de bicarbonate par 500 g et mariner une demi-heure pour l'attendrir.",
+        "Mélanger la sauce : vinaigre de riz, sauce soja, sel, glutamate, poivre blanc, un peu d'eau, sauce soja foncée, fécule et huile de sésame ; incorporer l'ail et la ciboule.",
+        "Chauffer de l'huile propre dans le wok, verser les oeufs battus et brouiller juste jusqu'à prise, puis retirer. Ne pas trop cuire les oeufs.",
+        "Réchauffer le wok, ajouter de l'huile froide, faire revenir la ciboule et le gingembre jusqu'à parfum, et utiliser cette huile aromatique pour cuire l'agneau (cela enlève le goût fort et ajoute de l'arôme). Retirer la ciboule et le gingembre, ajouter l'agneau mariné et cuire à feu moyen.",
+        "Quand l'agneau est cuit à environ 80%, ajouter un trait de vinaigre pour enlever le goût fort et rehausser l'arôme.",
+        "Remettre les oeufs brouillés, verser la sauce mélangée et faire sauter à feu vif jusqu'à ce que la fécule épaississe et enrobe tout, puis servir."
+      ],
+      "notes": [
+        "Faire d'abord une huile aromatique avec ciboule et gingembre, plus le trait de vinaigre, élimine efficacement l'odeur forte de l'agneau.",
+        "Brouiller les oeufs juste jusqu'à prise ; trop cuits ils sont moins bons. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

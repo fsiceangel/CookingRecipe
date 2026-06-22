@@ -1,0 +1,102 @@
+{
+  "id": "vinegar-stir-fried-cabbage",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=fdQk4GNIBK0",
+  "ingredientKeys": [
+    "napa-cabbage",
+    "wood-ear-mushroom",
+    "garlic",
+    "oil",
+    "vinegar",
+    "sugar",
+    "salt",
+    "light-soy-sauce",
+    "cornstarch"
+  ],
+  "translations": {
+    "cn": {
+      "title": "醋溜白菜",
+      "ingredients": [
+        { "name": "白菜" },
+        { "name": "木耳" },
+        { "name": "蒜" },
+        { "name": "油" },
+        { "name": "醋" },
+        { "name": "糖" },
+        { "name": "盐" },
+        { "name": "生抽" },
+        { "name": "淀粉" }
+      ],
+      "steps": [
+        "白菜只取白菜瓣（菜芯另作他用），去掉边上多余的叶子，根部硬的地方斜切一刀。",
+        "用抹刀片的方法把白菜片成片。",
+        "木耳提前焯水备用。",
+        "锅里放底油，下蒜煸黄，再放入白菜。",
+        "炒白菜的油要稍微多放一点，全程用油煸，千万不要焯水，才能保持爽脆。",
+        "白菜炒到变软、呈半透明状时，倒入提前调好的碗汁（醋、糖、盐、生抽、淀粉）。",
+        "不用急着出锅，等芡汁变浓后让汁把白菜泡一下更入味，即可出锅。"
+      ],
+      "notes": [
+        "白菜千万不能焯水，全程用油煸才爽脆。",
+        "碗汁的具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Vinegar Stir-Fried Napa Cabbage",
+      "ingredients": [
+        { "name": "Napa cabbage" },
+        { "name": "Wood ear mushroom" },
+        { "name": "Garlic" },
+        { "name": "Oil" },
+        { "name": "Vinegar" },
+        { "name": "Sugar" },
+        { "name": "Salt" },
+        { "name": "Light soy sauce" },
+        { "name": "Cornstarch" }
+      ],
+      "steps": [
+        "Use only the white stalk parts of the napa cabbage (save the heart for another dish); trim off excess leaves and make a diagonal cut at the tough root.",
+        "Slice the cabbage into thin pieces using a flat blade-angle cut.",
+        "Blanch the wood ear mushroom ahead of time and set aside.",
+        "Add oil to the wok, fry the garlic until golden, then add the cabbage.",
+        "Be generous with the oil and stir-fry throughout — never blanch the cabbage in water, so it stays crisp.",
+        "When the cabbage turns soft and translucent, pour in the pre-mixed bowl sauce (vinegar, sugar, salt, light soy sauce, cornstarch).",
+        "Don't rush to plate — let the glaze thicken and soak the cabbage briefly for more flavor, then serve."
+      ],
+      "notes": [
+        "Never blanch the cabbage — stir-frying it only in oil keeps it crisp.",
+        "See the video end screen for the exact bowl-sauce ratios."
+      ]
+    },
+    "fr": {
+      "title": "Chou Chinois Sauté au Vinaigre",
+      "ingredients": [
+        { "name": "Chou chinois" },
+        { "name": "Champignon noir" },
+        { "name": "Ail" },
+        { "name": "Huile" },
+        { "name": "Vinaigre" },
+        { "name": "Sucre" },
+        { "name": "Sel" },
+        { "name": "Sauce soja claire" },
+        { "name": "Fécule de maïs" }
+      ],
+      "steps": [
+        "N'utiliser que les parties blanches du chou chinois (réserver le cœur pour un autre plat); retirer l'excès de feuilles et faire une entaille en biais à la base dure.",
+        "Émincer le chou en fines tranches avec une coupe à plat de la lame.",
+        "Blanchir le champignon noir à l'avance et réserver.",
+        "Mettre de l'huile dans le wok, faire revenir l'ail jusqu'à ce qu'il soit doré, puis ajouter le chou.",
+        "Être généreux avec l'huile et faire sauter tout du long — ne jamais blanchir le chou à l'eau, afin qu'il reste croquant.",
+        "Quand le chou devient tendre et translucide, verser la sauce préparée (vinaigre, sucre, sel, sauce soja claire, fécule).",
+        "Ne pas se précipiter pour dresser — laisser le glaçage épaissir et imprégner le chou un instant, puis servir."
+      ],
+      "notes": [
+        "Ne jamais blanchir le chou — le faire sauter uniquement à l'huile le garde croquant.",
+        "Voir l'écran de fin de la vidéo pour les proportions exactes de la sauce."
+      ]
+    }
+  }
+}

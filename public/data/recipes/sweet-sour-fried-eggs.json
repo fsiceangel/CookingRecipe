@@ -1,0 +1,132 @@
+{
+  "id": "sweet-sour-fried-eggs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=nweYipvpIus",
+  "ingredientKeys": [
+    "egg",
+    "ketchup",
+    "sugar",
+    "garlic",
+    "oil",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸甜荷包蛋",
+      "ingredients": [
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "番茄沙司"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "蒜末"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "水"
+        }
+      ],
+      "steps": [
+        "先调酸甜汁：锅里用油润一下，倒入番茄沙司，加入白糖，把糖炒化。",
+        "沙司太稠就兑点水，炒到合适的浓稠度盛出。",
+        "锅里烧油，油温要高一些，鸡蛋下油定型后再炸下一个。",
+        "定型后翻面浸炸一会儿，让蛋白更酥，炸到这种程度先出锅。",
+        "油温再次升高，把荷包蛋复炸一遍，炸到焦黄色出锅。",
+        "锅里留底油，放入蒜末炒香。",
+        "倒入调好的酸甜沙司炒热，放入炸好的荷包蛋。",
+        "翻炒两下让蛋裹满酱汁即可出锅。"
+      ],
+      "notes": [
+        "炸蛋油温一定要高，否则蛋白会焦掉；复炸两遍：第一遍为酥，第二遍为焦。",
+        "蛋白被炸松后内部布满小孔，像海绵一样吸满酸甜酱，一咬就爆汁。",
+        "具体配方和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sweet & Sour Fried Eggs",
+      "ingredients": [
+        {
+          "name": "Eggs"
+        },
+        {
+          "name": "Ketchup"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Minced garlic"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Water"
+        }
+      ],
+      "steps": [
+        "Make the sweet-and-sour sauce first: lightly oil the pan, add ketchup and sugar, and cook until the sugar dissolves.",
+        "If the sauce is too thick, thin it with a little water; cook to a good consistency and set aside.",
+        "Heat oil fairly hot; crack in an egg and let it set before adding the next.",
+        "Once set, flip and deep-fry a moment so the white gets crispy, then remove at this stage.",
+        "Raise the oil temperature again and re-fry the eggs until golden-brown, then remove.",
+        "Leave some oil in the pan and stir-fry the minced garlic until fragrant.",
+        "Pour in the prepared sweet-and-sour sauce, heat it through, and add the fried eggs.",
+        "Toss a couple of times to coat the eggs in the sauce, then serve."
+      ],
+      "notes": [
+        "The oil must be quite hot when frying the eggs or the whites will scorch; fry twice: the first for crispness, the second for color.",
+        "Fried until puffed, the whites are full of tiny holes that soak up the sweet-and-sour sauce like a sponge and burst when bitten.",
+        "The exact recipe and ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Œufs Frits Aigre-Doux",
+      "ingredients": [
+        {
+          "name": "Œufs"
+        },
+        {
+          "name": "Ketchup"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Ail haché"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Eau"
+        }
+      ],
+      "steps": [
+        "Préparer d'abord la sauce aigre-douce : huiler légèrement la poêle, ajouter le ketchup et le sucre, et cuire jusqu'à dissolution du sucre.",
+        "Si la sauce est trop épaisse, la détendre avec un peu d'eau; cuire à bonne consistance et réserver.",
+        "Chauffer l'huile assez fort; casser un œuf et le laisser prendre avant d'ajouter le suivant.",
+        "Une fois pris, retourner et frire un instant pour rendre le blanc croustillant, puis retirer à ce stade.",
+        "Remonter la température de l'huile et refrire les œufs jusqu'à doré-bruni, puis retirer.",
+        "Laisser un peu d'huile dans la poêle et faire revenir l'ail haché jusqu'à ce qu'il soit parfumé.",
+        "Verser la sauce aigre-douce préparée, la réchauffer, et ajouter les œufs frits.",
+        "Mélanger deux fois pour enrober les œufs de sauce, puis servir."
+      ],
+      "notes": [
+        "L'huile doit être bien chaude pour frire les œufs, sinon les blancs brûlent; frire deux fois : la première pour le croustillant, la seconde pour la couleur.",
+        "Frits jusqu'à gonfler, les blancs se remplissent de petits trous qui absorbent la sauce aigre-douce comme une éponge et éclatent sous la dent.",
+        "La recette et les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

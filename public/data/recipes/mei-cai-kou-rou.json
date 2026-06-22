@@ -1,0 +1,118 @@
+{
+  "id": "mei-cai-kou-rou",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=H2RdlmFBgj4",
+  "ingredientKeys": [
+    "pork-belly",
+    "preserved-mustard-greens",
+    "star-anise",
+    "hoisin-sauce",
+    "cooking-wine",
+    "fermented-bean-curd",
+    "garlic",
+    "msg",
+    "dark-soy-sauce",
+    "light-soy-sauce",
+    "sugar"
+  ],
+  "translations": {
+    "cn": {
+      "title": "梅菜扣肉",
+      "ingredients": [
+        { "name": "五花肉" },
+        { "name": "梅干菜" },
+        { "name": "大料（八角）" },
+        { "name": "海鲜酱" },
+        { "name": "花雕酒" },
+        { "name": "南乳汁" },
+        { "name": "蒜末" },
+        { "name": "味精" },
+        { "name": "老抽" },
+        { "name": "酱油" },
+        { "name": "白糖" }
+      ],
+      "steps": [
+        "选肥瘦合适的五花肉切成三块，直接下锅煮（煮肉的水要多放点），放几瓣大料，开火煮约三十分钟煮熟。",
+        "梅干菜若含盐多，用水泡发并洗两遍去掉盐分。",
+        "调酱汁：海鲜酱、花雕酒、南乳汁（没有南乳汁可用腐乳）、蒜末、味精、老抽、白糖搅匀成甜咸味。",
+        "洗好的梅干菜下干净的锅（不放油不放水），中火慢炒至水分失去约一半、香味出来、用勺扒拉一散一散即可。",
+        "煮好的肉用筷子扎不冒血水即捞出，拿纸吸干表面水分，抹上点酱油给皮上色，晾约十多分钟至表皮干松。",
+        "把肉切成约2.5~3毫米厚的片，与酱汁拌匀成枣红色（色浅就再加点老抽），全程不加水。",
+        "把肉片皮朝下码入碗中，间隙均匀；剩下的酱汁拌入梅干菜，铺在肉上面。",
+        "封紧保鲜膜（防止蒸时进水气），上锅蒸约一百分钟。",
+        "蒸好取出，倒扣到盘中即可。"
+      ],
+      "notes": [
+        "全程不加水，用更长的蒸制时间代替油炸和勾芡，更简单也照样好吃。",
+        "保鲜膜一定缠严实，蒸时进水会很难吃。"
+      ]
+    },
+    "en": {
+      "title": "Braised Pork with Preserved Mustard Greens (Mei Cai Kou Rou)",
+      "ingredients": [
+        { "name": "Pork belly" },
+        { "name": "Preserved mustard greens" },
+        { "name": "Star anise" },
+        { "name": "Hoisin sauce" },
+        { "name": "Cooking wine" },
+        { "name": "Fermented bean curd (sauce)" },
+        { "name": "Minced garlic" },
+        { "name": "MSG" },
+        { "name": "Dark soy sauce" },
+        { "name": "Soy sauce" },
+        { "name": "Sugar" }
+      ],
+      "steps": [
+        "Pick a piece of pork belly with a good lean-to-fat ratio and cut it into three chunks, then boil straight away (use plenty of water) with a few star anise pods for about 30 minutes until cooked.",
+        "If the preserved mustard greens are salty, soak them and rinse twice to wash out the salt.",
+        "Mix a sauce: hoisin, cooking wine, fermented bean curd sauce (or use red fermented tofu if you have none), minced garlic, MSG, dark soy, soy sauce and sugar, stirred to a sweet-savory taste.",
+        "Add the washed mustard greens to a clean dry wok (no oil, no water) and stir-fry over medium heat until about half the moisture is gone, the aroma comes out and the strands separate.",
+        "When a chopstick poke draws no bloody liquid, lift the pork out, blot it dry, brush a little soy sauce on the skin for color, and let it air-dry about 10 minutes until the skin looks dry.",
+        "Slice the pork about 2.5-3 mm thick and toss with the sauce to a jujube-red color (add more dark soy if it's pale); add no water at any point.",
+        "Pack the slices skin-side down into a bowl with even gaps; mix the remaining sauce into the mustard greens and spread them over the pork.",
+        "Seal tightly with plastic wrap (to keep steam water out) and steam about 100 minutes.",
+        "Remove, invert onto a plate, and serve."
+      ],
+      "notes": [
+        "Adding no water and steaming longer replaces the usual deep-frying and thickening step — simpler but just as tasty.",
+        "Wrap the plastic film tightly; if steam water gets in, the dish turns out poorly.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Braisé aux Légumes Moutarde Confits (Mei Cai Kou Rou)",
+      "ingredients": [
+        { "name": "Poitrine de porc" },
+        { "name": "Légumes moutarde confits" },
+        { "name": "Anis étoilé" },
+        { "name": "Sauce hoisin" },
+        { "name": "Vin de cuisine" },
+        { "name": "Fromage de soja fermenté (sauce)" },
+        { "name": "Ail haché" },
+        { "name": "Glutamate" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Sauce soja" },
+        { "name": "Sucre" }
+      ],
+      "steps": [
+        "Choisissez une poitrine de porc bien équilibrée en gras et maigre, coupez-la en trois morceaux, puis faites-la bouillir aussitôt (avec beaucoup d'eau) avec quelques anis étoilés environ 30 minutes.",
+        "Si les légumes moutarde confits sont salés, faites-les tremper et rincez deux fois pour en retirer le sel.",
+        "Préparez une sauce : hoisin, vin de cuisine, sauce de fromage de soja fermenté (ou tofu fermenté rouge à défaut), ail haché, glutamate, sauce soja foncée, sauce soja et sucre, pour un goût sucré-salé.",
+        "Mettez les légumes moutarde lavés dans un wok sec et propre (sans huile ni eau) et faites sauter à feu moyen jusqu'à perdre environ la moitié de leur eau et libérer leur arôme.",
+        "Quand une baguette plantée dans le porc ne fait plus sortir de jus sanguinolent, retirez-le, épongez-le, badigeonnez la couenne d'un peu de sauce soja pour la couleur et laissez sécher environ 10 minutes.",
+        "Tranchez le porc à environ 2,5-3 mm d'épaisseur et mélangez-le à la sauce jusqu'à une couleur rouge jujube (ajoutez de la sauce soja foncée si c'est pâle) ; n'ajoutez jamais d'eau.",
+        "Disposez les tranches couenne vers le bas dans un bol avec des espaces réguliers ; mélangez le reste de sauce aux légumes moutarde et étalez-les sur le porc.",
+        "Scellez bien avec du film alimentaire (pour empêcher l'eau de vapeur d'entrer) et faites cuire à la vapeur environ 100 minutes.",
+        "Retirez, renversez sur un plat et servez."
+      ],
+      "notes": [
+        "Ne pas ajouter d'eau et cuire plus longtemps à la vapeur remplace la friture et la liaison habituelles — plus simple mais tout aussi savoureux.",
+        "Filmez bien hermétiquement ; si l'eau de vapeur s'infiltre, le plat est raté.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

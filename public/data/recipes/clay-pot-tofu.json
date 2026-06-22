@@ -1,0 +1,192 @@
+{
+  "id": "clay-pot-tofu",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=vUduz3jKL2s",
+  "ingredientKeys": [
+    "tofu",
+    "crab",
+    "egg",
+    "napa-cabbage",
+    "chicken-stock",
+    "scallion",
+    "ginger",
+    "cornstarch",
+    "salt",
+    "msg",
+    "white-pepper",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "砂锅豆腐",
+      "ingredients": [
+        {
+          "name": "北豆腐"
+        },
+        {
+          "name": "螃蟹"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "白菜"
+        },
+        {
+          "name": "鸡汤"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "北豆腐用手掰成块，别用刀切，用清水稍微泡去豆腥味。",
+        "螃蟹去鳃、去脐，两个爪子靠嘴部分剁一下，一切两半再切块，刀口处蘸上淀粉护住蟹肉。",
+        "锅上火倒入干净的油，把打散的鸡蛋倒入热油里炸到焦黄色，盛出。",
+        "大火先炸螃蟹壳至变红，再下蘸好淀粉的蟹块炸一下，捞出。",
+        "油里放点葱姜把油炸香，倒入调好的鸡汤，再放葱姜。",
+        "放入泡好的豆腐、白菜、炸蛋松和螃蟹，再加一碗水。",
+        "大火滚煮，至少20分钟，把豆腐炖得嫩软。",
+        "调味放盐、味精、胡椒粉即可出锅。"
+      ],
+      "notes": [
+        "豆腐要手掰、要选好，鸡蛋要炸得稍狠一些，滚煮时蛋香才出得来。",
+        "蟹块刀口蘸淀粉可以保护蟹肉；这道菜用点高汤，汤会更鲜更浓。",
+        "高汤做法见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Clay-Pot Tofu",
+      "ingredients": [
+        {
+          "name": "Firm (north) tofu"
+        },
+        {
+          "name": "Crab"
+        },
+        {
+          "name": "Eggs"
+        },
+        {
+          "name": "Napa cabbage"
+        },
+        {
+          "name": "Chicken stock"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Starch"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Ground white pepper"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Tear the firm tofu into pieces by hand rather than cutting it, and soak briefly in water to remove the raw soy taste.",
+        "Clean the crab (remove the gills and apron), chop the claws near the tips, cut the body in half and then into pieces, and dip the cut edges in starch to protect the crab meat.",
+        "Heat clean oil in the pan, pour in the beaten eggs, and fry until golden-brown, then remove.",
+        "Over high heat, first fry the crab shell until it turns red, then add the starch-dipped crab pieces and fry briefly, then remove.",
+        "Add a little scallion and ginger to the oil to make it fragrant, pour in the prepared chicken stock, and add more scallion and ginger.",
+        "Add the soaked tofu, napa cabbage, fried egg, and crab, then add a bowl of water.",
+        "Boil hard for at least 20 minutes until the tofu is tender and soft.",
+        "Season with salt, MSG, and white pepper, then serve."
+      ],
+      "notes": [
+        "Tear the tofu by hand and choose good tofu; fry the eggs fairly hard so their aroma comes out when boiled.",
+        "Dipping the crab's cut edges in starch protects the meat; using some real stock makes the soup richer and fresher.",
+        "The stock recipe is shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tofu en Marmite de Terre",
+      "ingredients": [
+        {
+          "name": "Tofu ferme (du nord)"
+        },
+        {
+          "name": "Crabe"
+        },
+        {
+          "name": "Œufs"
+        },
+        {
+          "name": "Chou chinois"
+        },
+        {
+          "name": "Bouillon de poulet"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Fécule"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Poivre blanc moulu"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Casser le tofu ferme en morceaux à la main plutôt qu'au couteau, et le tremper brièvement dans l'eau pour ôter le goût de soja cru.",
+        "Nettoyer le crabe (retirer les branchies et le tablier), couper les pinces près du bout, couper le corps en deux puis en morceaux, et tremper les arêtes coupées dans la fécule pour protéger la chair.",
+        "Chauffer de l'huile propre dans la poêle, verser les œufs battus et frire jusqu'à doré-bruni, puis retirer.",
+        "À feu vif, frire d'abord la carapace de crabe jusqu'à ce qu'elle rougisse, puis ajouter les morceaux de crabe trempés dans la fécule et frire brièvement, puis retirer.",
+        "Ajouter un peu de ciboule et de gingembre à l'huile pour la parfumer, verser le bouillon de poulet préparé, et ajouter encore de la ciboule et du gingembre.",
+        "Ajouter le tofu trempé, le chou chinois, les œufs frits et le crabe, puis ajouter un bol d'eau.",
+        "Faire bouillir fort au moins 20 minutes jusqu'à ce que le tofu soit tendre et moelleux.",
+        "Assaisonner de sel, de glutamate et de poivre blanc, puis servir."
+      ],
+      "notes": [
+        "Casser le tofu à la main et choisir un bon tofu; frire les œufs assez fort pour que leur arôme ressorte à l'ébullition.",
+        "Tremper les arêtes coupées du crabe dans la fécule protège la chair; un vrai bouillon rend la soupe plus riche et plus fraîche.",
+        "La recette du bouillon est indiquée à la fin de la vidéo."
+      ]
+    }
+  }
+}

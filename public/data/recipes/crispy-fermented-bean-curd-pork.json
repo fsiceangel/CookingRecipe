@@ -1,0 +1,149 @@
+{
+  "id": "crispy-fermented-bean-curd-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=jWy42SBrNHA",
+  "ingredientKeys": [
+    "pork-belly",
+    "garlic",
+    "fermented-bean-curd",
+    "hoisin-sauce",
+    "salt",
+    "msg",
+    "cornstarch",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "脆炸腐乳肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "大蒜"
+        },
+        {
+          "name": "腐乳汁"
+        },
+        {
+          "name": "海鲜酱"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "选肥一点的五花肉，去皮后切片，厚薄随意，放入盆中。",
+        "大蒜用打碎机打成蒜蓉蒜水。",
+        "肉里加入腐乳汁、海鲜酱、盐、少许味精，拌匀。因为油炸会脱水浓缩，底味不要太咸。",
+        "分次加入蒜水和淀粉，反复抓拌，让每片肉表面都裹上一层厚度足够的糊（脆炸需要厚糊才酥脆）。此菜用蒜味去腥，无需加葱姜。",
+        "起锅烧油至五成热，转中火，一片片把肉下锅。",
+        "腐乳和蒜上色很快，油温不能太高，下锅后会变成橘红色，中火慢炸。",
+        "炸至定型、表面有薄薄硬壳、上色到腐乳色即可捞出。",
+        "可分锅复炸，捞出装盘，喜辣可撒点辣椒。"
+      ],
+      "notes": [
+        "一定要用肥一点的五花肉，炸后腐乳、海鲜酱和蒜把油腻味盖住，吃着不腻。",
+        "具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Crispy Fermented Bean Curd Pork",
+      "ingredients": [
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Fermented bean curd sauce"
+        },
+        {
+          "name": "Hoisin sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Choose fattier pork belly, remove the skin and slice (thickness as you like). Place in a bowl.",
+        "Blitz the garlic into a garlic paste/garlic water.",
+        "Add fermented bean curd sauce, hoisin sauce, salt and a little MSG to the pork and mix. Since deep-frying dehydrates and concentrates flavor, keep the base seasoning on the mild side.",
+        "Add the garlic water and cornstarch in batches, kneading repeatedly until every slice is coated in a thick batter (crispy frying needs a thick coat). The garlic removes off-flavors, so no scallion or ginger is needed.",
+        "Heat oil to about 150°C (medium), then lower to medium heat and add the pork slice by slice.",
+        "Fermented bean curd and garlic color quickly, so don't let the oil get too hot; the pieces turn orange-red on contact. Fry slowly over medium heat.",
+        "Fry until set, with a thin hard shell, colored to a fermented-bean-curd hue, then remove.",
+        "Fry in batches as needed, plate, and sprinkle chili if you like heat."
+      ],
+      "notes": [
+        "Use fattier pork belly; after frying the fermented bean curd, hoisin and garlic mask the richness, so it doesn't taste greasy.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Frit Croustillant au Tofu Fermenté",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Sauce de tofu fermenté"
+        },
+        {
+          "name": "Sauce hoisin"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Fécule"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Choisir une poitrine de porc assez grasse, retirer la couenne et la trancher (épaisseur au choix). Mettre dans un bol.",
+        "Mixer l'ail en purée / eau d'ail.",
+        "Ajouter au porc la sauce de tofu fermenté, la sauce hoisin, le sel et un peu de glutamate, puis mélanger. La friture déshydrate et concentre les saveurs, donc l'assaisonnement de base doit rester peu salé.",
+        "Ajouter l'eau d'ail et la fécule en plusieurs fois en pétrissant, jusqu'à ce que chaque tranche soit enrobée d'une pâte épaisse (la friture croustillante exige un enrobage épais). L'ail élimine les mauvaises odeurs, donc ni ciboule ni gingembre.",
+        "Chauffer l'huile à environ 150°C, baisser à feu moyen et plonger le porc tranche par tranche.",
+        "Le tofu fermenté et l'ail colorent vite, l'huile ne doit pas être trop chaude ; les morceaux deviennent orange-rouge au contact. Frire doucement à feu moyen.",
+        "Frire jusqu'à ce que ce soit ferme, avec une fine croûte dure, coloré à la teinte du tofu fermenté, puis retirer.",
+        "Frire en plusieurs fournées si besoin, dresser et parsemer de piment selon le goût."
+      ],
+      "notes": [
+        "Utiliser une poitrine de porc grasse ; après friture, le tofu fermenté, le hoisin et l'ail masquent le gras, le plat n'est pas écœurant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

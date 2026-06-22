@@ -1,0 +1,149 @@
+{
+  "id": "all-purpose-spicy-brine",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=MzWkdkY0V68",
+  "ingredientKeys": [
+    "chicken-feet",
+    "duck-head",
+    "duck-neck",
+    "duck-wing",
+    "kelp",
+    "fried-tofu",
+    "chili-pepper",
+    "scallion",
+    "ginger",
+    "onion",
+    "cilantro",
+    "doubanjiang",
+    "chicken-stock",
+    "cooking-wine",
+    "rock-sugar",
+    "salt",
+    "msg",
+    "light-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "万能辣卤",
+      "ingredients": [
+        { "name": "鸡爪" },
+        { "name": "鸭头" },
+        { "name": "鸭脖" },
+        { "name": "鸭翅" },
+        { "name": "海带" },
+        { "name": "炸豆腐" },
+        { "name": "辣椒" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "洋葱" },
+        { "name": "香菜" },
+        { "name": "豆瓣酱" },
+        { "name": "鸡汤" },
+        { "name": "花雕酒" },
+        { "name": "冰糖" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "酱油" }
+      ],
+      "steps": [
+        "食材处理：鸡爪去趾甲洗净，鸭头、鸭脖、鸡心、鸭翅等用水泡去血水和脏物，鸭嘴掰开洗净。",
+        "辣椒掰开（不掰辣味出不来），香料提前用水泡上，免得炸的时候不出味。",
+        "锅洗净倒油烧热，先把葱姜、洋葱、香菜全程大火炸到金黄出香，捞到提前备好的汤里。",
+        "用同一锅油把泡过的香料炸一下，再把泡好的辣椒炸香，分别捞入汤中。",
+        "转小火，下豆瓣酱炒香，倒入汤里，让汤面浮起一层红油。",
+        "加鸡汤增香（家里量小，加鸡汤汤才够香），下冰糖、盐、味精、酱油调味，小火慢熬成秘制酱汤。",
+        "鸡爪等原料冷水下锅、加花雕酒焯水撇净血沫，捞出直接放进卤汤。",
+        "煮鸭头之类时火不要太大，烧开后转中火，咕嘟嘟小滚约二十分钟（提前泡一夜的话最多煮十分钟）。",
+        "放入海带结、炸豆腐等蔬菜，开锅后中火煮两分钟即关火。",
+        "关火后焖约半小时让味道渗透，即可食用。"
+      ],
+      "notes": [
+        "这是一锅万能卤汤，鸡腿、鸭货、海带、炸豆腐都能卤；蔬菜随意搭配。",
+        "卤完把香菜、炸过的料捞出滤一遍，下次再卤时补点香料，就成了一锅老汤。"
+      ]
+    },
+    "en": {
+      "title": "All-Purpose Spicy Brine",
+      "ingredients": [
+        { "name": "Chicken feet" },
+        { "name": "Duck head" },
+        { "name": "Duck neck" },
+        { "name": "Duck wing" },
+        { "name": "Kelp" },
+        { "name": "Fried tofu" },
+        { "name": "Dried chili pepper" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Onion" },
+        { "name": "Cilantro" },
+        { "name": "Doubanjiang" },
+        { "name": "Chicken stock" },
+        { "name": "Cooking wine" },
+        { "name": "Rock sugar" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Soy sauce" }
+      ],
+      "steps": [
+        "Prep the ingredients: clean the chicken feet, soak duck heads, necks, hearts and wings in water to draw out blood and grit, and open the duck bills to rinse them out.",
+        "Break the dried chilies open (their heat won't come out otherwise) and soak the spices in water beforehand so they release flavor when fried.",
+        "Wash the wok, heat oil, and fry scallion, ginger, onion and cilantro over high heat until golden and fragrant, then transfer them to a pot of prepared stock.",
+        "In the same oil, fry the soaked spices, then the soaked chilies until fragrant, scooping each into the stock.",
+        "Lower the heat, fry the doubanjiang until fragrant, and stir it into the stock so a layer of red oil floats on top.",
+        "Add chicken stock for richness (home batches are small, so stock makes up the depth), then season with rock sugar, salt, MSG and soy sauce, and simmer gently into a secret brine.",
+        "Blanch the chicken feet and other proteins from cold water with a splash of cooking wine, skim off the scum, then drop them straight into the brine.",
+        "Keep the heat moderate for items like duck heads; once boiling, lower to medium and keep at a gentle simmer about 20 minutes (only 10 if pre-soaked overnight).",
+        "Add the kelp knots, fried tofu and any vegetables; once it returns to a boil, cook 2 minutes on medium then turn off the heat.",
+        "Let everything steep, covered, about half an hour so the flavor soaks in, then serve."
+      ],
+      "notes": [
+        "This one brine handles everything: chicken legs, duck parts, kelp, fried tofu, and any vegetables you like.",
+        "After brining, fish out the cilantro and fried aromatics and strain it; top up the spices next time and you have a master stock.",
+        "Exact spice ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Saumure Épicée Polyvalente",
+      "ingredients": [
+        { "name": "Pieds de poulet" },
+        { "name": "Tête de canard" },
+        { "name": "Cou de canard" },
+        { "name": "Aile de canard" },
+        { "name": "Algue kombu" },
+        { "name": "Tofu frit" },
+        { "name": "Piment séché" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Oignon" },
+        { "name": "Coriandre" },
+        { "name": "Doubanjiang" },
+        { "name": "Bouillon de poulet" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sucre candi" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Sauce soja" }
+      ],
+      "steps": [
+        "Préparez les ingrédients : nettoyez les pieds de poulet, faites tremper les têtes, cous, cœurs et ailes de canard pour en retirer le sang et les impuretés, et ouvrez les becs pour les rincer.",
+        "Ouvrez les piments séchés (sinon leur piquant ne ressort pas) et faites tremper les épices à l'avance pour qu'elles libèrent leur arôme à la friture.",
+        "Lavez le wok, chauffez l'huile et faites frire à feu vif la ciboule, le gingembre, l'oignon et la coriandre jusqu'à ce qu'ils soient dorés, puis transférez-les dans une casserole de bouillon préparé.",
+        "Dans la même huile, faites frire les épices trempées, puis les piments trempés, et ajoutez-les au bouillon.",
+        "Baissez le feu, faites revenir le doubanjiang, puis incorporez-le au bouillon pour qu'une couche d'huile rouge surnage.",
+        "Ajoutez du bouillon de poulet pour la richesse, puis assaisonnez avec sucre candi, sel, glutamate et sauce soja, et laissez mijoter doucement en saumure secrète.",
+        "Blanchissez les pieds de poulet et autres viandes à l'eau froide avec un trait de vin de cuisine, écumez, puis plongez-les directement dans la saumure.",
+        "Gardez un feu modéré pour les têtes de canard ; à ébullition, baissez à feu moyen et laissez frémir environ 20 minutes (10 si trempé une nuit).",
+        "Ajoutez les nœuds de kombu, le tofu frit et les légumes ; à la reprise de l'ébullition, cuisez 2 minutes à feu moyen puis éteignez.",
+        "Laissez infuser à couvert environ une demi-heure pour que les saveurs pénètrent, puis servez."
+      ],
+      "notes": [
+        "Cette saumure unique convient à tout : cuisses de poulet, abats de canard, kombu, tofu frit et tous les légumes.",
+        "Après usage, retirez la coriandre et les aromates frits et filtrez ; complétez les épices la prochaine fois et vous obtenez un bouillon-maître.",
+        "Les proportions exactes des épices sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

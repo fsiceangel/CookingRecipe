@@ -1,0 +1,155 @@
+{
+  "id": "pickled-mustard-greens-steamed-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=RFr2S_6qSQY",
+  "ingredientKeys": [
+    "sea-bass",
+    "pickled-potherb-mustard",
+    "pork-belly",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "msg",
+    "light-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "雪菜蒸鱼",
+      "ingredients": [
+        {
+          "name": "鲈鱼"
+        },
+        {
+          "name": "雪菜"
+        },
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "花雕酒"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "蒸鱼酱油"
+        }
+      ],
+      "steps": [
+        "鱼处理干净，剪去背鳍、腹鳍、胸鳍（这些地方没肉且腥）。",
+        "锅里烧水，把鱼放进去烫一下（替代红烧的高油温炸），两面烫到表皮变浅灰色，捞出用刀刮去表面黑色黏液，冲洗干净。",
+        "把鱼腹劈开，斩断脊骨和头骨摊平，淋点花雕酒。",
+        "五花肉选肥一点的，去皮切成肉末肉丁（炒雪菜要用猪油才香）。",
+        "雪菜去掉根部（易藏泥沙），顺切成黄豆粒大小，叶子部分劈一下。",
+        "锅里先煸肉末，把油脂全部煸出，下葱姜炒香。",
+        "倒入雪菜翻炒，加点水促进味道融合，加味精调味。",
+        "把炒好的雪菜浇到鱼上，完全盖住鱼身。",
+        "水烧开，上锅大火上汽蒸十分钟（鱼眼凸出即熟）。",
+        "蒸鱼酱油加热后浇到鱼上即可（按口味咸淡增减）。"
+      ],
+      "notes": [
+        "用开水烫鱼代替油炸去黏液腥味，做法简单、容错高，怎么做都好吃。",
+        "炒雪菜一定要放肥五花肉出猪油增香。爱吃辣可加点辣椒。"
+      ]
+    },
+    "en": {
+      "title": "Steamed Fish with Pickled Mustard Greens",
+      "ingredients": [
+        {
+          "name": "Sea bass"
+        },
+        {
+          "name": "Pickled potherb mustard (xuecai)"
+        },
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Huadiao wine"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Steamed-fish soy sauce"
+        }
+      ],
+      "steps": [
+        "Clean the fish and trim off the dorsal, belly and pectoral fins (no meat there and they're fishy).",
+        "Boil water and blanch the fish (in place of the high-heat frying used for red-braising). Scald both sides until the skin turns pale gray, lift out, scrape off the black slime with a knife, and rinse clean.",
+        "Split the belly open, chop through the spine and head bone so it lies flat, and splash on a little Huadiao wine.",
+        "Use fattier pork belly, remove the skin and chop into mince/small dice (the xuecai needs rendered pork fat for aroma).",
+        "Trim the roots off the pickled mustard greens (they hide grit), cut lengthwise into soybean-sized bits, and chop the leafy parts.",
+        "Render the pork mince in the wok until all the fat comes out, then add scallion and ginger and fry until fragrant.",
+        "Add the pickled mustard greens and stir-fry, add a little water to meld the flavors, and season with MSG.",
+        "Spoon the cooked greens over the fish, covering it completely.",
+        "Bring the steamer water to a boil and steam over high heat for 10 minutes (the fish is done when the eyes bulge out).",
+        "Heat the steamed-fish soy sauce and pour it over the fish (adjust amount to taste)."
+      ],
+      "notes": [
+        "Blanching the fish in boiling water instead of deep-frying removes the slime and fishiness; this method is simple and forgiving — hard to get wrong.",
+        "Use fatty pork belly when frying the xuecai so the rendered fat adds aroma. Add chili if you like heat."
+      ]
+    },
+    "fr": {
+      "title": "Poisson Vapeur aux Légumes Moutarde Marinés",
+      "ingredients": [
+        {
+          "name": "Bar"
+        },
+        {
+          "name": "Moutarde marinée (xuecai)"
+        },
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Vin Huadiao"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sauce soja pour poisson vapeur"
+        }
+      ],
+      "steps": [
+        "Nettoyer le poisson et retirer les nageoires dorsale, ventrale et pectorales (sans chair et au goût de poisson prononcé).",
+        "Porter de l'eau à ébullition et y blanchir le poisson (à la place de la friture à feu vif du braisé rouge). Ébouillanter les deux faces jusqu'à ce que la peau devienne gris pâle, retirer, gratter le mucus noir au couteau et rincer.",
+        "Fendre le ventre, trancher la colonne et l'os de la tête pour aplatir, puis arroser d'un peu de vin Huadiao.",
+        "Utiliser une poitrine de porc grasse, retirer la couenne et hacher en mince/petits dés (le xuecai a besoin de gras de porc fondu pour l'arôme).",
+        "Retirer les racines des légumes moutarde marinés (qui cachent du sable), couper dans la longueur en morceaux de la taille d'un soja, et hacher les feuilles.",
+        "Faire fondre la viande hachée dans le wok jusqu'à en extraire tout le gras, puis ajouter ciboule et gingembre et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter les légumes moutarde et faire sauter, ajouter un peu d'eau pour fondre les saveurs, et assaisonner de glutamate.",
+        "Répartir les légumes cuits sur le poisson en le recouvrant entièrement.",
+        "Porter l'eau du cuiseur vapeur à ébullition et cuire à feu vif 10 minutes (le poisson est cuit quand les yeux ressortent).",
+        "Chauffer la sauce soja pour poisson vapeur et la verser sur le poisson (ajuster selon le goût)."
+      ],
+      "notes": [
+        "Blanchir le poisson à l'eau bouillante au lieu de le frire élimine le mucus et le goût de poisson ; méthode simple et tolérante, difficile à rater.",
+        "Utiliser une poitrine de porc grasse pour faire revenir le xuecai afin que le gras fondu apporte l'arôme. Ajouter du piment selon le goût."
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "milky-crucian-carp-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=p13TGI-lHus",
+  "ingredientKeys": [
+    "crucian-carp",
+    "lard",
+    "tofu",
+    "scallion",
+    "ginger",
+    "salt",
+    "white-pepper",
+    "msg",
+    "cilantro",
+    "goji-berry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "奶汤鲫鱼",
+      "ingredients": [
+        { "name": "鲫鱼" },
+        { "name": "猪油" },
+        { "name": "豆腐" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "胡椒粉" },
+        { "name": "味精" },
+        { "name": "香菜" },
+        { "name": "枸杞" }
+      ],
+      "steps": [
+        "处理鲫鱼：掏空内脏，刮净腹腔黑膜，去掉背部的鱼线，反复冲洗干净。",
+        "用热水烫一下鱼身，把残留的鳞和黑膜刮净，进一步去腥去色，保证汤白。",
+        "鱼身两面打花刀，深至鱼骨，便于入味出鲜。",
+        "净锅烧热，下猪油，把鱼煎至两面金黄焦香，不要煎糊。",
+        "砂锅里烧一锅热水，放入葱姜，再把煎好的鱼倒进去。",
+        "全程大火滚煮，汤色逐渐变浓变白，约熬十分钟左右至奶白色。",
+        "放入豆腐块，加盐、白胡椒粉、味精调味，鲫鱼汤胡椒粉必须放。",
+        "再咕嘟两分钟让鱼汤味进入豆腐，最后撒上香菜和枸杞即可。"
+      ],
+      "notes": [
+        "用猪油煎鱼能让汤更白更香；全程大火滚煮是出奶白汤的关键。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Milky Crucian Carp Soup",
+      "ingredients": [
+        { "name": "Crucian carp" },
+        { "name": "Lard" },
+        { "name": "Tofu" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "MSG" },
+        { "name": "Cilantro" },
+        { "name": "Goji berries" }
+      ],
+      "steps": [
+        "Clean the carp: remove the innards, scrape off the black membrane in the belly, remove the fishy line along the back, and rinse thoroughly.",
+        "Blanch the fish surface with hot water, then scrape off any remaining scales and black film to further remove odor and discoloration so the soup stays white.",
+        "Score both sides of the fish down to the bone to help the flavor and umami come out.",
+        "Heat a clean pot, add lard, and fry the fish until both sides are golden and fragrant, without burning.",
+        "Bring a pot of hot water to a boil in a clay pot, add scallion and ginger, then add the fried fish.",
+        "Boil over high heat the whole time; the soup gradually thickens and turns white, about 10 minutes until milky.",
+        "Add the tofu cubes, then season with salt, white pepper, and MSG. White pepper is a must for crucian carp soup.",
+        "Simmer two more minutes to let the tofu absorb the flavor, then sprinkle with cilantro and goji berries and serve."
+      ],
+      "notes": [
+        "Frying the fish in lard makes the soup whiter and more fragrant; boiling over high heat the whole time is key to a milky soup.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe Laiteuse de Carassin",
+      "ingredients": [
+        { "name": "Carassin" },
+        { "name": "Saindoux" },
+        { "name": "Tofu" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Glutamate" },
+        { "name": "Coriandre" },
+        { "name": "Baies de goji" }
+      ],
+      "steps": [
+        "Nettoyer le carassin : retirer les viscères, gratter la membrane noire du ventre, enlever la veine dorsale et rincer soigneusement.",
+        "Ébouillanter la surface du poisson, puis gratter les écailles et le film noir restants pour ôter l'odeur et garder une soupe bien blanche.",
+        "Inciser les deux côtés du poisson jusqu'à l'arête pour libérer la saveur.",
+        "Chauffer une poêle propre, ajouter le saindoux et frire le poisson jusqu'à ce que les deux faces soient dorées et parfumées, sans brûler.",
+        "Porter une marmite d'eau chaude à ébullition dans un poêlon en terre, ajouter ciboule et gingembre, puis le poisson frit.",
+        "Faire bouillir à feu vif tout le temps ; la soupe épaissit et blanchit, environ 10 minutes jusqu'à devenir laiteuse.",
+        "Ajouter les cubes de tofu, puis assaisonner de sel, poivre blanc et glutamate. Le poivre blanc est indispensable.",
+        "Laisser mijoter deux minutes de plus pour que le tofu s'imprègne, puis parsemer de coriandre et de baies de goji et servir."
+      ],
+      "notes": [
+        "Frire le poisson au saindoux rend la soupe plus blanche et parfumée ; l'ébullition à feu vif est la clé d'une soupe laiteuse.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

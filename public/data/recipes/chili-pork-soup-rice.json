@@ -1,0 +1,124 @@
+{
+  "id": "chili-pork-soup-rice",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=FPNf3QeLxPc",
+  "ingredientKeys": [
+    "pork-belly",
+    "chili-pepper",
+    "garlic",
+    "green-garlic",
+    "star-anise",
+    "oil",
+    "light-soy-sauce",
+    "msg",
+    "oyster-sauce",
+    "sugar",
+    "white-pepper",
+    "water",
+    "cooked-rice"
+  ],
+  "translations": {
+    "cn": {
+      "title": "辣椒炒肉汤泡饭",
+      "ingredients": [
+        { "name": "五花肉" },
+        { "name": "辣椒（小米辣）" },
+        { "name": "蒜" },
+        { "name": "青蒜" },
+        { "name": "大料（八角）" },
+        { "name": "油" },
+        { "name": "酱油" },
+        { "name": "味精" },
+        { "name": "蚝油" },
+        { "name": "白糖" },
+        { "name": "胡椒粉" },
+        { "name": "水" },
+        { "name": "米饭" }
+      ],
+      "steps": [
+        "五花肉去皮，肥瘦分开切丁。",
+        "调汁：酱油、味精、蚝油、白糖、胡椒粉混合备用。",
+        "锅烧热加油，先下肥肉丁和两颗大料，像炼油一样把肥肉煸干、煸小。",
+        "再把瘦肉倒进去煸熟，扒到一边，下蒜用油炸香。",
+        "蒜炸黄后倒入辣椒和小米辣，全程大火翻炒（原锅炒能让辣椒、蒜、肉味道更融合）。",
+        "倒入调好的汁定味，加少量水，关小火焖五分钟让味道渗进肉里。",
+        "时间到把青蒜倒进去翻匀，出锅。",
+        "盛一碗米饭，把带汤的辣椒炒肉浇在饭上泡着吃。"
+      ],
+      "notes": [
+        "原锅一锅炒，辣椒、蒜、肉的味道会很融合。",
+        "这道菜汤比一般小炒肉多，更适合拌饭，猪油让米饭油润。",
+        "确切比例请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Chili Stir-Fried Pork over Rice in Soup",
+      "ingredients": [
+        { "name": "Pork belly" },
+        { "name": "Chili pepper" },
+        { "name": "Garlic" },
+        { "name": "Green garlic" },
+        { "name": "Star anise" },
+        { "name": "Oil" },
+        { "name": "Soy sauce" },
+        { "name": "MSG" },
+        { "name": "Oyster sauce" },
+        { "name": "Sugar" },
+        { "name": "White pepper" },
+        { "name": "Water" },
+        { "name": "Cooked rice" }
+      ],
+      "steps": [
+        "Skin the pork belly and dice it, separating the fatty and lean parts.",
+        "Mix the sauce: soy sauce, MSG, oyster sauce, sugar, and white pepper; set aside.",
+        "Heat the wok with oil, add the fatty diced pork and two star anise, and render it down like making lard until shrunk and dry.",
+        "Add the lean pork and fry until cooked, push it to one side, and fry the garlic in the oil until fragrant.",
+        "Once the garlic is golden, add the chilies and small chilies, stir-frying over high heat throughout (cooking everything in one wok melds the chili, garlic, and pork flavors).",
+        "Pour in the prepared sauce to season, add a little water, then lower the heat and cover for five minutes so the flavor soaks into the meat.",
+        "When done, add the green garlic, toss to combine, and serve.",
+        "Serve over a bowl of cooked rice, ladling the soupy chili pork on top to soak the rice."
+      ],
+      "notes": [
+        "Cooking it all in one wok melds the chili, garlic, and pork flavors together.",
+        "This dish has more sauce than a typical stir-fried pork, ideal for mixing into rice; the pork fat makes the rice rich and glossy.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Sauté aux Piments sur Riz en Soupe",
+      "ingredients": [
+        { "name": "Poitrine de porc" },
+        { "name": "Piment" },
+        { "name": "Ail" },
+        { "name": "Ail vert" },
+        { "name": "Anis étoilé" },
+        { "name": "Huile" },
+        { "name": "Sauce soja" },
+        { "name": "Glutamate" },
+        { "name": "Sauce d'huître" },
+        { "name": "Sucre" },
+        { "name": "Poivre blanc" },
+        { "name": "Eau" },
+        { "name": "Riz cuit" }
+      ],
+      "steps": [
+        "Retirer la couenne de la poitrine de porc et la couper en dés, en séparant le gras du maigre.",
+        "Mélanger la sauce : sauce soja, glutamate, sauce d'huître, sucre et poivre blanc ; réserver.",
+        "Chauffer le wok avec de l'huile, ajouter les dés gras et deux anis étoilé, et les faire fondre comme pour du saindoux jusqu'à ce qu'ils soient réduits et secs.",
+        "Ajouter le porc maigre et faire cuire, le pousser sur un côté, et faire revenir l'ail dans l'huile jusqu'à ce qu'il soit parfumé.",
+        "Une fois l'ail doré, ajouter les piments et petits piments, sauter à feu vif tout du long (tout cuire dans un seul wok fond les saveurs de piment, ail et porc).",
+        "Verser la sauce préparée pour assaisonner, ajouter un peu d'eau, puis baisser le feu et couvrir cinq minutes pour que la saveur pénètre la viande.",
+        "Quand c'est prêt, ajouter l'ail vert, mélanger et servir.",
+        "Servir sur un bol de riz cuit, en nappant le porc aux piments et sa sauce par-dessus pour imbiber le riz."
+      ],
+      "notes": [
+        "Tout cuire dans un seul wok fond ensemble les saveurs de piment, ail et porc.",
+        "Ce plat a plus de sauce qu'un porc sauté classique, idéal mélangé au riz ; le gras de porc rend le riz riche et brillant.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

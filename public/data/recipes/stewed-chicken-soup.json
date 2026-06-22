@@ -1,0 +1,99 @@
+{
+  "id": "stewed-chicken-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=g2Pv_BV0Rdg",
+  "ingredientKeys": [
+    "chicken",
+    "cooking-wine",
+    "dang-shen",
+    "red-dates",
+    "longan",
+    "goji-berry",
+    "ginger",
+    "salt",
+    "msg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炖鸡汤",
+      "ingredients": [
+        { "name": "鸡" },
+        { "name": "料酒" },
+        { "name": "党参" },
+        { "name": "红枣" },
+        { "name": "桂圆" },
+        { "name": "枸杞" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "味精" }
+      ],
+      "steps": [
+        "买回来的小鸡，把骨头捏一下，这样熟得更快。",
+        "鸡冷水下锅，加料酒焯水，撇去浮沫，开两开、水清澈即可。",
+        "把鸡放到干净锅里，加入党参、红枣、桂圆、枸杞和两片姜。",
+        "加入足量清水（八分满），大火烧开。",
+        "这么大的鸡至少炖一个半小时；着急可以煮或高压锅；想汤特别清就用蒸的。",
+        "到时间后调味，加盐和味精，尝味后即可出锅。"
+      ],
+      "notes": [
+        "想要汤更清澈，用蒸的方式炖鸡。",
+        "具体克数请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Stewed Chicken Soup",
+      "ingredients": [
+        { "name": "Chicken" },
+        { "name": "Cooking wine" },
+        { "name": "Codonopsis (dang shen)" },
+        { "name": "Red dates" },
+        { "name": "Longan" },
+        { "name": "Goji berries" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "MSG" }
+      ],
+      "steps": [
+        "Lightly crack the bones of the chicken so it cooks faster.",
+        "Put the chicken in a pot of cold water, add cooking wine, blanch, skim off the foam, and boil until the water runs clear.",
+        "Transfer the chicken to a clean pot and add codonopsis, red dates, longan, goji berries and two slices of ginger.",
+        "Add plenty of water (about 80% full) and bring to a boil.",
+        "Stew a chicken this size for at least 1.5 hours; use a pot or pressure cooker if in a hurry, or steam it for an especially clear soup.",
+        "When the time is up, season with salt and MSG, taste, and serve."
+      ],
+      "notes": [
+        "For a clearer soup, steam the chicken instead of boiling.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Poulet Mijotée",
+      "ingredients": [
+        { "name": "Poulet" },
+        { "name": "Vin de cuisine" },
+        { "name": "Codonopsis (dang shen)" },
+        { "name": "Jujubes" },
+        { "name": "Longane" },
+        { "name": "Baies de goji" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" }
+      ],
+      "steps": [
+        "Fêler légèrement les os du poulet pour qu'il cuise plus vite.",
+        "Mettre le poulet dans une casserole d'eau froide, ajouter le vin de cuisine, blanchir, écumer la mousse et faire bouillir jusqu'à ce que l'eau soit claire.",
+        "Transférer le poulet dans une casserole propre et ajouter le codonopsis, les jujubes, le longane, les baies de goji et deux tranches de gingembre.",
+        "Ajouter beaucoup d'eau (environ 80% du volume) et porter à ébullition.",
+        "Mijoter un poulet de cette taille au moins 1h30 ; utiliser une cocotte-minute si pressé, ou le cuire à la vapeur pour une soupe particulièrement claire.",
+        "Une fois le temps écoulé, assaisonner de sel et de glutamate, goûter et servir."
+      ],
+      "notes": [
+        "Pour une soupe plus claire, cuire le poulet à la vapeur plutôt qu'à l'eau.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

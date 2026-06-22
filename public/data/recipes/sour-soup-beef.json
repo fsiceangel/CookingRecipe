@@ -1,0 +1,129 @@
+{
+  "id": "sour-soup-beef",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=M3rglZ22Rdw",
+  "ingredientKeys": [
+    "fatty-beef",
+    "yellow-chili-sauce",
+    "enoki-mushroom",
+    "bamboo-shoot",
+    "pumpkin",
+    "chicken-stock",
+    "garlic",
+    "ginger",
+    "chili-pepper",
+    "vinegar",
+    "sugar",
+    "msg",
+    "salt",
+    "sesame-oil",
+    "cilantro"
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸汤肥牛",
+      "ingredients": [
+        { "name": "肥牛" },
+        { "name": "黄灯笼辣椒酱" },
+        { "name": "金针菇" },
+        { "name": "笋丝" },
+        { "name": "南瓜" },
+        { "name": "高汤" },
+        { "name": "蒜" },
+        { "name": "姜" },
+        { "name": "小辣椒" },
+        { "name": "白醋" },
+        { "name": "白糖" },
+        { "name": "味精" },
+        { "name": "盐" },
+        { "name": "香油" },
+        { "name": "香菜" }
+      ],
+      "steps": [
+        "锅里放底油，下蒜、姜、小辣椒煸炒，炝锅出香味。",
+        "放入黄灯笼辣椒酱炒香，能吃辣就多放一些。",
+        "倒入高汤（鸡蛋高汤或鸡汤均可）烧开。",
+        "调味：加白醋、白糖、味精；根据辣椒酱的咸度决定是否加盐。",
+        "放入焯过水的笋丝和金针菇。",
+        "肥牛焯水时可加点白醋煮一下，让酸味进入肥牛，再放入汤中。",
+        "加入熟南瓜蓉搅拌，汤即变成金黄色。",
+        "淋入香油，撒香菜，把留出的小辣椒放进去，煮约两分钟出锅。"
+      ],
+      "notes": [
+        "这是少油清爽版，金针菇最入味。",
+        "具体克数请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sour Soup Fatty Beef",
+      "ingredients": [
+        { "name": "Fatty beef slices" },
+        { "name": "Yellow chili sauce" },
+        { "name": "Enoki mushrooms" },
+        { "name": "Shredded bamboo shoots" },
+        { "name": "Pumpkin" },
+        { "name": "Stock" },
+        { "name": "Garlic" },
+        { "name": "Ginger" },
+        { "name": "Small chili peppers" },
+        { "name": "White vinegar" },
+        { "name": "Sugar" },
+        { "name": "MSG" },
+        { "name": "Salt" },
+        { "name": "Sesame oil" },
+        { "name": "Cilantro" }
+      ],
+      "steps": [
+        "Heat oil in the wok, add garlic, ginger and chili peppers, and stir-fry until fragrant.",
+        "Add the yellow chili sauce and stir-fry until aromatic; add more if you like it spicy.",
+        "Pour in the stock (egg stock or chicken stock both work) and bring to a boil.",
+        "Season: add white vinegar, sugar and MSG; add salt only if needed, depending on how salty the chili sauce is.",
+        "Add the blanched shredded bamboo shoots and enoki mushrooms.",
+        "Blanch the fatty beef with a little white vinegar so the sour flavor soaks in, then add it to the soup.",
+        "Stir in cooked pureed pumpkin; the soup turns a golden color.",
+        "Drizzle in sesame oil, add cilantro and the reserved chili peppers, simmer about 2 minutes, and serve."
+      ],
+      "notes": [
+        "This is a light, low-oil version; the enoki mushrooms absorb the most flavor.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boeuf en Soupe Aigre",
+      "ingredients": [
+        { "name": "Tranches de boeuf gras" },
+        { "name": "Sauce de piment jaune" },
+        { "name": "Champignons enoki" },
+        { "name": "Pousses de bambou émincées" },
+        { "name": "Potiron" },
+        { "name": "Bouillon" },
+        { "name": "Ail" },
+        { "name": "Gingembre" },
+        { "name": "Petits piments" },
+        { "name": "Vinaigre blanc" },
+        { "name": "Sucre" },
+        { "name": "Glutamate" },
+        { "name": "Sel" },
+        { "name": "Huile de sésame" },
+        { "name": "Coriandre" }
+      ],
+      "steps": [
+        "Chauffer l'huile dans le wok, ajouter l'ail, le gingembre et les piments, et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter la sauce de piment jaune et faire revenir jusqu'à ce qu'elle embaume ; en mettre plus si vous aimez relevé.",
+        "Verser le bouillon (bouillon d'oeuf ou de poulet) et porter à ébullition.",
+        "Assaisonner : ajouter le vinaigre blanc, le sucre et le glutamate ; ajouter du sel seulement si nécessaire selon la salinité de la sauce.",
+        "Ajouter les pousses de bambou et les champignons enoki blanchis.",
+        "Blanchir le boeuf gras avec un peu de vinaigre blanc pour que l'acidité l'imprègne, puis l'ajouter à la soupe.",
+        "Incorporer la purée de potiron cuit ; la soupe prend une couleur dorée.",
+        "Arroser d'huile de sésame, ajouter la coriandre et les piments réservés, laisser mijoter environ 2 minutes et servir."
+      ],
+      "notes": [
+        "C'est une version légère et peu grasse ; les champignons enoki absorbent le plus de saveur.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

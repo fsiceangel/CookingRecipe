@@ -1,0 +1,182 @@
+{
+  "id": "dry-pot-potato-slices",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=WY8OyAH4fgo",
+  "ingredientKeys": [
+    "potato",
+    "pork-belly",
+    "luncheon-meat",
+    "pickled-chili-paste",
+    "chili-pepper",
+    "green-garlic",
+    "garlic",
+    "scallion",
+    "cornstarch",
+    "msg",
+    "light-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "干锅土豆片",
+      "ingredients": [
+        {
+          "name": "土豆"
+        },
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "火腿肠"
+        },
+        {
+          "name": "泡椒酱"
+        },
+        {
+          "name": "辣椒（美人椒、小米辣）"
+        },
+        {
+          "name": "青蒜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "土豆淀粉"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "生抽"
+        }
+      ],
+      "steps": [
+        "土豆削皮，中间切开斜劈一刀，切成2-3毫米厚的片（太薄一炸就没了）。",
+        "五花肉切薄片（肥瘦相间），火腿肠、辣椒、青蒜都切好备用。",
+        "锅里烧开干净水，把土豆片焯到表面变色即可。",
+        "焯水的土豆片过一下凉水，拍上一层土豆淀粉，表面挂上白霜状的淀粉即可。",
+        "锅里倒干净油，烧到六七成热，把土豆片一片片下锅，用勺拨散，炸到金黄飘起即捞出。",
+        "锅留底油，下五花肉片炒香，把肉拨到一边，用油煸蒜、葱，再让肉吸足蒜葱香味。",
+        "关小火下泡椒酱，转大火炒香，加芹菜、美人椒、小米辣、青蒜。",
+        "加点水更好吸味，加味精调味。",
+        "倒入炸好的土豆片，撒点干辣椒和剩下的青蒜，淋点生抽，开火翻匀即可出锅。"
+      ],
+      "notes": [
+        "土豆焯水后拍淀粉再炸，颜色和酥脆感都比直接炸更好。",
+        "用五花肉的猪油炒土豆更香；剁椒酱、小米辣加干辣椒，三种辣层层叠加。"
+      ]
+    },
+    "en": {
+      "title": "Dry-Pot Potato Slices",
+      "ingredients": [
+        {
+          "name": "Potato"
+        },
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Ham sausage"
+        },
+        {
+          "name": "Pickled chili paste"
+        },
+        {
+          "name": "Chili peppers (beauty chili, bird's eye chili)"
+        },
+        {
+          "name": "Garlic sprouts"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Potato starch"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Light soy sauce"
+        }
+      ],
+      "steps": [
+        "Peel the potatoes, cut down the middle and on a slant, into slices 2-3 mm thick (too thin and they vanish when fried).",
+        "Slice the pork belly thin (with both fat and lean), and prepare the ham sausage, chilies, and garlic sprouts.",
+        "Bring clean water to a boil and blanch the potato slices just until their surface changes color.",
+        "Rinse the blanched potato slices briefly in cold water and coat them with a layer of potato starch, until the surface has a frosty starch coating.",
+        "Pour clean oil into the wok, heat to about 60-70% hot, drop in the potato slices one by one, separate them with a ladle, and fry until golden and floating, then remove.",
+        "Leave some oil in the wok, fry the pork belly until fragrant, push it to one side, fry the garlic and scallion in the oil, then let the meat soak up the garlic-scallion aroma.",
+        "Lower the heat and add the pickled chili paste, then turn the heat up and fry until fragrant; add celery, beauty chili, bird's eye chili, and garlic sprouts.",
+        "Add a little water to help absorb flavor, then season with MSG.",
+        "Add the fried potato slices, scatter in some dried chili and the remaining garlic sprouts, drizzle with light soy sauce, toss over heat, and serve."
+      ],
+      "notes": [
+        "Blanching the potatoes then coating with starch before frying gives better color and crispness than frying them straight.",
+        "Pork-belly lard makes the potatoes more fragrant; pickled chili paste, bird's eye chili, and dried chili layer three kinds of heat."
+      ]
+    },
+    "fr": {
+      "title": "Pommes de Terre en Wok Sec",
+      "ingredients": [
+        {
+          "name": "Pomme de terre"
+        },
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Saucisse de jambon"
+        },
+        {
+          "name": "Pâte de piment mariné"
+        },
+        {
+          "name": "Piments (piment beauté, piment oeil-d'oiseau)"
+        },
+        {
+          "name": "Pousses d'ail"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Fécule de pomme de terre"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sauce soja claire"
+        }
+      ],
+      "steps": [
+        "Éplucher les pommes de terre, les couper au milieu puis en biais, en tranches de 2-3 mm d'épaisseur (trop fines, elles disparaissent à la friture).",
+        "Trancher finement la poitrine de porc (gras et maigre), et préparer la saucisse de jambon, les piments et les pousses d'ail.",
+        "Porter de l'eau propre à ébullition et blanchir les tranches de pomme de terre juste jusqu'à ce que leur surface change de couleur.",
+        "Rincer brièvement les tranches blanchies à l'eau froide et les enrober d'une couche de fécule de pomme de terre, jusqu'à un enrobage givré.",
+        "Verser de l'huile propre dans le wok, chauffer à environ 60-70 %, y déposer les tranches une à une, les séparer à la louche et frire jusqu'à ce qu'elles soient dorées et remontent, puis retirer.",
+        "Laisser un peu d'huile dans le wok, faire revenir la poitrine de porc, la pousser sur un côté, faire revenir l'ail et la ciboule dans l'huile, puis laisser la viande s'imprégner de l'arôme d'ail et de ciboule.",
+        "Baisser le feu et ajouter la pâte de piment mariné, puis monter le feu et faire revenir jusqu'à ce que ce soit parfumé ; ajouter le céleri, le piment beauté, le piment oeil-d'oiseau et les pousses d'ail.",
+        "Ajouter un peu d'eau pour aider à absorber la saveur, puis assaisonner de glutamate.",
+        "Ajouter les tranches de pomme de terre frites, parsemer de piment séché et du reste de pousses d'ail, arroser de sauce soja claire, mélanger sur le feu et servir."
+      ],
+      "notes": [
+        "Blanchir les pommes de terre puis les enrober de fécule avant la friture donne une meilleure couleur et un meilleur croustillant que de les frire directement.",
+        "Le saindoux de poitrine de porc parfume davantage les pommes de terre ; la pâte de piment mariné, le piment oeil-d'oiseau et le piment séché superposent trois sortes de piquant."
+      ]
+    }
+  }
+}

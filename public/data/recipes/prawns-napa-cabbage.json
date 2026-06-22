@@ -1,0 +1,105 @@
+{
+  "id": "prawns-napa-cabbage",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=5LuPJ05VOY0",
+  "ingredientKeys": [
+    "prawns",
+    "napa-cabbage",
+    "scallion",
+    "ginger",
+    "salt",
+    "msg",
+    "sugar",
+    "cornstarch-slurry",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "大虾炒白菜",
+      "ingredients": [
+        { "name": "大虾" },
+        { "name": "白菜" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "白糖" },
+        { "name": "水淀粉" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "处理大虾：剪掉须脑、虾枪和头里的沙包，把虾头剪下留用；开背挑去沙线洗净。",
+        "锅里放干净油，下虾头中火慢煎，用勺按压把虾头里的鲜味全逼到油里，加葱姜去腥，煎透。",
+        "加温水（有高汤更好），熬出浓白的虾汤，把虾头虾壳捞出。",
+        "另起锅烧热加油，下白菜煸炒（白菜太干可烹点水），炒好盛出备用。",
+        "锅中再加油，下大虾加葱姜煎透。",
+        "倒入虾汤，放回煸过的白菜，烧、靠一下，让白菜把虾汤味全吸进去。",
+        "调味：盐、味精、白糖（糖用来中和盐味提鲜），靠到白菜软烂入味。",
+        "稍大火把汁收浓，勾薄芡，出锅。"
+      ],
+      "notes": [
+        "白菜做之前千万不能焯水，否则吸不进虾汤味；选晒过、去掉些水气的白菜更回甜。",
+        "把虾头虾壳全部用上熬汤，原汤化原食，味道最浓。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Prawns with Napa Cabbage",
+      "ingredients": [
+        { "name": "Large prawns" },
+        { "name": "Napa cabbage" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Sugar" },
+        { "name": "Cornstarch slurry" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Prep the prawns: trim the antennae, the rostrum, and the sand sac in the head; cut off the heads and keep them. Butterfly the backs, remove the sand veins, and rinse.",
+        "Put clean oil in the wok, add the prawn heads over medium heat, and press them with a spoon to force all the savory flavor into the oil; add scallion and ginger to remove odor and fry until done.",
+        "Add warm water (stock is even better) and simmer into a rich, milky prawn broth, then scoop out the heads and shells.",
+        "Heat another pan with oil, stir-fry the napa cabbage (splash in a little water if it's very dry), then set aside.",
+        "Add more oil to the pan and pan-fry the prawns with scallion and ginger until cooked.",
+        "Pour in the prawn broth, return the stir-fried cabbage, and braise so the cabbage soaks up all the prawn flavor.",
+        "Season with salt, MSG, and sugar (the sugar rounds out the salt and lifts the savoriness); braise until the cabbage is soft and infused.",
+        "Raise the heat a little to reduce the sauce, finish with a light cornstarch slurry, and serve."
+      ],
+      "notes": [
+        "Never blanch the cabbage beforehand or it won't absorb the prawn broth; cabbage that has been sun-dried a little is sweeter.",
+        "Use every part of the prawns to make the broth — cooking the dish in its own essence gives the deepest flavor. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Gambas Sautées au Chou Chinois",
+      "ingredients": [
+        { "name": "Grosses gambas" },
+        { "name": "Chou chinois" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" },
+        { "name": "Liaison à la fécule" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Préparer les gambas : couper les antennes, le rostre et la poche de sable dans la tête ; détacher les têtes et les garder. Ouvrir le dos en papillon, retirer le boyau, et rincer.",
+        "Mettre de l'huile propre dans le wok, ajouter les têtes de gambas à feu moyen, et les presser à la cuillère pour faire passer toute leur saveur dans l'huile ; ajouter ciboule et gingembre pour ôter l'odeur et frire jusqu'à cuisson.",
+        "Ajouter de l'eau tiède (un bouillon est encore mieux) et laisser mijoter en un bouillon de gambas riche et laiteux, puis retirer les têtes et les carapaces.",
+        "Chauffer une autre poêle avec de l'huile, faire sauter le chou chinois (ajouter un peu d'eau s'il est très sec), puis réserver.",
+        "Ajouter de l'huile dans la poêle et faire revenir les gambas avec ciboule et gingembre jusqu'à cuisson.",
+        "Verser le bouillon de gambas, remettre le chou sauté, et braiser pour que le chou absorbe toute la saveur des gambas.",
+        "Assaisonner avec sel, glutamate et sucre (le sucre arrondit le sel et rehausse l'umami) ; braiser jusqu'à ce que le chou soit tendre et imprégné.",
+        "Monter un peu le feu pour réduire la sauce, lier avec un peu de liaison à la fécule, et servir."
+      ],
+      "notes": [
+        "Ne jamais blanchir le chou au préalable, sinon il n'absorbera pas le bouillon de gambas ; un chou un peu séché au soleil est plus sucré.",
+        "Utiliser toutes les parties des gambas pour le bouillon — cuire le plat dans sa propre essence donne la saveur la plus profonde. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "jade-shrimp-balls",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=0wzf_zb97TE",
+  "ingredientKeys": [
+    "shrimp",
+    "spinach",
+    "scallion-ginger-water",
+    "salt",
+    "msg",
+    "sugar",
+    "cornstarch",
+    "cooking-wine",
+    "ginger",
+    "oil",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "翡翠虾球",
+      "ingredients": [
+        { "name": "虾仁" },
+        { "name": "菠菜" },
+        { "name": "葱姜水" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "白糖" },
+        { "name": "生粉（淀粉）" },
+        { "name": "花雕酒" },
+        { "name": "姜" },
+        { "name": "葱油" },
+        { "name": "水" }
+      ],
+      "steps": [
+        "准备虾仁，背开一刀；用两手大拇指按中间把虾压直，刀往前一推开背。",
+        "片好的虾仁放在一起，加入葱姜水、一点盐和一颗味精，抓的时候用力挤一下让水分吸进肉里，泡一会儿。",
+        "做翡翠色：菠菜揪碎，加两碗水放破壁机打成蓉，打到没有大颗粒即可，过滤。",
+        "把菠菜汁烧开，关火，撇起上面浮起来的那层绿色菜泥（用的是浮起来的部分，不是底下的水），迅速放凉。",
+        "把泡好的虾仁用毛巾或厨房纸吸干水分，放入菠菜蓉，用手揉匀，让每只虾都均匀裹上绿色。",
+        "上生粉拌匀，颜色会更绿更亮。",
+        "调碗芡（偷芡）：碗里放水、一颗淀粉、一颗盐、一颗味精、一颗糖，混匀后加两点花雕酒。",
+        "锅里烧水，水开后把虾球逐个放进去，手要快；放完转小火，再开大火汆熟，开锅后用勺轻推防粘，捞出。",
+        "炒锅上火，葱油润锅后倒出，放姜片煸出香味，倒入虾球，开大火，倒入碗芡，翻匀勾芡（表面明亮不糊）即可出锅。"
+      ],
+      "notes": [
+        "翡翠色用的是菠菜汁烧开后浮起来的那层菜泥，颜色翠绿又没有菠菜味（第一步已把菠菜煮过）。",
+        "碗芡（偷芡）勾完表面很明亮但看不出芡，是这道菜干净不挂底汁的关键；炒时放姜和花雕酒去腥增香。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Jade Shrimp Balls",
+      "ingredients": [
+        { "name": "Shrimp" },
+        { "name": "Spinach" },
+        { "name": "Scallion-ginger water" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Sugar" },
+        { "name": "Cornstarch" },
+        { "name": "Huadiao rice wine" },
+        { "name": "Ginger" },
+        { "name": "Scallion oil" },
+        { "name": "Water" }
+      ],
+      "steps": [
+        "Prepare the shrimp and cut a slit down the back; press the middle with both thumbs to straighten the shrimp, then push the knife forward to butterfly the back.",
+        "Gather the butterflied shrimp, add scallion-ginger water, a little salt, and a pinch of MSG; squeeze firmly while mixing so the water absorbs into the flesh, then let soak.",
+        "Make the jade color: tear up the spinach, add two bowls of water, and blend to a puree with no large pieces, then strain.",
+        "Bring the spinach juice to a boil, turn off the heat, and skim off the green pulp that floats to the top (use the floating part, not the water below), then cool quickly.",
+        "Pat the soaked shrimp dry with a towel or kitchen paper, add the spinach puree, and rub by hand until each shrimp is evenly coated green.",
+        "Mix in cornstarch; the color becomes greener and brighter.",
+        "Make the bowl sauce (a light, invisible glaze): in a bowl combine water, a pinch of cornstarch, a pinch of salt, a pinch of MSG, and a pinch of sugar, mix well, then add a couple drops of Huadiao wine.",
+        "Boil water in a pot, add the shrimp balls one by one working quickly; lower the heat while adding, then raise to high to poach through, gently nudging with a spoon to prevent sticking, and remove once cooked.",
+        "Heat a wok, coat with scallion oil and pour it out, add ginger slices to release their aroma, add the shrimp balls, raise to high heat, pour in the bowl sauce, toss to glaze (bright surface, not gummy), and serve."
+      ],
+      "notes": [
+        "The jade color comes from the green pulp that floats up after boiling the spinach juice; it is vivid green with no spinach taste (the spinach was already cooked in step one).",
+        "The 'invisible' bowl glaze leaves the surface bright with no visible starch and is key to the dish staying clean with no pooled sauce; ginger and Huadiao wine during cooking remove off-odors and add aroma.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de Crevettes Jade",
+      "ingredients": [
+        { "name": "Crevettes" },
+        { "name": "Épinards" },
+        { "name": "Eau de ciboule et gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" },
+        { "name": "Fécule de maïs" },
+        { "name": "Vin de riz Huadiao" },
+        { "name": "Gingembre" },
+        { "name": "Huile de ciboule" },
+        { "name": "Eau" }
+      ],
+      "steps": [
+        "Préparer les crevettes et inciser le dos ; presser le milieu avec les deux pouces pour redresser la crevette, puis pousser le couteau vers l'avant pour ouvrir le dos en papillon.",
+        "Rassembler les crevettes, ajouter l'eau de ciboule et gingembre, un peu de sel et une pincée de glutamate ; presser fermement en mélangeant pour que l'eau pénètre dans la chair, puis laisser tremper.",
+        "Faire la couleur jade : déchirer les épinards, ajouter deux bols d'eau et mixer en purée sans gros morceaux, puis filtrer.",
+        "Porter le jus d'épinards à ébullition, éteindre le feu et écumer la pulpe verte qui remonte à la surface (utiliser la partie flottante, pas l'eau du dessous), puis refroidir rapidement.",
+        "Éponger les crevettes trempées avec un torchon ou du papier absorbant, ajouter la purée d'épinards et masser à la main jusqu'à ce que chaque crevette soit uniformément enrobée de vert.",
+        "Incorporer la fécule ; la couleur devient plus verte et plus brillante.",
+        "Préparer la sauce en bol (un glaçage léger et invisible) : dans un bol, mélanger eau, une pincée de fécule, une pincée de sel, une pincée de glutamate et une pincée de sucre, bien mélanger, puis ajouter quelques gouttes de vin Huadiao.",
+        "Faire bouillir de l'eau dans une casserole, y déposer les boulettes une à une en travaillant vite ; baisser le feu pendant l'ajout, puis remonter à feu vif pour les pocher à cœur en les poussant doucement à la cuillère pour éviter qu'elles collent, puis les retirer une fois cuites.",
+        "Chauffer un wok, l'enduire d'huile de ciboule puis la verser, ajouter des tranches de gingembre pour libérer leur arôme, ajouter les boulettes, monter à feu vif, verser la sauce en bol, mélanger pour glacer (surface brillante, non collante) et servir."
+      ],
+      "notes": [
+        "La couleur jade provient de la pulpe verte qui remonte après ébullition du jus d'épinards ; elle est d'un vert vif sans goût d'épinard (les épinards ont déjà été cuits à la première étape).",
+        "Le glaçage en bol « invisible » laisse la surface brillante sans fécule visible et est la clé d'un plat net sans sauce stagnante ; le gingembre et le vin Huadiao en cuisson éliminent les mauvaises odeurs et ajoutent de l'arôme.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

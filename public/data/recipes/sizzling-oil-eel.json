@@ -1,0 +1,163 @@
+{
+  "id": "sizzling-oil-eel",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=sMAqYMg8x24",
+  "ingredientKeys": [
+    "eel",
+    "bamboo-shoot",
+    "glass-noodles",
+    "lard",
+    "scallion",
+    "ginger",
+    "garlic",
+    "sichuan-peppercorn",
+    "cooking-wine",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "sugar",
+    "white-pepper",
+    "salt",
+    "msg",
+    "vinegar",
+    "cornstarch-slurry",
+    "sesame-oil",
+    "cilantro"
+  ],
+  "translations": {
+    "cn": {
+      "title": "响油鳝糊",
+      "ingredients": [
+        { "name": "鳝鱼" },
+        { "name": "笋丝" },
+        { "name": "粉丝" },
+        { "name": "猪油" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "花椒" },
+        { "name": "料酒" },
+        { "name": "生抽" },
+        { "name": "老抽" },
+        { "name": "白糖" },
+        { "name": "白胡椒粉" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "醋" },
+        { "name": "水淀粉" },
+        { "name": "香油" },
+        { "name": "香菜" }
+      ],
+      "steps": [
+        "鳝鱼一定要买活的，装进带眼的网兜里缝口，方便处理。",
+        "烧一锅宽水，放花椒、葱姜、盐、醋、黄酒，咸味跟喝汤差不多即可。",
+        "水烧开后把网兜里的活鳝鱼倒入，迅速盖盖，关火焖约两分钟。",
+        "捞出过凉，盐和醋能帮助去掉鳝鱼表面的黏液。",
+        "用筷子削成的竹刀贴着三角骨划鳝，平行往前推取下鳝肉，去掉血和内脏。",
+        "锅中加干净水，放花椒酒（料酒）和生抽，水开后下划好的鳝鱼焯一下断生，捞出沥净。",
+        "锅烧热，下足量猪油，放葱姜蒜炒至变黄出香。",
+        "下鳝鱼煸炒，逼出多余水分。",
+        "烹入料酒、酱油，加适量水，让鳝鱼重新吸味、更软嫩。",
+        "调味：加白糖、白胡椒粉、盐，小火咕嘟入味。",
+        "放入焯过水的粉丝和笋丝，加几滴味精，用老抽调色。",
+        "分两到三次勾芡至糊状，出锅前点两克醋增香。",
+        "装盘后中间放蒜末、胡椒粉，淋上烧热的香油激出香味，旁边点缀香菜即可。"
+      ],
+      "notes": [
+        "胡椒粉是这道菜的灵魂，不能少；最后的香油一定要热，淋下去要冒泡。",
+        "鳝鱼不能在热水里泡太久，否则肉会糟。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sizzling-Oil Eel (Xiang You Shan Hu)",
+      "ingredients": [
+        { "name": "Eel" },
+        { "name": "Shredded bamboo shoot" },
+        { "name": "Glass noodles" },
+        { "name": "Lard" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Cooking wine" },
+        { "name": "Light soy sauce" },
+        { "name": "Dark soy sauce" },
+        { "name": "Sugar" },
+        { "name": "White pepper" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Vinegar" },
+        { "name": "Cornstarch slurry" },
+        { "name": "Sesame oil" },
+        { "name": "Cilantro" }
+      ],
+      "steps": [
+        "Buy live eels, put them in a fine-mesh net bag and sew it shut for safe handling.",
+        "Bring a generous pot of water to a boil with Sichuan peppercorns, scallion, ginger, salt, vinegar, and yellow wine, seasoned about as salty as a soup.",
+        "Drop the bagged live eels into the boiling water, cover immediately, turn off the heat, and let steep about two minutes.",
+        "Lift out and rinse under cool water; the salt and vinegar help remove the slime on the surface.",
+        "Using a bamboo blade carved from a chopstick, run it along the triangular bone to scrape the flesh forward off the bone, discarding blood and innards.",
+        "Add clean water to a wok with cooking wine and light soy sauce; once boiling, blanch the eel strips just until done, then drain well.",
+        "Heat the wok, add a generous amount of lard, and fry scallion, ginger, and garlic until golden and fragrant.",
+        "Add the eel and stir-fry to drive off excess moisture.",
+        "Splash in cooking wine and soy sauce, add some water, and let the eel reabsorb the flavor for a softer texture.",
+        "Season with sugar, white pepper, and salt, then simmer gently over low heat.",
+        "Add blanched glass noodles and shredded bamboo shoot, a few drops of MSG, and adjust color with dark soy sauce.",
+        "Thicken with cornstarch slurry in two or three additions to a thick paste, then add about 2g vinegar just before plating for aroma.",
+        "Plate, mound minced garlic and white pepper in the center, pour over screaming-hot sesame oil to release the aroma, and garnish with cilantro."
+      ],
+      "notes": [
+        "White pepper is the soul of this dish - do not skimp; the finishing sesame oil must be hot enough to sizzle and bubble when poured.",
+        "Do not soak the eel in hot water too long or the flesh will turn mushy.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Anguille à l'Huile Grésillante (Xiang You Shan Hu)",
+      "ingredients": [
+        { "name": "Anguille" },
+        { "name": "Pousses de bambou émincées" },
+        { "name": "Vermicelles de patate douce" },
+        { "name": "Saindoux" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sauce soja claire" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Sucre" },
+        { "name": "Poivre blanc" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Vinaigre" },
+        { "name": "Liaison à la fécule" },
+        { "name": "Huile de sésame" },
+        { "name": "Coriandre" }
+      ],
+      "steps": [
+        "Achetez des anguilles vivantes, mettez-les dans un filet à mailles fines et cousez-le pour les manipuler sans danger.",
+        "Portez à ébullition une grande quantité d'eau avec poivre du Sichuan, ciboule, gingembre, sel, vinaigre et vin jaune, salée comme une soupe.",
+        "Plongez les anguilles dans l'eau bouillante, couvrez aussitôt, coupez le feu et laissez infuser environ deux minutes.",
+        "Retirez et rincez à l'eau froide ; le sel et le vinaigre aident à éliminer le mucus en surface.",
+        "À l'aide d'une lame de bambou taillée dans une baguette, raclez la chair vers l'avant le long de l'arête triangulaire, en jetant le sang et les viscères.",
+        "Ajoutez de l'eau propre dans le wok avec vin de cuisine et sauce soja claire ; à ébullition, blanchissez les lanières d'anguille juste cuites, puis égouttez bien.",
+        "Chauffez le wok, ajoutez une bonne quantité de saindoux et faites revenir ciboule, gingembre et ail jusqu'à ce qu'ils soient dorés et parfumés.",
+        "Ajoutez l'anguille et faites sauter pour chasser l'excès d'humidité.",
+        "Déglacez au vin de cuisine et à la sauce soja, ajoutez un peu d'eau et laissez l'anguille réabsorber les saveurs pour une texture plus tendre.",
+        "Assaisonnez de sucre, poivre blanc et sel, puis laissez mijoter à feu doux.",
+        "Ajoutez les vermicelles et les pousses de bambou blanchis, quelques gouttes de glutamate et ajustez la couleur avec la sauce soja foncée.",
+        "Liez à la fécule en deux ou trois fois jusqu'à obtenir une pâte épaisse, puis ajoutez environ 2 g de vinaigre juste avant de dresser pour l'arôme.",
+        "Dressez, déposez l'ail haché et le poivre blanc au centre, versez l'huile de sésame brûlante pour libérer les arômes et garnissez de coriandre."
+      ],
+      "notes": [
+        "Le poivre blanc est l'âme de ce plat - n'en lésinez pas ; l'huile de sésame finale doit être assez chaude pour grésiller en la versant.",
+        "Ne faites pas tremper l'anguille trop longtemps dans l'eau chaude, sinon la chair deviendra pâteuse.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

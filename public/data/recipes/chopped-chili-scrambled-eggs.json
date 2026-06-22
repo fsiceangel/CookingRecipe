@@ -1,0 +1,186 @@
+{
+  "id": "chopped-chili-scrambled-eggs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=WwjDEU-EHCM",
+  "ingredientKeys": [
+    "egg",
+    "chopped-salted-chili",
+    "lard",
+    "onion",
+    "ginger",
+    "garlic",
+    "liuyang-fermented-soybeans",
+    "msg",
+    "sugar",
+    "chili-pepper",
+    "light-soy-sauce",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "剁椒炒鸡蛋",
+      "ingredients": [
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "剁椒"
+        },
+        {
+          "name": "猪油"
+        },
+        {
+          "name": "洋葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "豆豉"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "糖"
+        },
+        {
+          "name": "小米辣"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "买的成品剁椒盐味偏重，先用清水泡半个小时左右去一下盐味，再挤干水分备用。",
+        "锅里放猪油，用猪油炒剁椒口感更润。",
+        "先下洋葱、姜、蒜、豆豉，大火炒香，期间不停翻动防止糊底，炒到变色出香味。",
+        "下入剁椒，转中火，炒大约三分钟，把剁椒里的水分炒干。",
+        "加入味精和一克糖（糖用来柔和辣度和咸度），尝味后盛出炒好的剁椒。",
+        "鸡蛋打散，锅中加油倒入鸡蛋，炒到定型后转小火。",
+        "放入切好的小米辣，再加入炒好的剁椒，少烹一点酱油，让剁椒味与鸡蛋充分融合，关火出锅。"
+      ],
+      "notes": [
+        "成品剁椒一定要先泡水去盐，否则太咸；用猪油炒剁椒更香润不腻。",
+        "这道菜非常下饭，记得多备点米饭。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Chopped Chili Scrambled Eggs",
+      "ingredients": [
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Chopped salted chili"
+        },
+        {
+          "name": "Lard"
+        },
+        {
+          "name": "Onion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Fermented black beans"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Bird's eye chili"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Store-bought chopped chili is quite salty, so soak it in water for about half an hour to reduce the saltiness, then squeeze it dry.",
+        "Add lard to the wok; frying the chopped chili in lard makes it taste richer.",
+        "Add the onion, ginger, garlic, and fermented black beans and stir-fry over high heat until fragrant, stirring constantly to prevent scorching, until colored and aromatic.",
+        "Add the chopped chili, lower to medium heat, and stir-fry for about three minutes to cook off its moisture.",
+        "Add MSG and a gram of sugar (the sugar softens the heat and saltiness); taste, then remove the cooked chopped chili.",
+        "Beat the eggs, add oil to the wok, pour in the eggs, scramble until set, then lower the heat.",
+        "Add the sliced bird's eye chili, then the cooked chopped chili, splash in a little soy sauce so the chili flavor blends fully into the eggs, then turn off the heat and serve."
+      ],
+      "notes": [
+        "Always soak store-bought chopped chili to remove salt or it will be too salty; lard makes it richer and not greasy.",
+        "This dish is very good with rice, so prepare extra rice. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Oeufs Brouillés au Piment Haché",
+      "ingredients": [
+        {
+          "name": "Oeuf"
+        },
+        {
+          "name": "Piment haché salé"
+        },
+        {
+          "name": "Saindoux"
+        },
+        {
+          "name": "Oignon"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Haricots noirs fermentés"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Piment oiseau"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Le piment haché du commerce est assez salé ; le faire tremper dans l'eau environ une demi-heure pour réduire le sel, puis bien l'essorer.",
+        "Mettre du saindoux dans le wok ; frire le piment haché dans le saindoux le rend plus onctueux.",
+        "Ajouter l'oignon, le gingembre, l'ail et les haricots noirs fermentés et faire sauter à feu vif jusqu'à parfum, en remuant sans cesse pour éviter qu'ils brûlent, jusqu'à coloration.",
+        "Ajouter le piment haché, baisser à feu moyen et faire sauter environ trois minutes pour évaporer son humidité.",
+        "Ajouter le glutamate et un gramme de sucre (le sucre adoucit le piquant et le sel) ; goûter, puis retirer le piment haché cuit.",
+        "Battre les oeufs, ajouter de l'huile au wok, verser les oeufs, brouiller jusqu'à prise, puis baisser le feu.",
+        "Ajouter le piment oiseau émincé, puis le piment haché cuit, ajouter un trait de sauce soja pour que la saveur du piment se mêle bien aux oeufs, puis éteindre le feu et servir."
+      ],
+      "notes": [
+        "Toujours faire tremper le piment haché du commerce pour enlever le sel, sinon ce sera trop salé ; le saindoux le rend plus onctueux sans être gras.",
+        "Ce plat se marie très bien avec le riz, prévoyez-en davantage. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

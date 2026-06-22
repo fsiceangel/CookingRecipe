@@ -1,0 +1,159 @@
+{
+  "id": "button-mushroom-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=xyXL5b38D08",
+  "ingredientKeys": [
+    "button-mushroom",
+    "pork-belly",
+    "star-anise",
+    "ginger",
+    "scallion",
+    "salt",
+    "msg",
+    "white-pepper",
+    "light-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "口蘑汤",
+      "ingredients": [
+        {
+          "name": "香杏菇（口蘑）"
+        },
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "八角"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "白胡椒粉"
+        },
+        {
+          "name": "酱油"
+        }
+      ],
+      "steps": [
+        "干蘑菇先洗去表面泥土，用冷水提前泡发（头天晚上泡，第二天用），切成筷子粗细的条。",
+        "五花肉切片备用，用五花肉是为了出猪油，汤才润才好喝。",
+        "锅里放底油，下五花肉片煸炒，把肉里的油脂炒出来。",
+        "放入两瓣八角和姜，一起煸炒去腥增香，不停翻动让肉片均匀受热。",
+        "把葱倒进去一起煸香。",
+        "倒入泡好的蘑菇，用勺子翻拌均匀。",
+        "把泡蘑菇的水加热后倒进去，烧开。",
+        "烧开后调味：加盐、味精、白胡椒粉，搅拌均匀，可再点少许酱油，稍煮入味即可。"
+      ],
+      "notes": [
+        "用五花肉的猪油和八角是这锅汤鲜香的关键，香料要适量。",
+        "同样方法可做香菇汤等各种菌汤，也可当作菌汤火锅汤底。"
+      ]
+    },
+    "en": {
+      "title": "Button Mushroom Soup",
+      "ingredients": [
+        {
+          "name": "King oyster mushroom"
+        },
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Soy sauce"
+        }
+      ],
+      "steps": [
+        "Rinse the dried mushrooms to remove surface dirt, then soak them in cold water in advance (soak overnight, use the next day) and cut into chopstick-thick strips.",
+        "Slice the pork belly; it is used for the lard it renders, which makes the soup rich and tasty.",
+        "Add a little oil to the wok and render the sliced pork belly, frying out its fat.",
+        "Add two star anise pods and the ginger, frying together to remove off-odors and add aroma, stirring constantly so the pork heats evenly.",
+        "Add the scallion and fry until fragrant.",
+        "Add the soaked mushrooms and stir to combine with a ladle.",
+        "Heat the mushroom soaking water and pour it in, then bring to a boil.",
+        "Once boiling, season with salt, MSG, and white pepper, stir well, add a touch of soy sauce if needed, and simmer briefly to let the flavor develop."
+      ],
+      "notes": [
+        "The rendered pork-belly lard and star anise are the key to this rich, fragrant soup; use spices in moderation.",
+        "The same method works for shiitake or other mushroom soups, and makes a great mushroom hotpot broth."
+      ]
+    },
+    "fr": {
+      "title": "Soupe aux Champignons de Paris",
+      "ingredients": [
+        {
+          "name": "Pleurote du panicaut"
+        },
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Sauce soja"
+        }
+      ],
+      "steps": [
+        "Rincer les champignons séchés pour enlever la terre en surface, puis les faire tremper dans l'eau froide à l'avance (la veille au soir, à utiliser le lendemain) et les couper en lamelles de l'épaisseur d'une baguette.",
+        "Trancher la poitrine de porc ; on l'utilise pour le saindoux qu'elle rend, qui rend la soupe onctueuse et savoureuse.",
+        "Mettre un peu d'huile dans le wok et faire revenir les tranches de poitrine de porc pour en extraire la graisse.",
+        "Ajouter deux étoiles d'anis et le gingembre, faire revenir ensemble pour ôter les mauvaises odeurs et parfumer, en remuant sans cesse pour que le porc chauffe uniformément.",
+        "Ajouter la ciboule et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter les champignons réhydratés et mélanger à la louche.",
+        "Chauffer l'eau de trempage des champignons et la verser, puis porter à ébullition.",
+        "À ébullition, assaisonner de sel, glutamate et poivre blanc, bien mélanger, ajouter une touche de sauce soja si besoin, et laisser mijoter brièvement pour développer la saveur."
+      ],
+      "notes": [
+        "Le saindoux issu de la poitrine de porc et l'anis étoilé sont la clé de cette soupe riche et parfumée ; doser les épices avec modération.",
+        "La même méthode convient aux soupes de shiitake ou autres champignons, et fait un excellent bouillon de fondue aux champignons."
+      ]
+    }
+  }
+}

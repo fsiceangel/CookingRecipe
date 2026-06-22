@@ -1,0 +1,101 @@
+{
+  "id": "sweet-potato-balls",
+  "tags": [
+    "dish",
+    "dessert"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=BpUSXWU-DFQ",
+  "ingredientKeys": [
+    "sweet-potato",
+    "butter",
+    "sugar",
+    "cornstarch",
+    "egg",
+    "panko",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红薯丸子",
+      "ingredients": [
+        { "name": "红薯（红心薯加板栗薯）" },
+        { "name": "黄油" },
+        { "name": "白糖" },
+        { "name": "玉米淀粉" },
+        { "name": "全蛋液" },
+        { "name": "面包糠" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "红薯切块，上锅大火蒸约20分钟，筷子轻轻一按能压粉即熟。",
+        "趁热把蒸好的红薯放入盆中，用磨泥器压散，再下手揉匀。",
+        "加入黄油和白糖，趁红薯的余温把它们化开拌匀，增加奶香和甜味。",
+        "充分拌匀后静置稍凉，温度降一点更硬，便于操作。",
+        "把红薯泥团成丸子，先裹一层玉米淀粉（拍粉），不挂粉炸不成形。",
+        "再蘸全蛋液，让表面淀粉湿透（脱蛋），然后滚上面包糠。",
+        "丸子分开摆放防止粘连。锅里加干净油，烧到四成热（油面平静、不冒烟，丢一粒面包糠会浮起）。",
+        "把丸子一个个下锅，先中火，下锅后转大火；面包糠炸散、温度上来后转小火控温，约炸一分钟。",
+        "最后开大火逼出余油，炸到表面金黄成硬壳即可捞出装盘。"
+      ],
+      "notes": [
+        "红薯馅本身已熟，是温的，不用炸太久，全程控制好油温。",
+        "拍粉脱蛋粘面包糠是为了外壳更酥脆。具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sweet Potato Balls",
+      "ingredients": [
+        { "name": "Sweet potato (red and chestnut varieties)" },
+        { "name": "Butter" },
+        { "name": "Sugar" },
+        { "name": "Cornstarch" },
+        { "name": "Beaten egg" },
+        { "name": "Panko" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Cut the sweet potatoes into chunks and steam over high heat for about 20 minutes, until a chopstick presses through easily.",
+        "While hot, put the steamed sweet potato in a bowl, break it up with a ricer, then knead by hand until smooth.",
+        "Add butter and sugar and, using the residual heat, melt and mix them in for milky aroma and sweetness.",
+        "Mix thoroughly, then let it cool slightly; a cooler, firmer mash is easier to shape.",
+        "Roll the mash into balls and coat first in cornstarch (dredging) — without it they won't hold shape when fried.",
+        "Dip in beaten egg until the starch surface is fully wetted, then roll in panko.",
+        "Keep the balls apart so they don't stick. Heat clean oil to about 40% hot (surface calm, not smoking; a dropped panko crumb floats up).",
+        "Lower the balls in one by one over medium heat, then raise to high; once the panko crisps and the temperature recovers, lower to a gentle heat to control it, frying about one minute.",
+        "Finally turn the heat high to force out excess oil, fry until golden with a hard crust, then remove and plate."
+      ],
+      "notes": [
+        "The sweet potato filling is already cooked and warm, so it doesn't need long frying — control the oil temperature throughout.",
+        "The dredge-egg-panko coating is purely to make the shell crispier. Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de Patate Douce",
+      "ingredients": [
+        { "name": "Patate douce (variétés rouge et châtaigne)" },
+        { "name": "Beurre" },
+        { "name": "Sucre" },
+        { "name": "Fécule de maïs" },
+        { "name": "Œuf battu" },
+        { "name": "Panko" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Couper les patates douces en morceaux et les cuire à la vapeur à feu vif environ 20 minutes, jusqu'à ce qu'une baguette les transperce facilement.",
+        "Encore chaude, mettre la patate douce cuite dans un saladier, l'écraser au presse-purée, puis pétrir à la main jusqu'à obtenir une pâte lisse.",
+        "Ajouter le beurre et le sucre et, grâce à la chaleur résiduelle, les faire fondre et mélanger pour le goût lacté et sucré.",
+        "Bien mélanger, puis laisser refroidir un peu ; une purée plus froide et plus ferme est plus facile à façonner.",
+        "Façonner la purée en boulettes et les enrober d'abord de fécule de maïs — sans cela elles ne tiendront pas à la friture.",
+        "Tremper dans l'œuf battu jusqu'à ce que la surface farinée soit bien humidifiée, puis rouler dans le panko.",
+        "Garder les boulettes séparées pour éviter qu'elles collent. Chauffer l'huile propre à environ 40 % (surface calme, sans fumée ; une miette de panko remonte aussitôt).",
+        "Déposer les boulettes une à une à feu moyen, puis monter à feu vif ; une fois le panko croustillant et la température revenue, baisser à feu doux pour contrôler, environ une minute de friture.",
+        "Enfin, monter le feu pour faire ressortir l'excès d'huile, frire jusqu'à ce qu'elles soient dorées avec une croûte ferme, puis égoutter et dresser."
+      ],
+      "notes": [
+        "La farce de patate douce est déjà cuite et tiède, elle ne nécessite donc pas une longue friture — maîtriser la température de l'huile tout du long.",
+        "L'enrobage fécule-œuf-panko sert uniquement à rendre la croûte plus croustillante. Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

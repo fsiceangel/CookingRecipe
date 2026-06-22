@@ -1,0 +1,133 @@
+{
+  "id": "kung-pao-zongzi",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=l1OWzQVbWRg",
+  "ingredientKeys": [
+    "glutinous-rice",
+    "chicken",
+    "chili-pepper",
+    "chili-powder",
+    "sichuan-peppercorn",
+    "peanuts",
+    "haw-flakes",
+    "red-bean-paste",
+    "bamboo-leaves",
+    "cornstarch-slurry",
+    "light-soy-sauce",
+    "vinegar",
+    "sugar"
+  ],
+  "translations": {
+    "cn": {
+      "title": "宫保鸡丁豆沙粽",
+      "ingredients": [
+        { "name": "糯米" },
+        { "name": "鸡肉" },
+        { "name": "辣椒（二荆条）" },
+        { "name": "辣椒面" },
+        { "name": "花椒面" },
+        { "name": "花生米" },
+        { "name": "果丹皮" },
+        { "name": "豆沙" },
+        { "name": "粽叶" },
+        { "name": "水淀粉" },
+        { "name": "酱油" },
+        { "name": "醋" },
+        { "name": "白糖" }
+      ],
+      "steps": [
+        "鸡肉切片，煮熟备用（煮的鸡肉特别嫩）。",
+        "准备两种辣椒：一种是炒过弄碎的二荆条，一种是市场买的辣椒面（颜色偏红、香气足），两者搭配炒出香味。",
+        "调宫保汁：按比例兑好酱油、醋、白糖等，大火烧开后用水淀粉勾芡成酱状，稍微晾凉。",
+        "把炒好的辣椒倒进晾凉的芡汁里拌匀，撒入花椒面，再加进勾好的汁。",
+        "加入炒好的花生米，并用果丹皮补一点酸味（煮过后汁里的醋会挥发）。",
+        "把煮熟的鸡肉拌进宫保馅中，宫保鸡丁馅完成。",
+        "糯米提前泡半天，沥干水分。",
+        "包粽：粽叶分层对折成斗形，先装一半糯米，放入宫保鸡丁咸馅；另一个放糯米加豆沙做甜馅，盖上糯米封口。",
+        "对折压实，用绳五花大绑捆好。",
+        "高压锅加水，水没过粽子的一半（泡过的米吸水少）；大火上汽后转小火25分钟。",
+        "关火后不要急着开盖，让它自然焖泡，更加软糯拉丝，再开盖食用。"
+      ],
+      "notes": [
+        "两种辣椒搭配，香味更足；中间的豆沙能把辣味揉柔一些。",
+        "果丹皮煮后会化开，增加一点跳跃的酸甜口感。",
+        "确切比例请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Kung Pao Chicken & Red-Bean Zongzi",
+      "ingredients": [
+        { "name": "Glutinous rice" },
+        { "name": "Chicken" },
+        { "name": "Erjingtiao chili" },
+        { "name": "Chili powder" },
+        { "name": "Ground Sichuan peppercorn" },
+        { "name": "Peanuts" },
+        { "name": "Haw flakes" },
+        { "name": "Red bean paste" },
+        { "name": "Bamboo leaves" },
+        { "name": "Starch slurry" },
+        { "name": "Soy sauce" },
+        { "name": "Vinegar" },
+        { "name": "Sugar" }
+      ],
+      "steps": [
+        "Slice the chicken and boil until cooked (boiled chicken stays very tender); set aside.",
+        "Prepare two kinds of chili: stir-fried, crushed erjingtiao chilies, and store-bought chili powder (redder and very fragrant); fry them together to bring out the aroma.",
+        "Mix the kung pao sauce: combine soy sauce, vinegar, sugar, and so on to ratio, bring to a boil over high heat, thicken with starch slurry to a paste, and let cool slightly.",
+        "Stir the fried chili into the cooled thickened sauce, sprinkle in ground Sichuan peppercorn, then add the thickened sauce.",
+        "Add the fried peanuts and use haw flakes to restore some sourness (the vinegar evaporates during boiling).",
+        "Mix the cooked chicken into the kung pao filling; the kung pao chicken filling is done.",
+        "Soak the glutinous rice for half a day in advance, then drain.",
+        "Wrap the zongzi: fold the bamboo leaves into a cone, add half the rice, then the savory kung pao chicken filling; for another, fill with rice plus red bean paste for a sweet one, then cap with rice to seal.",
+        "Fold over, press firmly, and tie tightly with string.",
+        "Add water to a pressure cooker, halfway up the zongzi (soaked rice absorbs less); once steaming on high heat, reduce to low for 25 minutes.",
+        "After turning off the heat, don't rush to open it; let it rest and steam naturally for an even stickier, stretchier texture, then open and serve."
+      ],
+      "notes": [
+        "Combining two kinds of chili gives a fuller aroma; the red bean paste in the middle softens the heat.",
+        "The haw flakes dissolve during cooking, adding a lively sweet-sour pop.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Zongzi Poulet Kung Pao & Pâte de Haricots Rouges",
+      "ingredients": [
+        { "name": "Riz gluant" },
+        { "name": "Poulet" },
+        { "name": "Piment erjingtiao" },
+        { "name": "Poudre de piment" },
+        { "name": "Poivre du Sichuan moulu" },
+        { "name": "Cacahuètes" },
+        { "name": "Pastilles d'aubépine" },
+        { "name": "Pâte de haricots rouges" },
+        { "name": "Feuilles de bambou" },
+        { "name": "Liaison à la fécule" },
+        { "name": "Sauce soja" },
+        { "name": "Vinaigre" },
+        { "name": "Sucre" }
+      ],
+      "steps": [
+        "Trancher le poulet et le faire bouillir jusqu'à cuisson (le poulet bouilli reste très tendre) ; réserver.",
+        "Préparer deux sortes de piment : des piments erjingtiao sautés et écrasés, et de la poudre de piment du commerce (plus rouge et très parfumée) ; les faire revenir ensemble pour libérer l'arôme.",
+        "Préparer la sauce kung pao : mélanger sauce soja, vinaigre, sucre, etc. selon les proportions, porter à ébullition à feu vif, lier à la fécule jusqu'à une pâte et laisser tiédir.",
+        "Incorporer le piment frit dans la sauce épaissie refroidie, saupoudrer de poivre du Sichuan moulu, puis ajouter la sauce épaissie.",
+        "Ajouter les cacahuètes frites et utiliser les pastilles d'aubépine pour rétablir un peu d'acidité (le vinaigre s'évapore à la cuisson).",
+        "Mélanger le poulet cuit dans la garniture kung pao ; la garniture poulet kung pao est prête.",
+        "Faire tremper le riz gluant une demi-journée à l'avance, puis égoutter.",
+        "Confectionner les zongzi : plier les feuilles de bambou en cône, ajouter la moitié du riz puis la garniture salée au poulet kung pao ; pour un autre, garnir de riz et de pâte de haricots rouges pour une version sucrée, puis recouvrir de riz pour sceller.",
+        "Replier, tasser fermement et ficeler bien serré.",
+        "Verser de l'eau dans une cocotte-minute, à mi-hauteur des zongzi (le riz trempé absorbe moins) ; une fois sous pression à feu vif, réduire à feu doux 25 minutes.",
+        "Après avoir éteint le feu, ne pas se précipiter pour ouvrir ; laisser reposer et cuire à la vapeur naturellement pour une texture encore plus collante et filante, puis ouvrir et servir."
+      ],
+      "notes": [
+        "Combiner deux sortes de piment donne un arôme plus complet ; la pâte de haricots rouges au centre adoucit le piquant.",
+        "Les pastilles d'aubépine fondent à la cuisson, apportant une touche sucrée-acidulée vive.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

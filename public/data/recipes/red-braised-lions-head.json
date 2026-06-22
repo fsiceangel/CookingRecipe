@@ -1,0 +1,144 @@
+{
+  "id": "red-braised-lions-head",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=ZT_Y7suw7Oc",
+  "ingredientKeys": [
+    "pork-belly",
+    "water-chestnut",
+    "scallion-ginger-water",
+    "salt",
+    "msg",
+    "white-pepper",
+    "cornstarch",
+    "oil",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cinnamon-bark",
+    "light-soy-sauce",
+    "cooking-wine",
+    "sugar",
+    "rock-sugar",
+    "dark-soy-sauce",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红烧狮子头（济南石头）",
+      "ingredients": [
+        { "name": "猪五花肉" },
+        { "name": "马蹄" },
+        { "name": "葱姜水" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "胡椒粉" },
+        { "name": "淀粉" },
+        { "name": "油" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料" },
+        { "name": "桂皮" },
+        { "name": "鲜味酱油" },
+        { "name": "黄酒" },
+        { "name": "白糖" },
+        { "name": "冰糖" },
+        { "name": "老抽" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "选去皮的硬五花肉，先切片再切粒，做成约十六粒大丸子的量。",
+        "切完后再斩几下，所谓细切粗斩，让肉能粘在一块。",
+        "肉馅里加盐、味精、胡椒粉调味，再分次少量加入葱姜水增加含水量，使丸子更软嫩。",
+        "顺一个方向摔打肉馅至上劲，团成圆球能微微塌下而不散即可。",
+        "加入淀粉，再放入切好的马蹄拌匀，团成略带颗粒感的丸子。",
+        "调汤：锅里放油，下葱姜大料桂皮煸香，加鲜味酱油，再加水、黄酒、盐、味精、胡椒粉、白糖，用冰糖老抽调色，烧开后倒入砂锅。",
+        "油温烧到六成热，把丸子下锅炸定型上色，这步只为定型不为炸熟，捞出。",
+        "把丸子放入砂锅汤中，烧开后转中小火炖约100分钟至软烂入味。",
+        "炖好后丸子软烂而不失其形，把汤汁用水淀粉勾薄芡，浇在丸子上挂汁即可。"
+      ],
+      "notes": [
+        "葱姜水一定要少量多次加入，丸子才软嫩；石头讲究里面是颗粒感，与全圆的四喜丸子口感不同。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Red-Braised Lion's Head Meatballs",
+      "ingredients": [
+        { "name": "Pork belly" },
+        { "name": "Water chestnut" },
+        { "name": "Scallion ginger water" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "White pepper" },
+        { "name": "Starch" },
+        { "name": "Oil" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Cinnamon bark" },
+        { "name": "Fresh soy sauce" },
+        { "name": "Yellow rice wine" },
+        { "name": "Sugar" },
+        { "name": "Rock sugar" },
+        { "name": "Dark soy sauce" },
+        { "name": "Cornstarch slurry" }
+      ],
+      "steps": [
+        "Use skinned firm pork belly. Slice it, then cut into small cubes, enough for about sixteen large meatballs.",
+        "Chop a few more times after dicing — finely cut, coarsely chopped — so the meat sticks together.",
+        "Season the meat with salt, MSG, and white pepper, then add scallion ginger water a little at a time to raise the moisture so the balls turn out tender.",
+        "Throw and beat the meat in one direction until springy; a shaped ball should slump slightly but not collapse.",
+        "Add starch, then mix in the diced water chestnut and form into slightly textured balls.",
+        "Make the sauce: heat oil, fry scallion, ginger, star anise, and cinnamon bark until fragrant, add fresh soy sauce, then water, yellow rice wine, salt, MSG, white pepper, and sugar; adjust color with rock sugar and dark soy sauce, bring to a boil, and pour into a clay pot.",
+        "Heat oil to medium-high, fry the meatballs just to set their shape and color — not to cook through — then remove.",
+        "Place the meatballs in the clay pot of sauce, bring to a boil, then braise over medium-low heat for about 100 minutes until tender and infused.",
+        "When done the balls are tender but hold their shape; thicken the sauce with cornstarch slurry, pour it over the meatballs to glaze, and serve."
+      ],
+      "notes": [
+        "Add the scallion ginger water in small amounts over several additions so the meatballs stay tender; this 'stone' style keeps a coarse texture inside, unlike the perfectly round Four-Happiness meatballs.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes Tête de Lion Braisées",
+      "ingredients": [
+        { "name": "Poitrine de porc" },
+        { "name": "Châtaigne d'eau" },
+        { "name": "Eau de ciboule et gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Poivre blanc" },
+        { "name": "Fécule" },
+        { "name": "Huile" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Écorce de cannelle" },
+        { "name": "Sauce soja umami" },
+        { "name": "Vin de riz jaune" },
+        { "name": "Sucre" },
+        { "name": "Sucre candi" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Utiliser de la poitrine de porc ferme sans couenne. La trancher puis la couper en petits dés, de quoi faire environ seize grosses boulettes.",
+        "Hacher quelques fois de plus après le découpage — coupé fin, haché grossier — pour que la viande tienne ensemble.",
+        "Assaisonner la viande de sel, glutamate et poivre blanc, puis ajouter l'eau de ciboule et gingembre peu à peu pour augmenter l'humidité et obtenir des boulettes tendres.",
+        "Battre la viande dans un seul sens jusqu'à élasticité ; une boulette formée doit s'affaisser légèrement sans se défaire.",
+        "Ajouter la fécule, puis incorporer les dés de châtaigne d'eau et former des boulettes légèrement texturées.",
+        "Préparer la sauce : chauffer l'huile, faire revenir ciboule, gingembre, anis étoilé et cannelle, ajouter la sauce soja umami, puis l'eau, le vin de riz jaune, le sel, le glutamate, le poivre blanc et le sucre ; ajuster la couleur au sucre candi et à la sauce soja foncée, porter à ébullition et verser dans un poêlon en terre.",
+        "Chauffer l'huile à feu moyen-vif, frire les boulettes juste pour fixer leur forme et leur couleur — pas pour les cuire à coeur — puis les retirer.",
+        "Mettre les boulettes dans le poêlon de sauce, porter à ébullition, puis braiser à feu moyen-doux environ 100 minutes jusqu'à tendreté.",
+        "Une fois cuites, les boulettes sont fondantes mais gardent leur forme ; lier la sauce à la fécule, la verser sur les boulettes pour les glacer et servir."
+      ],
+      "notes": [
+        "Ajouter l'eau de ciboule et gingembre en petites quantités successives pour des boulettes tendres ; ce style « pierre » garde une texture grossière à l'intérieur.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

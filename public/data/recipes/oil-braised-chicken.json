@@ -1,0 +1,208 @@
+{
+  "id": "oil-braised-chicken",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=AruXYxoA9XM",
+  "ingredientKeys": [
+    "chicken-drumstick",
+    "potato",
+    "tomato",
+    "garlic",
+    "chili-pepper",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "salt",
+    "ketchup",
+    "oyster-sauce",
+    "oil",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "油焖鸡",
+      "ingredients": [
+        {
+          "name": "鸡腿（琵琶腿）"
+        },
+        {
+          "name": "土豆"
+        },
+        {
+          "name": "西红柿"
+        },
+        {
+          "name": "大蒜"
+        },
+        {
+          "name": "小米辣"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "大料（八角）"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "番茄酱"
+        },
+        {
+          "name": "蚝油"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "水"
+        }
+      ],
+      "steps": [
+        "土豆削皮，切成滚刀块。",
+        "鸡腿（琵琶腿）每个剁成五六块，泡在水里，加两片葱、姜皮、两瓣大料泡去骨血腥味（冻鸡解冻的尤其要泡）。",
+        "西红柿划十字花刀，下开水锅烫一下撕去皮，切成尽量小的丁。葱切葱花。",
+        "剁蒜蓉（可用料理机或手剁），再切点小米辣一起剁碎，直径约一毫米。",
+        "锅中加水和盐，下土豆块大火烧开转小火煮熟煮软（盐可防氧化并入底味）。",
+        "另起一锅加盐的水，下鸡腿，烧开后转小火煮约15分钟，关火再泡十来分钟让味渗入。",
+        "锅中放油（油焖鸡油要多一点），下辣椒蒜蓉中火炒香（火太小不出香味）。",
+        "闻到辣椒和蒜的香味后下西红柿（主要上色），西红柿不够熟可补点番茄酱。",
+        "下葱花，再加蚝油（这道菜的鲜味主要来自蚝油）。",
+        "把土豆捞进锅，用铲子压一压，让表面淀粉融到汁里。关到最小火，把土豆铲碎或压碎（这是油焖鸡好吃的关键）。",
+        "开火再炒，最好用不粘锅，把鸡块倒进去翻匀，加盖焖两分钟，边上渗出油即可，搅拌一下出锅。"
+      ],
+      "notes": [
+        "辣椒蒜蓉一定要中火炒，火太小不容易出香味。",
+        "把土豆压碎让淀粉融入汤汁是这道菜好吃的关键。详细用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Oil-Braised Chicken",
+      "ingredients": [
+        {
+          "name": "Chicken thighs (drumstick portion)"
+        },
+        {
+          "name": "Potato"
+        },
+        {
+          "name": "Tomato"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Bird's-eye chili"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Ketchup (tomato paste)"
+        },
+        {
+          "name": "Oyster sauce"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Water"
+        }
+      ],
+      "steps": [
+        "Peel the potatoes and cut into roll-cut chunks.",
+        "Chop each chicken thigh into five or six pieces and soak in water with a couple of scallion pieces, ginger peel, and two star anise to draw out the blood and gamey smell (especially important if using thawed frozen chicken).",
+        "Score a cross on the tomatoes, blanch in boiling water, peel, and dice as small as possible. Chop the scallion into rings.",
+        "Mince the garlic (use a food processor or chop by hand), then chop in some bird's-eye chili together, to about 1 mm.",
+        "Add water and salt to a pot, add the potato chunks, bring to a boil over high heat, then simmer until cooked and soft (the salt prevents oxidation and adds base flavor).",
+        "In another pot of salted water, add the chicken, bring to a boil, simmer about 15 minutes, then turn off the heat and let it soak about ten minutes so the flavor penetrates.",
+        "Add oil to the wok (use a generous amount for oil-braised chicken), add the chili and garlic, and stir-fry over medium heat until fragrant (too low a flame won't release the aroma).",
+        "Once you smell the chili and garlic, add the tomatoes (mainly for color); if the tomatoes aren't ripe enough, add some ketchup/tomato paste.",
+        "Add the scallion rings, then the oyster sauce (the savory flavor of this dish comes mainly from the oyster sauce).",
+        "Add the potatoes to the wok and press them with the spatula so the surface starch melts into the sauce. Turn the heat to the lowest setting and mash the potatoes with the spatula or spoon (this is the key to good oil-braised chicken).",
+        "Turn the heat back up and stir-fry, preferably in a non-stick pan; add the chicken pieces, toss to coat, cover, and braise two minutes until oil seeps out around the edges, then stir and serve."
+      ],
+      "notes": [
+        "Stir-fry the chili and garlic over medium heat; too low a flame won't bring out the aroma.",
+        "Mashing the potatoes so their starch melts into the sauce is the key to this dish. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poulet Braisé à l'Huile",
+      "ingredients": [
+        {
+          "name": "Cuisses de poulet (pilon)"
+        },
+        {
+          "name": "Pomme de terre"
+        },
+        {
+          "name": "Tomate"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Piment oiseau"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Ketchup (concentré de tomate)"
+        },
+        {
+          "name": "Sauce d'huître"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Eau"
+        }
+      ],
+      "steps": [
+        "Éplucher les pommes de terre et les couper en morceaux (coupe roulée).",
+        "Couper chaque cuisse de poulet en cinq ou six morceaux et les faire tremper dans l'eau avec quelques morceaux de ciboule, des pelures de gingembre et deux anis étoilés pour extraire le sang et l'odeur (surtout important avec du poulet congelé décongelé).",
+        "Inciser une croix sur les tomates, les blanchir à l'eau bouillante, les peler et les couper en dés aussi petits que possible. Couper la ciboule en rondelles.",
+        "Hacher l'ail (au robot ou au couteau), puis hacher avec un peu de piment oiseau, à environ 1 mm.",
+        "Mettre de l'eau et du sel dans une casserole, ajouter les pommes de terre, porter à ébullition à feu vif puis laisser mijoter jusqu'à cuisson tendre (le sel évite l'oxydation et donne un goût de base).",
+        "Dans une autre casserole d'eau salée, ajouter le poulet, porter à ébullition, laisser mijoter environ 15 minutes, puis couper le feu et laisser tremper une dizaine de minutes pour que la saveur pénètre.",
+        "Mettre de l'huile dans le wok (généreusement pour ce poulet braisé à l'huile), ajouter le piment et l'ail et faire revenir à feu moyen jusqu'à ce que ce soit parfumé (un feu trop doux ne libère pas l'arôme).",
+        "Dès que l'on sent le piment et l'ail, ajouter les tomates (surtout pour la couleur) ; si elles ne sont pas assez mûres, ajouter du ketchup/concentré de tomate.",
+        "Ajouter les rondelles de ciboule, puis la sauce d'huître (la saveur umami de ce plat vient surtout de la sauce d'huître).",
+        "Ajouter les pommes de terre dans le wok et les écraser avec la spatule pour que l'amidon de surface fonde dans la sauce. Mettre à feu très doux et écraser les pommes de terre à la spatule ou à la cuillère (c'est la clé d'un bon poulet braisé à l'huile).",
+        "Remonter le feu et faire sauter, de préférence dans une poêle antiadhésive ; ajouter les morceaux de poulet, mélanger pour enrober, couvrir et braiser deux minutes jusqu'à ce que l'huile perle sur les bords, puis remuer et servir."
+      ],
+      "notes": [
+        "Faire revenir le piment et l'ail à feu moyen ; un feu trop doux ne fait pas ressortir l'arôme.",
+        "Écraser les pommes de terre pour que leur amidon fonde dans la sauce est la clé de ce plat. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "san-bu-zhan",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=6dwbSzVde6Y",
+  "ingredientKeys": [
+    "egg-yolk",
+    "sugar",
+    "water",
+    "sweet-potato-starch",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "三不沾（家庭版）",
+      "ingredients": [
+        { "name": "鸡蛋黄" },
+        { "name": "白糖" },
+        { "name": "水" },
+        { "name": "土豆淀粉" },
+        { "name": "油（色拉油或猪油）" }
+      ],
+      "steps": [
+        "取五个鸡蛋黄，把上面白色的胚胎揪掉，纯蛋黄放进水里。",
+        "加入土豆淀粉搅匀搅碎，过筛过滤掉没弄干净的蛋清（否则成品会有白点）。",
+        "加入白糖搅匀，蛋液备好。",
+        "旁边备一盆干净油（色拉油或猪油皆可）和几张叠好的厨房纸。",
+        "炒锅（一定要厚底）用油润一下，烧热后把油倒出，关中火，倒入蛋液。",
+        "看着蛋液慢慢凝固，凝固后边炒边揉边刮，从锅边加少量油润锅；动作要快，慢了下层会变色，勺子刮不到处用厨房纸擦干净。",
+        "判断硬了：锤的时候勺子有阻力、上劲了，就加油；变软了就加快速度快锤。",
+        "反复快锤、加油，把油锤进蛋团里，全程中小火控制好火候。",
+        "蛋团把油吸足后就哪儿都不粘了，即成三不沾。"
+      ],
+      "notes": [
+        "蛋清一定要过滤干净，否则炒完会有白点。",
+        "锅一定要厚底；家里有不粘锅最好用不粘锅，会简单很多。",
+        "核心手法是不停地“锤”，把油锤进蛋团里，吸足油就不粘了。",
+        "确切比例请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "San Bu Zhan (Home Version)",
+      "ingredients": [
+        { "name": "Egg yolks" },
+        { "name": "Sugar" },
+        { "name": "Water" },
+        { "name": "Potato starch" },
+        { "name": "Oil (salad oil or lard)" }
+      ],
+      "steps": [
+        "Take five egg yolks, pick off the white germ on top, and put the pure yolks into water.",
+        "Add potato starch and stir to break it up, then strain to remove any leftover egg white (otherwise the finished dish will have white specks).",
+        "Stir in the sugar until combined; the egg mixture is ready.",
+        "Set up a bowl of clean oil (salad oil or lard) and a few folded sheets of paper towel nearby.",
+        "Wipe a heavy-bottomed wok (this is essential) with oil, heat it and pour the oil out, lower to medium heat, and pour in the egg mixture.",
+        "Watch it slowly set; once set, stir, knead, and scrape constantly while adding a little oil down the side; work fast or the bottom layer discolors, and wipe spots the spoon can't reach with paper towel.",
+        "To tell it's firming: when scraping meets resistance and feels springy, add oil; when it softens, speed up the pounding.",
+        "Repeatedly pound fast and add oil to drive the oil into the egg mass, keeping the heat at medium-low throughout.",
+        "Once the egg mass has absorbed enough oil, it stops sticking to everything, which is san bu zhan ('non-stick three ways')."
+      ],
+      "notes": [
+        "Strain out the egg white thoroughly, or the finished dish will have white specks.",
+        "The wok must be heavy-bottomed; if you have a non-stick pan at home, use it, as it's much easier.",
+        "The core technique is constant 'pounding' to drive oil into the egg mass; once saturated it won't stick.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "San Bu Zhan (Version Maison)",
+      "ingredients": [
+        { "name": "Jaunes d'œuf" },
+        { "name": "Sucre" },
+        { "name": "Eau" },
+        { "name": "Fécule de pomme de terre" },
+        { "name": "Huile (huile de table ou saindoux)" }
+      ],
+      "steps": [
+        "Prendre cinq jaunes d'œuf, retirer le germe blanc sur le dessus, et mettre les jaunes purs dans l'eau.",
+        "Ajouter la fécule de pomme de terre et mélanger pour la dissoudre, puis filtrer pour retirer tout blanc d'œuf restant (sinon le plat fini aura des points blancs).",
+        "Incorporer le sucre jusqu'à homogénéité ; le mélange d'œufs est prêt.",
+        "Préparer à côté un bol d'huile propre (huile de table ou saindoux) et quelques feuilles d'essuie-tout pliées.",
+        "Essuyer un wok à fond épais (indispensable) avec de l'huile, le chauffer puis vider l'huile, baisser à feu moyen et verser le mélange d'œufs.",
+        "Le regarder figer lentement ; une fois figé, remuer, pétrir et racler sans cesse en ajoutant un peu d'huile le long du bord ; travailler vite sinon la couche du fond se colore, et essuyer à l'essuie-tout les zones que la cuillère n'atteint pas.",
+        "Pour savoir s'il se raffermit : quand le raclage rencontre une résistance et devient élastique, ajouter de l'huile ; quand il ramollit, accélérer le martèlement.",
+        "Marteler vite et ajouter de l'huile à répétition pour faire pénétrer l'huile dans la masse d'œufs, en gardant un feu moyen-doux tout du long.",
+        "Une fois que la masse a absorbé assez d'huile, elle ne colle plus nulle part : c'est le san bu zhan (« qui ne colle à rien »)."
+      ],
+      "notes": [
+        "Bien filtrer le blanc d'œuf, sinon le plat fini aura des points blancs.",
+        "Le wok doit avoir un fond épais ; si vous avez une poêle antiadhésive, utilisez-la, c'est bien plus simple.",
+        "La technique centrale est le « martèlement » constant pour faire pénétrer l'huile dans la masse ; une fois saturée, elle ne colle plus.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "sichuan-stir-fried-pork-kidney",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=giAvAEg0cDE",
+  "ingredientKeys": [
+    "pork-kidney",
+    "cooking-wine",
+    "white-pepper",
+    "salt",
+    "msg",
+    "sesame-oil",
+    "cornstarch",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "garlic",
+    "ginger",
+    "chinese-chives",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "椒麻腰花",
+      "ingredients": [
+        { "name": "猪腰" },
+        { "name": "料酒（或啤酒）" },
+        { "name": "胡椒粉" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "香油" },
+        { "name": "淀粉" },
+        { "name": "小米辣" },
+        { "name": "花椒" },
+        { "name": "蒜" },
+        { "name": "泡姜" },
+        { "name": "韭菜" },
+        { "name": "猪油菜籽油" }
+      ],
+      "steps": [
+        "选颜色较浅的新鲜猪腰，从中间片开，去掉中间的腰臊和外面的白膜（腰臊不易嚼且有异味）。",
+        "片好的猪腰用水把表面洗一下，然后打花刀：斜刀45度往前推到三分之二处，再换一个方向打十字花刀。",
+        "打好花刀的腰花加酒（料酒或啤酒都可以），下手狠一点抓拌，泡腌五分钟去除异味。",
+        "泡过的腰花水会很浑浊，再冲洗一遍，把水分压干倒入碗中。",
+        "加胡椒粉、盐、味精搅拌均匀，再加香油、淀粉、小米辣、花椒、蒜、泡姜，在腌制时就把底味加足。",
+        "锅烧热倒油（猪油、菜籽油皆可），烧到冒烟。",
+        "下入腰花和辣椒，火稍微调小，先不要急着动它，隔十几秒用勺推一下使其受热均匀。",
+        "腰花一打卷就倒入碗芡，下韭菜翻匀即可出锅。"
+      ],
+      "notes": [
+        "用酒泡腌并冲洗，能把猪腰的异味去得干净，腌的时候底味要加足。",
+        "腰花下锅后先静置，等打卷再翻动，火候到位才嫩。",
+        "这套椒麻配料很万能，把腰子换成鸡肉、猪肉同样好吃；确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sichuan Peppercorn Stir-Fried Pork Kidney",
+      "ingredients": [
+        { "name": "Pork kidney" },
+        { "name": "Cooking wine (or beer)" },
+        { "name": "White pepper" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Sesame oil" },
+        { "name": "Cornstarch" },
+        { "name": "Bird's eye chili" },
+        { "name": "Sichuan peppercorn" },
+        { "name": "Garlic" },
+        { "name": "Pickled ginger" },
+        { "name": "Chinese chives" },
+        { "name": "Lard / rapeseed oil" }
+      ],
+      "steps": [
+        "Choose fresh, lighter-colored pork kidneys, slice them open through the middle, and remove the central white gland and the outer membrane (the gland is chewy and off-tasting).",
+        "Rinse the surface of the sliced kidney, then score it: push the knife forward at a 45-degree angle to two-thirds depth, then turn and score crosswise to make a flower pattern.",
+        "Add wine to the scored kidney flowers (cooking wine or beer both work), toss vigorously, and soak-marinate for five minutes to remove off-odors.",
+        "The soaking water will be cloudy; rinse the kidney again, press out the water, and transfer to a bowl.",
+        "Add white pepper, salt, and MSG and mix well, then add sesame oil, cornstarch, bird's eye chili, Sichuan peppercorn, garlic, and pickled ginger to build a full base flavor during marinating.",
+        "Heat the wok and add oil (lard or rapeseed oil both work), heating until it smokes.",
+        "Add the kidney flowers and chilies, lower the heat slightly, and do not rush to stir; after about ten seconds, push them with a spoon to heat evenly.",
+        "As soon as the kidney flowers curl, pour in the prepared sauce, add the Chinese chives, toss to combine, and serve."
+      ],
+      "notes": [
+        "Soaking in wine and rinsing removes the off-odor of pork kidney cleanly; build a full base flavor while marinating.",
+        "After adding the kidney to the wok, let it sit and only stir once it curls; correct timing keeps it tender.",
+        "This numbing-spicy seasoning mix is versatile and works just as well with chicken or pork instead of kidney; exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Rognons de Porc Sautés au Poivre du Sichuan",
+      "ingredients": [
+        { "name": "Rognon de porc" },
+        { "name": "Vin de cuisine (ou bière)" },
+        { "name": "Poivre blanc" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Huile de sésame" },
+        { "name": "Fécule de maïs" },
+        { "name": "Piment oiseau" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Ail" },
+        { "name": "Gingembre mariné" },
+        { "name": "Ciboulette chinoise" },
+        { "name": "Saindoux / huile de colza" }
+      ],
+      "steps": [
+        "Choisir des rognons de porc frais et de couleur plus claire, les ouvrir en deux par le milieu et retirer la glande blanche centrale ainsi que la membrane extérieure (la glande est coriace et a un goût désagréable).",
+        "Rincer la surface du rognon tranché, puis l'inciser : pousser le couteau à 45 degrés jusqu'aux deux tiers de l'épaisseur, puis tourner et inciser en croix pour former un motif en fleur.",
+        "Ajouter du vin aux rognons incisés (vin de cuisine ou bière), mélanger vigoureusement et laisser tremper-mariner cinq minutes pour éliminer les mauvaises odeurs.",
+        "L'eau de trempage sera trouble ; rincer à nouveau les rognons, presser pour en extraire l'eau et transférer dans un bol.",
+        "Ajouter poivre blanc, sel et glutamate et bien mélanger, puis ajouter huile de sésame, fécule, piment oiseau, poivre du Sichuan, ail et gingembre mariné pour construire une saveur de base complète pendant la marinade.",
+        "Chauffer le wok et ajouter l'huile (saindoux ou huile de colza), jusqu'à ce qu'elle fume.",
+        "Ajouter les rognons et les piments, baisser légèrement le feu et ne pas se précipiter pour remuer ; après une dizaine de secondes, les pousser avec une cuillère pour chauffer uniformément.",
+        "Dès que les rognons s'enroulent, verser la sauce préparée, ajouter la ciboulette chinoise, mélanger et servir."
+      ],
+      "notes": [
+        "Le trempage au vin et le rinçage éliminent proprement l'odeur des rognons de porc ; construire une saveur de base complète pendant la marinade.",
+        "Après avoir mis les rognons dans le wok, les laisser reposer et ne remuer qu'une fois enroulés ; un bon timing les garde tendres.",
+        "Ce mélange d'assaisonnement engourdissant et piquant est polyvalent et fonctionne aussi bien avec du poulet ou du porc ; les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

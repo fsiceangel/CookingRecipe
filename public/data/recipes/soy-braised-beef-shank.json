@@ -1,0 +1,198 @@
+{
+  "id": "soy-braised-beef-shank",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=ZnTn7eyQhNI",
+  "ingredientKeys": [
+    "beef-shank",
+    "dried-yellow-bean-paste",
+    "cooking-wine",
+    "light-soy-sauce",
+    "scallion",
+    "ginger",
+    "mixed-spices",
+    "chili-pepper",
+    "rock-sugar",
+    "salt",
+    "water",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "酱牛肉",
+      "ingredients": [
+        {
+          "name": "牛腱子"
+        },
+        {
+          "name": "黄酱"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "香料"
+        },
+        {
+          "name": "干辣椒"
+        },
+        {
+          "name": "冰糖"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "水"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "牛腱子去掉表面的油和薄皮（修下来的油皮别扔，可一起炖增香），分成大块。",
+        "用签子把每块牛肉扎透，方便入味（这一步很多饭店都省略，所以不入味）。",
+        "牛肉里放香料、一点料酒和黄酱（用酒把黄酱澥开），加大豆酱油和鲜味酱油，再放葱姜。",
+        "反复抓揉，让牛肉把味道吸进去，再补点盐使口重，揉到盐化开。腌一天一夜最入味，着急也要腌两小时以上。",
+        "锅里放底油，下葱姜煸黄煸香（姜可多放）。",
+        "变色后下香料和两个干辣椒煸香，再下黄酱，转小火（火大酱会糊）。",
+        "加酱油把黄酱澥开，加水烧开，看颜色，颜色浅再补酱油，加冰糖。",
+        "尝一口汤，觉得稍微有点咸就正好。把这锅酱汤倒入高压锅。",
+        "腌好的牛肉冷水下锅焯水，开锅撇去浮沫，捞入酱汤，把修下的油也放进去增香。",
+        "高压锅盖盖，上汽后压40分钟，关火后别急着开盖，再焖半小时让牛肉吸味。",
+        "开盖，牛肉要炖得够烂够软、拿起来微微颤。趁热吃或晾凉后用保鲜膜卷紧放冰箱，第二天切片凉吃。"
+      ],
+      "notes": [
+        "用签子扎透牛肉是入味的关键，比很多饭店做法更香。",
+        "汤咸度以尝着稍咸为准。具体香料比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Soy-Braised Beef Shank",
+      "ingredients": [
+        {
+          "name": "Beef shank"
+        },
+        {
+          "name": "Yellow bean paste"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Mixed spices"
+        },
+        {
+          "name": "Dried chili peppers"
+        },
+        {
+          "name": "Rock sugar"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Water"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Trim the surface fat and thin skin off the beef shank (keep the trimmed fat/skin, braise it along for aroma), and cut into large chunks.",
+        "Pierce each chunk all the way through with a skewer so it absorbs flavor (many restaurants skip this, so theirs lacks flavor).",
+        "Add mixed spices, a little cooking wine and yellow bean paste to the beef (loosen the paste with the wine), then light soy sauce, and add scallion and ginger.",
+        "Knead and grip repeatedly so the beef absorbs the flavors, add salt to make it well-seasoned, and knead until the salt dissolves. Marinate a full day and night for best flavor; at minimum, two hours.",
+        "Add a base of oil to a pot and fry the scallion and ginger until golden and fragrant (ginger can be generous).",
+        "Once colored, add the spices and two dried chilies and fry until fragrant, then add the yellow bean paste and lower to low heat (high heat scorches the paste).",
+        "Add soy sauce to loosen the paste, add water and bring to a boil; check the color and add more soy if it's pale, then add rock sugar.",
+        "Taste the broth; it's right when it tastes slightly salty. Pour the sauce into a pressure cooker.",
+        "Blanch the marinated beef from cold water, skim the foam once it boils, transfer to the sauce, and add the trimmed fat for aroma.",
+        "Seal the pressure cooker, cook for 40 minutes after it comes to pressure, and after turning off don't open right away — let it rest 30 more minutes to absorb flavor.",
+        "Open up; the beef should be tender enough to wobble slightly. Eat warm, or cool, roll tightly in plastic wrap, refrigerate, and slice cold the next day."
+      ],
+      "notes": [
+        "Skewering the beef all the way through is the key to flavor penetration, more aromatic than many restaurant versions.",
+        "Judge the broth's saltiness by tasting it slightly salty. Exact spice ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Jarret de Boeuf Braisé à la Sauce Soja",
+      "ingredients": [
+        {
+          "name": "Jarret de boeuf"
+        },
+        {
+          "name": "Pâte de haricots jaunes"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Épices mélangées"
+        },
+        {
+          "name": "Piments séchés"
+        },
+        {
+          "name": "Sucre candi"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Eau"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Parer le gras et la fine peau du jarret (garder les parures, à braiser avec pour l'arôme), et couper en gros morceaux.",
+        "Percer chaque morceau de part en part avec une brochette pour qu'il s'imprègne (beaucoup de restaurants l'omettent, d'où un manque de goût).",
+        "Ajouter au boeuf les épices, un peu de vin de cuisine et la pâte de haricots jaunes (la détendre avec le vin), puis la sauce soja, et ajouter ciboule et gingembre.",
+        "Malaxer et pétrir à plusieurs reprises pour que le boeuf absorbe les saveurs, ajouter du sel pour bien assaisonner, et pétrir jusqu'à dissolution du sel. Mariner un jour et une nuit pour le meilleur goût ; au minimum deux heures.",
+        "Mettre un fond d'huile dans une marmite et faire revenir ciboule et gingembre jusqu'à doré et parfumé (gingembre généreux possible).",
+        "Une fois coloré, ajouter les épices et deux piments séchés et faire revenir, puis la pâte de haricots jaunes et baisser à feu doux (le feu fort brûle la pâte).",
+        "Ajouter la sauce soja pour détendre la pâte, ajouter l'eau et porter à ébullition ; vérifier la couleur, ajouter de la sauce soja si pâle, puis le sucre candi.",
+        "Goûter le bouillon ; il est bon quand il est légèrement salé. Verser la sauce dans une cocotte-minute.",
+        "Blanchir le boeuf mariné à l'eau froide, écumer dès l'ébullition, transférer dans la sauce, et ajouter les parures de gras pour l'arôme.",
+        "Fermer la cocotte, cuire 40 minutes après la mise en pression, et après l'arrêt ne pas ouvrir tout de suite — laisser reposer 30 minutes de plus pour s'imprégner.",
+        "Ouvrir ; le boeuf doit être assez tendre pour trembler légèrement. Déguster chaud, ou refroidir, rouler serré dans du film, réfrigérer et trancher froid le lendemain."
+      ],
+      "notes": [
+        "Percer le boeuf de part en part est la clé de la pénétration des saveurs, plus parfumé que bien des versions de restaurant.",
+        "Juger le sel du bouillon en le goûtant légèrement salé. Les proportions exactes d'épices sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

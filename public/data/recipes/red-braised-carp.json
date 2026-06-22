@@ -1,0 +1,148 @@
+{
+  "id": "red-braised-carp",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=hq7qdbTgVRQ",
+  "ingredientKeys": [
+    "carp",
+    "pork-belly",
+    "ginger",
+    "garlic",
+    "scallion",
+    "star-anise",
+    "cinnamon-bark",
+    "shiitake-mushroom",
+    "bamboo-shoot",
+    "flour",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "sugar",
+    "msg",
+    "salt",
+    "cornstarch-slurry",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红烧鲤鱼",
+      "ingredients": [
+        { "name": "鲤鱼" },
+        { "name": "五花肉" },
+        { "name": "姜" },
+        { "name": "大蒜" },
+        { "name": "葱" },
+        { "name": "大料（八角）" },
+        { "name": "桂皮" },
+        { "name": "香菇" },
+        { "name": "冬笋" },
+        { "name": "面粉" },
+        { "name": "酱油" },
+        { "name": "老抽" },
+        { "name": "糖" },
+        { "name": "味精" },
+        { "name": "盐" },
+        { "name": "水淀粉" },
+        { "name": "香油" }
+      ],
+      "steps": [
+        "鲤鱼去鳃、去内脏，抠掉牙齿，鱼尾修成燕尾形，洗净。",
+        "鱼身两面打斜刀（花刀），深至鱼骨，便于入味；鱼太大可从中间斜切断再拼回。",
+        "锅中放油，下姜蒜葱、大料、桂皮和五花肉，小火把料炸香出复合香味。",
+        "再下香菇、冬笋一起炸香，然后把所有料捞出备用。",
+        "鱼身刀口处薄薄拍一层面粉，把油烧到约七成热（冒烟）。",
+        "下鱼，注意角度，下锅后先不要动，全程大火煎到一面形成薄硬壳再翻面，半煎半炸。",
+        "倒出多余的油，加酱油、加水（开水吃肉、冷水喝汤），把炸过的料倒回去。",
+        "调味：放糖、味精、盐，调好汤色，别调太黑，否则炖出来颜色太深。",
+        "改中小火炖约十分钟，用筷子检查鱼肉松软即可。",
+        "把料捞出，加点老抽找色；勾芡，小火慢慢收，看吸收程度再补芡。",
+        "淋一滴香油，把鱼皮上的水擦净，将汤汁浇在鱼上即可。"
+      ],
+      "notes": [
+        "逢烧必炸——家里可半煎半炸省油，煎前刀口拍薄薄一层面粉防粘。",
+        "先炸料油再煎鱼，五花肉和香料的复合香味会渗到鱼肉最里层，猪油又让鱼肉更润。"
+      ]
+    },
+    "en": {
+      "title": "Red-Braised Carp",
+      "ingredients": [
+        { "name": "Carp" },
+        { "name": "Pork belly" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Scallion" },
+        { "name": "Star anise" },
+        { "name": "Cinnamon bark" },
+        { "name": "Dried shiitake mushroom" },
+        { "name": "Winter bamboo shoot" },
+        { "name": "Flour" },
+        { "name": "Soy sauce" },
+        { "name": "Dark soy sauce" },
+        { "name": "Sugar" },
+        { "name": "MSG" },
+        { "name": "Salt" },
+        { "name": "Cornstarch slurry" },
+        { "name": "Sesame oil" }
+      ],
+      "steps": [
+        "Remove the carp's gills and innards, pull out the teeth, trim the tail into a swallowtail and rinse clean.",
+        "Score both sides of the fish on a diagonal down to the bone so it absorbs flavor; if it's too big for the wok, cut through on a slant and reassemble.",
+        "Add oil to the wok, then fry ginger, garlic, scallion, star anise, cinnamon and pork belly over low heat to build a layered aroma in the oil.",
+        "Add the shiitake and winter bamboo shoot and fry until fragrant, then scoop out all the aromatics and set aside.",
+        "Dust a thin layer of flour over the scored cuts, then heat the oil to about 70% (just smoking).",
+        "Slide in the fish at an angle and don't move it; over high heat, pan-fry until a thin firm crust forms, then flip (half pan-fried, half deep-fried).",
+        "Pour off the excess oil, add soy sauce and water (boiling water for the meat, cold for soup), then return the fried aromatics.",
+        "Season with sugar, MSG and salt; adjust the color of the broth but don't make it too dark or the braised fish will end up too dark.",
+        "Turn to medium-low and braise about 10 minutes; check with chopsticks that the flesh is tender.",
+        "Lift out the aromatics, add a little dark soy for color, then thicken with cornstarch slurry over low heat, adding more as needed.",
+        "Finish with a drop of sesame oil, wipe any moisture off the skin, and spoon the sauce over the fish to serve."
+      ],
+      "notes": [
+        "Braised fish should always be fried first; at home, do a half pan-fry / half deep-fry to save oil, dusting flour on the cuts to prevent sticking.",
+        "Frying the aromatic oil before the fish drives the layered pork-and-spice aroma deep into the flesh, while the rendered fat keeps it moist.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Carpe Braisée à la Sauce Rouge",
+      "ingredients": [
+        { "name": "Carpe" },
+        { "name": "Poitrine de porc" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Ciboule" },
+        { "name": "Anis étoilé" },
+        { "name": "Écorce de cannelle" },
+        { "name": "Champignon shiitake séché" },
+        { "name": "Pousse de bambou d'hiver" },
+        { "name": "Farine" },
+        { "name": "Sauce soja" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Sucre" },
+        { "name": "Glutamate" },
+        { "name": "Sel" },
+        { "name": "Liaison à la fécule" },
+        { "name": "Huile de sésame" }
+      ],
+      "steps": [
+        "Retirez les ouïes et les viscères de la carpe, ôtez les dents, taillez la queue en queue d'aronde et rincez.",
+        "Incisez les deux côtés du poisson en biais jusqu'à l'arête pour qu'il s'imprègne ; s'il est trop grand pour le wok, coupez-le en biais et reconstituez-le.",
+        "Mettez de l'huile dans le wok, puis faites revenir à feu doux le gingembre, l'ail, la ciboule, l'anis étoilé, la cannelle et la poitrine de porc pour parfumer l'huile.",
+        "Ajoutez le shiitake et la pousse de bambou et faites revenir, puis retirez tous les aromates et réservez.",
+        "Saupoudrez une fine couche de farine sur les incisions, puis chauffez l'huile à environ 70 % (légère fumée).",
+        "Glissez le poisson en biais sans le bouger ; à feu vif, faites-le frire jusqu'à former une fine croûte, puis retournez-le (mi-frit, mi-poêlé).",
+        "Retirez l'excès d'huile, ajoutez la sauce soja et de l'eau, puis remettez les aromates frits.",
+        "Assaisonnez avec sucre, glutamate et sel ; ajustez la couleur du bouillon sans le rendre trop foncé.",
+        "Baissez à feu moyen-doux et laissez mijoter environ 10 minutes ; vérifiez avec des baguettes que la chair est tendre.",
+        "Retirez les aromates, ajoutez un peu de sauce soja foncée pour la couleur, puis liez à la fécule à feu doux.",
+        "Terminez par une goutte d'huile de sésame, essuyez la peau et nappez le poisson de sauce avant de servir."
+      ],
+      "notes": [
+        "Un poisson braisé se frit toujours d'abord ; à la maison, faites-le mi-frit pour économiser l'huile, en farinant les incisions pour éviter qu'il n'accroche.",
+        "Parfumer l'huile avant de cuire le poisson fait pénétrer l'arôme du porc et des épices jusqu'au cœur de la chair, tandis que le gras la garde moelleuse.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

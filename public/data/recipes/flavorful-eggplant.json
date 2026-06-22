@@ -1,0 +1,113 @@
+{
+  "id": "flavorful-eggplant",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=rc5kh7lYkSM",
+  "ingredientKeys": [
+    "eggplant",
+    "cornstarch",
+    "oil",
+    "chili-pepper",
+    "garlic",
+    "sichuan-peppercorn",
+    "cilantro",
+    "light-soy-sauce",
+    "vinegar",
+    "sugar",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "风味茄子",
+      "ingredients": [
+        { "name": "长茄子" },
+        { "name": "淀粉" },
+        { "name": "油" },
+        { "name": "干辣椒" },
+        { "name": "蒜" },
+        { "name": "花椒" },
+        { "name": "香菜" },
+        { "name": "生抽" },
+        { "name": "醋" },
+        { "name": "白糖" },
+        { "name": "盐" }
+      ],
+      "steps": [
+        "长茄子切成短长条，中间多籽的部位片掉一点，防止炸时出问题。",
+        "茄子表面发干就喷点水，让表面湿润，再拍上一层淀粉，一定要裹上一层白白的淀粉才能炸出硬壳。",
+        "起锅烧宽油，油温升高后下茄子（分两锅炸，别太多），炸到定型变硬捞出。",
+        "把炸过的茄子复炸一次，转中火，逼出茄子里的油并让外壳更脆，捞出沥油。",
+        "锅留底油，下花椒、干辣椒小火炒香（油温太高就加点凉油，否则辣椒发苦），下蒜。",
+        "倒入调好的料汁（生抽、醋、白糖、盐），用筷子搅动起大泡熬到粘稠。",
+        "下入炸好的茄子翻匀让汁挂上，撒香菜即可出锅。"
+      ],
+      "notes": [
+        "茄子表面必须裹足淀粉，否则炸不出酥脆硬壳。",
+        "炒干辣椒时若油温过高需加凉油降温，否则辣椒会发苦。",
+        "精确配比见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Flavorful Crispy Eggplant",
+      "ingredients": [
+        { "name": "Long eggplant" },
+        { "name": "Cornstarch" },
+        { "name": "Oil" },
+        { "name": "Dried chili peppers" },
+        { "name": "Garlic" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Cilantro" },
+        { "name": "Light soy sauce" },
+        { "name": "Vinegar" },
+        { "name": "Sugar" },
+        { "name": "Salt" }
+      ],
+      "steps": [
+        "Cut the long eggplant into short batons and shave off some of the seedy center so it won't cause problems during frying.",
+        "If the surface looks dry, spritz with a little water to moisten it, then dredge in cornstarch; it must be coated in a white layer of starch to fry up a hard shell.",
+        "Heat a generous amount of oil; once hot, add the eggplant (in two batches, not too much at once) and fry until it firms up and sets, then remove.",
+        "Re-fry the eggplant a second time over medium heat to force out the absorbed oil and crisp the shell further, then drain.",
+        "Leave a little oil in the wok, add Sichuan peppercorns and dried chilies and fry over low heat until fragrant (add cool oil if the temperature is too high, or the chilies turn bitter), then add garlic.",
+        "Pour in the prepared sauce (light soy sauce, vinegar, sugar, salt) and stir with chopsticks, boiling until it bubbles up large and thickens.",
+        "Add the fried eggplant, toss to coat in the sauce, sprinkle with cilantro, and serve."
+      ],
+      "notes": [
+        "The eggplant must be fully coated in starch, or it won't fry into a crisp hard shell.",
+        "When frying the dried chilies, add cool oil if the temperature is too high, otherwise the chilies will taste bitter.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Aubergines Croustillantes Parfumées",
+      "ingredients": [
+        { "name": "Aubergine longue" },
+        { "name": "Fécule de maïs" },
+        { "name": "Huile" },
+        { "name": "Piments séchés" },
+        { "name": "Ail" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Coriandre" },
+        { "name": "Sauce soja claire" },
+        { "name": "Vinaigre" },
+        { "name": "Sucre" },
+        { "name": "Sel" }
+      ],
+      "steps": [
+        "Couper l'aubergine longue en courts bâtonnets et retirer une partie du centre rempli de graines pour éviter les soucis à la friture.",
+        "Si la surface paraît sèche, vaporiser un peu d'eau pour l'humidifier, puis enrober de fécule ; il faut une couche blanche de fécule pour former une croûte dure.",
+        "Chauffer une bonne quantité d'huile ; une fois chaude, ajouter l'aubergine (en deux fois, pas trop à la fois) et frire jusqu'à ce qu'elle raffermisse et prenne forme, puis retirer.",
+        "Frire l'aubergine une seconde fois à feu moyen pour faire ressortir l'huile absorbée et rendre la croûte plus croustillante, puis égoutter.",
+        "Laisser un peu d'huile dans le wok, ajouter le poivre du Sichuan et les piments séchés et faire revenir à feu doux jusqu'à ce que ce soit parfumé (ajouter de l'huile froide si la température est trop élevée, sinon les piments deviennent amers), puis ajouter l'ail.",
+        "Verser la sauce préparée (sauce soja claire, vinaigre, sucre, sel) et remuer aux baguettes en faisant bouillir jusqu'à ce qu'elle forme de grosses bulles et épaississe.",
+        "Ajouter l'aubergine frite, mélanger pour bien l'enrober, parsemer de coriandre et servir."
+      ],
+      "notes": [
+        "L'aubergine doit être entièrement enrobée de fécule, sinon elle ne formera pas de croûte croustillante.",
+        "Lors de la friture des piments séchés, ajouter de l'huile froide si la température est trop élevée, sinon les piments deviendront amers.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

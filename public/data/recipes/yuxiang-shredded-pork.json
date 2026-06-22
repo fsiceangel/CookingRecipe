@@ -1,0 +1,151 @@
+{
+  "id": "yuxiang-shredded-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=dkQ9IWOcfSc",
+  "ingredientKeys": [
+    "pork-loin",
+    "salt",
+    "msg",
+    "water",
+    "baking-soda",
+    "cornstarch",
+    "scallion-ginger-water",
+    "oil",
+    "chili-pepper",
+    "scallion",
+    "ginger",
+    "garlic",
+    "ketchup",
+    "bamboo-shoot",
+    "wood-ear-mushroom",
+    "light-soy-sauce",
+    "vinegar",
+    "sugar",
+    "white-pepper"
+  ],
+  "translations": {
+    "cn": {
+      "title": "鱼香肉丝",
+      "ingredients": [
+        { "name": "里脊肉" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "水" },
+        { "name": "小苏打" },
+        { "name": "淀粉" },
+        { "name": "葱姜水" },
+        { "name": "油" },
+        { "name": "美人椒 / 小米辣" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "番茄酱" },
+        { "name": "笋丝" },
+        { "name": "木耳" },
+        { "name": "酱油" },
+        { "name": "醋" },
+        { "name": "白糖" },
+        { "name": "胡椒粉" }
+      ],
+      "steps": [
+        "选用新鲜（非冷冻）猪里脊，先片成片再切成肉丝。",
+        "肉丝用清水稍微洗一下，控干水分，加盐、味精抓拌至表面发黏。",
+        "少加一点水，把水分打进肉里；家里有小苏打的话，一斤肉加一克，肉丝会更饱满，浆好后静置约一小时。",
+        "加淀粉（约五到八克），用手掌心揉搓，让每根肉丝都裹上淀粉；肉质一般可把水换成葱姜水。",
+        "浆好后封一层油防干，也便于划油时散得开。",
+        "美人椒、小米辣剁碎，代替泡椒提供辣味和颜色。",
+        "热锅凉油：锅烧热冒烟后倒入凉油，转小火，下腌好的肉丝滑散，变色后转大火盛出（划油）。",
+        "把肉丝拨到一边，下小米辣、葱姜蒜煸香，加入番茄酱炒出颜色和香味。",
+        "放入焯过水的笋丝和木耳，转小火，加酱油、醋，再开大火，加白糖、盐、味精、胡椒粉定味。",
+        "大火勾芡，淋点明油即可出锅。"
+      ],
+      "notes": [
+        "这是“超级不正宗版”，用番茄酱和新鲜辣椒代替鱼香泡椒。",
+        "小苏打可选，用来让肉更嫩；具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Yu Xiang Shredded Pork",
+      "ingredients": [
+        { "name": "Pork loin" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Water" },
+        { "name": "Baking soda" },
+        { "name": "Cornstarch" },
+        { "name": "Scallion-ginger water" },
+        { "name": "Oil" },
+        { "name": "Red & bird's-eye chilies" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Ketchup" },
+        { "name": "Bamboo shoots" },
+        { "name": "Wood ear mushroom" },
+        { "name": "Soy sauce" },
+        { "name": "Vinegar" },
+        { "name": "Sugar" },
+        { "name": "White pepper" }
+      ],
+      "steps": [
+        "Use fresh (not frozen) pork loin; slice it into sheets, then cut into thin strips.",
+        "Rinse the pork strips briefly in water, drain, then add salt and MSG and stir until the surface turns sticky.",
+        "Add a little water and work it into the meat; if you have baking soda, add 1 g per 500 g of meat for plumper strips, then let the marinated meat rest about an hour.",
+        "Add cornstarch (about 5–8 g) and rub with your palm so every strip is coated; for ordinary meat, swap the water for scallion-ginger water.",
+        "Seal with a layer of oil to prevent drying and to help the strips separate when oil-blanched.",
+        "Finely chop the red and bird's-eye chilies to replace pickled chili for heat and color.",
+        "Hot wok, cool oil: heat the wok until smoking, add cool oil, lower the heat, slide in the marinated pork to separate it, turn to high heat once the color changes, then remove (oil-blanch).",
+        "Push the pork aside, fry the bird's-eye chili, scallion, ginger, and garlic until fragrant, then add ketchup and stir-fry to draw out color and aroma.",
+        "Add the blanched bamboo strips and wood ear, reduce to low heat, add soy sauce and vinegar, then turn to high heat and season with sugar, salt, MSG, and white pepper.",
+        "Thicken with a starch slurry over high heat, drizzle a little finishing oil, and serve."
+      ],
+      "notes": [
+        "This is the chef's \"very untraditional\" version, using ketchup and fresh chilies in place of pickled chili.",
+        "Baking soda is optional, for extra tenderness; see the video end screen for exact ratios."
+      ]
+    },
+    "fr": {
+      "title": "Porc Émincé Yu Xiang",
+      "ingredients": [
+        { "name": "Longe de porc" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Eau" },
+        { "name": "Bicarbonate de soude" },
+        { "name": "Fécule de maïs" },
+        { "name": "Eau de ciboule et gingembre" },
+        { "name": "Huile" },
+        { "name": "Piments rouges et oiseau" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Ketchup" },
+        { "name": "Pousses de bambou" },
+        { "name": "Champignon noir" },
+        { "name": "Sauce soja" },
+        { "name": "Vinaigre" },
+        { "name": "Sucre" },
+        { "name": "Poivre blanc" }
+      ],
+      "steps": [
+        "Utiliser de la longe de porc fraîche (non congelée); la trancher en feuilles puis en fines lanières.",
+        "Rincer brièvement les lanières à l'eau, égoutter, puis ajouter le sel et le glutamate et mélanger jusqu'à ce que la surface devienne collante.",
+        "Ajouter un peu d'eau et l'incorporer à la viande; avec du bicarbonate, ajouter 1 g pour 500 g de viande pour des lanières plus charnues, puis laisser reposer environ une heure.",
+        "Ajouter la fécule (environ 5 à 8 g) et masser avec la paume pour enrober chaque lanière; pour une viande ordinaire, remplacer l'eau par de l'eau de ciboule et gingembre.",
+        "Sceller d'une couche d'huile pour éviter le dessèchement et faciliter la séparation lors du passage à l'huile.",
+        "Hacher finement les piments rouges et oiseau pour remplacer le piment mariné, pour le piquant et la couleur.",
+        "Wok chaud, huile froide : chauffer le wok jusqu'à fumée, ajouter l'huile froide, baisser le feu, glisser le porc mariné pour le séparer, monter à feu vif dès que la couleur change, puis retirer.",
+        "Pousser le porc sur le côté, faire revenir le piment oiseau, la ciboule, le gingembre et l'ail jusqu'à ce que ce soit parfumé, puis ajouter le ketchup et faire sauter pour développer couleur et arôme.",
+        "Ajouter les pousses de bambou blanchies et le champignon noir, baisser le feu, ajouter la sauce soja et le vinaigre, puis monter à feu vif et assaisonner avec sucre, sel, glutamate et poivre blanc.",
+        "Lier avec un peu de fécule délayée à feu vif, arroser d'un filet d'huile, et servir."
+      ],
+      "notes": [
+        "C'est la version « très peu traditionnelle » du chef, utilisant du ketchup et des piments frais à la place du piment mariné.",
+        "Le bicarbonate est facultatif, pour plus de tendreté; voir l'écran de fin de la vidéo pour les proportions exactes."
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "chestnut-braised-napa-cabbage",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=qFEa6jzP18w",
+  "ingredientKeys": [
+    "napa-cabbage",
+    "chestnut",
+    "chicken-stock",
+    "scallion",
+    "ginger",
+    "salt",
+    "msg",
+    "goji-berry",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "板栗扒白菜",
+      "ingredients": [
+        {
+          "name": "娃娃菜"
+        },
+        {
+          "name": "板栗"
+        },
+        {
+          "name": "鸡汤"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "枸杞"
+        },
+        {
+          "name": "水淀粉"
+        }
+      ],
+      "steps": [
+        "选用娃娃菜，把外边的老叶掰掉，根部打十字花刀。",
+        "锅中烧开水（一定要开水下锅，冷水下焯出来会有捂过的臭味），把娃娃菜焯一下去掉淡淡的生味，焯软后撕开就很整齐。",
+        "把锅洗净，加入鸡汤，放葱姜去掉鸡汤的腥味，加盐、味精调味，葱姜在汤里滚出香味后捞出。",
+        "汤中加入板栗，用勺子轻敲使板栗的味道煮到汤里（不要直接用勺敲碎，味道会跑掉）。",
+        "把焯好的白菜倒入汤中，关小火加盖烧约四分钟，把白菜煮到软烂入味。",
+        "开盖见白菜表面呈半透明即烧透，慢慢勾芡，让汤汁能挂在白菜表面即可。",
+        "盛入砂锅，撒上几粒枸杞点缀即可。"
+      ],
+      "notes": [
+        "焯白菜一定要开水下锅，否则会有捂过的臭味。",
+        "火候关键是把白菜煮到软烂为止，各地白菜品质不同，时间灵活掌握。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Chestnut Braised Napa Cabbage",
+      "ingredients": [
+        {
+          "name": "Baby napa cabbage"
+        },
+        {
+          "name": "Chestnut"
+        },
+        {
+          "name": "Chicken stock"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Goji berry"
+        },
+        {
+          "name": "Cornstarch slurry"
+        }
+      ],
+      "steps": [
+        "Use baby napa cabbage, peel off the tough outer leaves, and cut a cross into the root end.",
+        "Bring water to a full boil (always blanch in boiling water; cold-water blanching gives a stewed, off smell) and blanch the cabbage to remove its faint raw taste; once soft it pulls apart neatly.",
+        "Clean the wok, add chicken stock, add scallion and ginger to remove any off smell from the stock, season with salt and MSG, and once the scallion and ginger have given off their aroma, remove them.",
+        "Add the chestnuts to the stock and lightly tap them with a spoon so their flavor cooks into the broth (don't crush them outright, or the flavor escapes).",
+        "Add the blanched cabbage to the stock, lower the heat, cover, and braise for about four minutes until the cabbage is soft and flavorful.",
+        "Uncover; when the cabbage surface looks translucent it is cooked through. Thicken gently with cornstarch slurry just enough to coat the cabbage.",
+        "Transfer to a clay pot and garnish with a few goji berries."
+      ],
+      "notes": [
+        "Always blanch napa cabbage in boiling water, or it develops a stewed, off smell.",
+        "The key is cooking the cabbage until truly soft; cabbage quality varies by region, so adjust the time. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Chou Chinois Braisé aux Châtaignes",
+      "ingredients": [
+        {
+          "name": "Chou chinois nain"
+        },
+        {
+          "name": "Châtaigne"
+        },
+        {
+          "name": "Bouillon de poulet"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Baie de goji"
+        },
+        {
+          "name": "Liaison à la fécule"
+        }
+      ],
+      "steps": [
+        "Utiliser du chou chinois nain, retirer les feuilles extérieures dures et inciser une croix dans le pied.",
+        "Porter l'eau à pleine ébullition (toujours blanchir dans l'eau bouillante ; à l'eau froide cela donne une odeur d'étouffé) et blanchir le chou pour enlever son léger goût cru ; une fois ramolli il se détache proprement.",
+        "Nettoyer le wok, ajouter le bouillon de poulet, ajouter ciboule et gingembre pour enlever toute odeur du bouillon, assaisonner de sel et glutamate, et une fois leur arôme dégagé, les retirer.",
+        "Ajouter les châtaignes au bouillon et les tapoter légèrement à la cuillère pour que leur saveur cuise dans le bouillon (ne pas les écraser, sinon la saveur s'échappe).",
+        "Ajouter le chou blanchi au bouillon, baisser le feu, couvrir et braiser environ quatre minutes jusqu'à ce que le chou soit tendre et parfumé.",
+        "Découvrir ; quand la surface du chou paraît translucide il est cuit. Lier doucement à la fécule juste assez pour enrober le chou.",
+        "Transférer dans un pot en terre et garnir de quelques baies de goji."
+      ],
+      "notes": [
+        "Toujours blanchir le chou chinois dans l'eau bouillante, sinon il développe une odeur d'étouffé.",
+        "L'essentiel est de cuire le chou jusqu'à ce qu'il soit vraiment tendre ; la qualité du chou varie selon les régions, ajuster le temps. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

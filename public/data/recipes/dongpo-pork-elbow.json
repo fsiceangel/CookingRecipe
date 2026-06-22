@@ -1,0 +1,192 @@
+{
+  "id": "dongpo-pork-elbow",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=X0AjpQN636Q",
+  "ingredientKeys": [
+    "pork-elbow",
+    "white-kidney-bean",
+    "scallion",
+    "ginger",
+    "sichuan-peppercorn",
+    "salt",
+    "chicken-stock",
+    "chili-pepper",
+    "garlic",
+    "sesame-seeds",
+    "vinegar",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "东坡肘子",
+      "ingredients": [
+        {
+          "name": "前肘子"
+        },
+        {
+          "name": "芸豆"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "高汤"
+        },
+        {
+          "name": "干辣椒"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "芝麻"
+        },
+        {
+          "name": "醋"
+        },
+        {
+          "name": "热油"
+        }
+      ],
+      "steps": [
+        "选前肘子，先检查并用火把表面的猪毛燎掉，肉皮燎到发黑发紧。",
+        "把燎过的肘子放进温水里泡一会儿，再把表面那层焦黑刮掉、洗净，露出金黄的肉皮。",
+        "从侧面片一刀、大肉块处再划两刀便于入味。",
+        "锅中加水，放十几粒花椒、葱、姜，肘子冷水下锅焯出血水，撇去浮沫，烧开后煮约半小时至筷子扎下无血水。",
+        "捞出肘子换入砂锅，加两勺高汤、泡好的芸豆、一段葱、一片姜和一粒花椒。",
+        "水开后转小火，加盐，盖盖小火慢炖，让盐味慢慢渗进肉里。",
+        "做蘸水：干辣椒和花椒分别焙香晾凉捣碎，加蒜末，浇上热油，再加醋、芝麻拌匀。",
+        "肘子炖至软烂出锅，配蘸水即可。"
+      ],
+      "notes": [
+        "炖的时候提前下盐，盐味才能渗到肉里，吃着才有回味。",
+        "砂锅里花椒只放一粒，量大了会发苦。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Dongpo Pork Elbow",
+      "ingredients": [
+        {
+          "name": "Front pork elbow"
+        },
+        {
+          "name": "White kidney beans"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Stock"
+        },
+        {
+          "name": "Dried chili peppers"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Sesame seeds"
+        },
+        {
+          "name": "Vinegar"
+        },
+        {
+          "name": "Hot oil"
+        }
+      ],
+      "steps": [
+        "Choose a front pork elbow. Singe the surface over a flame to burn off any bristles until the skin darkens and tightens.",
+        "Soak the singed elbow in warm water, then scrape off the charred outer layer and wash clean to reveal golden skin.",
+        "Cut a slit along the side and score the thick meat a couple of times so it absorbs flavor.",
+        "Add water to a pot with a dozen Sichuan peppercorns, scallion, and ginger. Add the elbow from cold water, blanch out the blood, skim the foam, then boil about 30 minutes until a chopstick pierces it with no blood.",
+        "Transfer the elbow to a clay pot. Add two ladles of stock, the soaked white kidney beans, a piece of scallion, a slice of ginger, and a single peppercorn.",
+        "Once boiling, lower to a gentle simmer, add salt, cover, and braise slowly so the salt penetrates the meat.",
+        "Make the dipping sauce: toast dried chilies and peppercorns separately until fragrant, cool, then crush. Add minced garlic, pour over hot oil, then stir in vinegar and sesame seeds.",
+        "When the elbow is meltingly tender, serve with the dipping sauce."
+      ],
+      "notes": [
+        "Salt early during the simmer so the flavor soaks into the meat and leaves a lasting savor.",
+        "Use only a single peppercorn in the clay pot; more will turn the broth bitter.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Jarret de Porc Dongpo",
+      "ingredients": [
+        {
+          "name": "Jarret de porc avant"
+        },
+        {
+          "name": "Haricots blancs"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Bouillon"
+        },
+        {
+          "name": "Piments séchés"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Graines de sésame"
+        },
+        {
+          "name": "Vinaigre"
+        },
+        {
+          "name": "Huile chaude"
+        }
+      ],
+      "steps": [
+        "Choisir un jarret de porc avant. Flamber la surface pour brûler les soies jusqu'à ce que la couenne noircisse et se resserre.",
+        "Faire tremper le jarret flambé dans de l'eau tiède, puis gratter la couche carbonisée et laver pour révéler une couenne dorée.",
+        "Inciser le côté et entailler la partie charnue à deux reprises pour faciliter l'absorption des saveurs.",
+        "Dans une casserole d'eau, ajouter une douzaine de grains de poivre du Sichuan, de la ciboule et du gingembre. Plonger le jarret à froid, blanchir pour ôter le sang, écumer, puis bouillir environ 30 minutes jusqu'à ce qu'une baguette le transperce sans sang.",
+        "Transférer le jarret dans une marmite en terre. Ajouter deux louches de bouillon, les haricots blancs trempés, un morceau de ciboule, une tranche de gingembre et un seul grain de poivre.",
+        "À ébullition, baisser à frémissement doux, saler, couvrir et braiser lentement pour que le sel pénètre la viande.",
+        "Préparer la sauce à tremper : torréfier séparément piments et poivre jusqu'à parfum, laisser refroidir et piler. Ajouter l'ail haché, verser l'huile chaude, puis incorporer le vinaigre et les graines de sésame.",
+        "Lorsque le jarret est fondant, servir avec la sauce."
+      ],
+      "notes": [
+        "Saler tôt pendant le mijotage pour que la saveur imprègne la viande et laisse une longue rémanence.",
+        "N'utiliser qu'un seul grain de poivre dans la marmite ; davantage rendrait le bouillon amer.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

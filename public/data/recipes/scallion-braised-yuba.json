@@ -1,0 +1,196 @@
+{
+  "id": "scallion-braised-yuba",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=tQbKn1R9Ue8",
+  "ingredientKeys": [
+    "yuba",
+    "scallion",
+    "oil",
+    "star-anise",
+    "dried-shrimp",
+    "oyster-sauce",
+    "water",
+    "msg",
+    "sugar",
+    "dark-soy-sauce",
+    "salt",
+    "chili-pepper",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "葱烧腐竹",
+      "ingredients": [
+        {
+          "name": "腐竹"
+        },
+        {
+          "name": "大葱"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "大料"
+        },
+        {
+          "name": "海米"
+        },
+        {
+          "name": "蚝油"
+        },
+        {
+          "name": "水"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "红椒"
+        },
+        {
+          "name": "水淀粉"
+        }
+      ],
+      "steps": [
+        "腐竹提前泡软（要泡到软但不能泡过，泡过了一炸就散）。大葱分两部分：外层切粗丝斜刀用来熬葱油，葱芯切段用来与腐竹同烧。",
+        "锅里倒油烧热，先炸葱丝，期间不停搅动使受热均匀，炸到金黄后捞出，得到葱油。",
+        "用葱油把葱段也炸一下：大火升温、中火慢炸炸透，油温过高会两头糊；炸好捞出，带点油用余温把葱焖透。",
+        "用锅里的葱油把泡好的腐竹煎一下，温度稍高，把表面水分炸掉一部分、定型即可。",
+        "锅留底油，放入一个大料瓣和海米炒香，倒入刚炸过的葱段，加蚝油、加水大火烧开。",
+        "调味：味精、白糖、老抽上色，熬到味道融合后，把炸过的葱段捞出挤干汁水放一旁，汤汁定味（补点糖和盐）。",
+        "把煎好的腐竹倒入汤中稍微一烧，放两个红椒调色，再把葱段倒回去，勾芡出锅。"
+      ],
+      "notes": [
+        "用葱油来煎腐竹，豆香和葱香融合，味道复合更香。",
+        "腐竹一定要泡软但别泡过，炸过后才能把葱香吸得足。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Scallion Braised Yuba (Tofu Skin)",
+      "ingredients": [
+        {
+          "name": "Yuba (tofu skin)"
+        },
+        {
+          "name": "Chinese scallion"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Dried shrimp"
+        },
+        {
+          "name": "Oyster sauce"
+        },
+        {
+          "name": "Water"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Red chili"
+        },
+        {
+          "name": "Cornstarch slurry"
+        }
+      ],
+      "steps": [
+        "Soak the yuba until soft ahead of time (soft but not over-soaked, or it falls apart when fried). Split the scallion into two parts: the outer layers sliced into thick diagonal strips for the scallion oil, the inner core cut into sections to braise with the yuba.",
+        "Heat oil in the wok and fry the scallion strips first, stirring constantly for even heating; fry until golden, then remove, leaving you with scallion oil.",
+        "Fry the scallion sections in that oil too: raise the heat high, then fry gently over medium heat until cooked through; too high a temperature scorches the ends. Remove with a little oil and let the residual heat finish softening them.",
+        "Pan-fry the soaked yuba in the scallion oil at a slightly higher temperature to drive off some surface moisture and set its shape.",
+        "Leave a little oil in the wok, add a piece of star anise and the dried shrimp and fry until fragrant, add the fried scallion sections, then oyster sauce and water, and bring to a boil over high heat.",
+        "Season with MSG, sugar, and dark soy sauce for color; simmer until the flavors meld, then lift out the scallion sections, squeeze out their juice, and set aside. Adjust the sauce (add a little sugar and salt).",
+        "Add the pan-fried yuba to the sauce and braise briefly, add two red chilies for color, return the scallion sections, thicken with cornstarch slurry, and serve."
+      ],
+      "notes": [
+        "Pan-frying the yuba in scallion oil blends the soy and scallion aromas for a richer, more complex flavor.",
+        "Soak the yuba until soft but not over-soaked; frying it lets it absorb the scallion aroma fully. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Yuba Braisé à la Ciboule",
+      "ingredients": [
+        {
+          "name": "Yuba (peau de tofu)"
+        },
+        {
+          "name": "Ciboule chinoise"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Crevettes séchées"
+        },
+        {
+          "name": "Sauce d'huître"
+        },
+        {
+          "name": "Eau"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Piment rouge"
+        },
+        {
+          "name": "Liaison à la fécule"
+        }
+      ],
+      "steps": [
+        "Faire tremper le yuba jusqu'à ce qu'il soit souple à l'avance (souple mais pas trop, sinon il se défait à la friture). Diviser la ciboule en deux : les couches extérieures coupées en grosses lanières en biais pour l'huile de ciboule, le coeur coupé en tronçons pour braiser avec le yuba.",
+        "Chauffer l'huile dans le wok et frire d'abord les lanières de ciboule en remuant sans cesse pour un chauffage uniforme ; frire jusqu'à doré, puis retirer, ce qui donne l'huile de ciboule.",
+        "Frire aussi les tronçons de ciboule dans cette huile : monter le feu, puis frire doucement à feu moyen jusqu'à cuisson ; une température trop élevée brûle les extrémités. Retirer avec un peu d'huile et laisser la chaleur résiduelle finir de les attendrir.",
+        "Faire revenir le yuba trempé dans l'huile de ciboule à température un peu plus élevée pour chasser une partie de l'humidité de surface et fixer sa forme.",
+        "Laisser un peu d'huile dans le wok, ajouter un morceau d'anis étoilé et les crevettes séchées et frire jusqu'à parfum, ajouter les tronçons de ciboule frits, puis la sauce d'huître et l'eau, et porter à ébullition à feu vif.",
+        "Assaisonner de glutamate, sucre et sauce soja foncée pour la couleur ; mijoter jusqu'à ce que les saveurs se marient, puis retirer les tronçons de ciboule, presser leur jus et réserver. Ajuster la sauce (un peu de sucre et de sel).",
+        "Ajouter le yuba poêlé à la sauce et braiser brièvement, ajouter deux piments rouges pour la couleur, remettre les tronçons de ciboule, lier à la fécule et servir."
+      ],
+      "notes": [
+        "Poêler le yuba dans l'huile de ciboule marie les arômes de soja et de ciboule pour une saveur plus riche et complexe.",
+        "Tremper le yuba jusqu'à souplesse sans excès ; le frire lui permet d'absorber pleinement l'arôme de ciboule. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}
