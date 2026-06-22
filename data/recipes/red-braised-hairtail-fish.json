@@ -1,0 +1,158 @@
+{
+  "id": "red-braised-hairtail-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=C1QIiLpYHC8",
+  "ingredientKeys": [
+    "hairtail-fish",
+    "scallion-ginger-water",
+    "flour",
+    "oil",
+    "star-anise",
+    "scallion",
+    "ginger",
+    "garlic",
+    "light-soy-sauce",
+    "shiitake-mushroom",
+    "cooking-wine",
+    "sugar",
+    "msg",
+    "salt",
+    "white-pepper",
+    "chili-pepper",
+    "cilantro",
+    "onion",
+    "cornstarch-slurry",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红烧带鱼",
+      "ingredients": [
+        { "name": "带鱼" },
+        { "name": "葱姜花椒水" },
+        { "name": "面粉" },
+        { "name": "油" },
+        { "name": "大料" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大蒜" },
+        { "name": "酱油" },
+        { "name": "香菇" },
+        { "name": "料酒" },
+        { "name": "白糖" },
+        { "name": "味精" },
+        { "name": "盐" },
+        { "name": "白胡椒粉" },
+        { "name": "尖椒" },
+        { "name": "香菜" },
+        { "name": "洋葱" },
+        { "name": "水淀粉" },
+        { "name": "香油" }
+      ],
+      "steps": [
+        "处理带鱼：去头、去背鳍、去鱼尾尖，剪开腹腔去净内脏和黑膜，表面发涩的鳞用钢丝球擦掉，洗净。",
+        "带鱼切段，两面各划几刀深至骨，便于入味。",
+        "把鱼段放入葱姜花椒水中浸泡至少一两个小时去腥，泡得越久腥味去得越干净。",
+        "捞出带鱼轻轻攥干水分，表面薄薄拍一层面粉。",
+        "锅里放三四勺油，加大料和葱姜先煸出香味，做成香料油。",
+        "下带鱼大火煎，使鱼皮迅速结壳定型，煎到表面有硬壳、上色即可。",
+        "另起锅放干净油烧热，下葱姜蒜和大料大火煸香煸黄。",
+        "加入酱油，再加水和泡香菇的香菇水，下料酒、白糖、味精、盐、白胡椒粉。",
+        "放入煎好的带鱼，再放两根尖椒和香菜增香，关中火焖10分钟。",
+        "砂锅烧热放底油，铺上洋葱、大蒜、生姜，把烧好的带鱼摆进去，点缀香菇。",
+        "锅里的汤勾个薄芡浇上，开火至粘糊，淋点香油，撒点缀物即可。"
+      ],
+      "notes": [
+        "用香料油煎带鱼能去腥增香；红烧前必炸（煎），脱水后腥味更轻。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Red-Braised Hairtail Fish",
+      "ingredients": [
+        { "name": "Hairtail fish" },
+        { "name": "Scallion-ginger-peppercorn water" },
+        { "name": "Flour" },
+        { "name": "Oil" },
+        { "name": "Star anise" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Soy sauce" },
+        { "name": "Shiitake mushroom" },
+        { "name": "Cooking wine" },
+        { "name": "Sugar" },
+        { "name": "MSG" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "Chili pepper" },
+        { "name": "Cilantro" },
+        { "name": "Onion" },
+        { "name": "Cornstarch slurry" },
+        { "name": "Sesame oil" }
+      ],
+      "steps": [
+        "Prep the hairtail: remove the head, dorsal fin, and tail tip, cut open the belly to clean out the innards and black membrane, scrub off the rough surface film with a steel scrubber, and rinse.",
+        "Cut the fish into sections and score both sides down to the bone for flavor penetration.",
+        "Soak the fish sections in scallion-ginger-peppercorn water for at least one to two hours to remove the fishy smell; the longer the better.",
+        "Lift out the fish, gently squeeze off excess water, and dust both sides with a thin layer of flour.",
+        "Add three or four spoons of oil to the wok with star anise, scallion, and ginger, and fry until fragrant to make an aromatic oil.",
+        "Add the fish and pan-fry over high heat so the skin quickly sets into a crust; fry until the surface is firm and colored.",
+        "In another wok, heat fresh oil and fry scallion, ginger, garlic, and star anise over high heat until golden and fragrant.",
+        "Add soy sauce, then water and the soaking liquid from the shiitake mushrooms, followed by cooking wine, sugar, MSG, salt, and white pepper.",
+        "Add the fried fish, then two chili peppers and some cilantro for aroma, cover, and braise over medium heat for 10 minutes.",
+        "Heat a clay pot with a little oil, line it with onion, garlic, and ginger, arrange the braised fish on top, and garnish with shiitake.",
+        "Thicken the braising sauce with a little cornstarch slurry, pour it over, drizzle with sesame oil, garnish, and serve."
+      ],
+      "notes": [
+        "Frying the fish in aromatic oil removes the odor and adds fragrance; pan-frying before braising dehydrates the fish and reduces the fishy smell.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poisson-Sabre Braisé à la Sauce Soja",
+      "ingredients": [
+        { "name": "Poisson-sabre" },
+        { "name": "Eau de ciboule, gingembre et poivre" },
+        { "name": "Farine" },
+        { "name": "Huile" },
+        { "name": "Anis étoilé" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Sauce soja" },
+        { "name": "Champignon shiitake" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sucre" },
+        { "name": "Glutamate" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Piment" },
+        { "name": "Coriandre" },
+        { "name": "Oignon" },
+        { "name": "Liaison à la fécule" },
+        { "name": "Huile de sésame" }
+      ],
+      "steps": [
+        "Préparer le poisson-sabre : retirer la tête, la nageoire dorsale et le bout de la queue, ouvrir le ventre pour ôter les viscères et la membrane noire, frotter le film rugueux à l'éponge métallique et rincer.",
+        "Couper le poisson en tronçons et inciser les deux côtés jusqu'à l'arête.",
+        "Faire tremper les tronçons dans l'eau de ciboule, gingembre et poivre au moins une à deux heures pour ôter l'odeur ; plus c'est long, mieux c'est.",
+        "Égoutter le poisson, presser doucement pour ôter l'excès d'eau et fariner légèrement les deux faces.",
+        "Mettre trois ou quatre cuillères d'huile dans le wok avec l'anis étoilé, la ciboule et le gingembre, et faire revenir jusqu'à obtenir une huile parfumée.",
+        "Ajouter le poisson et le faire frire à feu vif pour que la peau forme vite une croûte ; frire jusqu'à ce que la surface soit ferme et colorée.",
+        "Dans un autre wok, chauffer de l'huile propre et faire revenir ciboule, gingembre, ail et anis étoilé à feu vif jusqu'à coloration et parfum.",
+        "Ajouter la sauce soja, puis l'eau et l'eau de trempage des shiitakes, suivis du vin de cuisine, du sucre, du glutamate, du sel et du poivre blanc.",
+        "Ajouter le poisson frit, puis deux piments et de la coriandre pour l'arôme, couvrir et braiser à feu moyen 10 minutes.",
+        "Chauffer un poêlon en terre avec un peu d'huile, le tapisser d'oignon, d'ail et de gingembre, disposer le poisson braisé dessus et garnir de shiitake.",
+        "Lier la sauce avec un peu de fécule, la verser dessus, arroser d'huile de sésame, garnir et servir."
+      ],
+      "notes": [
+        "Frire le poisson dans une huile parfumée ôte l'odeur et ajoute de l'arôme ; la friture avant le braisage déshydrate le poisson et réduit l'odeur de poisson.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

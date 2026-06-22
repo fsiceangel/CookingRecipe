@@ -1,0 +1,215 @@
+{
+  "id": "aged-vinegar-braised-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=xdHN-O3zp6Q",
+  "ingredientKeys": [
+    "pork-belly",
+    "scallion",
+    "ginger",
+    "garlic",
+    "sichuan-peppercorn",
+    "star-anise",
+    "cooking-wine",
+    "aged-vinegar",
+    "dark-soy-sauce",
+    "salt",
+    "sugar",
+    "oil",
+    "water",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "老醋焖肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "大料（八角）"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "陈醋"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "水"
+        },
+        {
+          "name": "水淀粉"
+        }
+      ],
+      "steps": [
+        "选硬五花（四面都是五花的整块），保证炖后块形整齐。",
+        "煮肉：锅中加水，放葱姜、花椒、大料，加料酒去腥，肉皮朝上放入（防止肉皮粘锅）。大火烧开转小火加盖煮20多分钟。",
+        "用筷子插入肉中间，拔出无血水即熟。捞出放案板上修整，斜刀切成方块（约六块）。",
+        "起锅烧油，下葱姜蒜、花椒、大料大火煸香、煸出颜色。",
+        "下肉块翻炒，使表面失去一部分水分，便于重新吸收汤汁。转小火，小心炒糊。",
+        "直接烹入陈醋，激出醋香，再煸三五秒。",
+        "加水，再加老抽上色（因为没炒糖色，上色全靠老抽，可多放些），加盐、白糖。",
+        "大火烧开转小火炖约一个小时，炖至软烂。",
+        "先把肉捞出，汤汁捞去渣子。",
+        "换锅下水淀粉勾芡，收浓后浇在肉上即可。"
+      ],
+      "notes": [
+        "正宗做法应用山西陈放时间长的老陈醋，家用普通陈醋也可，香味略有差别。",
+        "醋能促进肉的融化、融掉部分脂肪，所以肥肉吃起来不腻。详细用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Aged-Vinegar Braised Pork",
+      "ingredients": [
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Aged vinegar"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Water"
+        },
+        {
+          "name": "Cornstarch slurry"
+        }
+      ],
+      "steps": [
+        "Choose firm pork belly (a whole block that is layered on all four sides) so the pieces stay neat after braising.",
+        "Pre-boil the pork: add water to a pot with scallion, ginger, Sichuan peppercorns, and star anise, add cooking wine to remove the smell, and place the pork skin-side up (to stop the skin sticking to the pot). Bring to a boil, reduce to low, cover, and simmer for over 20 minutes.",
+        "Insert a chopstick into the center of the meat; if no bloody liquid comes out, it is done. Remove, trim on a board, and cut on a slant into cubes (about six pieces).",
+        "Heat oil in a wok and stir-fry scallion, ginger, garlic, Sichuan peppercorns, and star anise over high heat until fragrant and colored.",
+        "Add the pork and stir-fry to drive off some surface moisture so it can reabsorb the braising liquid. Reduce to low heat, taking care not to scorch.",
+        "Pour the aged vinegar directly into the hot wok to release its aroma, then stir-fry another three to five seconds.",
+        "Add water, then dark soy sauce for color (since no caramel was made, all the color comes from dark soy, so you can use plenty), and add salt and sugar.",
+        "Bring to a boil over high heat, then reduce to low and braise for about one hour until tender.",
+        "Remove the pork first, then skim the solids out of the sauce.",
+        "Transfer the sauce to another pot, thicken with cornstarch slurry, reduce, and spoon over the pork. Serve."
+      ],
+      "notes": [
+        "The authentic version uses long-aged Shanxi vinegar; ordinary aged vinegar works for home cooking, with a slight difference in aroma.",
+        "The vinegar helps break down the meat and renders some of the fat, so the fatty pork doesn't taste greasy. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Braisé au Vinaigre Vieilli",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Vinaigre vieilli"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Eau"
+        },
+        {
+          "name": "Liaison à la fécule"
+        }
+      ],
+      "steps": [
+        "Choisir une poitrine de porc ferme (un bloc entier feuilleté sur les quatre faces) pour que les morceaux restent nets après le braisage.",
+        "Pré-cuire le porc : mettre de l'eau dans une casserole avec ciboule, gingembre, poivre du Sichuan et anis étoilé, ajouter le vin de cuisine pour ôter l'odeur, et placer le porc côté peau vers le haut (pour éviter que la peau n'attache). Porter à ébullition, baisser à feu doux, couvrir et laisser mijoter plus de 20 minutes.",
+        "Enfoncer une baguette au centre de la viande ; si aucun liquide sanguinolent ne sort, c'est cuit. Retirer, parer sur une planche et couper en biais en cubes (environ six morceaux).",
+        "Chauffer l'huile dans un wok et faire revenir ciboule, gingembre, ail, poivre du Sichuan et anis étoilé à feu vif jusqu'à ce que ce soit parfumé et coloré.",
+        "Ajouter le porc et faire sauter pour évacuer une partie de l'humidité de surface afin qu'il réabsorbe le liquide de braisage. Baisser à feu doux en veillant à ne pas brûler.",
+        "Verser le vinaigre vieilli directement dans le wok chaud pour libérer son arôme, puis faire sauter encore trois à cinq secondes.",
+        "Ajouter l'eau, puis la sauce soja foncée pour la couleur (sans caramel, toute la couleur vient de la sauce soja foncée, on peut donc en mettre généreusement), et ajouter le sel et le sucre.",
+        "Porter à ébullition à feu vif, puis baisser à feu doux et braiser environ une heure jusqu'à tendreté.",
+        "Retirer d'abord le porc, puis écumer les solides de la sauce.",
+        "Transvaser la sauce dans une autre casserole, lier à la fécule, réduire et napper le porc. Servir."
+      ],
+      "notes": [
+        "La version authentique utilise du vinaigre du Shanxi longuement vieilli ; du vinaigre vieilli ordinaire convient pour la maison, avec une légère différence d'arôme.",
+        "Le vinaigre aide à décomposer la viande et fait fondre une partie du gras, si bien que le porc gras ne paraît pas écœurant. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

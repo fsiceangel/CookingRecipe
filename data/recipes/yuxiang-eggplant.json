@@ -1,0 +1,202 @@
+{
+  "id": "yuxiang-eggplant",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=-k81KxF5ZGI",
+  "ingredientKeys": [
+    "eggplant",
+    "chili-pepper",
+    "wood-ear-mushroom",
+    "ginger",
+    "garlic",
+    "scallion",
+    "vinegar",
+    "light-soy-sauce",
+    "cooking-wine",
+    "msg",
+    "sugar",
+    "dark-soy-sauce",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "鱼香茄子",
+      "ingredients": [
+        {
+          "name": "茄子"
+        },
+        {
+          "name": "辣椒"
+        },
+        {
+          "name": "木耳"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "醋"
+        },
+        {
+          "name": "生抽"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "水淀粉"
+        }
+      ],
+      "steps": [
+        "嫩茄子不用去皮，去掉蒂，切成约2厘米见方的丁（太小受热就缩没了）。",
+        "辣椒去籽切丁，木耳提前泡发烫好，葱姜蒜切末，丁配丁。",
+        "调鱼香汁：醋、生抽、料酒、味精、白糖、加点老抽和水调匀。",
+        "电饼铛放底油，把茄丁铺平，用烙饼档，不用管它，靠电饼铛的高温代替油炸。",
+        "茄子稍微出味后，用铲背刷点油（先让表面水分散掉再刷更好），盖到没缝、按一下软烂即可捡出。",
+        "锅里放底油，下姜、蒜末、辣椒、木耳煸香。",
+        "放入茄子，煸炒让味道渗进去。",
+        "把调好的鱼香汁加淀粉，大火烹入，定味后出锅。"
+      ],
+      "notes": [
+        "用电饼铛代替油炸，省油不油腻，又省时省力。",
+        "勾了淀粉收汁很快，一般3分钟搞定，全程约10分钟即成。",
+        "葱姜蒜按比例放，姜蒜适量，具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Yu Xiang Eggplant",
+      "ingredients": [
+        {
+          "name": "Eggplant"
+        },
+        {
+          "name": "Chili pepper"
+        },
+        {
+          "name": "Wood ear mushroom"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Vinegar"
+        },
+        {
+          "name": "Light soy sauce"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Cornstarch slurry"
+        }
+      ],
+      "steps": [
+        "Tender eggplant needs no peeling; remove the stem and cut into roughly 2 cm cubes (too small and they shrink away once heated).",
+        "Deseed and dice the chili, soak and blanch the wood ear, and mince the scallion, ginger, and garlic, matching dice with dice.",
+        "Make the yu xiang sauce: mix vinegar, light soy sauce, cooking wine, MSG, sugar, a little dark soy sauce, and water.",
+        "Add a little oil to an electric griddle, spread out the eggplant cubes, set it to the flatbread setting, and leave them alone so the high heat mimics deep-frying.",
+        "Once the eggplant starts giving off aroma, brush a little oil on with the back of the spatula (better after the surface moisture has gone), close the griddle until there's no gap and the cubes press soft, then remove.",
+        "Add a little oil to a wok and fry the ginger, garlic, chili, and wood ear until fragrant.",
+        "Add the eggplant and stir-fry so the flavors soak in.",
+        "Stir cornstarch into the prepared yu xiang sauce, pour it in over high heat, adjust the seasoning, and serve."
+      ],
+      "notes": [
+        "Using an electric griddle instead of deep-frying saves oil, keeps it from being greasy, and saves time and effort.",
+        "Once thickened the sauce reduces fast, usually in 3 minutes, with the whole dish taking about 10 minutes.",
+        "Add the scallion, ginger, and garlic in proportion; exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Aubergines Yu Xiang",
+      "ingredients": [
+        {
+          "name": "Aubergine"
+        },
+        {
+          "name": "Piment"
+        },
+        {
+          "name": "Champignon noir"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Vinaigre"
+        },
+        {
+          "name": "Sauce soja claire"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Liaison à la fécule"
+        }
+      ],
+      "steps": [
+        "Une aubergine tendre n'a pas besoin d'être épluchée ; retirer le pédoncule et la couper en cubes d'environ 2 cm (trop petits, ils disparaissent à la cuisson).",
+        "Épépiner et couper le piment en dés, faire tremper et blanchir le champignon noir, et hacher la ciboule, le gingembre et l'ail, en assortissant les dés.",
+        "Préparer la sauce yu xiang : mélanger le vinaigre, la sauce soja claire, le vin de cuisine, le glutamate, le sucre, un peu de sauce soja foncée et de l'eau.",
+        "Mettre un peu d'huile sur une plaque électrique, étaler les cubes d'aubergine, régler sur la position galette et les laisser tranquilles pour que la chaleur intense imite la friture.",
+        "Quand l'aubergine commence à dégager son arôme, badigeonner un peu d'huile avec le dos de la spatule (mieux une fois l'humidité de surface partie), fermer la plaque jusqu'à ce qu'il n'y ait plus d'espace et que les cubes s'écrasent tendrement, puis retirer.",
+        "Mettre un peu d'huile dans un wok et faire revenir le gingembre, l'ail, le piment et le champignon noir jusqu'à ce que ce soit parfumé.",
+        "Ajouter l'aubergine et faire sauter pour que les saveurs pénètrent.",
+        "Incorporer la fécule à la sauce yu xiang préparée, la verser à feu vif, rectifier l'assaisonnement et servir."
+      ],
+      "notes": [
+        "Utiliser une plaque électrique au lieu de la friture économise l'huile, évite le gras et fait gagner du temps et des efforts.",
+        "Une fois liée, la sauce réduit vite, généralement en 3 minutes, le plat entier prenant environ 10 minutes.",
+        "Ajouter la ciboule, le gingembre et l'ail dans les bonnes proportions ; les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

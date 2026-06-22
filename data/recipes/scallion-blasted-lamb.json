@@ -1,0 +1,202 @@
+{
+  "id": "scallion-blasted-lamb",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=OeQaS--2rEI",
+  "ingredientKeys": [
+    "lamb",
+    "scallion",
+    "white-pepper",
+    "salt",
+    "msg",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "scallion-ginger-water",
+    "sichuan-peppercorn",
+    "cornstarch",
+    "sesame-oil",
+    "oil",
+    "vinegar"
+  ],
+  "translations": {
+    "cn": {
+      "title": "葱爆羊肉",
+      "ingredients": [
+        {
+          "name": "羊肉（羊通脊或羊腿肉）"
+        },
+        {
+          "name": "葱白"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "生抽"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "葱姜花椒水"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "玉米淀粉"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "食用油"
+        },
+        {
+          "name": "醋"
+        }
+      ],
+      "steps": [
+        "选羊通脊或羊腿肉，把表面的干皮片掉，切成约一枚硬币厚的片（不好切可先冷冻一下）。",
+        "羊肉片加胡椒粉、盐、味精，少许酱油上色（一点点即可，多了发黑）。",
+        "加入葱姜花椒水，顺一个方向抓打，在盐的作用下抓到发黏，再加玉米淀粉（薄薄一层即可，太多不易熟）。",
+        "再放少许香油增香、少许食用油防粘，抓匀至表面油润、盆底无水。",
+        "葱取葱白，滚刀切段。",
+        "锅烧得很热，放底油，下羊肉片不要急着翻动，待定型变散变色后再划散，靠边推到一侧。",
+        "把锅转向，让另一侧空出来下葱白，葱稍软后翻炒，炒到肉熟、葱发软。",
+        "关小火，加生抽，再加少许老抽调色，撒胡椒粉、味精。",
+        "出锅前烹点醋、淋香油，即可出锅。"
+      ],
+      "notes": [
+        "羊肉上浆那薄薄一层淀粉，使成菜表面挂一层汁，黏糊不出汤，适合拌饭拌面。",
+        "锅要烧得够热再下肉，形成热膜才不粘锅。"
+      ]
+    },
+    "en": {
+      "title": "Scallion-Blasted Lamb",
+      "ingredients": [
+        {
+          "name": "Lamb (loin or leg)"
+        },
+        {
+          "name": "Scallion whites"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Light soy sauce"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Scallion-ginger-peppercorn water"
+        },
+        {
+          "name": "Sichuan peppercorn"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Vinegar"
+        }
+      ],
+      "steps": [
+        "Use lamb loin or leg, trim off the dry surface skin, and slice about as thick as a coin (chill briefly if hard to slice).",
+        "Season the lamb slices with white pepper, salt, MSG and a touch of soy sauce for color (just a little, too much turns it dark).",
+        "Add the scallion-ginger-peppercorn water and grip-stir in one direction; the salt makes it tacky. Then add cornstarch (only a thin coat, too much won't cook through).",
+        "Add a little sesame oil for aroma and a little cooking oil to prevent sticking; mix until the surface looks oily and no water sits at the bottom.",
+        "Take the scallion whites and roll-cut into segments.",
+        "Heat the wok very hot, add a base of oil, and add the lamb; don't rush to stir. Once it sets, separates and changes color, break it apart and push to one side.",
+        "Turn the wok so the other side is free, add the scallion whites; once slightly softened, stir-fry everything until the meat is cooked and the scallions are soft.",
+        "Lower the heat, add light soy sauce, then a little dark soy for color, and sprinkle white pepper and MSG.",
+        "Just before serving, splash in a little vinegar and drizzle sesame oil, then plate."
+      ],
+      "notes": [
+        "The thin starch coating leaves a glaze on the lamb so it clings without soup, great over rice or noodles.",
+        "Get the wok really hot before adding the meat so a heat film forms and keeps it from sticking."
+      ]
+    },
+    "fr": {
+      "title": "Agneau Sauté aux Ciboules",
+      "ingredients": [
+        {
+          "name": "Agneau (longe ou gigot)"
+        },
+        {
+          "name": "Blancs de ciboule"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sauce soja claire"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Eau de ciboule, gingembre et poivre"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Vinaigre"
+        }
+      ],
+      "steps": [
+        "Utiliser de la longe ou du gigot d'agneau, retirer la peau sèche en surface et trancher à l'épaisseur d'une pièce de monnaie (placer au congélateur un instant si difficile à couper).",
+        "Assaisonner les tranches d'agneau avec poivre blanc, sel, glutamate et un soupçon de sauce soja pour la couleur (très peu, sinon ça noircit).",
+        "Ajouter l'eau de ciboule-gingembre-poivre et malaxer dans un seul sens ; le sel rend la viande collante. Ajouter ensuite la fécule (une fine couche seulement, sinon ça ne cuit pas).",
+        "Ajouter un peu d'huile de sésame pour l'arôme et un peu d'huile pour éviter que ça colle ; mélanger jusqu'à une surface huileuse, sans eau au fond.",
+        "Couper les blancs de ciboule en biais (roll-cut).",
+        "Chauffer le wok très fort, ajouter un fond d'huile et l'agneau ; ne pas remuer tout de suite. Une fois pris, détaché et coloré, séparer les morceaux et pousser sur un côté.",
+        "Tourner le wok pour libérer l'autre côté, ajouter les blancs de ciboule ; une fois ramollis, faire sauter le tout jusqu'à ce que la viande soit cuite et les ciboules tendres.",
+        "Baisser le feu, ajouter la sauce soja claire, puis un peu de soja foncée pour la couleur, parsemer de poivre blanc et de glutamate.",
+        "Juste avant de servir, ajouter un trait de vinaigre et filer d'huile de sésame, puis dresser."
+      ],
+      "notes": [
+        "La fine couche de fécule laisse un glaçage sur l'agneau qui adhère sans bouillon, idéal sur du riz ou des nouilles.",
+        "Bien chauffer le wok avant d'y mettre la viande pour former un film thermique antiadhésif."
+      ]
+    }
+  }
+}

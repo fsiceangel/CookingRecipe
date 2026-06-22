@@ -1,0 +1,174 @@
+{
+  "id": "double-crisp-stir-fry",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 5,
+  "videoLink": "https://www.youtube.com/watch?v=NudS5psPlTE",
+  "ingredientKeys": [
+    "pork-stomach",
+    "chicken-gizzard",
+    "sichuan-peppercorn-water",
+    "salt",
+    "white-pepper",
+    "cornstarch",
+    "oil",
+    "cooking-wine",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "油爆双脆",
+      "ingredients": [
+        {
+          "name": "猪肚头"
+        },
+        {
+          "name": "鸡胗"
+        },
+        {
+          "name": "花椒水"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "玉米淀粉"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "水淀粉"
+        }
+      ],
+      "steps": [
+        "做油爆双脆只用猪肚头，一般三个猪肚才出一道菜。把肚头一剖两开，里外的油全部取干净。",
+        "从一头开始片到底层皮，往前推，后面那层一定不要，否则影响口感。只用最干净的一小片。",
+        "在肚头上打鱼网（十字）花刀：先竖切，再横切交叉，切到约三分之二深，不要切断。",
+        "鸡胗去掉边上的筋，修干净，同样打十字花刀，切到约五分之四深。",
+        "把打好花刀的肚头和鸡胗一起放入过滤好的花椒水中泡约五分钟入味。",
+        "泡好后分别装碗（两者下锅时间不同，要分开），各加盐、胡椒粉腌底味，再拍薄薄一层玉米淀粉上浆。",
+        "上浆后各用油封一下，防止变干，下锅滑油时也不易散开。",
+        "另调一碗碗芡（碗汁）备用。",
+        "宽油烧到约六成热，先下鸡胗，再下猪肚，边下边扒散别粘连，原料一变白就熟，动作要快。",
+        "回锅烹入料酒，倒入碗芡，快速翻匀立即出锅。",
+        "装盘时把菜拢住别让它溜到盘边，趁热上桌。"
+      ],
+      "notes": [
+        "这是火候菜：油温掌握最难，原料变白就要立刻出锅，下锅到起锅约一分钟。",
+        "肚头和鸡胗要分碗、分先后下锅，因为成熟时间不同。",
+        "趁热紧吃，菜温不能低于80度，凉了就失去脆爽口感。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Oil-Blasted Double Crisp",
+      "ingredients": [
+        {
+          "name": "Pork stomach (tip)"
+        },
+        {
+          "name": "Chicken gizzard"
+        },
+        {
+          "name": "Sichuan peppercorn water"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Cornstarch slurry"
+        }
+      ],
+      "steps": [
+        "Use only the thick tip of the pork stomach; it usually takes about three stomachs to make one dish. Split the tip open and strip off all the fat inside and out.",
+        "Slice down to the bottom skin layer and push forward; discard the back layer entirely or it ruins the texture. Use only the cleanest small piece.",
+        "Score the stomach tip in a crosshatch (fishnet) pattern: cut lengthwise first, then crosswise, about two-thirds deep, without cutting through.",
+        "Trim the tough membrane off the chicken gizzards, clean them, and score them with the same crosshatch about four-fifths deep.",
+        "Soak the scored stomach and gizzards together in strained Sichuan peppercorn water for about five minutes to flavor them.",
+        "Drain and put each in its own bowl (they cook for different times, so keep them separate); season each with salt and white pepper, then dust on a thin coat of cornstarch.",
+        "Seal each with a little oil so they don't dry out and won't break apart when flash-fried.",
+        "Mix a bowl of sauce (with cornstarch slurry) and set aside.",
+        "Heat a generous amount of oil to about 60% hot, add the gizzards first, then the stomach, separating them so they don't clump; they're done the instant they turn white. Work fast.",
+        "Return to the wok, splash in cooking wine, pour in the sauce, toss quickly, and serve immediately.",
+        "Plate it gathered together so it doesn't slide to the edge, and serve piping hot."
+      ],
+      "notes": [
+        "This is a heat-control dish: the oil temperature is the hardest part. Remove the instant the ingredients turn white; the whole stir-fry takes about a minute.",
+        "Keep stomach and gizzard in separate bowls and add them at different times, since they cook at different rates.",
+        "Eat right away while hot, no cooler than 80°C; once cold it loses its crisp bite.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Double Croquant Saisi à l'Huile",
+      "ingredients": [
+        {
+          "name": "Estomac de porc (pointe)"
+        },
+        {
+          "name": "Gésier de poulet"
+        },
+        {
+          "name": "Eau de poivre du Sichuan"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Liaison à la fécule"
+        }
+      ],
+      "steps": [
+        "N'utiliser que la pointe épaisse de l'estomac de porc ; il faut environ trois estomacs pour un plat. Ouvrir la pointe et retirer toute la graisse, dedans comme dehors.",
+        "Trancher jusqu'à la couche de peau du fond en poussant ; jeter entièrement la couche arrière, sinon la texture est gâchée. N'utiliser que le petit morceau le plus net.",
+        "Inciser la pointe en quadrillage (filet) : couper d'abord dans la longueur, puis en travers, sur environ deux tiers de l'épaisseur, sans traverser.",
+        "Parer la membrane dure des gésiers, les nettoyer et les inciser du même quadrillage sur environ quatre cinquièmes de l'épaisseur.",
+        "Faire tremper l'estomac et les gésiers incisés ensemble dans de l'eau de poivre du Sichuan filtrée environ cinq minutes pour les parfumer.",
+        "Égoutter et placer chacun dans son bol (ils cuisent en des temps différents, à garder séparés) ; assaisonner chacun de sel et de poivre blanc, puis saupoudrer une fine couche de fécule.",
+        "Sceller chacun avec un peu d'huile pour qu'ils ne sèchent pas et ne se défassent pas à la friture éclair.",
+        "Préparer un bol de sauce (avec liaison à la fécule) et réserver.",
+        "Chauffer une bonne quantité d'huile à environ 60 % ; ajouter d'abord les gésiers, puis l'estomac, en les séparant ; ils sont cuits dès qu'ils blanchissent. Aller vite.",
+        "Remettre au wok, déglacer au vin de cuisine, verser la sauce, sauter rapidement et servir aussitôt.",
+        "Dresser en rassemblant le tout pour qu'il ne glisse pas au bord, et servir brûlant."
+      ],
+      "notes": [
+        "C'est un plat de maîtrise du feu : la température de l'huile est le plus délicat. Retirer dès que les ingrédients blanchissent ; tout le sauté prend une minute environ.",
+        "Garder estomac et gésier dans des bols séparés et les ajouter à des moments différents, car ils cuisent à des vitesses différentes.",
+        "Manger aussitôt, bien chaud, pas en dessous de 80 °C ; froid, il perd son croquant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

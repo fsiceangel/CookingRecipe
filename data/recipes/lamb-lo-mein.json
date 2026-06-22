@@ -1,0 +1,139 @@
+{
+  "id": "lamb-lo-mein",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=ZGOBL7_sig8",
+  "ingredientKeys": [
+    "lamb",
+    "noodles",
+    "scallion",
+    "ginger",
+    "garlic",
+    "sichuan-peppercorn",
+    "chili-pepper",
+    "sesame-seeds",
+    "oil",
+    "vinegar",
+    "light-soy-sauce",
+    "msg",
+    "sugar",
+    "white-pepper",
+    "sesame-oil",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "羊肉捞面",
+      "ingredients": [
+        { "name": "羊腿肉" },
+        { "name": "面条" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "花椒" },
+        { "name": "辣椒" },
+        { "name": "芝麻" },
+        { "name": "油" },
+        { "name": "醋" },
+        { "name": "酱油" },
+        { "name": "味精" },
+        { "name": "白糖" },
+        { "name": "白胡椒粉" },
+        { "name": "香油" },
+        { "name": "盐" }
+      ],
+      "steps": [
+        "选羊前腿肉（有肥有瘦），去净骨头、筋膜和大块的筋，切成约一毫米厚的片。",
+        "准备葱姜蒜、花椒和面条。",
+        "锅烧热加油，下花椒小火炸香后捞出，得到花椒油。",
+        "下姜片和羊肉，全程大火翻炒；炒时产生水汽千万不要盖盖，以免闷出膻味。",
+        "肉煸出颜色后放点醋去腥，再下葱段。",
+        "葱变软后沿锅边烹入酱油，加味精、白糖、白胡椒粉（盐后放，因为酱油已有咸味）。",
+        "淋入香油，下蒜，葱爆羊肉就做好了。",
+        "另起锅倒干净油，加辣椒和芝麻炸香成辣椒油。",
+        "面条煮好不过水直接装碗，浇上葱爆羊肉，再淋上炸好的辣椒油拌匀即可。"
+      ],
+      "notes": [
+        "面条不过水，能带一点黏糊，更好地挂住羊肉的汤汁。",
+        "花椒油和辣椒油是这道面的关键，辣椒油还能解掉多余的油腻。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Lamb Lo Mein",
+      "ingredients": [
+        { "name": "Lamb leg" },
+        { "name": "Noodles" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Chili pepper" },
+        { "name": "Sesame seeds" },
+        { "name": "Oil" },
+        { "name": "Vinegar" },
+        { "name": "Soy sauce" },
+        { "name": "MSG" },
+        { "name": "Sugar" },
+        { "name": "White pepper" },
+        { "name": "Sesame oil" },
+        { "name": "Salt" }
+      ],
+      "steps": [
+        "Use lamb foreleg (with both fat and lean), remove the bone, membranes, and large sinews, then slice about 1mm thick.",
+        "Prepare scallion, ginger, garlic, Sichuan peppercorns, and noodles.",
+        "Heat oil in a wok, fry the Sichuan peppercorns over low heat until fragrant, then remove them, leaving the peppercorn oil.",
+        "Add ginger slices and lamb, stir-frying over high heat the whole time; never cover the wok while moisture is releasing, or it will trap the gamey smell.",
+        "Once the meat is seared, add a splash of vinegar to remove odor, then add the scallion sections.",
+        "When the scallion softens, pour soy sauce down the side of the wok, add MSG, sugar, and white pepper (add salt last, since the soy sauce is already salty).",
+        "Drizzle in sesame oil, add garlic, and the scallion-fried lamb is done.",
+        "In a clean wok, heat fresh oil with chili and sesame seeds until fragrant to make chili oil.",
+        "Cook the noodles, do not rinse them, place directly in a bowl, top with the lamb, then drizzle the chili oil over and toss to combine."
+      ],
+      "notes": [
+        "Skipping the cold rinse leaves the noodles slightly starchy so they cling to the lamb's sauce better.",
+        "The peppercorn oil and chili oil are the keys to this dish; the chili oil also cuts the excess grease.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles Sautées à l'Agneau",
+      "ingredients": [
+        { "name": "Gigot d'agneau" },
+        { "name": "Nouilles" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Piment" },
+        { "name": "Graines de sésame" },
+        { "name": "Huile" },
+        { "name": "Vinaigre" },
+        { "name": "Sauce soja" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" },
+        { "name": "Poivre blanc" },
+        { "name": "Huile de sésame" },
+        { "name": "Sel" }
+      ],
+      "steps": [
+        "Utiliser de la cuisse avant d'agneau (gras et maigre), retirer l'os, les membranes et les gros tendons, puis trancher en lamelles d'environ 1 mm.",
+        "Préparer ciboule, gingembre, ail, poivre du Sichuan et nouilles.",
+        "Chauffer l'huile dans un wok, faire frire le poivre du Sichuan à feu doux jusqu'à ce qu'il soit parfumé, puis le retirer en gardant l'huile parfumée.",
+        "Ajouter les tranches de gingembre et l'agneau, sauter à feu vif tout du long ; ne jamais couvrir le wok pendant que l'humidité s'échappe, sinon l'odeur forte reste piégée.",
+        "Une fois la viande saisie, ajouter un trait de vinaigre pour ôter l'odeur, puis ajouter les tronçons de ciboule.",
+        "Quand la ciboule ramollit, verser la sauce soja le long du wok, ajouter le glutamate, le sucre et le poivre blanc (saler en dernier, la sauce soja étant déjà salée).",
+        "Arroser d'huile de sésame, ajouter l'ail, et l'agneau sauté à la ciboule est prêt.",
+        "Dans un wok propre, chauffer de l'huile fraîche avec du piment et des graines de sésame jusqu'à ce que ce soit parfumé pour faire l'huile pimentée.",
+        "Cuire les nouilles, ne pas les rincer, les mettre directement dans un bol, garnir d'agneau, puis arroser d'huile pimentée et mélanger."
+      ],
+      "notes": [
+        "Ne pas rincer les nouilles les laisse légèrement amidonnées pour mieux accrocher la sauce de l'agneau.",
+        "L'huile de poivre du Sichuan et l'huile pimentée sont les clés du plat ; l'huile pimentée coupe aussi l'excès de gras.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

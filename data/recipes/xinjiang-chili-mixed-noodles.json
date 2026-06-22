@@ -1,0 +1,122 @@
+{
+  "id": "xinjiang-chili-mixed-noodles",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=jiTzTYlmWCI",
+  "ingredientKeys": [
+    "flour",
+    "beef",
+    "xinjiang-dried-chili",
+    "onion",
+    "garlic",
+    "chinese-chives",
+    "light-soy-sauce",
+    "msg",
+    "cornstarch",
+    "chili-oil",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "辣皮子拌面",
+      "ingredients": [
+        { "name": "面" },
+        { "name": "牛肉" },
+        { "name": "辣皮子" },
+        { "name": "洋葱" },
+        { "name": "蒜" },
+        { "name": "韭菜" },
+        { "name": "酱油" },
+        { "name": "味精" },
+        { "name": "淀粉" },
+        { "name": "红油" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "和好的面擀成长方块，切条，抹上油防粘防干，搓成小拇指粗细。",
+        "盘子里抹油，把搓好的面条盘进去，全部做好后再抹一层油封住，盖好醒一会儿。",
+        "牛肉切片，加点酱油抓匀腌底味。",
+        "辣皮子（新疆辣椒干）用热水泡软，剁碎。",
+        "锅里放稍宽一点的油，下洋葱煸炒，再下泡好的辣皮子炒至变焦黄。",
+        "拨开食材，放一瓣蒜，倒入牛肉煸熟，再倒入辣皮子炒出香味。",
+        "再放一瓣蒜增加层次的蒜香，调味：味精、酱油（提咸、找色）。",
+        "勾少量淀粉让汤汁粘稠，便于挂面。",
+        "放入韭菜，淋入炸好的红油，翻匀关火。",
+        "锅里烧开水，把面拉好下锅，开锅即熟，捞出。",
+        "把炒好的辣皮子牛肉浇在面上，拌匀即可。"
+      ],
+      "notes": [
+        "用洋葱煸出来的油带甜味，是这碗面好吃的关键。",
+        "面条不过水，让酱汁完全挂在每根面上。"
+      ]
+    },
+    "en": {
+      "title": "Xinjiang Chili Mixed Noodles",
+      "ingredients": [
+        { "name": "Noodle dough" },
+        { "name": "Beef" },
+        { "name": "Xinjiang dried chili (lapizi)" },
+        { "name": "Onion" },
+        { "name": "Garlic" },
+        { "name": "Chinese chives" },
+        { "name": "Soy sauce" },
+        { "name": "MSG" },
+        { "name": "Cornstarch" },
+        { "name": "Chili oil" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Roll the dough into a rectangle, cut into strips, coat with oil to prevent sticking and drying, and roll into pinky-thick ropes.",
+        "Oil a plate, coil the noodle ropes onto it; once all are done, brush another layer of oil to seal, cover, and let rest.",
+        "Slice the beef and marinate with a little soy sauce.",
+        "Soak the Xinjiang dried chilies in hot water until soft, then chop them.",
+        "Heat a generous amount of oil, fry the onion, then add the soaked chilies and fry until golden-brown.",
+        "Push the ingredients aside, add a clove of garlic, then add the beef and fry until cooked; mix in the chilies and fry until fragrant.",
+        "Add another clove of garlic for layered garlic aroma, then season with MSG and soy sauce (for salt and color).",
+        "Add a little cornstarch to thicken the sauce so it clings to the noodles.",
+        "Add the Chinese chives and the fried chili oil, toss together, and turn off the heat.",
+        "Bring water to a boil, hand-pull the noodles into the pot, cook just until the water returns to a boil, and drain.",
+        "Pour the chili beef over the noodles and toss to combine."
+      ],
+      "notes": [
+        "The oil rendered from frying the onion carries a sweetness that makes this dish.",
+        "Don't rinse the noodles, so the sauce coats every strand."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles Sautées au Piment du Xinjiang",
+      "ingredients": [
+        { "name": "Pâte à nouilles" },
+        { "name": "Boeuf" },
+        { "name": "Piment séché du Xinjiang (lapizi)" },
+        { "name": "Oignon" },
+        { "name": "Ail" },
+        { "name": "Ciboulette chinoise" },
+        { "name": "Sauce soja" },
+        { "name": "Glutamate" },
+        { "name": "Fécule de maïs" },
+        { "name": "Huile pimentée" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Étaler la pâte en rectangle, couper en lanières, enduire d'huile pour éviter qu'elles collent et sèchent, et rouler en cordons de l'épaisseur d'un petit doigt.",
+        "Huiler une assiette, y enrouler les cordons de nouilles ; une fois tous faits, badigeonner d'une autre couche d'huile pour sceller, couvrir et laisser reposer.",
+        "Trancher le boeuf et le faire mariner avec un peu de sauce soja.",
+        "Faire tremper les piments séchés du Xinjiang dans l'eau chaude jusqu'à ce qu'ils ramollissent, puis les hacher.",
+        "Chauffer une bonne quantité d'huile, faire revenir l'oignon, puis ajouter les piments trempés et faire revenir jusqu'à coloration dorée.",
+        "Pousser les ingrédients sur le côté, ajouter une gousse d'ail, puis ajouter le boeuf et faire cuire ; mélanger avec les piments et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter une autre gousse d'ail pour un arôme d'ail en couches, puis assaisonner de glutamate et de sauce soja (pour le sel et la couleur).",
+        "Ajouter un peu de fécule pour épaissir la sauce afin qu'elle adhère aux nouilles.",
+        "Ajouter la ciboulette chinoise et l'huile pimentée frite, mélanger et éteindre le feu.",
+        "Porter l'eau à ébullition, étirer les nouilles à la main dans l'eau, cuire juste jusqu'à la reprise de l'ébullition et égoutter.",
+        "Verser le boeuf pimenté sur les nouilles et mélanger."
+      ],
+      "notes": [
+        "L'huile issue de la cuisson de l'oignon apporte une douceur qui fait tout le plat.",
+        "Ne pas rincer les nouilles, pour que la sauce enrobe chaque brin."
+      ]
+    }
+  }
+}

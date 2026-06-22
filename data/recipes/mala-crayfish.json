@@ -1,0 +1,131 @@
+{
+  "id": "mala-crayfish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=OmCKlKaxq3U",
+  "ingredientKeys": [
+    "crayfish",
+    "oil",
+    "sichuan-peppercorn",
+    "chili-pepper",
+    "scallion",
+    "ginger",
+    "garlic",
+    "doubanjiang",
+    "hotpot-base",
+    "msg",
+    "cooking-wine",
+    "sugar",
+    "water",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "麻辣小龙虾",
+      "ingredients": [
+        { "name": "小龙虾" },
+        { "name": "油" },
+        { "name": "花椒、麻椒" },
+        { "name": "干辣椒" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "豆瓣酱" },
+        { "name": "火锅底料" },
+        { "name": "味精" },
+        { "name": "啤酒或花椒酒" },
+        { "name": "白糖" },
+        { "name": "水" },
+        { "name": "香油" }
+      ],
+      "steps": [
+        "挑选肚皮下边干净的小龙虾（说明养殖水质好）；剪去虾头，捏住两只钳子操作。",
+        "去虾线：尾巴中间那一瓣左扭右扭、往外一拽即可带出虾线。",
+        "为了便于入味，在虾背划一刀，再刷洗干净。",
+        "起锅烧油，油烧到七成多冒烟，倒入小龙虾，全程大火半煎半炸到全部变红，倒入漏勺把油逼出。",
+        "锅里加水，放花椒、麻椒、干辣椒过一下火水（焯过水的辣椒花椒更容易炒出味）。",
+        "锅里重新加油，下焯过的辣椒、花椒炒香，全程大火，再放葱姜蒜一块炒，要煸得狠一点，蒜煸黄煸香。",
+        "加入一勺豆瓣酱出色，再加火锅底料炒香，加水，放味精、白糖（糖用来折一下麻椒花椒的苦味）。",
+        "把炸过虾的虾油倒进去，再把小龙虾倒进去；如果虾品质一般，这一步加点啤酒或花椒酒。",
+        "开锅之后盖上盖子焖5分钟，出锅时撒上蒜末、淋上香油即可。"
+      ],
+      "notes": [
+        "麻椒和花椒一定要混着用，纯放麻椒会麻得发苦；用糖折一下煮过辣椒花椒的苦味。",
+        "在虾背划一刀既方便入味，又方便食用时取虾头虾脑；这种做法很万能，做大虾或牛蛙都可以。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Mala Crayfish",
+      "ingredients": [
+        { "name": "Crayfish" },
+        { "name": "Oil" },
+        { "name": "Sichuan peppercorn (red and green)" },
+        { "name": "Dried chili pepper" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Doubanjiang (chili bean paste)" },
+        { "name": "Hotpot base" },
+        { "name": "MSG" },
+        { "name": "Beer or Sichuan peppercorn wine" },
+        { "name": "Sugar" },
+        { "name": "Water" },
+        { "name": "Sesame oil" }
+      ],
+      "steps": [
+        "Choose crayfish with a clean underbelly (a sign of good water quality); snip off the head, holding the two claws steady while you work.",
+        "Devein: twist the middle tail fin left and right and pull it out to draw out the vein.",
+        "To help it absorb flavor, cut a slit along the back of each crayfish, then scrub clean.",
+        "Heat oil in a wok until it is hot and smoking (about 70%), add the crayfish, and shallow-fry over high heat the whole time until all turn red, then drain off the oil in a colander.",
+        "Add water to the wok and briefly blanch the red and green Sichuan peppercorns and dried chilies (blanched chilies and peppercorns release flavor more easily when stir-fried).",
+        "Add fresh oil to the wok, stir-fry the blanched chilies and peppercorns until fragrant over high heat, then add scallion, ginger, and garlic, frying hard until the garlic is golden and aromatic.",
+        "Add a spoon of doubanjiang for color, then add hotpot base and stir-fry until fragrant, add water, and season with MSG and sugar (the sugar counters the bitterness of the peppercorns).",
+        "Pour in the crayfish-flavored oil from frying, then add the crayfish; if the crayfish quality is only average, add some beer or Sichuan peppercorn wine at this point.",
+        "Once it boils, cover and braise for 5 minutes; to finish, sprinkle with minced garlic and drizzle with sesame oil."
+      ],
+      "notes": [
+        "Always mix red and green Sichuan peppercorns; using only green peppercorns turns it bitterly numbing; sugar offsets the bitterness from the cooked chilies and peppercorns.",
+        "The slit along the back both helps the flavor get in and makes it easy to reach the head fat when eating; this method is versatile and works for large prawns or bullfrog too.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Écrevisses Mala",
+      "ingredients": [
+        { "name": "Écrevisses" },
+        { "name": "Huile" },
+        { "name": "Poivre du Sichuan (rouge et vert)" },
+        { "name": "Piment séché" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Doubanjiang (pâte de fèves pimentée)" },
+        { "name": "Base de fondue chinoise" },
+        { "name": "Glutamate" },
+        { "name": "Bière ou vin au poivre du Sichuan" },
+        { "name": "Sucre" },
+        { "name": "Eau" },
+        { "name": "Huile de sésame" }
+      ],
+      "steps": [
+        "Choisir des écrevisses au ventre propre (signe d'une bonne qualité d'eau) ; couper la tête en tenant fermement les deux pinces pendant l'opération.",
+        "Retirer le boyau : tordre la nageoire centrale de la queue de gauche à droite et la tirer pour extraire le boyau.",
+        "Pour favoriser l'absorption des saveurs, inciser le dos de chaque écrevisse, puis bien brosser.",
+        "Chauffer l'huile dans un wok jusqu'à ce qu'elle fume (environ 70 %), ajouter les écrevisses et les faire frire à mi-hauteur à feu vif jusqu'à ce qu'elles soient toutes rouges, puis égoutter l'huile dans une passoire.",
+        "Ajouter de l'eau dans le wok et blanchir brièvement les poivres du Sichuan rouge et vert et les piments séchés (les piments et poivres blanchis libèrent plus facilement leur saveur à la cuisson).",
+        "Ajouter de l'huile fraîche dans le wok, faire revenir les piments et poivres blanchis jusqu'à ce qu'ils soient parfumés à feu vif, puis ajouter ciboule, gingembre et ail, en faisant bien revenir jusqu'à ce que l'ail soit doré et parfumé.",
+        "Ajouter une cuillère de doubanjiang pour la couleur, puis la base de fondue et faire revenir jusqu'à ce que ce soit parfumé, ajouter de l'eau et assaisonner de glutamate et de sucre (le sucre contre l'amertume des poivres).",
+        "Verser l'huile parfumée aux écrevisses issue de la friture, puis ajouter les écrevisses ; si leur qualité est moyenne, ajouter à ce stade un peu de bière ou de vin au poivre du Sichuan.",
+        "Une fois à ébullition, couvrir et braiser 5 minutes ; pour finir, parsemer d'ail haché et arroser d'huile de sésame."
+      ],
+      "notes": [
+        "Toujours mélanger les poivres du Sichuan rouge et vert ; n'utiliser que le vert rend le plat amèrement engourdissant ; le sucre compense l'amertume des piments et poivres cuits.",
+        "L'incision dans le dos favorise la pénétration des saveurs et facilite l'accès au corail de la tête à la dégustation ; cette méthode est polyvalente et convient aussi aux grosses crevettes ou à la grenouille taureau.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

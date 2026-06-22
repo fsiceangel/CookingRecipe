@@ -1,0 +1,148 @@
+{
+  "id": "deboned-stewed-silver-carp-head",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4.5,
+  "videoLink": "https://www.youtube.com/watch?v=HWBGiE-cEwo",
+  "ingredientKeys": [
+    "silver-carp-head",
+    "scallion",
+    "ginger",
+    "sichuan-peppercorn",
+    "salt",
+    "cooking-wine",
+    "lard",
+    "bamboo-shoot",
+    "shiitake-mushroom",
+    "chicken",
+    "white-pepper",
+    "chicken-stock",
+    "ham",
+    "dried-scallop",
+    "msg",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "拆烩鲢鱼头",
+      "ingredients": [
+        { "name": "大鱼头（花鲢/胖头鱼）" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "花椒" },
+        { "name": "盐" },
+        { "name": "料酒" },
+        { "name": "猪油" },
+        { "name": "笋" },
+        { "name": "香菇" },
+        { "name": "熟鸡肉" },
+        { "name": "白胡椒粉" },
+        { "name": "高汤" },
+        { "name": "火腿" },
+        { "name": "瑶柱" },
+        { "name": "味精" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "选品质好一点的花鲢（胖头）鱼头，买时请摊主从中间批开。",
+        "鱼头是熟拆，先烧水，放花椒、葱姜、料酒、盐，水开后下鱼头。",
+        "下锅后用盆扣上，让它上下顺气，把上层表皮也煮熟，开锅后转小火煮约八分钟。",
+        "煮到用筷子轻轻一扎能很容易插下去、塞盖也能轻松取下、中间无生肉无血水为度，捞出沥汤。",
+        "蘸点水开始拆骨：一手轻轻往前推把皮撸下，贴着三角骨和鱼背的刺把肉取下；脸旁、眼皮下和鱼唇处的暗刺要摸净。",
+        "翻面拆鱼脊背和鱼腮下的肉，尽量保持鱼脸完整、形状不散，再细细检查一遍有无残刺。",
+        "锅下大油（猪油），因鱼肉缺脂肪要补一部分才香。",
+        "下葱姜、笋、香菇、熟鸡肉炝锅，烹点料酒，加入高汤、火腿和瑶柱。",
+        "因火腿、瑶柱本身有盐，先把味煮进汤里再调味：加盐、味精；转小火放白胡椒粉（火大易成奶白汤）。",
+        "把鱼头放进锅里归整好，露出鱼脸，开大火咕嘟入味，撇去浮沫。",
+        "转小火原锅勾芡，慢慢晃动锅让淀粉均匀粘稠，分约四次勾到粘糊冒泡。",
+        "原锅一次出锅，直接抹到盘里即成。"
+      ],
+      "notes": [
+        "拆是技巧、煮的火候是技巧、原锅打芡也是技巧——这道淮扬名菜三大技巧缺一不可。",
+        "正宗拆烩是原锅烩、原锅打芡、整锅出，不分两步，味道远胜先装盘再浇芡的做法。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Deboned Stewed Silver Carp Head (Huaiyang)",
+      "ingredients": [
+        { "name": "Bighead/silver carp head" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Salt" },
+        { "name": "Cooking wine" },
+        { "name": "Lard" },
+        { "name": "Bamboo shoot" },
+        { "name": "Shiitake mushroom" },
+        { "name": "Cooked chicken" },
+        { "name": "White pepper" },
+        { "name": "Stock" },
+        { "name": "Chinese ham" },
+        { "name": "Dried scallop" },
+        { "name": "MSG" },
+        { "name": "Cornstarch slurry" }
+      ],
+      "steps": [
+        "Choose a good-quality bighead (fat-head) carp head and have the vendor split it down the middle.",
+        "This head is deboned after cooking, so first boil water with Sichuan peppercorns, scallion, ginger, cooking wine, and salt, then add the head.",
+        "Cover with an inverted basin so the steam circulates and the top skin also cooks; once boiling, lower to a gentle simmer for about eight minutes.",
+        "Cook until a chopstick slides in easily and the cheek bone lifts off easily, with no raw flesh or blood inside; lift out and drain.",
+        "Wet your hands and start deboning: gently push the skin forward to peel it, taking the flesh off along the triangular bone and the row of spines on the back; feel out the hidden bones beside the cheek, under the eye, and at the lips.",
+        "Flip and remove the flesh from the spine and under the gills, keeping the face intact and the shape together, then carefully check again for stray bones.",
+        "Add lard to the wok - since fish has little fat, you need to add some for richness.",
+        "Sizzle scallion, ginger, bamboo shoot, shiitake, and cooked chicken, splash in cooking wine, then add stock, ham, and dried scallops.",
+        "Because the ham and scallops are already salty, simmer their flavor into the broth before seasoning: add salt and MSG; lower the heat and add white pepper (high heat turns it into a milky soup).",
+        "Settle the fish head into the wok, arrange it with the face showing, bring to high heat to soak up flavor, and skim off foam.",
+        "Lower the heat and thicken in the same pot, swirling slowly so the starch sets evenly; thicken in about four additions until thick and bubbly.",
+        "Slide the whole pot out at once, smearing it directly onto the plate to serve."
+      ],
+      "notes": [
+        "Deboning, controlling the boil, and thickening in the original pot are the three signature techniques of this Huaiyang classic - none can be skipped.",
+        "Authentic chai hui means stewing and thickening in the original pot and plating the whole pot at once - never in two steps - and tastes far better than plating first then ladling on the sauce.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tête de Carpe Argentée Désossée et Mijotée (Huaiyang)",
+      "ingredients": [
+        { "name": "Tête de carpe à grosse tête" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Sel" },
+        { "name": "Vin de cuisine" },
+        { "name": "Saindoux" },
+        { "name": "Pousse de bambou" },
+        { "name": "Champignon shiitake" },
+        { "name": "Poulet cuit" },
+        { "name": "Poivre blanc" },
+        { "name": "Bouillon" },
+        { "name": "Jambon chinois" },
+        { "name": "Pétoncle séché" },
+        { "name": "Glutamate" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Choisissez une tête de carpe à grosse tête de bonne qualité et demandez au vendeur de la fendre en deux par le milieu.",
+        "Cette tête se désosse après cuisson : faites d'abord bouillir de l'eau avec poivre du Sichuan, ciboule, gingembre, vin de cuisine et sel, puis ajoutez la tête.",
+        "Couvrez d'une bassine renversée pour que la vapeur circule et que la peau du dessus cuise aussi ; à ébullition, baissez à frémissement doux pendant environ huit minutes.",
+        "Cuisez jusqu'à ce qu'une baguette s'enfonce facilement et que l'os de la joue se détache aisément, sans chair crue ni sang à l'intérieur ; retirez et égouttez.",
+        "Mouillez-vous les mains et commencez le désossage : poussez doucement la peau vers l'avant pour la peler, en détachant la chair le long de l'arête triangulaire et de la rangée d'épines du dos ; repérez au toucher les arêtes cachées près de la joue, sous l'œil et aux lèvres.",
+        "Retournez et retirez la chair de l'arête dorsale et sous les ouïes, en gardant la face intacte et la forme cohérente, puis vérifiez à nouveau soigneusement les arêtes restantes.",
+        "Ajoutez du saindoux au wok - le poisson ayant peu de gras, il en faut un peu pour la richesse.",
+        "Faites revenir ciboule, gingembre, pousse de bambou, shiitake et poulet cuit, déglacez au vin de cuisine, puis ajoutez le bouillon, le jambon et les pétoncles séchés.",
+        "Le jambon et les pétoncles étant déjà salés, faites infuser leur saveur dans le bouillon avant d'assaisonner : ajoutez sel et glutamate ; baissez le feu et ajoutez le poivre blanc (à feu vif, la soupe devient laiteuse).",
+        "Installez la tête de poisson dans le wok, disposez-la face visible, montez à feu vif pour qu'elle absorbe les saveurs et écumez la mousse.",
+        "Baissez le feu et liez dans la même casserole, en tournant lentement pour que la fécule prenne uniformément ; liez en environ quatre fois jusqu'à épais et bouillonnant.",
+        "Faites glisser toute la casserole d'un coup, en l'étalant directement sur l'assiette pour servir."
+      ],
+      "notes": [
+        "Le désossage, la maîtrise de l'ébullition et la liaison dans la casserole d'origine sont les trois techniques emblématiques de ce classique Huaiyang - aucune ne peut être omise.",
+        "Le véritable chai hui consiste à mijoter et lier dans la casserole d'origine et à dresser toute la casserole d'un coup - jamais en deux étapes - et a bien meilleur goût que de dresser puis napper de sauce.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

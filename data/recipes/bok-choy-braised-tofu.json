@@ -1,0 +1,179 @@
+{
+  "id": "bok-choy-braised-tofu",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=2qpmOrG0vo8",
+  "ingredientKeys": [
+    "tofu",
+    "bok-choy",
+    "garlic",
+    "scallion",
+    "light-soy-sauce",
+    "salt",
+    "msg",
+    "cornstarch-slurry",
+    "sichuan-peppercorn-oil",
+    "oil",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "小白菜烧豆腐",
+      "ingredients": [
+        {
+          "name": "老卤水豆腐"
+        },
+        {
+          "name": "小白菜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "葱花"
+        },
+        {
+          "name": "鲜味酱油"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "水淀粉"
+        },
+        {
+          "name": "花椒油"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "水"
+        }
+      ],
+      "steps": [
+        "选一块老卤水豆腐，切成约0.8厘米的厚片。",
+        "小白菜掰开，把菜杆和菜叶分开放（两者下锅顺序不同）。",
+        "锅烧油约七成热，把豆腐半煎半炸至两面金黄（家里少放油即可），盛出，把多余的油倒出。",
+        "锅里不用放油，先下小白菜（先杆后叶），加少许盐让它出水变色，炒出的苦涩水倒掉不要。",
+        "锅里放干净油，下蒜煸黄，再放葱花，加鲜味酱油炝香。",
+        "加水，放入豆腐，水加到没过豆腐，加盐、味精定味，关小火烧约两分钟。",
+        "烧到豆腐变软、入味后，把小白菜盖在豆腐上面，转大火再烧一分钟。",
+        "勾芡，淋点花椒油（不爱花椒油可用香油），出锅。"
+      ],
+      "notes": [
+        "小白菜一定要先用油炒出苦涩水再烧，不能焯水，否则不好吃、口感差。",
+        "豆腐先煎过更容易吸汁入味。"
+      ]
+    },
+    "en": {
+      "title": "Bok Choy Braised Tofu",
+      "ingredients": [
+        {
+          "name": "Firm brine tofu"
+        },
+        {
+          "name": "Bok choy"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Chopped scallion"
+        },
+        {
+          "name": "Light soy sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Cornstarch slurry"
+        },
+        {
+          "name": "Sichuan peppercorn oil"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Water"
+        }
+      ],
+      "steps": [
+        "Use a block of firm brine (lushui) tofu and cut into thick slices about 0.8 cm.",
+        "Tear the bok choy apart and keep the stems and leaves separate (they go in at different times).",
+        "Heat oil to about 210°C and shallow-fry the tofu until golden on both sides (use less oil at home for a pan-fry), then remove and pour off the excess oil.",
+        "With no added oil in the wok, add the bok choy (stems first, then leaves), add a little salt to draw out water and wilt it, and discard the bitter water it releases.",
+        "Add clean oil to the wok, fry the garlic until golden, add the chopped scallion, then add light soy sauce to bloom the aroma.",
+        "Add water and the tofu, with water just covering the tofu, season with salt and MSG, lower the heat and braise about 2 minutes.",
+        "Once the tofu has softened and absorbed flavor, lay the bok choy on top of the tofu, raise to high heat and braise 1 more minute.",
+        "Thicken with cornstarch slurry, drizzle in Sichuan peppercorn oil (or sesame oil if you don't like it), and serve."
+      ],
+      "notes": [
+        "The bok choy must be stir-fried in oil to release its bitter water first, never blanched, or it tastes and feels bad.",
+        "Pan-frying the tofu first helps it soak up the sauce and flavor."
+      ]
+    },
+    "fr": {
+      "title": "Tofu Braisé au Bok Choy",
+      "ingredients": [
+        {
+          "name": "Tofu ferme à la saumure"
+        },
+        {
+          "name": "Bok choy"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Ciboule hachée"
+        },
+        {
+          "name": "Sauce soja claire"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Liaison à la fécule"
+        },
+        {
+          "name": "Huile de poivre du Sichuan"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Eau"
+        }
+      ],
+      "steps": [
+        "Utiliser un bloc de tofu ferme à la saumure (lushui) et couper en tranches épaisses d'environ 0,8 cm.",
+        "Détacher le bok choy et garder tiges et feuilles séparées (elles n'entrent pas au même moment).",
+        "Chauffer l'huile à environ 210°C et faire dorer le tofu des deux côtés (moins d'huile à la maison pour une poêlée), retirer et vider l'excédent d'huile.",
+        "Sans ajouter d'huile dans le wok, ajouter le bok choy (tiges d'abord, puis feuilles), ajouter un peu de sel pour faire rendre l'eau et le faire tomber, puis jeter l'eau amère rendue.",
+        "Ajouter de l'huile propre dans le wok, faire dorer l'ail, ajouter la ciboule hachée, puis la sauce soja claire pour libérer l'arôme.",
+        "Ajouter l'eau et le tofu, l'eau couvrant juste le tofu, assaisonner de sel et de glutamate, baisser le feu et braiser environ 2 minutes.",
+        "Une fois le tofu attendri et imprégné, déposer le bok choy sur le tofu, monter à feu vif et braiser 1 minute de plus.",
+        "Lier à la fécule, arroser d'huile de poivre du Sichuan (ou d'huile de sésame si vous n'aimez pas), et servir."
+      ],
+      "notes": [
+        "Le bok choy doit être sauté à l'huile pour libérer son eau amère d'abord, jamais blanchi, sinon le goût et la texture sont mauvais.",
+        "Faire revenir le tofu d'abord l'aide à absorber la sauce et le goût."
+      ]
+    }
+  }
+}

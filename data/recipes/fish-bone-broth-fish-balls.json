@@ -1,0 +1,195 @@
+{
+  "id": "fish-bone-broth-fish-balls",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=7MFpSvzWAeI",
+  "ingredientKeys": [
+    "silver-carp",
+    "salt",
+    "water",
+    "cornstarch",
+    "white-pepper",
+    "sesame-oil",
+    "lard",
+    "scallion-ginger-water",
+    "chicken-stock",
+    "msg",
+    "chili-pepper",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "广殿鱼丸",
+      "ingredients": [
+        {
+          "name": "花鲢鱼"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "水"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "猪油"
+        },
+        {
+          "name": "葱姜水"
+        },
+        {
+          "name": "鸡汤"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "辣椒"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "选越新鲜越好的花鲢或白鲢，把鱼头、鱼骨、鱼皮、鱼肉分开，鱼骨鱼头留着熬汤。",
+        "鱼肉刮成鱼蓉，刮到见鱼红就停，用手捏一遍确保无刺，再剁细并把白筋挑掉。",
+        "称鱼蓉重量，一斤鱼蓉约加9克盐、150克水，再加少量淀粉增加粘性，加胡椒粉去腥、少许香油。",
+        "把鱼蓉摔打上劲，手沾水抹光，静置备用。",
+        "锅烧热下猪油，放葱姜，把鱼骨鱼头煎至少五分钟，煸到全熟。",
+        "加一半水一半鸡汤，大火煮成奶白色鱼汤，腥味重就再补葱姜。",
+        "把鱼汤里的鱼刺全部捞出，手沾水把鱼蓉挤成鱼丸下入汤中汆熟。",
+        "汤中加盐、胡椒粉、味精调味。",
+        "另起锅放少量油把辣椒煸到变色变红，滴一滴香油，浇在鱼丸上即可。"
+      ],
+      "notes": [
+        "想要更滑嫩的鱼丸，可加一个鸡蛋清并把水量再增加20%。",
+        "鱼骨煎透是熬出奶白汤的关键。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Fish Balls in Fish-Bone Broth",
+      "ingredients": [
+        {
+          "name": "Silver carp"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Water"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Lard"
+        },
+        {
+          "name": "Scallion-ginger water"
+        },
+        {
+          "name": "Chicken stock"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Chili peppers"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Choose the freshest silver or bighead carp. Separate the head, bones, skin, and flesh; keep the head and bones for the broth.",
+        "Scrape the flesh into a fine paste, stopping at the dark red flesh. Pinch through it to remove any bones, then chop finer and pick out the white sinew.",
+        "Weigh the fish paste: about 9g salt and 150g water per 500g of paste. Add a little cornstarch for stickiness, white pepper to cut the fishy smell, and a touch of sesame oil.",
+        "Beat and slap the paste until springy, smooth the surface with wet hands, and set aside.",
+        "Heat lard in a wok, add scallion and ginger, then fry the fish bones and head for at least five minutes until fully cooked through.",
+        "Add half water and half chicken stock. Boil hard until the broth turns milky white; add more scallion and ginger if it still smells fishy.",
+        "Strain all bones from the broth. With wet hands, squeeze the paste into balls and poach them in the broth until cooked.",
+        "Season the broth with salt, white pepper, and MSG.",
+        "In a separate pan, fry chili peppers in a little oil until they color and redden, add a drop of sesame oil, then pour over the fish balls."
+      ],
+      "notes": [
+        "For softer, smoother balls, add one egg white and increase the water by 20%.",
+        "Frying the bones thoroughly is the key to a milky-white broth.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de Poisson au Bouillon d'Arêtes",
+      "ingredients": [
+        {
+          "name": "Carpe argentée"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Eau"
+        },
+        {
+          "name": "Fécule"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Saindoux"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Bouillon de poulet"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Piments"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Choisir une carpe argentée ou à grosse tête la plus fraîche possible. Séparer la tête, les arêtes, la peau et la chair ; garder la tête et les arêtes pour le bouillon.",
+        "Racler la chair en une pâte fine, en s'arrêtant à la chair rouge foncé. La palper pour retirer les arêtes, puis hacher plus finement et ôter les nerfs blancs.",
+        "Peser la pâte : environ 9g de sel et 150g d'eau pour 500g de pâte. Ajouter un peu de fécule pour la liant, du poivre blanc contre l'odeur de poisson et un filet d'huile de sésame.",
+        "Battre et claquer la pâte jusqu'à ce qu'elle soit élastique, lisser la surface avec les mains mouillées et réserver.",
+        "Chauffer le saindoux dans un wok, ajouter ciboule et gingembre, puis faire revenir les arêtes et la tête au moins cinq minutes jusqu'à cuisson complète.",
+        "Ajouter moitié eau, moitié bouillon de poulet. Bouillir vivement jusqu'à ce que le bouillon devienne blanc laiteux ; rajouter ciboule et gingembre s'il sent encore le poisson.",
+        "Filtrer toutes les arêtes du bouillon. Avec les mains mouillées, former des boulettes avec la pâte et les pocher dans le bouillon jusqu'à cuisson.",
+        "Assaisonner le bouillon avec sel, poivre blanc et glutamate.",
+        "Dans une poêle à part, faire revenir les piments dans un peu d'huile jusqu'à ce qu'ils colorent et rougissent, ajouter une goutte d'huile de sésame, puis verser sur les boulettes."
+      ],
+      "notes": [
+        "Pour des boulettes plus tendres et lisses, ajouter un blanc d'œuf et augmenter l'eau de 20 %.",
+        "Bien faire revenir les arêtes est la clé d'un bouillon blanc laiteux.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

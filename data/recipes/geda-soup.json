@@ -1,0 +1,118 @@
+{
+  "id": "geda-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=J8cKp90Cy74",
+  "ingredientKeys": [
+    "flour",
+    "egg",
+    "tomato",
+    "scallion",
+    "leafy-greens",
+    "light-soy-sauce",
+    "water",
+    "salt",
+    "oil",
+    "cilantro"
+  ],
+  "translations": {
+    "cn": {
+      "title": "疙瘩汤",
+      "ingredients": [
+        { "name": "面粉" },
+        { "name": "鸡蛋" },
+        { "name": "西红柿" },
+        { "name": "葱" },
+        { "name": "青菜" },
+        { "name": "酱油" },
+        { "name": "水" },
+        { "name": "盐" },
+        { "name": "油" },
+        { "name": "香菜" }
+      ],
+      "steps": [
+        "取一个全蛋加少许水打散。用全蛋调的疙瘩煮完不会泡发变大。",
+        "把蛋液一点点倒入面粉中，边搅边倒，拨成小面疙瘩。",
+        "晃一晃，若还有干粉，再少量加点蛋液，直到面疙瘩裹匀。想吃大疙瘩就多加蛋液。",
+        "锅中加油，把葱花大火煸至金黄炝锅。",
+        "倒入西红柿略炒，加酱油炒出酱香味。",
+        "加入开水烧开。",
+        "下入面疙瘩，用勺子迅速搅开，大块的用勺子磕散。",
+        "加盐调味（只放盐）。",
+        "放入青菜。",
+        "最后甩入两个全蛋液，先让蛋液稍微成型，再一推成蛋花，为汤增鲜。",
+        "撒上香菜，出锅。"
+      ],
+      "notes": [
+        "最后甩鸡蛋这一步很关键，能让汤更浑厚、更鲜。",
+        "全程只放盐调味即可。"
+      ]
+    },
+    "en": {
+      "title": "Geda (Flour-Drop) Soup",
+      "ingredients": [
+        { "name": "Flour" },
+        { "name": "Egg" },
+        { "name": "Tomato" },
+        { "name": "Scallion" },
+        { "name": "Leafy greens" },
+        { "name": "Soy sauce" },
+        { "name": "Water" },
+        { "name": "Salt" },
+        { "name": "Oil" },
+        { "name": "Cilantro" }
+      ],
+      "steps": [
+        "Beat one whole egg with a little water. Using whole egg keeps the dough bits from swelling after cooking.",
+        "Slowly drizzle the egg into the flour while stirring, breaking it into small dough lumps.",
+        "Shake the bowl; if dry flour remains, add a little more egg until the lumps are coated. Add more egg for bigger lumps.",
+        "Heat oil in a pot and fry chopped scallion over high heat until golden and fragrant.",
+        "Add the tomato and stir-fry briefly, then add soy sauce and fry until it smells savory.",
+        "Add boiling water and bring to a boil.",
+        "Drop in the dough lumps and stir quickly with a spoon, breaking up any large clumps.",
+        "Season with salt (salt only).",
+        "Add the leafy greens.",
+        "Finally, swirl in two beaten whole eggs; let them set slightly, then push to form egg flowers to enrich the soup.",
+        "Sprinkle with cilantro and serve."
+      ],
+      "notes": [
+        "Swirling in the eggs at the very end is the key step that makes the soup richer and more savory.",
+        "Salt is the only seasoning needed."
+      ]
+    },
+    "fr": {
+      "title": "Soupe Geda (aux Grumeaux de Farine)",
+      "ingredients": [
+        { "name": "Farine" },
+        { "name": "Oeuf" },
+        { "name": "Tomate" },
+        { "name": "Ciboule" },
+        { "name": "Légumes verts" },
+        { "name": "Sauce soja" },
+        { "name": "Eau" },
+        { "name": "Sel" },
+        { "name": "Huile" },
+        { "name": "Coriandre" }
+      ],
+      "steps": [
+        "Battre un oeuf entier avec un peu d'eau. L'oeuf entier empêche les grumeaux de gonfler après cuisson.",
+        "Verser lentement l'oeuf sur la farine en remuant, pour former de petits grumeaux de pâte.",
+        "Secouer le bol ; s'il reste de la farine sèche, ajouter un peu d'oeuf jusqu'à ce que les grumeaux soient enrobés. Mettre plus d'oeuf pour de plus gros grumeaux.",
+        "Chauffer l'huile dans une casserole et faire revenir la ciboule hachée à feu vif jusqu'à ce qu'elle soit dorée et parfumée.",
+        "Ajouter la tomate et faire revenir brièvement, puis ajouter la sauce soja et faire revenir jusqu'à ce que ce soit savoureux.",
+        "Ajouter de l'eau bouillante et porter à ébullition.",
+        "Verser les grumeaux de pâte et remuer rapidement à la cuillère en cassant les gros morceaux.",
+        "Assaisonner avec du sel (sel uniquement).",
+        "Ajouter les légumes verts.",
+        "Enfin, verser deux oeufs battus en filet ; les laisser prendre légèrement puis pousser pour former des fleurs d'oeuf et enrichir la soupe.",
+        "Parsemer de coriandre et servir."
+      ],
+      "notes": [
+        "Verser les oeufs tout à la fin est l'étape clé qui rend la soupe plus riche et plus savoureuse.",
+        "Le sel est le seul assaisonnement nécessaire."
+      ]
+    }
+  }
+}

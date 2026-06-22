@@ -1,0 +1,136 @@
+{
+  "id": "fried-radish-balls",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=N4PtDA9c8u8",
+  "ingredientKeys": [
+    "radish",
+    "flour",
+    "cornstarch",
+    "baking-powder",
+    "custard-powder",
+    "salt",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炸萝卜丸子",
+      "ingredients": [
+        {
+          "name": "青萝卜"
+        },
+        {
+          "name": "面粉"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "泡打粉"
+        },
+        {
+          "name": "吉士粉"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "青萝卜削皮后擦成丝（天津沙窝萝卜或山东潍县萝卜更香甜，普通青萝卜也可，只是稍辣）。",
+        "把面粉、淀粉、泡打粉、吉士粉和盐放在一起，搅拌均匀备用。",
+        "锅中烧开水，下萝卜丝焯水，焯水可去掉一部分萝卜的腥气和臭气，萝卜丝烫软即捞出，冲一下凉水。",
+        "把萝卜丝拌上调好的粉，拌到一根是一根的状态。",
+        "取一小撮萝卜丝放在手里轻轻团一下，让中间有蓬松感，团成大概十个圆球。",
+        "油温五成热下锅，一见大火翻花立即转小火，否则很容易上色。",
+        "中火浸炸，快出锅时见到浅金黄色，转大火把丸子里的余油逼出，即可出锅。"
+      ],
+      "notes": [
+        "焯水能去掉萝卜的辣味和臭气，成品只剩萝卜的清香。",
+        "成品外酥里软，做法非常简单。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Fried Radish Balls",
+      "ingredients": [
+        {
+          "name": "Green radish"
+        },
+        {
+          "name": "Flour"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Baking powder"
+        },
+        {
+          "name": "Custard powder"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Peel the green radish and grate it into shreds (sweeter varieties like Tianjin Shawo or Shandong Weixian radish are best; ordinary green radish works too but is slightly spicy).",
+        "Combine the flour, cornstarch, baking powder, custard powder, and salt and mix evenly. Set aside.",
+        "Bring water to a boil and blanch the radish shreds; blanching removes some of the raw and off smell. Once the shreds soften, remove and rinse briefly under cold water.",
+        "Toss the radish shreds with the prepared flour mix until each shred is coated and separate.",
+        "Take a small handful of shredded radish and lightly shape it in your hand so the center stays fluffy; form about ten balls.",
+        "Deep-fry in oil heated to medium (about 50% hot). As soon as it bubbles vigorously, lower the heat, as the balls color easily.",
+        "Fry over medium heat. When they turn light golden near the end, raise the heat to drive out the excess oil, then remove."
+      ],
+      "notes": [
+        "Blanching removes the radish's spicy and off odor, leaving only its fresh sweetness.",
+        "The result is crispy outside and soft inside, and very easy to make. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de Radis Frites",
+      "ingredients": [
+        {
+          "name": "Radis vert"
+        },
+        {
+          "name": "Farine"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Levure chimique"
+        },
+        {
+          "name": "Poudre à crème"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Éplucher le radis vert et le râper en lanières (les variétés plus douces comme le radis de Shawo de Tianjin ou de Weixian du Shandong sont idéales ; un radis vert ordinaire convient aussi mais est un peu piquant).",
+        "Mélanger uniformément la farine, la fécule, la levure chimique, la poudre à crème et le sel. Réserver.",
+        "Porter de l'eau à ébullition et blanchir les lanières de radis ; le blanchiment élimine une partie de l'odeur crue. Une fois ramollies, les égoutter et les rincer rapidement à l'eau froide.",
+        "Mélanger les lanières de radis avec le mélange de farine jusqu'à ce que chaque lanière soit enrobée et séparée.",
+        "Prendre une petite poignée de radis et la façonner légèrement à la main pour garder le centre aéré ; former une dizaine de boulettes.",
+        "Frire dans une huile chauffée à feu moyen (environ 50%). Dès que ça bouillonne fort, baisser le feu, car les boulettes colorent vite.",
+        "Frire à feu moyen. Lorsqu'elles deviennent dorées clair vers la fin, augmenter le feu pour chasser l'excès d'huile, puis retirer."
+      ],
+      "notes": [
+        "Le blanchiment élimine le piquant et l'odeur du radis, ne laissant que sa fraîcheur sucrée.",
+        "Le résultat est croustillant à l'extérieur et moelleux à l'intérieur, et très facile à réaliser. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "mapo-tofu",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=LHvT9yN1OD0",
+  "ingredientKeys": [
+    "tofu",
+    "minced-meat",
+    "doubanjiang",
+    "liuyang-fermented-soybeans",
+    "garlic",
+    "ginger",
+    "scallion",
+    "sichuan-peppercorn",
+    "chili-powder",
+    "light-soy-sauce",
+    "salt",
+    "msg",
+    "sugar",
+    "white-pepper",
+    "cornstarch-slurry",
+    "green-garlic",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "麻婆豆腐",
+      "ingredients": [
+        { "name": "韧豆腐" },
+        { "name": "牛肉沫" },
+        { "name": "豆瓣酱" },
+        { "name": "豆豉" },
+        { "name": "蒜沫" },
+        { "name": "姜沫" },
+        { "name": "葱沫" },
+        { "name": "花椒面" },
+        { "name": "辣椒" },
+        { "name": "酱油" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "白糖" },
+        { "name": "胡椒粉" },
+        { "name": "水淀粉" },
+        { "name": "青蒜" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "韧豆腐去老皮，切成大小一致的方块。",
+        "锅里放清水，倒入酱油、盐、味精调底味（比平时喝的汤稍咸一点）。",
+        "下豆腐烧开煮一会儿，让豆腐入底味、上浅浅酱油色并变得紧实，然后连汤泡着备用（不要捞出来干放，否则会粘连）。",
+        "另起锅加油，下牛肉沫炒散。",
+        "加入豆瓣酱、豆豉、蒜沫、姜沫、葱沫，炒出香味。",
+        "放花椒面，加点水，加味精、白糖、胡椒粉调味。",
+        "把泡好的豆腐放进去，水量与豆腐齐平，关中火咕嘟两分钟，让味道全进到豆腐里。",
+        "勾芡：分次勾，不要一次勾太多。",
+        "出锅前再淋点花椒油、放点辣椒，盛盘后撒青蒜、再撒点花椒面。"
+      ],
+      "notes": [
+        "用韧豆腐比老豆腐更滑嫩；先用酱油盐水给豆腐入底味是关键，越吃越有回味。",
+        "勾芡要分次进行，口感更好。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Mapo Tofu",
+      "ingredients": [
+        { "name": "Firm tofu" },
+        { "name": "Minced beef" },
+        { "name": "Doubanjiang" },
+        { "name": "Fermented black beans" },
+        { "name": "Minced garlic" },
+        { "name": "Minced ginger" },
+        { "name": "Minced scallion" },
+        { "name": "Ground Sichuan peppercorn" },
+        { "name": "Chili" },
+        { "name": "Soy sauce" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Sugar" },
+        { "name": "White pepper" },
+        { "name": "Cornstarch slurry" },
+        { "name": "Green garlic" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Trim the skin off the firm tofu and cut into evenly sized cubes.",
+        "Put water in the wok and add soy sauce, salt, and MSG for a base seasoning (a touch saltier than soup you'd drink).",
+        "Add the tofu, bring to a boil, and simmer briefly so it takes on the base flavor, a pale soy color, and firms up; then leave it soaking in the liquid (don't lift it out to sit dry, or the cubes will stick).",
+        "Heat another pan with oil and stir-fry the minced beef until broken up.",
+        "Add doubanjiang, fermented black beans, minced garlic, ginger, and scallion, and stir-fry until fragrant.",
+        "Add ground Sichuan peppercorn, a little water, then MSG, sugar, and white pepper to season.",
+        "Add the soaked tofu, with water level even with the tofu, and simmer over medium heat for two minutes so the flavor fully penetrates.",
+        "Thicken with cornstarch slurry, added in stages — not all at once.",
+        "Just before serving, drizzle Sichuan peppercorn oil and add chili; plate, then top with green garlic and a final sprinkle of ground Sichuan peppercorn."
+      ],
+      "notes": [
+        "Firm (silken-firm) tofu is more tender than old tofu; pre-seasoning the tofu in salted soy water is the key for lingering flavor.",
+        "Thicken the sauce in stages for a better texture. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Mapo Tofu",
+      "ingredients": [
+        { "name": "Tofu ferme" },
+        { "name": "Bœuf haché" },
+        { "name": "Doubanjiang" },
+        { "name": "Haricots noirs fermentés" },
+        { "name": "Ail haché" },
+        { "name": "Gingembre haché" },
+        { "name": "Ciboule hachée" },
+        { "name": "Poivre du Sichuan moulu" },
+        { "name": "Piment" },
+        { "name": "Sauce soja" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" },
+        { "name": "Poivre blanc" },
+        { "name": "Liaison à la fécule" },
+        { "name": "Ail vert" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Retirer la peau du tofu ferme et le couper en cubes réguliers.",
+        "Mettre de l'eau dans le wok et ajouter sauce soja, sel et glutamate pour un assaisonnement de base (un peu plus salé qu'une soupe à boire).",
+        "Ajouter le tofu, porter à ébullition et laisser mijoter brièvement pour qu'il prenne le goût de base, une teinte soja pâle et se raffermisse ; le laisser ensuite tremper dans le liquide (ne pas le sortir à sec, sinon les cubes collent).",
+        "Chauffer une autre poêle avec de l'huile et faire revenir le bœuf haché en l'émiettant.",
+        "Ajouter le doubanjiang, les haricots noirs fermentés, l'ail, le gingembre et la ciboule hachés, et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter le poivre du Sichuan moulu, un peu d'eau, puis glutamate, sucre et poivre blanc pour assaisonner.",
+        "Ajouter le tofu trempé, le niveau d'eau à hauteur du tofu, et laisser mijoter à feu moyen deux minutes pour que la saveur pénètre bien.",
+        "Lier avec la liaison à la fécule, ajoutée en plusieurs fois — pas d'un coup.",
+        "Juste avant de servir, verser un filet d'huile de poivre du Sichuan et ajouter du piment ; dresser, puis parsemer d'ail vert et d'une dernière pincée de poivre du Sichuan moulu."
+      ],
+      "notes": [
+        "Le tofu ferme (soyeux-ferme) est plus tendre que le tofu vieux ; pré-assaisonner le tofu dans l'eau soja salée est la clé d'une saveur persistante.",
+        "Lier la sauce en plusieurs fois pour une meilleure texture. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

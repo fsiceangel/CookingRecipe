@@ -1,0 +1,152 @@
+{
+  "id": "winter-melon-barley-duck-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=qY6bea6K3BI",
+  "ingredientKeys": [
+    "duck",
+    "winter-melon",
+    "jobs-tears",
+    "ginger",
+    "cooking-wine",
+    "salt",
+    "msg",
+    "white-pepper"
+  ],
+  "translations": {
+    "cn": {
+      "title": "冬瓜薏米老鸭汤",
+      "ingredients": [
+        {
+          "name": "老鸭"
+        },
+        {
+          "name": "冬瓜"
+        },
+        {
+          "name": "薏米"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "胡椒粉"
+        }
+      ],
+      "steps": [
+        "鸭子切去鸭屁股、鸭爪尖，剁下鸭脖，去掉食管气管，将鸭子剁成块。",
+        "鸭块洗净血水和碎渣。",
+        "鸭块冷水下锅，倒入料酒，开锅后把血沫全部打净。",
+        "捞出鸭块，倒掉脏水换清水。",
+        "加入带皮冬瓜、薏米和姜片。",
+        "盖盖大火烧开后转小火，炖约60分钟。",
+        "关火，加盐、味精、胡椒粉调味即可。"
+      ],
+      "notes": [
+        "鸭子要选老鸭，皮下脂肪少，炖出来肉紧实、汤不腻。",
+        "想让汤色奶白，可在鸭肉炖烂后再大火滚一下。",
+        "冬瓜带皮一起炖，冬瓜味更足。",
+        "具体配料和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Winter Melon, Barley & Duck Soup",
+      "ingredients": [
+        {
+          "name": "Old duck"
+        },
+        {
+          "name": "Winter melon"
+        },
+        {
+          "name": "Job's tears (Chinese pearl barley)"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Ground white pepper"
+        }
+      ],
+      "steps": [
+        "Trim off the duck's tail and claw tips, chop off the neck, remove the windpipe and esophagus, and chop the duck into pieces.",
+        "Rinse the duck pieces to wash off blood and bits.",
+        "Put the duck in a pot with cold water, add cooking wine, and once boiling, skim off all the blood foam.",
+        "Remove the duck, discard the dirty water, and refill with clean water.",
+        "Add the winter melon with its skin on, the Job's tears, and ginger slices.",
+        "Cover, bring to a boil over high heat, then reduce to low and simmer about 60 minutes.",
+        "Turn off the heat and season with salt, MSG, and white pepper before serving."
+      ],
+      "notes": [
+        "Use an old duck; it has less subcutaneous fat, so the meat stays firm and the soup is not greasy.",
+        "For a milky-white soup, boil it hard for a moment after the duck is tender.",
+        "Leave the skin on the winter melon for a stronger flavor.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Canard au Melon d'Hiver et Larmes-de-Job",
+      "ingredients": [
+        {
+          "name": "Canard âgé"
+        },
+        {
+          "name": "Melon d'hiver"
+        },
+        {
+          "name": "Larmes-de-Job (orge perlé chinois)"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Poivre blanc moulu"
+        }
+      ],
+      "steps": [
+        "Parer la queue et le bout des pattes du canard, couper le cou, retirer la trachée et l'œsophage, et couper le canard en morceaux.",
+        "Rincer les morceaux de canard pour enlever le sang et les petits débris.",
+        "Mettre le canard dans une marmite d'eau froide, ajouter le vin de cuisine et, à l'ébullition, écumer toute la mousse de sang.",
+        "Retirer le canard, jeter l'eau sale et remplir d'eau propre.",
+        "Ajouter le melon d'hiver avec sa peau, les larmes-de-Job et les tranches de gingembre.",
+        "Couvrir, porter à ébullition à feu vif, puis baisser à feu doux et mijoter environ 60 minutes.",
+        "Éteindre le feu et assaisonner de sel, de glutamate et de poivre blanc avant de servir."
+      ],
+      "notes": [
+        "Utiliser un canard âgé; il a moins de graisse sous-cutanée, la chair reste ferme et la soupe n'est pas grasse.",
+        "Pour une soupe blanche laiteuse, la faire bouillir fort un instant une fois le canard tendre.",
+        "Laisser la peau sur le melon d'hiver pour plus de goût.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "id": "potato-beef-stew",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=ukePAPfuQ-M",
+  "ingredientKeys": [
+    "beef",
+    "potato",
+    "scallion",
+    "ginger",
+    "garlic",
+    "bay-leaf",
+    "star-anise",
+    "cinnamon-bark",
+    "doubanjiang",
+    "dried-yellow-bean-paste",
+    "dark-soy-sauce",
+    "black-pepper",
+    "msg",
+    "sugar",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "土豆炖牛肉",
+      "ingredients": [
+        {
+          "name": "牛肋条肉"
+        },
+        {
+          "name": "土豆"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "香叶"
+        },
+        {
+          "name": "八角"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "豆瓣酱"
+        },
+        {
+          "name": "黄豆酱"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "黑胡椒"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "盐"
+        }
+      ],
+      "steps": [
+        "牛肋条肉（带筋带肉带油的部分）切成块。",
+        "土豆切滚刀块，去皮后少泡水，以免泡掉淀粉影响口感。",
+        "牛肉块冷水下锅焯水，放点葱姜，慢慢烧开，水要宽一些，出沫就及时撇净（一般撇三遍），捞出。",
+        "锅里放油，下两片姜，把焯过水的牛肉炒一下，全程大火，把表面水汽炒干，这样更吸味，盛出。",
+        "锅里重新加油，下葱姜蒜煸香，加香叶、八角、桂皮炒香。",
+        "放豆瓣酱炒香，再放黄豆酱炒香，加水。",
+        "加老抽调色，放黑胡椒、味精、白糖、盐调味，烧开。",
+        "把汤汁倒进牛肉里，开火加盖炖（高压锅约25分钟，普通锅至少1小时）。",
+        "炖好后把土豆倒进去埋在里面，小火煮到土豆软面、吸足汤汁即可。"
+      ],
+      "notes": [
+        "选带肉、带筋、带油的牛肋条，炖出来软烂不柴、汤汁厚重。",
+        "黑胡椒一定要放；建议用高压锅，炖出来形状饱满、口感更好。"
+      ]
+    },
+    "en": {
+      "title": "Potato Beef Stew",
+      "ingredients": [
+        {
+          "name": "Beef rib finger"
+        },
+        {
+          "name": "Potato"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Bay leaf"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Cinnamon bark"
+        },
+        {
+          "name": "Doubanjiang"
+        },
+        {
+          "name": "Dried yellow bean paste"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Black pepper"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Salt"
+        }
+      ],
+      "steps": [
+        "Cut the beef rib finger (the part with tendon, meat, and fat) into chunks.",
+        "Cut the potatoes into roll-cut chunks; after peeling, don't soak them too long or the starch washes out and the texture suffers.",
+        "Blanch the beef from cold water with a little scallion and ginger, bringing it slowly to a boil in plenty of water, and skim off the foam promptly as it rises (usually three times), then remove.",
+        "Add oil to the wok, add two slices of ginger, and stir-fry the blanched beef over high heat to dry out the surface moisture so it absorbs more flavor, then remove.",
+        "Add fresh oil to the wok, fry the scallion, ginger, and garlic until fragrant, then add bay leaf, star anise, and cinnamon bark and stir-fry until aromatic.",
+        "Add the doubanjiang and fry until fragrant, then the dried yellow bean paste, and add water.",
+        "Add dark soy sauce for color, then season with black pepper, MSG, sugar, and salt, and bring to a boil.",
+        "Pour the sauce over the beef, cover, and stew (about 25 minutes in a pressure cooker, at least 1 hour in a regular pot).",
+        "Once the beef is tender, add the potatoes, burying them in the liquid, and simmer over low heat until the potatoes are soft and have soaked up the sauce."
+      ],
+      "notes": [
+        "Choose beef rib finger with meat, tendon, and fat so it stews tender, never tough, with a rich, thick sauce.",
+        "Be sure to add black pepper; a pressure cooker is recommended for plumper pieces and better texture."
+      ]
+    },
+    "fr": {
+      "title": "Boeuf Mijoté aux Pommes de Terre",
+      "ingredients": [
+        {
+          "name": "Tendron de boeuf"
+        },
+        {
+          "name": "Pomme de terre"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Feuille de laurier"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Doubanjiang"
+        },
+        {
+          "name": "Pâte de haricots jaunes"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Poivre noir"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sel"
+        }
+      ],
+      "steps": [
+        "Couper le tendron de boeuf (la partie avec tendon, viande et gras) en morceaux.",
+        "Couper les pommes de terre en morceaux (coupe roulée) ; après les avoir épluchées, ne pas les laisser tremper trop longtemps sous peine d'en rincer l'amidon et d'en altérer la texture.",
+        "Blanchir le boeuf à départ eau froide avec un peu de ciboule et de gingembre, en portant lentement à ébullition dans beaucoup d'eau, et écumer la mousse au fur et à mesure (généralement trois fois), puis retirer.",
+        "Ajouter de l'huile dans le wok, ajouter deux tranches de gingembre et faire sauter le boeuf blanchi à feu vif pour assécher l'humidité de surface afin qu'il absorbe plus de saveur, puis retirer.",
+        "Ajouter de l'huile fraîche dans le wok, faire revenir la ciboule, le gingembre et l'ail jusqu'à ce que ce soit parfumé, puis ajouter la feuille de laurier, l'anis étoilé et l'écorce de cannelle et faire revenir jusqu'à ce que ce soit aromatique.",
+        "Ajouter le doubanjiang et faire revenir jusqu'à ce que ce soit parfumé, puis la pâte de haricots jaunes, et ajouter de l'eau.",
+        "Ajouter la sauce soja foncée pour la couleur, puis assaisonner de poivre noir, glutamate, sucre et sel, et porter à ébullition.",
+        "Verser la sauce sur le boeuf, couvrir et faire mijoter (environ 25 minutes en autocuiseur, au moins 1 heure dans une casserole ordinaire).",
+        "Une fois le boeuf tendre, ajouter les pommes de terre en les immergeant dans le liquide, et laisser mijoter à feu doux jusqu'à ce que les pommes de terre soient fondantes et imprégnées de sauce."
+      ],
+      "notes": [
+        "Choisir un tendron de boeuf avec viande, tendon et gras pour qu'il mijote tendre, jamais sec, avec une sauce riche et épaisse.",
+        "Veiller à ajouter du poivre noir ; un autocuiseur est recommandé pour des morceaux plus dodus et une meilleure texture."
+      ]
+    }
+  }
+}

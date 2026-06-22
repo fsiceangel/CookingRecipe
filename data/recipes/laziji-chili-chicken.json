@@ -1,0 +1,218 @@
+{
+  "id": "laziji-chili-chicken",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=UL-y_zXbRzQ",
+  "ingredientKeys": [
+    "chicken-wings",
+    "scallion-ginger-water",
+    "salt",
+    "cornstarch",
+    "sichuan-peppercorn-oil",
+    "sichuan-peppercorn",
+    "chili-pepper",
+    "scallion",
+    "garlic",
+    "chicken-bouillon",
+    "sesame-seeds",
+    "vinegar",
+    "sesame-oil",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "辣子鸡",
+      "ingredients": [
+        {
+          "name": "鸡翅"
+        },
+        {
+          "name": "葱姜花椒水"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "玉米淀粉"
+        },
+        {
+          "name": "花椒油"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "干辣椒"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "鸡粉"
+        },
+        {
+          "name": "芝麻"
+        },
+        {
+          "name": "醋"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "选小鸡的鸡翅，鸡皮不要去掉。鸡翅连骨剁成板栗大小的块，骨头处直接剁断，不用改刀。",
+        "剁好的鸡块骨头里有血，洗一下，否则炸完发黑。",
+        "准备葱姜花椒水，攥出味后过滤，只留水（鸡块小不便挑出葱姜）。",
+        "鸡块加约2克盐抓匀入底味，控干水分（血水不净炸出来会黑）。",
+        "表面抓上薄薄一层玉米淀粉，能看到白白的一层即可。",
+        "淋入花椒油拌匀——炸制时花椒油会渗进肉里，吃起来里外都麻辣咸香，这步很关键。",
+        "锅中倒油烧至七成热，下鸡块大火炸，下锅后先不动，表面稍变色后用勺子拨散逐颗分开。",
+        "保持高温炸，水汽炸干、表面金黄起硬壳即可（高温炸不浸油，无需反复复炸）。捞出，把油倒出。",
+        "锅留底油，下花椒小火煸香（火大易糊，油温降后再转大火），再下干辣椒煸出辣味，油要足够。",
+        "转中火，把炸好的辣椒花椒油全都附着到鸡块上，关火放鸡粉（化得快、咸鲜足）和芝麻。",
+        "开火翻匀，火不能太大以免辣椒糊，出锅烹点醋和香油即可。"
+      ],
+      "notes": [
+        "一定要选小鸡的鸡翅，连骨都能炸酥。",
+        "花椒油是入底味的关键，下锅前拌入鸡块。具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Laziji (Sichuan Chili Chicken)",
+      "ingredients": [
+        {
+          "name": "Chicken wings"
+        },
+        {
+          "name": "Scallion-ginger-peppercorn water"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Sichuan peppercorn oil"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Dried chili peppers"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Chicken bouillon"
+        },
+        {
+          "name": "Sesame seeds"
+        },
+        {
+          "name": "Vinegar"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Use wings from a small/young chicken, keeping the skin on. Chop the wings, bone-in, into chestnut-sized pieces, cutting straight through the bone; no scoring needed.",
+        "There is blood in the cut bones; rinse the pieces, or they fry up dark.",
+        "Make scallion-ginger-peppercorn water, squeeze out the flavor and strain, keeping only the water (the chicken pieces are small, so aromatics would be hard to pick out).",
+        "Add about 2 g salt to the chicken and mix to season, then drain off the water (unclean blood water makes the fry come out dark).",
+        "Coat the surface with a thin layer of cornstarch, just enough to see a light dusting.",
+        "Drizzle in Sichuan peppercorn oil and mix; during frying it seeps into the meat so the chicken is numbing-spicy-savory inside and out. This step is key.",
+        "Heat oil to about 210°C (high) and add the chicken; don't move it at first. Once the surface colors slightly, use a ladle to separate the pieces one by one.",
+        "Keep frying hot until the moisture is driven off and the surface is golden with a hard shell (high-heat frying absorbs little oil, no repeat frying needed). Remove the chicken and pour out the oil.",
+        "Leave a little oil in the wok, add Sichuan peppercorns over low heat to toast (high heat burns them; raise the heat after the oil temp drops), then add dried chilies and fry out the heat. Use plenty of oil.",
+        "Lower to medium heat and coat the chicken with all the chili-peppercorn oil. Turn off the heat and add chicken bouillon (dissolves fast, plenty of salt and umami) and sesame seeds.",
+        "Turn the heat back on and toss to combine; don't let it get too hot or the chilies scorch. Splash in vinegar and sesame oil just before serving."
+      ],
+      "notes": [
+        "Use wings from a small chicken so even the bones fry up crisp.",
+        "The Sichuan peppercorn oil is the key to the base flavor; mix it into the chicken before frying. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Laziji (Poulet aux Piments du Sichuan)",
+      "ingredients": [
+        {
+          "name": "Ailes de poulet"
+        },
+        {
+          "name": "Eau de ciboule, gingembre et poivre"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Huile de poivre du Sichuan"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Piments séchés"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Bouillon de poulet en poudre"
+        },
+        {
+          "name": "Graines de sésame"
+        },
+        {
+          "name": "Vinaigre"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Utiliser des ailes de jeune poulet en gardant la peau. Couper les ailes, avec l'os, en morceaux de la taille d'une châtaigne, en tranchant à travers l'os ; pas besoin d'inciser.",
+        "Il y a du sang dans les os coupés ; rincer les morceaux, sinon la friture noircit.",
+        "Préparer l'eau de ciboule-gingembre-poivre, en extraire la saveur et filtrer pour ne garder que l'eau (les morceaux étant petits, les aromates seraient durs à retirer).",
+        "Ajouter environ 2 g de sel au poulet et mélanger pour assaisonner, puis égoutter l'eau (une eau sanguinolente non nette fait noircir la friture).",
+        "Enrober la surface d'une fine couche de fécule, juste un voile visible.",
+        "Verser un filet d'huile de poivre du Sichuan et mélanger ; à la friture elle pénètre la viande, rendant le poulet engourdissant-épicé-savoureux dedans comme dehors. Étape clé.",
+        "Chauffer l'huile à environ 210°C (feu vif) et ajouter le poulet ; ne pas le bouger au début. Dès que la surface colore légèrement, séparer les morceaux un à un à la louche.",
+        "Continuer à frire bien chaud jusqu'à évaporation de l'humidité et une surface dorée à croûte dure (la friture à feu vif absorbe peu d'huile, pas de seconde friture). Retirer le poulet et vider l'huile.",
+        "Laisser un peu d'huile dans le wok, ajouter le poivre du Sichuan à feu doux pour le torréfier (feu fort le brûle ; remonter le feu une fois l'huile refroidie), puis les piments séchés pour libérer le piquant. Utiliser beaucoup d'huile.",
+        "Baisser à feu moyen et enrober le poulet de toute l'huile aux piments et poivre. Couper le feu, ajouter le bouillon de poulet (se dissout vite, sel et umami suffisants) et les graines de sésame.",
+        "Rallumer le feu et mélanger ; ne pas trop chauffer pour ne pas brûler les piments. Ajouter un trait de vinaigre et d'huile de sésame juste avant de servir."
+      ],
+      "notes": [
+        "Utiliser des ailes de jeune poulet pour que même les os deviennent croustillants.",
+        "L'huile de poivre du Sichuan est la clé du goût de base ; l'incorporer au poulet avant la friture. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

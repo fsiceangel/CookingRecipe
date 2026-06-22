@@ -1,0 +1,192 @@
+{
+  "id": "west-lake-vinegar-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=uMlDjiAttXI",
+  "ingredientKeys": [
+    "carp",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "vinegar",
+    "salt",
+    "msg",
+    "white-pepper",
+    "sugar",
+    "dark-soy-sauce",
+    "cornstarch-slurry",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "西湖醋鱼",
+      "ingredients": [
+        {
+          "name": "鲤鱼"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "花雕酒"
+        },
+        {
+          "name": "米醋"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "水淀粉"
+        },
+        {
+          "name": "水"
+        }
+      ],
+      "steps": [
+        "选刺少肉嫩的鱼（草鱼、鲤鱼、鲈鱼、桂鱼皆可，今天用鲤鱼）。剪去鱼肚下两个小鳍（此处腥味大）和鱼尾、背鳍。",
+        "把鱼从中间片开成两片，沿脊骨片。去掉腥味重的喉牙、内膜等。鱼尾也片成两半，把两片鱼洗净（带黑膜要洗干净）。",
+        "带骨那片在鱼骨处斩一下、打拖刀花刀（活鱼不斩会变形）；不带骨那片在背部厚肉处斜拉一刀，使两片厚度一致、同步成熟。",
+        "葱姜加水、黄酒攥出味，泡约20分钟备用。",
+        "锅里烧水，加花雕酒、葱姜反复去腥，水开后加少许盐、几粒味精。",
+        "鱼皮朝上、肉面浸入水中，烧开后关小火扣盖，让鱼慢慢浸熟（这样鱼肉才嫩），约浸泡五分钟，鱼眼凸出即熟。",
+        "另起锅调汁（不放油）：加水、米醋、盐、味精、少量胡椒粉、白糖（糖要稍多），反复尝调到咸甜适中。",
+        "加老抽调色，关小火，少量多次勾芡，每次开大火加热接近沸腾再关小火续勾，搅匀至淀粉糊化变透明。",
+        "把浸熟的鱼捞出装盘，浇上调好的醋汁即可。"
+      ],
+      "notes": [
+        "这道菜最大的秘密在于汁的调口——咸甜要适中、酸味复合，比例见视频片尾。",
+        "鱼用低温浸熟而非大火煮，肉质才嫩；全程反复用葱姜黄酒去腥。"
+      ]
+    },
+    "en": {
+      "title": "West Lake Vinegar Fish",
+      "ingredients": [
+        {
+          "name": "Carp"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Huadiao wine"
+        },
+        {
+          "name": "Rice vinegar"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Cornstarch slurry"
+        },
+        {
+          "name": "Water"
+        }
+      ],
+      "steps": [
+        "Choose a fish with few bones and tender flesh (grass carp, carp, sea bass, mandarin fish all work; carp is used here). Trim the two small fins under the belly (very fishy there), plus the tail and dorsal fin.",
+        "Split the fish in half along the spine. Remove the fishy throat-bone, inner membrane, etc. Halve the tail too, and rinse both halves clean (wash off any black membrane).",
+        "On the bone-in half, chop near the bone and cut a dragging-knife pattern (a live fish warps if not chopped); on the boneless half, make a diagonal slash through the thick back meat so both halves are the same thickness and cook evenly.",
+        "Steep scallion and ginger in water with Huadiao wine, squeezing out the flavor, for about 20 minutes; set aside.",
+        "Boil water in a wok, add Huadiao wine and scallion and ginger to de-fish repeatedly; once boiling add a little salt and a few grains of MSG.",
+        "Lay the fish skin-side up with the flesh submerged, bring to a boil, then lower the heat, cover, and let it poach gently (this keeps the flesh tender), about 5 minutes — done when the eyes bulge out.",
+        "In a clean pan make the sauce (no oil): add water, rice vinegar, salt, MSG, a little white pepper and sugar (slightly more sugar), tasting repeatedly until the sweet-sour balance is right.",
+        "Add dark soy for color, lower the heat, and thicken with cornstarch slurry a little at a time — each time raise to high heat near boiling, then lower and add more, stirring until the starch gelatinizes and turns clear.",
+        "Lift the poached fish onto a plate and pour the vinegar sauce over it."
+      ],
+      "notes": [
+        "The whole secret of this dish is the balance of the sauce — sweet and sour evenly matched with a complex sourness; ratios are on the video's end screen.",
+        "Poach the fish gently at low temperature rather than boiling hard, so the flesh stays tender; de-fish repeatedly with scallion, ginger and wine."
+      ]
+    },
+    "fr": {
+      "title": "Poisson au Vinaigre du Lac de l'Ouest",
+      "ingredients": [
+        {
+          "name": "Carpe"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Vin Huadiao"
+        },
+        {
+          "name": "Vinaigre de riz"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Liaison à la fécule"
+        },
+        {
+          "name": "Eau"
+        }
+      ],
+      "steps": [
+        "Choisir un poisson à peu d'arêtes et chair tendre (carpe herbivore, carpe, bar, poisson mandarin ; ici de la carpe). Retirer les deux petites nageoires sous le ventre (très odorantes), ainsi que la queue et la nageoire dorsale.",
+        "Fendre le poisson en deux le long de la colonne. Retirer l'os de gorge odorant, la membrane interne, etc. Couper aussi la queue en deux et rincer les deux moitiés (laver toute membrane noire).",
+        "Sur la moitié avec arête, entailler près de l'os et tracer des incisions au couteau tiré (un poisson vif se déforme sinon) ; sur la moitié sans arête, faire une entaille diagonale dans la chair épaisse du dos pour que les deux moitiés aient la même épaisseur et cuisent uniformément.",
+        "Faire infuser ciboule et gingembre dans l'eau avec le vin Huadiao, en pressant pour en extraire la saveur, environ 20 minutes ; réserver.",
+        "Faire bouillir de l'eau dans le wok, ajouter le vin Huadiao, la ciboule et le gingembre pour désodoriser ; une fois à ébullition ajouter un peu de sel et quelques grains de glutamate.",
+        "Déposer le poisson peau vers le haut, chair immergée, porter à ébullition, puis baisser le feu, couvrir et pocher doucement (ce qui garde la chair tendre), environ 5 minutes — prêt quand les yeux ressortent.",
+        "Dans une poêle propre, préparer la sauce (sans huile) : eau, vinaigre de riz, sel, glutamate, un peu de poivre blanc et de sucre (un peu plus de sucre), en goûtant jusqu'à un bon équilibre aigre-doux.",
+        "Ajouter la sauce soja foncée pour la couleur, baisser le feu et lier à la fécule en plusieurs fois — chaque fois monter à feu vif près de l'ébullition, puis baisser et en rajouter, en remuant jusqu'à ce que la fécule gélifie et devienne translucide.",
+        "Déposer le poisson poché sur une assiette et le napper de sauce au vinaigre."
+      ],
+      "notes": [
+        "Tout le secret de ce plat tient à l'équilibre de la sauce — aigre et doux bien dosés avec une acidité complexe ; proportions à la fin de la vidéo.",
+        "Pocher le poisson à basse température plutôt qu'à gros bouillons, pour garder la chair tendre ; désodoriser à plusieurs reprises avec ciboule, gingembre et vin."
+      ]
+    }
+  }
+}

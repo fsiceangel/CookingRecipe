@@ -1,0 +1,214 @@
+{
+  "id": "imperial-shifang-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=lfI_Vl6WrIU",
+  "ingredientKeys": [
+    "pork-elbow",
+    "star-anise",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "cinnamon-bark",
+    "sugar",
+    "red-yeast-rice",
+    "dark-soy-sauce",
+    "salt",
+    "oyster-sauce",
+    "rock-sugar",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "宫廷十方肉",
+      "ingredients": [
+        {
+          "name": "肘子"
+        },
+        {
+          "name": "大料"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "花雕酒"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "红麴米"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "蚝油"
+        },
+        {
+          "name": "冰糖"
+        },
+        {
+          "name": "水淀粉"
+        }
+      ],
+      "steps": [
+        "选猪前肘（肥瘦较合适），先去毛：用筷子在火上把表皮燎一遍，黑点多的地方多燎一会儿，用火外焰温度最高。",
+        "把表皮燎成虎皮色后用温水加钢丝球擦净，再去骨（可请卖肉师傅代剔）。",
+        "去骨的肘子肉打环刀便于入味定型，下锅加大料、葱、姜皮、花雕酒稍煮定型，不用水不喝汤，不用撇沫，定型后翻面盖盖。",
+        "约20分钟断生后捞出，一插不冒血即可，修型、削平底部，切下的边角肉也一起炖当晚饭。",
+        "起锅烧油倒白糖加水炒糖色，全程大火（掌握不好用中火），糖刚化时不要动，冒大泡时快速搅，旁边备一锅热水。",
+        "炒到枣红色立即加水（或用红麴米、老抽对色），倒入备好的热水锅中。",
+        "锅里再放点油，下葱、姜、大料、桂皮炒香变色后倒入汤里。",
+        "给汤调味：花雕酒、盐、蚝油、冰糖（甜味更柔和），再加老抽调色。",
+        "把肘子肉放进去，盖盖，高压锅上汽约40分钟。",
+        "时间到开锅，颜色漂亮、足够烂，锅里取两勺原汤，加约10克老抽再调深一点，勾芡到粘稠。",
+        "把汁浇在肉上即成。"
+      ],
+      "notes": [
+        "炒糖色一定要先用油润锅、旁边备热水，炒到枣红色立刻加热水。",
+        "用冰糖比白糖甜味更柔和。",
+        "想更接近名店口感：炖好后关火不动，泡一夜，凉后第二天重新加热即可。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Imperial Shifang Pork",
+      "ingredients": [
+        {
+          "name": "Pork elbow (knuckle)"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Huadiao cooking wine"
+        },
+        {
+          "name": "Cinnamon bark"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Red yeast rice"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Oyster sauce"
+        },
+        {
+          "name": "Rock sugar"
+        },
+        {
+          "name": "Cornstarch slurry"
+        }
+      ],
+      "steps": [
+        "Choose a front pork elbow (good fat-lean balance); first remove hairs by singeing the skin over the flame with chopsticks, dwelling longer on dark spots, using the outer flame where it's hottest.",
+        "Once the skin is singed to a tiger-skin color, scrub it clean with warm water and a steel-wool ball, then debone it (you can ask the butcher to do this).",
+        "Score the deboned elbow meat in a crosshatch for flavor and shape; simmer briefly with star anise, scallion, ginger peel, and Huadiao wine to set the shape; no water needed and no broth used, no skimming; flip and cover.",
+        "After about 20 minutes it's just cooked, with no blood when pierced; remove, trim the shape, and shave the bottom flat. Braise the trimmed scraps too for dinner.",
+        "Heat oil and cook sugar with water into caramel over high heat throughout (use medium if unsure); don't touch it when the sugar just melts, but stir fast when it bubbles hard; keep a pot of hot water ready nearby.",
+        "Cook to a date-red color and immediately add water (or adjust color with red yeast rice and dark soy sauce); pour into the pot of hot water.",
+        "Add a little oil to the wok, fry scallion, ginger, star anise, and cinnamon bark until fragrant and colored, then pour into the soup.",
+        "Season the soup: Huadiao wine, salt, oyster sauce, rock sugar (for a gentler sweetness), and dark soy sauce to adjust color.",
+        "Add the elbow meat, cover, and pressure-cook about 40 minutes after it comes up to pressure.",
+        "Open when done; the color is beautiful and it's tender enough. Take two ladles of the cooking liquid, add about 10g dark soy sauce to deepen the color, and thicken with cornstarch slurry until glossy.",
+        "Pour the sauce over the meat and serve."
+      ],
+      "notes": [
+        "When making caramel, oil the wok first and keep hot water ready; the moment it turns date-red, add the hot water.",
+        "Rock sugar gives a gentler sweetness than white sugar.",
+        "For a result closer to the famous restaurant: turn off the heat, leave it undisturbed and soak overnight, then reheat the next day after it cools.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Impérial Shifang",
+      "ingredients": [
+        {
+          "name": "Jarret de porc (avant)"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Vin de cuisine Huadiao"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Riz à levure rouge"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Sauce d'huître"
+        },
+        {
+          "name": "Sucre candi"
+        },
+        {
+          "name": "Liaison à la fécule"
+        }
+      ],
+      "steps": [
+        "Choisir un jarret de porc avant (bon équilibre gras-maigre) ; d'abord retirer les poils en flambant la couenne à la flamme avec des baguettes, en insistant sur les points noirs, à l'aide de la flamme externe la plus chaude.",
+        "Une fois la couenne flambée jusqu'à une couleur peau-de-tigre, la frotter à l'eau tiède avec une paille de fer, puis la désosser (le boucher peut le faire).",
+        "Inciser la viande désossée en quadrillage pour le goût et la forme ; cuire brièvement avec anis étoilé, ciboule, peau de gingembre et vin Huadiao pour fixer la forme ; pas besoin d'eau ni de bouillon, pas d'écumage ; retourner et couvrir.",
+        "Après environ 20 minutes, elle est juste cuite, sans sang à la piqûre ; retirer, parer la forme et aplanir le dessous. Braiser aussi les chutes pour le dîner.",
+        "Chauffer l'huile et cuire le sucre avec de l'eau en caramel à feu vif (à feu moyen en cas de doute) ; ne pas y toucher quand le sucre fond, mais remuer vite quand il bouillonne fort ; garder une casserole d'eau chaude à portée.",
+        "Cuire jusqu'à une couleur rouge datte et ajouter aussitôt de l'eau (ou ajuster la couleur au riz à levure rouge et à la sauce soja foncée) ; verser dans la casserole d'eau chaude.",
+        "Ajouter un peu d'huile au wok, faire revenir ciboule, gingembre, anis étoilé et écorce de cannelle jusqu'à parfum et coloration, puis verser dans le bouillon.",
+        "Assaisonner le bouillon : vin Huadiao, sel, sauce d'huître, sucre candi (pour une douceur plus suave) et sauce soja foncée pour ajuster la couleur.",
+        "Ajouter la viande de jarret, couvrir et cuire à l'autocuiseur environ 40 minutes une fois la pression atteinte.",
+        "Ouvrir à la fin ; la couleur est belle et la viande assez fondante. Prélever deux louches du jus de cuisson, ajouter environ 10 g de sauce soja foncée pour foncer la couleur, et lier à la fécule jusqu'à brillance.",
+        "Napper la viande de sauce et servir."
+      ],
+      "notes": [
+        "Pour le caramel, huiler d'abord le wok et garder de l'eau chaude prête ; dès qu'il vire au rouge datte, ajouter l'eau chaude.",
+        "Le sucre candi donne une douceur plus suave que le sucre blanc.",
+        "Pour un résultat proche du restaurant réputé : éteindre le feu, laisser reposer une nuit, puis réchauffer le lendemain après refroidissement.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

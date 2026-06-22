@@ -1,0 +1,119 @@
+{
+  "id": "braised-hairtail-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=lLbxe6pOyt8",
+  "ingredientKeys": [
+    "hairtail-fish",
+    "cooking-wine",
+    "garlic",
+    "ginger",
+    "sichuan-peppercorn",
+    "chili-pepper",
+    "cornstarch",
+    "scallion",
+    "peanuts",
+    "salt",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "随便带鱼",
+      "ingredients": [
+        { "name": "带鱼" },
+        { "name": "花雕酒" },
+        { "name": "蒜" },
+        { "name": "姜" },
+        { "name": "花椒" },
+        { "name": "干辣椒" },
+        { "name": "淀粉" },
+        { "name": "葱花" },
+        { "name": "花生米" },
+        { "name": "盐" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "选新鲜带鱼，洗净后打上花刀，好看且方便入味。新鲜或冷冻都行，但不能有臭味。",
+        "改刀后再洗一下，放点花雕酒腌一下去腥。",
+        "腌好后放到纸上吸干水分。",
+        "锅里烧油至六七成热（在家用煎代替炸更省油），把带鱼平铺放入，大火煎。",
+        "煎到上色后翻面，两面煎至焦脆出色。",
+        "不出锅，把锅盘抬起，用锅里余油把蒜煸黄。",
+        "放入花椒煸出香味，再放姜、干辣椒炒香，辣椒变色即火候到位。",
+        "把锅放平，让炸过辣椒蒜姜的油再把带鱼煎一下，带鱼冒泡说明在吸收味道。",
+        "兑好的料汁里放点淀粉，倒入锅中收汁挂味。",
+        "撒入葱花和花生米，出锅。"
+      ],
+      "notes": [
+        "煎（而非炸）能保留带鱼焦脆的层次感，又省油。",
+        "料汁的具体配比请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Easy Braised Hairtail Fish",
+      "ingredients": [
+        { "name": "Hairtail fish" },
+        { "name": "Cooking wine" },
+        { "name": "Garlic" },
+        { "name": "Ginger" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Dried chili peppers" },
+        { "name": "Cornstarch" },
+        { "name": "Scallion" },
+        { "name": "Peanuts" },
+        { "name": "Salt" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Choose fresh hairtail; rinse and score it with crosshatch cuts for looks and to absorb flavor. Fresh or frozen is fine, but it must not smell off.",
+        "Rinse again after scoring, then marinate briefly with cooking wine to remove fishiness.",
+        "Lay the fish on paper towels to blot dry.",
+        "Heat oil to about 60-70% hot (pan-frying instead of deep-frying at home saves oil), lay the hairtail in a single layer, and fry over high heat.",
+        "Fry until colored, then flip and fry both sides until crisp and golden.",
+        "Without removing the fish, tilt the pan and use the remaining oil to fry garlic until golden.",
+        "Add Sichuan peppercorns and fry until fragrant, then add ginger and dried chilies; the chilies changing color means it's ready.",
+        "Level the pan and let the chili-garlic-ginger oil fry the fish a bit more; bubbling means the fish is absorbing flavor.",
+        "Mix a little cornstarch into the prepared sauce, pour it in, and reduce to coat the fish.",
+        "Sprinkle with chopped scallion and peanuts, and serve."
+      ],
+      "notes": [
+        "Pan-frying (rather than deep-frying) keeps a crisp, layered texture while using less oil.",
+        "The exact sauce ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poisson-Sabre Braisé Facile",
+      "ingredients": [
+        { "name": "Poisson-sabre" },
+        { "name": "Vin de cuisine" },
+        { "name": "Ail" },
+        { "name": "Gingembre" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Piments séchés" },
+        { "name": "Fécule de maïs" },
+        { "name": "Ciboule" },
+        { "name": "Cacahuètes" },
+        { "name": "Sel" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Choisir un poisson-sabre frais ; rincer et inciser en quadrillage pour l'esthétique et l'absorption des saveurs. Frais ou surgelé convient, mais il ne doit pas sentir mauvais.",
+        "Rincer à nouveau après les incisions, puis mariner brièvement avec du vin de cuisine pour ôter l'odeur de poisson.",
+        "Poser le poisson sur du papier absorbant pour le sécher.",
+        "Chauffer l'huile à environ 60-70 % (poêler plutôt que frire à la maison économise l'huile), disposer le poisson-sabre en une seule couche et faire frire à feu vif.",
+        "Frire jusqu'à coloration, puis retourner et frire les deux faces jusqu'à ce qu'elles soient croustillantes et dorées.",
+        "Sans retirer le poisson, incliner la poêle et utiliser l'huile restante pour faire dorer l'ail.",
+        "Ajouter le poivre du Sichuan et faire revenir jusqu'à ce que ce soit parfumé, puis ajouter le gingembre et les piments séchés ; quand les piments changent de couleur, c'est prêt.",
+        "Remettre la poêle à plat et laisser l'huile au piment, ail et gingembre frire encore un peu le poisson ; les bulles indiquent qu'il absorbe la saveur.",
+        "Mélanger un peu de fécule dans la sauce préparée, la verser et réduire pour enrober le poisson.",
+        "Parsemer de ciboule hachée et de cacahuètes, et servir."
+      ],
+      "notes": [
+        "Poêler (plutôt que frire) conserve une texture croustillante et nuancée tout en utilisant moins d'huile.",
+        "Les proportions exactes de la sauce sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

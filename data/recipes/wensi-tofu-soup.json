@@ -1,0 +1,122 @@
+{
+  "id": "wensi-tofu-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4.5,
+  "videoLink": "https://www.youtube.com/watch?v=aMis3CaQvN4",
+  "ingredientKeys": [
+    "tofu",
+    "rape-greens",
+    "msg",
+    "cornstarch-slurry",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "文思豆腐",
+      "ingredients": [
+        {
+          "name": "嫩豆腐"
+        },
+        {
+          "name": "油菜叶"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "水淀粉"
+        },
+        {
+          "name": "水"
+        }
+      ],
+      "steps": [
+        "取一块嫩豆腐，先修去四边和底面，再从中间片成两半，降低高度防止切时碎裂。",
+        "刀上蘸水，把豆腐先批成极薄的片，再切成细如发丝的豆腐丝，切好后直接放入清水中。",
+        "油菜叶去筋，卷起来切成与豆腐一样细的丝。",
+        "起一锅水烧开，把菜丝下锅快速焯两三下变绿即捞出。",
+        "豆腐丝控水，用烧开的热水浇一浇，使其升温。",
+        "另起一锅清水（或用鸡汤）烧开，加味精调味。",
+        "倒入水淀粉勾芡，可先用小火慢慢勾，勾好后再大火烧开，芡的浓度以提起呈一条线为准。",
+        "下入豆腐丝和菜丝，关火，用勺子轻轻推揉，使豆腐丝散开成丝即可。"
+      ],
+      "notes": [
+        "这道菜全在两点：刀工和勾芡。芡太稀托不住豆腐，太浓豆腐在汤里揉不开。",
+        "切豆腐两手要配合好，一人持刀一人顶刀，匀速后移、一气呵成，中间不能停。",
+        "详细用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Wensi Silken Tofu Soup",
+      "ingredients": [
+        {
+          "name": "Silken tofu"
+        },
+        {
+          "name": "Rape greens (yu choy) leaves"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Cornstarch slurry"
+        },
+        {
+          "name": "Water"
+        }
+      ],
+      "steps": [
+        "Take a block of silken tofu. Trim off the four sides and the bottom, then slice it in half horizontally to reduce the height so it won't crumble while cutting.",
+        "Wet the knife. First slice the tofu into very thin sheets, then cut into hair-thin threads, dropping the threads straight into clean water.",
+        "Remove the stalks from the rape (yu choy) leaves, roll them up, and cut into threads as fine as the tofu.",
+        "Bring a pot of water to a boil, blanch the greens for two or three seconds until just green, then remove.",
+        "Drain the tofu threads and pour boiling water over them to warm them through.",
+        "Bring a fresh pot of clear water (or chicken stock) to a boil and season with MSG.",
+        "Pour in the cornstarch slurry to thicken; you may thicken slowly over low heat, then bring back to a boil over high heat. The thickness is right when it falls from the spoon in a single thread.",
+        "Add the tofu threads and the greens, turn off the heat, and gently push and stir with a spoon to separate the tofu into threads. Serve."
+      ],
+      "notes": [
+        "This dish comes down to two things: knife skills and thickening. Too thin and the broth won't carry the tofu; too thick and the tofu won't loosen in the soup.",
+        "When cutting the tofu, two hands must work together (one holds the knife, one steadies it), moving back at an even pace in one continuous motion without stopping.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Tofu Soyeux Wensi",
+      "ingredients": [
+        {
+          "name": "Tofu soyeux"
+        },
+        {
+          "name": "Feuilles de yu choy (colza)"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Liaison à la fécule"
+        },
+        {
+          "name": "Eau"
+        }
+      ],
+      "steps": [
+        "Prendre un bloc de tofu soyeux. Parer les quatre côtés et le dessous, puis le couper en deux dans l'épaisseur pour réduire la hauteur et éviter qu'il ne s'émiette à la découpe.",
+        "Mouiller le couteau. Trancher d'abord le tofu en feuilles très fines, puis le couper en fils aussi fins qu'un cheveu, en déposant les fils directement dans de l'eau claire.",
+        "Retirer les nervures des feuilles de yu choy, les rouler et les couper en fils aussi fins que le tofu.",
+        "Porter une casserole d'eau à ébullition, blanchir les légumes deux ou trois secondes jusqu'à ce qu'ils soient juste verts, puis retirer.",
+        "Égoutter les fils de tofu et verser de l'eau bouillante dessus pour les réchauffer.",
+        "Porter à ébullition une nouvelle casserole d'eau claire (ou de bouillon de poulet) et assaisonner avec le glutamate.",
+        "Verser la liaison à la fécule pour épaissir ; on peut épaissir doucement à feu doux, puis redonner une ébullition à feu vif. La consistance est bonne lorsqu'elle tombe de la cuillère en un seul filet.",
+        "Ajouter les fils de tofu et les légumes, couper le feu et remuer doucement à la cuillère pour séparer le tofu en fils. Servir."
+      ],
+      "notes": [
+        "Ce plat repose sur deux choses : le travail du couteau et la liaison. Trop liquide, le bouillon ne portera pas le tofu ; trop épaisse, le tofu ne se défera pas dans la soupe.",
+        "Pour couper le tofu, les deux mains doivent coopérer (l'une tient le couteau, l'autre le stabilise), en reculant à vitesse régulière d'un seul mouvement continu, sans s'arrêter.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

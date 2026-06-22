@@ -1,0 +1,112 @@
+{
+  "id": "bean-greens-puree-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=rrcsXg12bCE",
+  "ingredientKeys": [
+    "bok-choy",
+    "edamame",
+    "scallion",
+    "chicken-stock",
+    "oil",
+    "salt",
+    "msg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "浓汤菜豆糊",
+      "ingredients": [
+        { "name": "小白菜" },
+        { "name": "毛豆" },
+        { "name": "大葱" },
+        { "name": "鸡汤" },
+        { "name": "油" },
+        { "name": "盐" },
+        { "name": "味精" }
+      ],
+      "steps": [
+        "小白菜选叶色浓绿、无斑点的，去根茎，从中间剖一刀。",
+        "鲜毛豆剥出豆粒。",
+        "锅中宽水加点油烧开，先烫小白菜根茎部，再放叶片部（两者熟的时间不同），焯好捞出冲凉，挤干水分。",
+        "另起一锅水把毛豆米煮约六分钟至软面，捞出过凉。",
+        "焯好的小白菜切成约0.5厘米的段，再剁碎一些。",
+        "煮好的毛豆用刀拍碎（家里有破壁机可直接打碎）。",
+        "锅里下油，放大葱小火慢煸炸成金黄酥脆的葱酥，葱油留用。",
+        "用葱油下入切好的葱花煸至金黄。",
+        "下入小白菜翻炒，煸掉多余水气至锅底无多余水分。",
+        "加入毛豆碎，倒入提前调好的鸡汤，没过菜即可。",
+        "改中小火慢慢炖，毛豆本身的淀粉会让汤变浓稠。",
+        "加盐、味精调味，尝味。",
+        "最后加入炸好的葱酥，增强呛锅香味，出锅。"
+      ],
+      "notes": [
+        "焯青菜要宽水大火迅速烧开，保持翠绿和清香。",
+        "汤的浓稠来自毛豆本身的淀粉，无需勾芡。"
+      ]
+    },
+    "en": {
+      "title": "Thick Bean and Greens Puree Soup",
+      "ingredients": [
+        { "name": "Bok choy" },
+        { "name": "Edamame" },
+        { "name": "Scallion (white part)" },
+        { "name": "Chicken stock" },
+        { "name": "Oil" },
+        { "name": "Salt" },
+        { "name": "MSG" }
+      ],
+      "steps": [
+        "Choose deep-green, spotless bok choy; trim the roots and split each in half.",
+        "Shell the fresh edamame.",
+        "Bring a wide pot of water with a little oil to a boil; blanch the bok choy stems first, then the leaves (they cook at different rates), then drain, rinse cold, and squeeze dry.",
+        "In another pot, boil the edamame for about 6 minutes until tender, then drain and rinse cold.",
+        "Cut the blanched bok choy into roughly 0.5 cm pieces, then chop finer.",
+        "Smash the cooked edamame with the flat of a knife (or blitz in a blender if you have one).",
+        "Heat oil in a pot and slowly fry the scallion whites over low heat into golden, crisp scallion crisps; reserve the scallion oil.",
+        "Using the scallion oil, fry chopped scallion until golden.",
+        "Add the bok choy and stir-fry to cook off excess moisture until the pan is dry.",
+        "Add the smashed edamame and pour in the prepared chicken stock, just enough to cover.",
+        "Lower to medium-low heat and simmer; the edamame's natural starch thickens the soup.",
+        "Season with salt and MSG, and taste.",
+        "Finally, add the fried scallion crisps for an extra fragrant, wok-seared aroma, and serve."
+      ],
+      "notes": [
+        "Blanch the greens in plenty of water over high heat, bringing it to a boil fast to keep them bright green and fresh.",
+        "The thickness comes from the edamame's natural starch, so no slurry is needed."
+      ]
+    },
+    "fr": {
+      "title": "Velouté de Haricots et Légumes Verts",
+      "ingredients": [
+        { "name": "Bok choy" },
+        { "name": "Edamame" },
+        { "name": "Ciboule (partie blanche)" },
+        { "name": "Bouillon de poulet" },
+        { "name": "Huile" },
+        { "name": "Sel" },
+        { "name": "Glutamate" }
+      ],
+      "steps": [
+        "Choisir du bok choy vert foncé et sans taches ; retirer les racines et couper chacun en deux.",
+        "Écosser les edamames frais.",
+        "Porter à ébullition une grande casserole d'eau avec un peu d'huile ; blanchir d'abord les tiges de bok choy puis les feuilles (elles cuisent à des rythmes différents), égoutter, rincer à froid et essorer.",
+        "Dans une autre casserole, faire bouillir les edamames environ 6 minutes jusqu'à ce qu'ils soient tendres, puis égoutter et rincer à froid.",
+        "Couper le bok choy blanchi en morceaux d'environ 0,5 cm, puis hacher plus finement.",
+        "Écraser les edamames cuits avec le plat d'un couteau (ou mixer si vous avez un blender).",
+        "Chauffer l'huile dans une casserole et faire frire lentement les parties blanches de ciboule à feu doux jusqu'à obtenir des croustilles de ciboule dorées ; réserver l'huile de ciboule.",
+        "Avec l'huile de ciboule, faire revenir la ciboule hachée jusqu'à coloration dorée.",
+        "Ajouter le bok choy et faire revenir pour évaporer l'excès d'humidité jusqu'à ce que la casserole soit sèche.",
+        "Ajouter les edamames écrasés et verser le bouillon de poulet préparé, juste assez pour couvrir.",
+        "Baisser à feu moyen-doux et laisser mijoter ; l'amidon naturel des edamames épaissit la soupe.",
+        "Assaisonner de sel et de glutamate, et goûter.",
+        "Enfin, ajouter les croustilles de ciboule frites pour un arôme supplémentaire, et servir."
+      ],
+      "notes": [
+        "Blanchir les légumes dans beaucoup d'eau à feu vif, en la portant vite à ébullition pour garder leur vert éclatant et leur fraîcheur.",
+        "L'épaisseur vient de l'amidon naturel des edamames, aucune liaison n'est nécessaire."
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "silky-pork-tenderloin",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=07DDGf296eE",
+  "ingredientKeys": [
+    "pork-loin",
+    "egg-white",
+    "salt",
+    "msg",
+    "white-pepper",
+    "scallion-ginger-water",
+    "cornstarch",
+    "oil",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "滑溜里脊",
+      "ingredients": [
+        { "name": "里脊肉" },
+        { "name": "鸡蛋清" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "胡椒粉" },
+        { "name": "葱姜水" },
+        { "name": "玉米淀粉" },
+        { "name": "油" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "料酒" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "里脊肉去净筋膜，切成约1到5毫米的薄片（用猪通脊可切得更薄）。",
+        "肉片放清水里漂一下去掉多余血水，控净水分。",
+        "上浆：鸡蛋清、盐、几粒味精、胡椒粉、葱姜水、玉米淀粉打成糊，下入肉片轻柔按摩，让每片都挂上薄浆。",
+        "浆到拿起一晃肉还在颤动的状态最好，太干不动、太稀出水都不行；上面封一层油防干。",
+        "对一个碗芡备用。",
+        "热锅凉油，油温几成热能起小泡即可，下肉片用筷子轻轻划散滑油，油温不能太高、表面不能结硬壳，肉片发白即捞出。",
+        "把锅处理干净，不能有黑渣。",
+        "开火放底油，下葱姜炒出香味，放入滑好的肉片。",
+        "烹入料酒，冲入碗芡，大火快速翻两三下立即出锅装盘。"
+      ],
+      "notes": [
+        "这道菜最关键是上浆，浆要打得饱满，否则一下锅肉片会打卷抽缩。",
+        "滑油油温一定不能高，出硬壳就毁了；最后翻炒时不要在锅里调味再勾芡，原料在锅里待的时间越短越好，汁才亮、肉才饱满。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Silky Stir-Fried Pork Tenderloin (Hua Liu Liji)",
+      "ingredients": [
+        { "name": "Pork tenderloin" },
+        { "name": "Egg white" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "White pepper" },
+        { "name": "Scallion ginger water" },
+        { "name": "Cornstarch" },
+        { "name": "Oil" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Cooking wine" },
+        { "name": "Cornstarch slurry" }
+      ],
+      "steps": [
+        "Trim all sinew from the pork tenderloin and slice into thin pieces about 1-5 mm (loin can be sliced even thinner).",
+        "Rinse the slices in clean water to remove excess blood, then drain dry.",
+        "Coat: beat egg white, salt, a few grains of MSG, white pepper, scallion-ginger water, and cornstarch into a batter; add the pork and gently massage so each slice is lightly coated.",
+        "It's coated right when, lifted and shaken, the meat still wobbles - too dry and it won't move, too wet and water pools; seal the top with a layer of oil to prevent drying.",
+        "Prepare a bowl of sauce and set aside.",
+        "Heat the wok then add oil; when the oil is just hot enough to form small bubbles, slip in the pork and gently separate with chopsticks - the oil must not be too hot and no hard crust should form; lift out as soon as the meat turns white.",
+        "Clean the wok thoroughly so there are no black bits.",
+        "Heat the wok with a little base oil, fry scallion and ginger until fragrant, then add the velveted pork.",
+        "Splash in cooking wine, pour in the sauce, stir-fry quickly two or three times over high heat, and plate immediately."
+      ],
+      "notes": [
+        "The key to this dish is the velveting - coat it plump and full, or the slices will curl and shrink the moment they hit the oil.",
+        "The oil for velveting must not be too hot - a hard crust ruins it; at the final stir-fry, don't season and thicken in the wok - keep the meat in the pan as briefly as possible so the sauce stays glossy and the slices plump.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Filet de Porc Sauté Soyeux (Hua Liu Liji)",
+      "ingredients": [
+        { "name": "Filet mignon de porc" },
+        { "name": "Blanc d'œuf" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Poivre blanc" },
+        { "name": "Eau de ciboule et gingembre" },
+        { "name": "Fécule de maïs" },
+        { "name": "Huile" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Vin de cuisine" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Parez tout le nerf du filet de porc et tranchez en fines lamelles d'environ 1 à 5 mm (la longe peut être tranchée encore plus fine).",
+        "Rincez les lamelles à l'eau claire pour retirer l'excès de sang, puis égouttez bien.",
+        "Enrobage : battez le blanc d'œuf, le sel, quelques grains de glutamate, le poivre blanc, l'eau de ciboule-gingembre et la fécule en une pâte ; ajoutez le porc et massez doucement pour enrober chaque lamelle d'une fine couche.",
+        "C'est bien enrobé quand, soulevée et secouée, la viande tremble encore - trop sèche elle ne bouge pas, trop liquide l'eau s'accumule ; scellez le dessus d'une couche d'huile pour éviter le dessèchement.",
+        "Préparez un bol de sauce et réservez.",
+        "Chauffez le wok puis ajoutez l'huile ; quand elle est juste assez chaude pour former de petites bulles, glissez le porc et séparez doucement avec des baguettes - l'huile ne doit pas être trop chaude et aucune croûte dure ne doit se former ; retirez dès que la viande devient blanche.",
+        "Nettoyez bien le wok pour qu'il n'y ait pas de résidus noirs.",
+        "Chauffez le wok avec un peu d'huile, faites revenir ciboule et gingembre jusqu'à parfumé, puis ajoutez le porc velouté.",
+        "Déglacez au vin de cuisine, versez la sauce, faites sauter rapidement deux ou trois fois à feu vif et dressez aussitôt."
+      ],
+      "notes": [
+        "La clé de ce plat est le velouté - enrobez-le bien plein, sinon les lamelles vont se recroqueviller et rétrécir dès qu'elles touchent l'huile.",
+        "L'huile pour le velouté ne doit pas être trop chaude - une croûte dure gâche tout ; au sauté final, n'assaisonnez et ne liez pas dans le wok - gardez la viande dans la poêle le moins longtemps possible pour que la sauce reste brillante et les lamelles charnues.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

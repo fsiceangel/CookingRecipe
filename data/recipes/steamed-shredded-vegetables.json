@@ -1,0 +1,104 @@
+{
+  "id": "steamed-shredded-vegetables",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=AUtSufj_UBE",
+  "ingredientKeys": [
+    "white-radish",
+    "crown-daisy",
+    "flour",
+    "oil",
+    "garlic",
+    "chili-pepper",
+    "salt",
+    "msg"
+  ],
+  "translations": {
+    "cn": {
+      "title": "蒸菜",
+      "ingredients": [
+        { "name": "萝卜" },
+        { "name": "茼蒿（嫩叶）" },
+        { "name": "面粉" },
+        { "name": "葱油" },
+        { "name": "蒜末" },
+        { "name": "干辣椒" },
+        { "name": "盐" },
+        { "name": "味精" }
+      ],
+      "steps": [
+        "把萝卜擦成丝，用水洗一下去掉萝卜味，控干水分。",
+        "茼蒿用嫩叶部分，清洗掉泥沙，控干水分。",
+        "把控完水的蔬菜倒入盆里，加入普通面粉（颜色不要太深），拌匀到每根菜都裹上薄薄一层面粉，盆底不留太多余粉。",
+        "拌入一点葱油，让面粉表面形成一层油膜，蒸完一扒就散开不粘连（拌时不要使劲揉，以免揉碎）。",
+        "蒸屉抹点油，铺上拌好的菜丝，水开大火蒸3分钟。",
+        "时间到开盖，稍微晾一晾，凉一点后菜丝就一根是一根。",
+        "调味（其一）：直接用蒜汁拌；（其二）起锅烧油，下干辣椒和蒜末小火煸香，锅底油不要太多。",
+        "煸香后关火，把蒸好的菜放进锅里，加盐、味精拌匀（全程不开火，只拌），所有味道拌匀即可出锅。"
+      ],
+      "notes": [
+        "拌面粉后一定要拌一点葱油形成油膜，蒸完菜丝才会一根一根不粘成坨。",
+        "调味时不要再开火加热，否则淀粉受热可能回粘结块；这种做法很多蔬菜都可以蒸，健康软糯。",
+        "蒜汁配方与确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Steamed Shredded Vegetables",
+      "ingredients": [
+        { "name": "Daikon radish" },
+        { "name": "Crown daisy greens (tender leaves)" },
+        { "name": "Flour" },
+        { "name": "Scallion oil" },
+        { "name": "Minced garlic" },
+        { "name": "Dried chili pepper" },
+        { "name": "Salt" },
+        { "name": "MSG" }
+      ],
+      "steps": [
+        "Shred the radish, rinse it to remove the raw radish taste, and drain well.",
+        "Use the tender leaves of the crown daisy greens, wash off any grit, and drain well.",
+        "Put the drained vegetables in a bowl, add plain flour (not too dark in color), and toss until every strand is coated in a thin layer of flour with not much excess flour left in the bowl.",
+        "Toss in a little scallion oil so the flour forms an oil film; this keeps the strands separate after steaming (do not knead hard, or you will crush them).",
+        "Oil the steamer tray, spread the floured vegetables on it, and steam over high heat for 3 minutes once the water boils.",
+        "When the time is up, open the lid and let it cool slightly; once cooler the strands separate one by one.",
+        "Season, option one: simply dress with garlic sauce; option two: heat oil in a wok and fry dried chili and minced garlic over low heat until fragrant, keeping the oil shallow.",
+        "After it is fragrant, turn off the heat, add the steamed vegetables, season with salt and MSG, and toss (heat stays off, just tossing); once everything is evenly mixed, serve."
+      ],
+      "notes": [
+        "Always toss the floured vegetables with a little scallion oil to form an oil film, so the strands stay separate and do not clump after steaming.",
+        "Do not reheat over the flame when seasoning, or the heated starch may turn gummy and clump; many vegetables can be steamed this way for a healthy, soft dish.",
+        "The garlic sauce recipe and exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Légumes Râpés à la Vapeur",
+      "ingredients": [
+        { "name": "Radis blanc (daikon)" },
+        { "name": "Chrysanthème comestible (jeunes feuilles)" },
+        { "name": "Farine" },
+        { "name": "Huile de ciboule" },
+        { "name": "Ail haché" },
+        { "name": "Piment séché" },
+        { "name": "Sel" },
+        { "name": "Glutamate" }
+      ],
+      "steps": [
+        "Râper le radis, le rincer pour enlever le goût de radis cru et bien l'égoutter.",
+        "Utiliser les jeunes feuilles du chrysanthème comestible, rincer le sable éventuel et bien égoutter.",
+        "Mettre les légumes égouttés dans un bol, ajouter de la farine ordinaire (pas trop foncée) et mélanger jusqu'à ce que chaque brin soit enrobé d'une fine couche de farine, sans trop d'excédent au fond du bol.",
+        "Incorporer un peu d'huile de ciboule pour que la farine forme un film huileux ; cela garde les brins séparés après cuisson (ne pas pétrir fort, au risque de les écraser).",
+        "Huiler le panier vapeur, y étaler les légumes farinés et cuire à feu vif 3 minutes une fois l'eau bouillante.",
+        "Au terme du temps, ouvrir le couvercle et laisser refroidir un peu ; une fois refroidis, les brins se détachent un à un.",
+        "Assaisonner, option une : simplement assaisonner d'une sauce à l'ail ; option deux : chauffer l'huile dans un wok et faire revenir le piment séché et l'ail haché à feu doux jusqu'à ce que ce soit parfumé, en gardant peu d'huile.",
+        "Une fois parfumé, éteindre le feu, ajouter les légumes cuits à la vapeur, assaisonner de sel et de glutamate et mélanger (feu éteint, juste mélanger) ; une fois le tout homogène, servir."
+      ],
+      "notes": [
+        "Toujours mélanger les légumes farinés avec un peu d'huile de ciboule pour former un film huileux, afin que les brins restent séparés et ne s'agglomèrent pas après cuisson.",
+        "Ne pas réchauffer sur le feu lors de l'assaisonnement, sinon la fécule chauffée peut devenir collante et s'agglomérer ; de nombreux légumes peuvent être cuits ainsi pour un plat sain et tendre.",
+        "La recette de la sauce à l'ail et les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

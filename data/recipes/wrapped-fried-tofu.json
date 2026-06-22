@@ -1,0 +1,127 @@
+{
+  "id": "wrapped-fried-tofu",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=ZVZzHzLuMLw",
+  "ingredientKeys": [
+    "tofu",
+    "minced-meat",
+    "shrimp",
+    "scallion",
+    "ginger",
+    "salt",
+    "msg",
+    "white-pepper",
+    "sesame-oil",
+    "cornstarch",
+    "egg",
+    "sichuan-peppercorn",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "裹烧豆腐",
+      "ingredients": [
+        { "name": "北豆腐" },
+        { "name": "肉馅" },
+        { "name": "虾仁" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "胡椒粉" },
+        { "name": "香油" },
+        { "name": "淀粉" },
+        { "name": "鸡蛋" },
+        { "name": "花椒面" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "虾仁切成粒；一块北豆腐刮碎，碎一点没关系。",
+        "豆腐里加入肉馅、虾仁粒、葱姜末、盐、味精、胡椒粉拌匀，再加点香油。",
+        "加入淀粉拌匀让豆腐凝固（豆腐易出水），盘里垫一层保鲜膜防粘，把豆腐泥铺平。",
+        "上锅大火烧开上汽，蒸约10分钟。",
+        "调糊：两个鸡蛋加淀粉、少量水和一点油（油起酥）调匀成蛋糊。",
+        "调葱椒盐：葱花、花椒面和盐拌在一起，让葱与花椒盐充分融合。",
+        "蒸好的豆腐翻出脱模，切成长方块。",
+        "在豆腐块一面撒少许淀粉抹上葱椒盐，再撒一层淀粉，挂上蛋糊，四面都裹匀。",
+        "起锅烧油，试好油温，把裹糊的豆腐推入，全程大火炸至金黄，在锅里多停一会炖炸定色后捞出。",
+        "捞出改刀装盘即可，味道咸鲜香。"
+      ],
+      "notes": [
+        "豆腐蒸完只要能定型即可，不需要太强的劲；蛋糊里加点油炸出来更起酥好看。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Wrapped Fried Tofu",
+      "ingredients": [
+        { "name": "Firm tofu" },
+        { "name": "Minced meat" },
+        { "name": "Shrimp" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "White pepper" },
+        { "name": "Sesame oil" },
+        { "name": "Starch" },
+        { "name": "Egg" },
+        { "name": "Ground Sichuan peppercorn" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Dice the shrimp; mash a block of firm tofu, it's fine if it's very fine.",
+        "Mix the tofu with minced meat, diced shrimp, minced scallion and ginger, salt, MSG, and white pepper, then add a little sesame oil.",
+        "Mix in starch to firm up the tofu (it releases water), line a plate with plastic wrap to prevent sticking, and spread the tofu paste flat.",
+        "Steam over high heat for about 10 minutes once boiling.",
+        "Make the batter: beat two eggs with starch, a little water, and a bit of oil (oil makes it crisp) into a smooth egg batter.",
+        "Make the scallion-peppercorn salt: mix chopped scallion, ground Sichuan peppercorn, and salt together until fully combined.",
+        "Turn out the steamed tofu, unmold it, and cut into rectangular pieces.",
+        "Dust one side of each tofu piece with a little starch and spread on the scallion-peppercorn salt, dust with more starch, then coat all over with the egg batter.",
+        "Heat oil, check the temperature, slide in the battered tofu, and deep-fry over high heat until golden, letting it stay in the oil a bit longer to set the color, then remove.",
+        "Lift out, cut to serve; the flavor is savory, fresh, and fragrant."
+      ],
+      "notes": [
+        "The steamed tofu only needs to hold its shape, not be especially springy; adding a bit of oil to the batter makes it crisper and prettier.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tofu Frit Enrobé",
+      "ingredients": [
+        { "name": "Tofu ferme" },
+        { "name": "Viande hachée" },
+        { "name": "Crevettes" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Poivre blanc" },
+        { "name": "Huile de sésame" },
+        { "name": "Fécule" },
+        { "name": "Oeuf" },
+        { "name": "Poivre du Sichuan moulu" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Couper les crevettes en dés ; écraser un bloc de tofu ferme, peu importe si c'est très fin.",
+        "Mélanger le tofu avec la viande hachée, les crevettes en dés, la ciboule et le gingembre hachés, le sel, le glutamate et le poivre blanc, puis ajouter un peu d'huile de sésame.",
+        "Incorporer la fécule pour raffermir le tofu (il rend de l'eau), tapisser une assiette de film alimentaire et étaler la pâte de tofu à plat.",
+        "Cuire à la vapeur à feu vif environ 10 minutes après ébullition.",
+        "Préparer la pâte : battre deux oeufs avec de la fécule, un peu d'eau et un peu d'huile (l'huile rend croustillant) en une pâte lisse.",
+        "Préparer le sel au poivre et ciboule : mélanger ciboule hachée, poivre du Sichuan moulu et sel jusqu'à pleine combinaison.",
+        "Démouler le tofu cuit et le couper en morceaux rectangulaires.",
+        "Saupoudrer un côté de chaque morceau d'un peu de fécule et y étaler le sel au poivre, saupoudrer encore de fécule, puis enrober entièrement de pâte aux oeufs.",
+        "Chauffer l'huile, vérifier la température, plonger le tofu enrobé et frire à feu vif jusqu'à doré, en le laissant un peu plus longtemps pour fixer la couleur, puis retirer.",
+        "Égoutter, découper et dresser ; la saveur est salée, fraîche et parfumée."
+      ],
+      "notes": [
+        "Le tofu cuit doit seulement tenir sa forme, pas être très élastique ; un peu d'huile dans la pâte le rend plus croustillant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

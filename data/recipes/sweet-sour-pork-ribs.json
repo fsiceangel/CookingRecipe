@@ -1,0 +1,124 @@
+{
+  "id": "sweet-sour-pork-ribs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=EfgwYbX-BZg",
+  "ingredientKeys": [
+    "pork-ribs",
+    "cooking-wine",
+    "cornstarch",
+    "oil",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "sichuan-peppercorn",
+    "cinnamon-bark",
+    "vinegar",
+    "rock-sugar",
+    "salt",
+    "dark-soy-sauce"
+  ],
+  "translations": {
+    "cn": {
+      "title": "糖醋排骨",
+      "ingredients": [
+        { "name": "排骨" },
+        { "name": "花雕酒" },
+        { "name": "淀粉" },
+        { "name": "油" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料（八角）" },
+        { "name": "花椒" },
+        { "name": "桂皮" },
+        { "name": "米醋" },
+        { "name": "冰糖" },
+        { "name": "盐" },
+        { "name": "老抽" }
+      ],
+      "steps": [
+        "排骨剁成小段，冲洗掉里面的血水。",
+        "加入少许花雕酒去腥，腌匀后表面拍上薄薄一层淀粉。",
+        "热锅凉油，下排骨煎炸，让排骨脱水、表面炸至金黄后捞出。",
+        "锅留底油，下葱、姜、八角、花椒、桂皮炒香。",
+        "放入排骨，烹入花雕酒和米醋（尽量用米醋或香醋，少用陈醋）。",
+        "加冰糖、少许焦糖色和一勺盐，大火烧开，把冰糖全部烧化定味。",
+        "盖盖转小火焖约十分钟。",
+        "转大火收汁，加少许老抽调色。",
+        "快出锅时再烹一点醋增香，即可出锅。"
+      ],
+      "notes": [
+        "糖醋排骨一定要先炸，表面炸透才好吃，水煮或太软的口感会差。",
+        "具体份量请参考视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sweet & Sour Pork Ribs",
+      "ingredients": [
+        { "name": "Pork ribs" },
+        { "name": "Shaoxing wine" },
+        { "name": "Cornstarch" },
+        { "name": "Oil" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Cinnamon bark" },
+        { "name": "Rice vinegar" },
+        { "name": "Rock sugar" },
+        { "name": "Salt" },
+        { "name": "Dark soy sauce" }
+      ],
+      "steps": [
+        "Chop the pork ribs into small pieces and rinse off the blood.",
+        "Add a splash of Shaoxing wine to remove the gamey smell; once mixed, dust the surface with a thin layer of cornstarch.",
+        "Heat oil in a hot wok and shallow-fry the ribs to dehydrate them and brown the surface until golden, then remove.",
+        "Leave a little oil in the wok and fry scallion, ginger, star anise, Sichuan peppercorns, and cinnamon bark until fragrant.",
+        "Return the ribs, then add Shaoxing wine and rice vinegar (prefer rice or aromatic vinegar; go easy on aged vinegar).",
+        "Add rock sugar, a touch of caramel color, and a spoon of salt; bring to a boil over high heat until the rock sugar fully dissolves.",
+        "Cover, reduce to low heat, and simmer for about ten minutes.",
+        "Turn to high heat to reduce the sauce, adding a little dark soy sauce for color.",
+        "Just before serving, splash in a bit more vinegar for aroma, then plate."
+      ],
+      "notes": [
+        "The ribs must be fried first — a well-fried surface is key; boiled or overly soft ribs taste worse.",
+        "See the video's end screen for exact amounts."
+      ]
+    },
+    "fr": {
+      "title": "Côtes de Porc Aigre-Douces",
+      "ingredients": [
+        { "name": "Côtes de porc" },
+        { "name": "Vin de Shaoxing" },
+        { "name": "Fécule de maïs" },
+        { "name": "Huile" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Écorce de cannelle" },
+        { "name": "Vinaigre de riz" },
+        { "name": "Sucre candi" },
+        { "name": "Sel" },
+        { "name": "Sauce soja foncée" }
+      ],
+      "steps": [
+        "Couper les côtes de porc en petits morceaux et rincer le sang.",
+        "Ajouter un trait de vin de Shaoxing pour ôter l'odeur; une fois mélangé, saupoudrer la surface d'une fine couche de fécule.",
+        "Chauffer l'huile dans un wok chaud et faire frire les côtes pour les déshydrater et dorer la surface, puis les retirer.",
+        "Laisser un peu d'huile dans le wok et faire revenir ciboule, gingembre, anis étoilé, poivre du Sichuan et cannelle jusqu'à ce que ce soit parfumé.",
+        "Remettre les côtes, puis ajouter le vin de Shaoxing et le vinaigre de riz (préférer le vinaigre de riz ou aromatique; modérer le vinaigre vieilli).",
+        "Ajouter le sucre candi, une pointe de colorant caramel et une cuillère de sel; porter à ébullition à feu vif jusqu'à dissolution complète du sucre candi.",
+        "Couvrir, baisser à feu doux et laisser mijoter environ dix minutes.",
+        "Monter à feu vif pour réduire la sauce, en ajoutant un peu de sauce soja foncée pour la couleur.",
+        "Juste avant de servir, verser encore un peu de vinaigre pour l'arôme, puis dresser."
+      ],
+      "notes": [
+        "Les côtes doivent d'abord être frites — une surface bien frite est essentielle; des côtes bouillies ou trop molles sont moins bonnes.",
+        "Voir l'écran de fin de la vidéo pour les quantités exactes."
+      ]
+    }
+  }
+}

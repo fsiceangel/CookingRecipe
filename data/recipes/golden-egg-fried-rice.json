@@ -1,0 +1,119 @@
+{
+  "id": "golden-egg-fried-rice",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=iftd1EthJDI",
+  "ingredientKeys": [
+    "cooked-rice",
+    "egg-yolk",
+    "egg-white",
+    "oil",
+    "salt",
+    "water",
+    "sausage",
+    "latiao",
+    "corn",
+    "green-peas",
+    "scallion"
+  ],
+  "translations": {
+    "cn": {
+      "title": "黄金炒饭",
+      "ingredients": [
+        { "name": "米饭" },
+        { "name": "蛋黄" },
+        { "name": "蛋清" },
+        { "name": "油" },
+        { "name": "盐" },
+        { "name": "水" },
+        { "name": "火腿肠" },
+        { "name": "辣条" },
+        { "name": "玉米粒" },
+        { "name": "青豆" },
+        { "name": "葱花" }
+      ],
+      "steps": [
+        "配料随意：火腿肠、辣条、玉米粒、青豆等切成小丁备用（家里剩什么放什么都行）。",
+        "米饭要用凉的（隔夜不隔夜不重要，关键是凉、不粘），热米饭炒不出粒粒分明。",
+        "往凉米饭里打入几个蛋黄，抓拌均匀，让每粒米都裹上蛋黄；蛋清留着别扔。",
+        "锅里放少量干净油，倒入蛋清轻轻煸炒熟后盛出。",
+        "锅里再放油，下葱花炒香（油不要太多）。",
+        "倒入裹了蛋黄的米饭，先不要急着翻动，等表面鸡蛋凝固后再压炒，用铲压散小饭团。",
+        "鸡蛋凝固、米饭炒成颗粒后，加少量盐；可沿锅边淋一点水帮助盐化开入味。",
+        "下入火腿肠、辣条、玉米、青豆和炒好的蛋清，翻炒均匀。",
+        "最后撒入葱花，翻匀出锅。"
+      ],
+      "notes": [
+        "米饭必须是凉的；蛋黄裹饭后下锅别急着翻，等鸡蛋凝固再炒，蛋才不会掉。",
+        "米饭一定要炒够火候，炒不够蛋腥味会反出来。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Golden Egg Fried Rice",
+      "ingredients": [
+        { "name": "Cooked rice" },
+        { "name": "Egg yolk" },
+        { "name": "Egg white" },
+        { "name": "Oil" },
+        { "name": "Salt" },
+        { "name": "Water" },
+        { "name": "Ham sausage" },
+        { "name": "Latiao (spicy gluten snack)" },
+        { "name": "Corn kernels" },
+        { "name": "Green peas" },
+        { "name": "Chopped scallion" }
+      ],
+      "steps": [
+        "Prep the add-ins to taste: dice ham sausage, latiao, corn, green peas, etc. (use whatever you have at home).",
+        "Use cold rice (day-old or not doesn't matter - what matters is that it's cold and not sticky); hot rice won't fry up grain by grain.",
+        "Beat a few egg yolks into the cold rice and toss until every grain is coated in yolk; keep the whites, don't throw them out.",
+        "Add a little clean oil to the wok, pour in the egg whites, gently stir-fry until set, and remove.",
+        "Add oil to the wok again and fry chopped scallion until fragrant (don't use too much oil).",
+        "Add the yolk-coated rice and don't rush to move it - let the egg on the surface set first, then press and fry, breaking up clumps with the spatula.",
+        "Once the egg is set and the rice is fried to separate grains, add a little salt; you can drizzle a bit of water down the side of the wok to dissolve the salt and season evenly.",
+        "Add the ham sausage, latiao, corn, peas, and the cooked egg whites, and stir-fry to combine.",
+        "Finally sprinkle in the chopped scallion, toss well, and serve."
+      ],
+      "notes": [
+        "The rice must be cold; after coating with yolk, don't stir right away - let the egg set first so it won't fall off the grains.",
+        "Fry the rice long enough - undercook it and an eggy raw smell comes through.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Riz Frit Doré aux Œufs",
+      "ingredients": [
+        { "name": "Riz cuit" },
+        { "name": "Jaune d'œuf" },
+        { "name": "Blanc d'œuf" },
+        { "name": "Huile" },
+        { "name": "Sel" },
+        { "name": "Eau" },
+        { "name": "Saucisse de jambon" },
+        { "name": "Latiao (snack de gluten épicé)" },
+        { "name": "Grains de maïs" },
+        { "name": "Petits pois" },
+        { "name": "Ciboule hachée" }
+      ],
+      "steps": [
+        "Préparez les garnitures selon le goût : coupez en dés saucisse de jambon, latiao, maïs, petits pois, etc. (utilisez ce que vous avez à la maison).",
+        "Utilisez du riz froid (de la veille ou non, peu importe - l'important est qu'il soit froid et non collant) ; le riz chaud ne se fera pas grain par grain.",
+        "Battez quelques jaunes d'œufs dans le riz froid et mélangez jusqu'à ce que chaque grain soit enrobé de jaune ; gardez les blancs, ne les jetez pas.",
+        "Ajoutez un peu d'huile propre au wok, versez les blancs d'œufs, faites-les sauter doucement jusqu'à prise et retirez.",
+        "Ajoutez à nouveau de l'huile au wok et faites revenir la ciboule hachée jusqu'à parfumé (pas trop d'huile).",
+        "Ajoutez le riz enrobé de jaune et ne le remuez pas tout de suite - laissez l'œuf en surface prendre, puis pressez et faites sauter en cassant les amas à la spatule.",
+        "Une fois l'œuf pris et le riz frit en grains séparés, ajoutez un peu de sel ; vous pouvez verser un peu d'eau le long du wok pour dissoudre le sel et assaisonner uniformément.",
+        "Ajoutez la saucisse de jambon, le latiao, le maïs, les petits pois et les blancs d'œufs cuits, et faites sauter pour mélanger.",
+        "Enfin, parsemez de ciboule hachée, mélangez bien et servez."
+      ],
+      "notes": [
+        "Le riz doit être froid ; après l'enrobage au jaune, ne remuez pas tout de suite - laissez l'œuf prendre pour qu'il ne se détache pas des grains.",
+        "Faites frire le riz assez longtemps - mal cuit, une odeur d'œuf cru ressort.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

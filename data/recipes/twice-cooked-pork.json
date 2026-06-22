@@ -1,0 +1,110 @@
+{
+  "id": "twice-cooked-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=CgwnZBLSVJQ",
+  "ingredientKeys": [
+    "pork-belly",
+    "scallion",
+    "ginger",
+    "sichuan-peppercorn",
+    "star-anise",
+    "doubanjiang",
+    "liuyang-fermented-soybeans",
+    "sweet-bean-sauce",
+    "green-garlic",
+    "msg",
+    "sugar"
+  ],
+  "translations": {
+    "cn": {
+      "title": "回锅肉",
+      "ingredients": [
+        { "name": "厚五花肉" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "花椒" },
+        { "name": "大料" },
+        { "name": "豆瓣酱" },
+        { "name": "豆豉" },
+        { "name": "甜面酱" },
+        { "name": "青蒜" },
+        { "name": "味精" },
+        { "name": "白糖" }
+      ],
+      "steps": [
+        "选一块肥瘦相间的厚五花肉，刮净表皮、冲洗干净。",
+        "锅中加水，放葱姜、花椒、大料，下五花肉煮制；煮到筷子能扎进、提起冒清水而不冒血水即可。",
+        "把煮好的五花肉切成薄片。",
+        "起锅烧油润锅后倒掉，直接下五花肉片，不放油，慢慢煸炒出油，像煎一样炒到肉片打卷。",
+        "倒出多余的油，下豆瓣酱和豆豉，开大火炒香。",
+        "加入甜面酱炒匀，加味精、白糖调味。",
+        "下青蒜翻炒，青蒜变绿即可出锅。"
+      ],
+      "notes": [
+        "回锅肉的关键是肉要新鲜，新鲜的肉煮一下就很香。",
+        "肉片煸干出油后表面微焦，更容易吸收豆豉和豆瓣酱的味道。"
+      ]
+    },
+    "en": {
+      "title": "Twice-Cooked Pork",
+      "ingredients": [
+        { "name": "Thick pork belly" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Star anise" },
+        { "name": "Doubanjiang" },
+        { "name": "Fermented black soybeans" },
+        { "name": "Sweet bean sauce" },
+        { "name": "Green garlic" },
+        { "name": "MSG" },
+        { "name": "Sugar" }
+      ],
+      "steps": [
+        "Choose a thick piece of pork belly with alternating fat and lean, scrape the skin clean, and rinse.",
+        "Add water to a pot with scallion, ginger, Sichuan peppercorns, and star anise, then simmer the pork belly until a chopstick pierces it easily and it weeps clear juice rather than blood when lifted.",
+        "Slice the cooked pork belly thinly.",
+        "Season the wok with oil and pour it out, then add the pork slices with no added oil and slowly render them like pan-frying until the slices curl.",
+        "Pour off the excess rendered fat, add the doubanjiang and fermented black soybeans, and stir-fry over high heat until fragrant.",
+        "Add the sweet bean sauce and stir to combine, then season with MSG and sugar.",
+        "Add the green garlic, stir-fry until it turns green, and serve."
+      ],
+      "notes": [
+        "The key to twice-cooked pork is fresh meat; fresh pork is already aromatic after just a simmer.",
+        "Frying the slices until dry and lightly browned helps them absorb the flavor of the black beans and doubanjiang."
+      ]
+    },
+    "fr": {
+      "title": "Porc Cuit Deux Fois",
+      "ingredients": [
+        { "name": "Poitrine de porc épaisse" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Anis étoilé" },
+        { "name": "Doubanjiang" },
+        { "name": "Soja noir fermenté" },
+        { "name": "Pâte de soja sucrée" },
+        { "name": "Ail vert" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" }
+      ],
+      "steps": [
+        "Choisir un morceau épais de poitrine de porc mêlant gras et maigre, gratter la couenne et rincer.",
+        "Mettre de l'eau dans une casserole avec ciboule, gingembre, poivre du Sichuan et anis étoilé, puis pocher la poitrine jusqu'à ce qu'une baguette la transperce facilement et qu'elle rende un jus clair plutôt que du sang quand on la soulève.",
+        "Trancher finement la poitrine cuite.",
+        "Culotter le wok à l'huile puis la vider, ajouter les tranches de porc sans huile supplémentaire et les faire fondre lentement comme à la poêle jusqu'à ce qu'elles s'enroulent.",
+        "Verser l'excès de gras rendu, ajouter le doubanjiang et le soja noir fermenté, et faire sauter à feu vif jusqu'à ce que ce soit parfumé.",
+        "Ajouter la pâte de soja sucrée et mélanger, puis assaisonner de glutamate et de sucre.",
+        "Ajouter l'ail vert, faire sauter jusqu'à ce qu'il verdisse, et servir."
+      ],
+      "notes": [
+        "La clé du porc cuit deux fois est la fraîcheur de la viande ; un porc frais est déjà parfumé après un simple pochage.",
+        "Faire frire les tranches jusqu'à ce qu'elles soient sèches et légèrement dorées les aide à absorber la saveur des haricots noirs et du doubanjiang."
+      ]
+    }
+  }
+}

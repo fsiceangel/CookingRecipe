@@ -1,0 +1,116 @@
+{
+  "id": "vinegar-pepper-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=JECjrBsVBns",
+  "ingredientKeys": [
+    "sea-bass",
+    "chicken-stock",
+    "white-pepper",
+    "vinegar",
+    "scallion",
+    "ginger",
+    "salt",
+    "msg",
+    "sugar",
+    "lard",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "醋椒鱼",
+      "ingredients": [
+        { "name": "鲈鱼" },
+        { "name": "高汤（鸡汤）" },
+        { "name": "白胡椒粉" },
+        { "name": "白醋" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "白糖" },
+        { "name": "猪油" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "鱼收拾干净，去头，贴着鳃后把头切下，从中间劈开留作熬汤。",
+        "沿脊骨取下两片鱼肉，去掉鱼刺取净肉，改刀切成长条。",
+        "鱼块放清水中加两片葱姜泡去血水腥味，约泡十分钟，泡到肉色洁白。",
+        "熬鱼汤：锅里放干净油，加点猪油，下鱼骨开大火煎熟煎透至变白。",
+        "倒入高汤，大火滚开，加葱姜去腥，熬到汤色变白，过滤出底汤。",
+        "另起锅放清水加葱姜烧开，把鱼汤调底味：白胡椒粉、盐、味精、白糖、白醋，定好酸辣味（醋和胡椒粉比例是关键）。",
+        "葱姜煮出味后捞出不要，大火烧开。",
+        "鱼条先在开水里烫一下，去掉表皮黏液和腥味，泛白即捞出，直接放入调好的鱼汤。",
+        "撇去汤面浮沫，烧开后转中火，鱼肉基本全白即熟，放点姜丝葱丝，出锅。"
+      ],
+      "notes": [
+        "调味关键在白胡椒粉和醋的比例：醋多了尝不出胡椒味，胡椒多了发苦，要平衡。",
+        "底汤要选好，鸡汤加鱼汤的混合香味让汤更醇厚。具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Vinegar-Pepper Fish Soup",
+      "ingredients": [
+        { "name": "Sea bass" },
+        { "name": "Stock (chicken)" },
+        { "name": "White pepper" },
+        { "name": "White vinegar" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Sugar" },
+        { "name": "Lard" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Clean the fish and remove the head, cutting just behind the gills; split the head in half and keep it for the stock.",
+        "Fillet the two sides off the backbone, remove all bones to get clean flesh, and cut into long strips.",
+        "Soak the fish pieces in water with a couple slices of scallion and ginger to draw out blood and odor, about 10 minutes, until the flesh is pale.",
+        "Make the fish stock: put clean oil in the pot with a little lard, add the fish bones, and pan-fry over high heat until cooked through and white.",
+        "Pour in the stock, bring to a vigorous boil, add scallion and ginger to remove the fishy smell, and simmer until the broth turns milky white; strain to get the base broth.",
+        "In another pot, bring water with scallion and ginger to a boil, then season the fish broth: white pepper, salt, MSG, sugar, and white vinegar, balancing the sour-and-peppery flavor (the vinegar-to-pepper ratio is key).",
+        "Once the scallion and ginger have flavored the water, discard them and bring to a high boil.",
+        "Blanch the fish strips briefly in boiling water to remove surface slime and odor; once they turn pale, lift them straight into the seasoned fish broth.",
+        "Skim the foam, bring to a boil then lower to medium; once the fish is fully white it is done. Add fine ginger and scallion shreds and serve."
+      ],
+      "notes": [
+        "The seasoning hinges on the white pepper-to-vinegar ratio: too much vinegar hides the pepper, too much pepper turns bitter — balance them.",
+        "Choose a good base broth; the blend of chicken and fish stock gives the soup a rich, full body. Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Poisson au Vinaigre et Poivre",
+      "ingredients": [
+        { "name": "Bar" },
+        { "name": "Bouillon (de poulet)" },
+        { "name": "Poivre blanc" },
+        { "name": "Vinaigre blanc" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Sucre" },
+        { "name": "Saindoux" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Nettoyer le poisson et retirer la tête en coupant juste derrière les ouïes ; fendre la tête en deux et la garder pour le bouillon.",
+        "Lever les deux filets le long de l'arête, retirer toutes les arêtes pour obtenir une chair nette, et couper en longues lanières.",
+        "Faire tremper les morceaux de poisson dans l'eau avec quelques tranches de ciboule et de gingembre pour en extraire le sang et l'odeur, environ 10 minutes, jusqu'à ce que la chair soit pâle.",
+        "Préparer le bouillon de poisson : mettre de l'huile propre dans la marmite avec un peu de saindoux, ajouter les arêtes et les saisir à feu vif jusqu'à cuisson complète et blanchiment.",
+        "Verser le bouillon, porter à forte ébullition, ajouter ciboule et gingembre pour ôter l'odeur de poisson, et laisser mijoter jusqu'à ce que le bouillon devienne blanc laiteux ; filtrer pour obtenir le bouillon de base.",
+        "Dans une autre marmite, porter à ébullition de l'eau avec ciboule et gingembre, puis assaisonner le bouillon de poisson : poivre blanc, sel, glutamate, sucre et vinaigre blanc, en équilibrant le goût aigre et poivré (le rapport vinaigre/poivre est essentiel).",
+        "Une fois que la ciboule et le gingembre ont parfumé l'eau, les retirer et porter à forte ébullition.",
+        "Blanchir brièvement les lanières de poisson dans l'eau bouillante pour ôter le mucus et l'odeur de surface ; dès qu'elles pâlissent, les transférer directement dans le bouillon assaisonné.",
+        "Écumer la mousse, porter à ébullition puis baisser à feu moyen ; quand le poisson est entièrement blanc, c'est prêt. Ajouter de fines lanières de gingembre et de ciboule et servir."
+      ],
+      "notes": [
+        "L'assaisonnement repose sur le rapport poivre blanc/vinaigre : trop de vinaigre masque le poivre, trop de poivre devient amer — équilibrer.",
+        "Choisir un bon bouillon de base ; le mélange de bouillon de poulet et de poisson donne une soupe riche et corsée. Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

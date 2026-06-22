@@ -1,0 +1,139 @@
+{
+  "id": "qiu-gao-sweet-millet-porridge",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=QxZ03qERyd0",
+  "ingredientKeys": [
+    "broomcorn-millet",
+    "water",
+    "red-dates",
+    "peanuts",
+    "goji-berry",
+    "brown-sugar",
+    "raisin"
+  ],
+  "translations": {
+    "cn": {
+      "title": "糗糕",
+      "ingredients": [
+        {
+          "name": "大黄米"
+        },
+        {
+          "name": "纯净水"
+        },
+        {
+          "name": "去核红枣"
+        },
+        {
+          "name": "花生米"
+        },
+        {
+          "name": "枸杞"
+        },
+        {
+          "name": "红糖"
+        },
+        {
+          "name": "葡萄干"
+        }
+      ],
+      "steps": [
+        "一定要用大黄米，它自带粘性，用小米熬不出这种粘稠口感。",
+        "花生米提前用水泡一下，煮得更快。",
+        "锅里倒纯净水，下红枣、花生，再把大黄米冷水下锅，水米比例约3:1。",
+        "上面浮起的沫子撇干净。",
+        "大火烧开转中火，用铲子不停推底防糊，熬到半拉丝的浓稠状态，稀稠按个人喜好。",
+        "放入枸杞，再倒入红糖，小火把糖熬化，甜度按个人喜好。",
+        "最后倒入葡萄干搅拌均匀（不用久煮），出锅即可。"
+      ],
+      "notes": [
+        "冷水下米同样时间熬出的粥更粘稠。",
+        "加完红糖后粘稠度会下降一些属正常。",
+        "用纯红糖比赤砂糖香甜，具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Qiu Gao (Sweet Sticky Millet Porridge)",
+      "ingredients": [
+        {
+          "name": "Broomcorn millet"
+        },
+        {
+          "name": "Purified water"
+        },
+        {
+          "name": "Pitted red dates"
+        },
+        {
+          "name": "Peanuts"
+        },
+        {
+          "name": "Goji berries"
+        },
+        {
+          "name": "Brown sugar"
+        },
+        {
+          "name": "Raisins"
+        }
+      ],
+      "steps": [
+        "Be sure to use broomcorn millet (da huang mi); it is naturally sticky, and regular millet won't give this thick, gluey texture.",
+        "Soak the peanuts in water beforehand so they cook faster.",
+        "Pour purified water into a pot, add red dates and peanuts, then add the millet from cold water. Use roughly a 3:1 water-to-millet ratio.",
+        "Skim off the foam that rises to the surface.",
+        "Bring to a boil over high heat, then reduce to medium, constantly pushing the bottom with a spatula to prevent scorching. Cook until thick and slightly stringy; adjust thickness to taste.",
+        "Add the goji berries, then stir in the brown sugar and let it dissolve over low heat; sweeten to taste.",
+        "Finally stir in the raisins (no need for long cooking) and serve."
+      ],
+      "notes": [
+        "Starting the millet in cold water gives a thicker porridge for the same cooking time.",
+        "The porridge thins a little after the brown sugar is added; this is normal.",
+        "Pure brown sugar is more fragrant and sweet than refined cane sugar. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Qiu Gao (Bouillie de Millet Sucrée et Collante)",
+      "ingredients": [
+        {
+          "name": "Millet jaune gluant"
+        },
+        {
+          "name": "Eau purifiée"
+        },
+        {
+          "name": "Jujubes dénoyautés"
+        },
+        {
+          "name": "Cacahuètes"
+        },
+        {
+          "name": "Baies de goji"
+        },
+        {
+          "name": "Sucre roux"
+        },
+        {
+          "name": "Raisins secs"
+        }
+      ],
+      "steps": [
+        "Utiliser impérativement le millet jaune gluant (da huang mi) ; il est naturellement collant, le millet ordinaire ne donne pas cette texture épaisse et gluante.",
+        "Faire tremper les cacahuètes à l'avance pour qu'elles cuisent plus vite.",
+        "Verser de l'eau purifiée dans une casserole, ajouter les jujubes et les cacahuètes, puis ajouter le millet à froid. Compter environ un ratio eau/millet de 3:1.",
+        "Écumer la mousse qui remonte à la surface.",
+        "Porter à ébullition à feu vif, baisser à feu moyen, en raclant constamment le fond à la spatule pour éviter que ça n'attache. Cuire jusqu'à une consistance épaisse et légèrement filante ; ajuster l'épaisseur au goût.",
+        "Ajouter les baies de goji, puis incorporer le sucre roux et le laisser fondre à feu doux ; sucrer au goût.",
+        "Enfin incorporer les raisins secs (pas besoin de longue cuisson) et servir."
+      ],
+      "notes": [
+        "Démarrer le millet à l'eau froide donne une bouillie plus épaisse à temps de cuisson égal.",
+        "La bouillie s'éclaircit un peu après l'ajout du sucre roux ; c'est normal.",
+        "Le sucre roux pur est plus parfumé et sucré que le sucre de canne raffiné. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

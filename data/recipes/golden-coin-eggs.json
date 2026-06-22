@@ -1,0 +1,126 @@
+{
+  "id": "golden-coin-eggs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=3bForXZIBpY",
+  "ingredientKeys": [
+    "egg",
+    "cornstarch",
+    "lard",
+    "garlic",
+    "chili-pepper",
+    "ginger",
+    "green-garlic",
+    "pickled-chili-paste",
+    "light-soy-sauce",
+    "salt",
+    "sesame-oil",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "金钱蛋（一蛋两做）",
+      "ingredients": [
+        { "name": "鸡蛋" },
+        { "name": "淀粉" },
+        { "name": "猪油" },
+        { "name": "蒜" },
+        { "name": "小米辣" },
+        { "name": "姜" },
+        { "name": "青蒜" },
+        { "name": "泡辣椒" },
+        { "name": "生抽" },
+        { "name": "盐" },
+        { "name": "香油" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "鸡蛋冷水下锅，水没过鸡蛋，烧开后煮约八分钟至蛋黄完全凝固（不要溏心），捞出迅速冲凉，磕一下壳更好剥。",
+        "【金钱蛋】把煮好的鸡蛋切成厚片，下面垫一层淀粉、上面再薄薄撒一层淀粉，刀上沾点水更好切。",
+        "锅里放干净油烧到微微冒烟，下入裹粉的鸡蛋片，尽量蛋黄朝下，中小火慢煎。",
+        "把两面煎出一层酥壳定型后倒出备用。",
+        "锅里放稍多一点猪油，下蒜、小米辣、姜末煸到蒜出黄边出香味。",
+        "加生抽、少许盐调味，倒入煎好的鸡蛋翻匀。",
+        "放入青蒜和湖南泡辣椒增加复合香辣味，翻匀出锅装盘。",
+        "【蒜泥鸡蛋（捣蛋）】另取煮好的鸡蛋，蒜加盐砸成蒜泥（加盐便于砸出蒜辣酥且不乱跑）。",
+        "把鸡蛋放进蒜罐（或碗）里，加生抽、再补点盐，连蒜泥一起捣碎拌匀，淋点香油即可，块大点小点无所谓。"
+      ],
+      "notes": [
+        "金钱蛋的鸡蛋必须煮到蛋黄凝固，溏心蛋不能用。",
+        "煎蛋片只为定型出酥壳，便于吸汁，不用煎太久。",
+        "蒜泥鸡蛋夹馒头一绝；家里没猪油可用别的油代替。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Golden Coin Eggs (One Egg, Two Ways)",
+      "ingredients": [
+        { "name": "Eggs" },
+        { "name": "Cornstarch" },
+        { "name": "Lard" },
+        { "name": "Garlic" },
+        { "name": "Bird's eye chili" },
+        { "name": "Ginger" },
+        { "name": "Green garlic" },
+        { "name": "Pickled chili" },
+        { "name": "Light soy sauce" },
+        { "name": "Salt" },
+        { "name": "Sesame oil" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Start the eggs in cold water that covers them; once boiling, cook about eight minutes until the yolks are fully set (not runny), then remove and rinse in cold water, cracking the shell so they peel easily.",
+        "[Golden Coin Eggs] Cut the cooked eggs into thick slices, lay them on a bed of cornstarch and dust the tops with a thin layer too; wetting the knife helps with slicing.",
+        "Heat clean oil in the wok until it just begins to smoke, add the coated egg slices, yolk-side down where possible, and pan-fry gently over medium-low heat.",
+        "Fry until both sides form a crisp shell and hold their shape, then remove and set aside.",
+        "Add a little more lard to the wok and fry the garlic, bird's eye chili, and minced ginger until the garlic edges turn golden and fragrant.",
+        "Season with light soy sauce and a little salt, then add the fried eggs and toss to coat.",
+        "Add green garlic and Hunan pickled chili for a layered spicy aroma, toss, and plate.",
+        "[Garlic Mashed Eggs] Take more of the boiled eggs; pound garlic with salt into a paste (salt helps it pound smooth and keeps it from scattering).",
+        "Put the eggs into the garlic mortar (or a bowl), add light soy sauce and a bit more salt, mash and mix them with the garlic paste, and drizzle with sesame oil; the chunk size doesn't matter."
+      ],
+      "notes": [
+        "For golden coin eggs the yolks must be fully set; runny-yolk eggs won't work.",
+        "Pan-frying the slices is just to set their shape and form a crisp shell that soaks up sauce; don't overcook.",
+        "Garlic mashed eggs are fantastic stuffed in a steamed bun; substitute any oil if you have no lard.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Œufs Pièces d'Or (Un Œuf, Deux Façons)",
+      "ingredients": [
+        { "name": "Œufs" },
+        { "name": "Fécule de maïs" },
+        { "name": "Saindoux" },
+        { "name": "Ail" },
+        { "name": "Piment oiseau" },
+        { "name": "Gingembre" },
+        { "name": "Ail vert" },
+        { "name": "Piment mariné" },
+        { "name": "Sauce soja claire" },
+        { "name": "Sel" },
+        { "name": "Huile de sésame" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Démarrer les œufs dans l'eau froide qui les recouvre ; à ébullition, cuire environ huit minutes jusqu'à ce que les jaunes soient bien pris (pas coulants), puis retirer et rincer à l'eau froide en fêlant la coquille pour faciliter l'épluchage.",
+        "[Œufs Pièces d'Or] Couper les œufs cuits en tranches épaisses, les poser sur un lit de fécule et en saupoudrer une fine couche dessus ; mouiller le couteau facilite la découpe.",
+        "Chauffer de l'huile propre dans le wok jusqu'à ce qu'elle commence à fumer, ajouter les tranches d'œuf enrobées, jaune vers le bas si possible, et poêler doucement à feu moyen-doux.",
+        "Frire jusqu'à ce que les deux faces forment une croûte croustillante et tiennent leur forme, puis retirer et réserver.",
+        "Ajouter un peu plus de saindoux au wok et faire revenir l'ail, le piment oiseau et le gingembre haché jusqu'à ce que les bords de l'ail dorent et embaument.",
+        "Assaisonner de sauce soja claire et d'un peu de sel, puis ajouter les œufs frits et enrober.",
+        "Ajouter l'ail vert et le piment mariné du Hunan pour un arôme épicé complexe, mélanger et dresser.",
+        "[Œufs Écrasés à l'Ail] Prendre d'autres œufs cuits ; piler l'ail avec du sel en pâte (le sel aide à le piler lisse et l'empêche de s'éparpiller).",
+        "Mettre les œufs dans le mortier à ail (ou un bol), ajouter la sauce soja claire et un peu plus de sel, les écraser et les mélanger à la pâte d'ail, puis arroser d'huile de sésame ; la taille des morceaux importe peu."
+      ],
+      "notes": [
+        "Pour les œufs pièces d'or, les jaunes doivent être bien pris ; les œufs à jaune coulant ne conviennent pas.",
+        "Poêler les tranches sert seulement à fixer leur forme et créer une croûte croustillante qui absorbe la sauce ; ne pas trop cuire.",
+        "Les œufs écrasés à l'ail sont délicieux fourrés dans un pain vapeur ; remplacer par toute huile si vous n'avez pas de saindoux.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

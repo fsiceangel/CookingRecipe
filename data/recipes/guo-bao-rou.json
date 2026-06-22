@@ -1,0 +1,182 @@
+{
+  "id": "guo-bao-rou",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=hfQjcvgdTSs",
+  "ingredientKeys": [
+    "pork-loin",
+    "cornstarch",
+    "oil",
+    "sugar",
+    "vinegar",
+    "salt",
+    "dark-soy-sauce",
+    "scallion",
+    "garlic",
+    "carrot",
+    "cilantro"
+  ],
+  "translations": {
+    "cn": {
+      "title": "锅包肉",
+      "ingredients": [
+        {
+          "name": "里脊肉"
+        },
+        {
+          "name": "土豆淀粉"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "白醋"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "胡萝卜"
+        },
+        {
+          "name": "香菜"
+        }
+      ],
+      "steps": [
+        "先把土豆淀粉用水泡上约十分钟，让淀粉沉淀。",
+        "里脊肉去掉太厚的筋膜，改刀切成五到六毫米厚、大小均匀的片，清洗一下。",
+        "倒掉泡淀粉上层多余的水，把肉片放入抓匀，淀粉糊要稍干一些（薄厚适中：薄了挂不住、不酥，太厚发粘），可再加点油锁住；一定要选粘性大的纯土豆粉，地瓜粉不行。",
+        "切配料：蒜切片，葱切丝，胡萝卜切丝，香菜切段。",
+        "调糖醋汁：白糖与白醋约一比一（六度白醋），加少许盐、一点老抽，加水化开调匀。",
+        "锅中倒入足量食用油，烧到五成热（约120度），下肉片炸定型后捞出。",
+        "复炸两三次，每次炸一下捞出降温，再升油温复炸，反复至外壳金黄、声音酥脆。",
+        "锅留底油，放入葱丝、蒜片，倒入调好的糖醋汁熬至起泡。",
+        "下入炸好的肉片快速翻拌，让酱汁均匀挂上，最后放香菜，出锅。"
+      ],
+      "notes": [
+        "酥脆口感主要来自好的纯土豆淀粉，淀粉糊要稍干、提前多泡一会儿。",
+        "肉片一定要反复复炸两三次才够酥脆。具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Guo Bao Rou (Sweet & Sour Crispy Pork)",
+      "ingredients": [
+        {
+          "name": "Pork loin"
+        },
+        {
+          "name": "Potato starch"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "White vinegar"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Carrot"
+        },
+        {
+          "name": "Cilantro"
+        }
+      ],
+      "steps": [
+        "Soak the potato starch in water for about ten minutes so it settles.",
+        "Trim the thick membrane off the pork loin and slice into even pieces about 5-6 mm thick, then rinse.",
+        "Pour off the excess water above the settled starch, add the pork, and coat evenly. The batter should be on the dry side (just right: too thin won't cling or crisp, too thick turns gummy); a little oil can be added to seal it. Use sticky pure potato starch only - sweet potato starch will not work.",
+        "Prep the garnishes: slice garlic, shred scallion, shred carrot, and cut cilantro into sections.",
+        "Make the sweet-and-sour sauce: about 1:1 sugar to white vinegar (6% acidity), plus a little salt and a touch of dark soy sauce, dissolved with some water.",
+        "Heat plenty of oil to about 50% hot (around 120 C / 250 F), add the pork slices, fry until set, then remove.",
+        "Re-fry two or three times: fry briefly, lift out to cool, raise the oil temperature, and fry again until the shell is golden and audibly crisp.",
+        "Leave a little oil in the wok, add the shredded scallion and sliced garlic, pour in the sauce, and cook until bubbling.",
+        "Add the fried pork and toss quickly so the sauce coats everything; finish with cilantro and serve."
+      ],
+      "notes": [
+        "The crispiness comes mainly from good pure potato starch; keep the batter on the dry side and soak the starch ahead of time.",
+        "The pork must be re-fried two or three times to be properly crisp. Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Guo Bao Rou (Porc Croustillant Aigre-Doux)",
+      "ingredients": [
+        {
+          "name": "Longe de porc"
+        },
+        {
+          "name": "Fécule de pomme de terre"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Vinaigre blanc"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Carotte"
+        },
+        {
+          "name": "Coriandre"
+        }
+      ],
+      "steps": [
+        "Faire tremper la fécule de pomme de terre dans l'eau environ dix minutes pour qu'elle se dépose.",
+        "Parer la membrane épaisse de la longe de porc et la trancher en morceaux réguliers d'environ 5-6 mm d'épaisseur, puis rincer.",
+        "Verser l'eau en excès au-dessus de la fécule déposée, ajouter le porc et enrober uniformément. La pâte doit être plutôt sèche (juste comme il faut : trop fine elle n'adhère pas et ne croustille pas, trop épaisse elle devient collante) ; on peut ajouter un peu d'huile pour la sceller. Utiliser uniquement de la fécule de pomme de terre collante - la fécule de patate douce ne convient pas.",
+        "Préparer les garnitures : émincer l'ail, ciseler la ciboule, râper la carotte et couper la coriandre en tronçons.",
+        "Préparer la sauce aigre-douce : environ 1:1 sucre et vinaigre blanc (6% d'acidité), un peu de sel et une pointe de sauce soja foncée, dissous avec un peu d'eau.",
+        "Chauffer une bonne quantité d'huile à environ 50% (vers 120 C), ajouter les tranches de porc, frire jusqu'à ce qu'elles se figent, puis retirer.",
+        "Frire de nouveau deux ou trois fois : frire brièvement, retirer pour refroidir, augmenter la température de l'huile et frire encore jusqu'à ce que la croûte soit dorée et croustillante.",
+        "Laisser un peu d'huile dans le wok, ajouter la ciboule ciselée et l'ail émincé, verser la sauce et cuire jusqu'à ébullition.",
+        "Ajouter le porc frit et mélanger rapidement pour bien l'enrober ; finir avec la coriandre et servir."
+      ],
+      "notes": [
+        "Le croustillant vient surtout d'une bonne fécule de pomme de terre pure ; garder la pâte plutôt sèche et faire tremper la fécule à l'avance.",
+        "Le porc doit être frit deux ou trois fois pour être bien croustillant. Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

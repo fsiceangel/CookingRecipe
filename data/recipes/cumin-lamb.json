@@ -1,0 +1,101 @@
+{
+  "id": "cumin-lamb",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=GNAZDeTwx28",
+  "ingredientKeys": [
+    "lamb",
+    "salt",
+    "water",
+    "cornstarch",
+    "oil",
+    "cumin",
+    "chili-powder",
+    "sesame-seeds"
+  ],
+  "translations": {
+    "cn": {
+      "title": "孜然羊肉",
+      "ingredients": [
+        { "name": "羊肉" },
+        { "name": "盐" },
+        { "name": "水" },
+        { "name": "淀粉" },
+        { "name": "孜然" },
+        { "name": "油" },
+        { "name": "辣椒面" },
+        { "name": "芝麻" }
+      ],
+      "steps": [
+        "选肥瘦合适的羊前腿肉，侧着切成烤羊串大小的块，尽量有肥有瘦。",
+        "羊肉里加盐，适量加点水抓匀，让盐均匀化开上底味（用冻羊肉可换成花椒水或葱姜水）。",
+        "加入少量淀粉抓匀，淀粉要少，让肉炸完表面微微发白即可，不要太多。",
+        "锅里倒干净油，烧到表面微微冒烟，顺锅边慢慢下入羊肉，全程大火。",
+        "第一遍把肉炸熟，表面略上色就捞出。",
+        "升高油温，把羊肉回锅复炸一次，至表面结壳干香即可捞出，时间别太长以免发老。",
+        "倒出多余的油，锅里留底油，下孜然煸香，再放辣椒面。",
+        "撒入芝麻，翻炒均匀，倒入炸好的羊肉炒匀即可出锅。"
+      ],
+      "notes": [
+        "淀粉一定少放，肉才能外脆里嫩；孜然和辣椒面新买的水气大，先煸一下更香。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Cumin Lamb",
+      "ingredients": [
+        { "name": "Lamb" },
+        { "name": "Salt" },
+        { "name": "Water" },
+        { "name": "Starch" },
+        { "name": "Cumin" },
+        { "name": "Oil" },
+        { "name": "Chili powder" },
+        { "name": "Sesame seeds" }
+      ],
+      "steps": [
+        "Choose lamb foreleg with a good mix of fat and lean, and cut it at an angle into pieces about the size of lamb skewers, keeping some fat on each.",
+        "Add salt and a little water to the lamb and mix so the salt dissolves evenly to season (for frozen lamb, use peppercorn water or scallion-ginger water instead).",
+        "Mix in a small amount of starch — only a little, just enough that the surface turns slightly pale after frying; too much is wrong.",
+        "Pour clean oil into the wok, heat until it lightly smokes, and slowly slide the lamb in along the edge; keep the heat high throughout.",
+        "Fry the lamb through on the first pass and remove once the surface is lightly colored.",
+        "Raise the oil temperature and fry the lamb a second time until the surface is crusted and dry-fragrant, then remove; don't fry too long or it toughens.",
+        "Pour off the excess oil, leaving a little in the wok, add cumin and fry until fragrant, then add chili powder.",
+        "Sprinkle in sesame seeds, stir-fry evenly, return the fried lamb, toss to combine, and serve."
+      ],
+      "notes": [
+        "Use only a little starch so the lamb stays crisp outside and tender inside; toasting fresh cumin and chili powder first drives off moisture for more aroma.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Agneau au Cumin",
+      "ingredients": [
+        { "name": "Agneau" },
+        { "name": "Sel" },
+        { "name": "Eau" },
+        { "name": "Fécule" },
+        { "name": "Cumin" },
+        { "name": "Huile" },
+        { "name": "Poudre de piment" },
+        { "name": "Graines de sésame" }
+      ],
+      "steps": [
+        "Choisir de l'épaule d'agneau bien persillée et la couper en biais en morceaux de la taille de brochettes, en gardant du gras sur chacun.",
+        "Ajouter du sel et un peu d'eau à l'agneau et mélanger pour que le sel se dissolve uniformément (pour de l'agneau congelé, utiliser de l'eau de poivre ou de ciboule-gingembre).",
+        "Incorporer un peu de fécule — juste assez pour que la surface pâlisse légèrement après friture ; trop est une erreur.",
+        "Verser de l'huile propre dans le wok, chauffer jusqu'à légère fumée et faire glisser l'agneau le long du bord ; garder le feu vif.",
+        "Frire l'agneau à coeur au premier passage et le retirer dès que la surface est légèrement colorée.",
+        "Augmenter la température de l'huile et frire l'agneau une seconde fois jusqu'à ce que la surface soit croustillante et sèche, puis retirer ; ne pas trop frire pour ne pas durcir.",
+        "Verser l'excès d'huile, en laisser un peu, ajouter le cumin et faire revenir jusqu'à parfum, puis ajouter la poudre de piment.",
+        "Parsemer de graines de sésame, faire sauter, remettre l'agneau frit, mélanger et servir."
+      ],
+      "notes": [
+        "Mettre peu de fécule pour un agneau croustillant dehors et tendre dedans ; griller d'abord le cumin et le piment frais en chasse l'humidité et révèle l'arôme.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

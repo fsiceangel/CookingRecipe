@@ -1,0 +1,127 @@
+{
+  "id": "charred-chili-pan-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=lbW2wwd5T-I",
+  "ingredientKeys": [
+    "yellow-croaker",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "cornstarch",
+    "scallion",
+    "ginger",
+    "garlic",
+    "oyster-sauce",
+    "light-soy-sauce",
+    "salt",
+    "msg",
+    "peanuts",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "煳辣炝锅鱼",
+      "ingredients": [
+        { "name": "黄鱼" },
+        { "name": "辣椒" },
+        { "name": "花椒" },
+        { "name": "玉米淀粉" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "蒜" },
+        { "name": "蚝油" },
+        { "name": "生抽" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "花生米" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "黄鱼处理干净，剪掉背鳍硬刺，修整尾巴，两面打十字花刀，便于炸透入味。",
+        "用干净布把鱼表面水分蘸干，在划刀处少拍一点玉米淀粉，静置片刻。",
+        "做煳辣椒：锅擦干，下辣椒小火慢炒，把水分炒掉，炒到接近焦煳的状态以激发香味，出锅吹凉后碾成石子大小的碎。",
+        "锅中倒油烧至约六成热，全程大火把鱼炸到表面金黄、结硬壳、炸透捞出。",
+        "炸鱼的油里放葱姜花椒炸一下去腥，滤出留用。",
+        "锅留底油爆香葱姜蒜，加蚝油、生抽、水、盐、味精调味烧开。",
+        "放入一半煳辣椒，汤味立刻提起，下鱼快速煨一下上底味，把原汁浇在鱼身上装盘。",
+        "另起锅凉油下花椒、麻椒和干辣椒中火慢炸至酥，加小葱段补香，捞出辣椒。",
+        "把另一半煳辣椒撒在鱼上，用烧热的油泼上去激出香味，可点缀花生米。"
+      ],
+      "notes": [
+        "鱼一定要炸干炸透，干香的鱼肉才能把汤汁味道吸足。",
+        "煳辣椒要炒到接近焦煳但别真炒糊，糊了回口会发苦。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Charred-Chili Pan Fish",
+      "ingredients": [
+        { "name": "Yellow croaker" },
+        { "name": "Dried chili peppers" },
+        { "name": "Sichuan peppercorns" },
+        { "name": "Corn starch" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Oyster sauce" },
+        { "name": "Light soy sauce" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Peanuts" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Clean the yellow croaker, trim off the hard dorsal spines, neaten the tail, and score both sides in a crosshatch so it fries through and absorbs flavor.",
+        "Pat the surface dry with a clean cloth and lightly dust the scored cuts with a little corn starch, then rest briefly.",
+        "Make the charred chili: wipe the wok dry, add the chilies, and toast over low heat to drive off moisture, taking them almost to the point of scorching to release their aroma; remove, let cool, and crush into pebble-sized bits.",
+        "Heat oil to about 60% hot and deep-fry the fish over high heat throughout until golden, crusted, and cooked through, then remove.",
+        "Fry scallion, ginger, and Sichuan peppercorns in the frying oil to remove the fishy smell, then strain and reserve the oil.",
+        "Leave a little oil in the wok, fry scallion, ginger, and garlic until fragrant, then add oyster sauce, light soy sauce, water, salt, and MSG and bring to a boil.",
+        "Add half the charred chili to lift the sauce, slide in the fish and braise briefly to season it, then plate and pour the sauce over.",
+        "In another wok, start with cold oil, add Sichuan peppercorns and dried chilies, fry over medium heat until crisp, add scallion sections for aroma, then remove the chilies.",
+        "Scatter the other half of the charred chili over the fish and pour the hot oil over to release the aroma; garnish with peanuts."
+      ],
+      "notes": [
+        "Fry the fish until dry and cooked through; only dry, fragrant flesh will soak up the sauce well.",
+        "Toast the chilies almost to scorching but not actually burnt, or the aftertaste turns bitter.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poisson Poêlé aux Piments Grillés",
+      "ingredients": [
+        { "name": "Maigre jaune" },
+        { "name": "Piments séchés" },
+        { "name": "Poivre du Sichuan" },
+        { "name": "Fécule de maïs" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Sauce d'huître" },
+        { "name": "Sauce soja claire" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Cacahuètes" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Nettoyer le maigre jaune, retirer les épines dorsales dures, égaliser la queue et inciser les deux faces en croisillons pour qu'il frise à cœur et s'imprègne de saveur.",
+        "Sécher la surface avec un linge propre et saupoudrer légèrement les entailles de fécule de maïs, puis laisser reposer un instant.",
+        "Préparer les piments grillés : essuyer le wok, ajouter les piments et les griller à feu doux pour évacuer l'humidité, jusqu'à la limite du brûlé pour libérer leur arôme ; retirer, laisser refroidir et concasser en morceaux de la taille de cailloux.",
+        "Chauffer l'huile à environ 60 % et frire le poisson à feu vif tout du long jusqu'à ce qu'il soit doré, croûté et cuit à cœur, puis le retirer.",
+        "Faire revenir ciboule, gingembre et poivre du Sichuan dans l'huile de friture pour ôter l'odeur de poisson, puis filtrer et réserver l'huile.",
+        "Laisser un peu d'huile dans le wok, faire revenir ciboule, gingembre et ail, puis ajouter la sauce d'huître, la sauce soja claire, de l'eau, le sel et le glutamate et porter à ébullition.",
+        "Ajouter la moitié des piments grillés pour relever la sauce, glisser le poisson et le braiser brièvement, puis dresser et napper de sauce.",
+        "Dans un autre wok, partir d'huile froide, ajouter le poivre du Sichuan et les piments séchés, frire à feu moyen jusqu'à ce qu'ils soient croustillants, ajouter des tronçons de ciboule pour l'arôme, puis retirer les piments.",
+        "Parsemer le poisson de l'autre moitié des piments grillés et verser l'huile chaude par-dessus pour libérer l'arôme ; garnir de cacahuètes."
+      ],
+      "notes": [
+        "Frire le poisson jusqu'à ce qu'il soit sec et cuit à cœur ; seule une chair sèche et parfumée absorbe bien la sauce.",
+        "Griller les piments à la limite du brûlé mais sans les carboniser, sinon l'arrière-goût devient amer.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

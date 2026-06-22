@@ -1,0 +1,300 @@
+{
+  "id": "late-night-snack-collection",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=uopppIJ17Kg",
+  "ingredientKeys": [
+    "chicken-drumstick",
+    "egg",
+    "cornstarch",
+    "panko",
+    "scallion",
+    "ginger",
+    "onion",
+    "celery",
+    "cilantro",
+    "salt",
+    "oil",
+    "potato",
+    "garlic",
+    "chili-pepper",
+    "sichuan-peppercorn",
+    "chicken-bouillon",
+    "green-peas",
+    "star-anise",
+    "peanuts",
+    "sugar",
+    "sesame-seeds"
+  ],
+  "translations": {
+    "cn": {
+      "title": "夜宵四件套",
+      "ingredients": [
+        {
+          "name": "大鸡腿"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "玉米淀粉"
+        },
+        {
+          "name": "面包糠"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "洋葱"
+        },
+        {
+          "name": "芹菜"
+        },
+        {
+          "name": "香菜"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "土豆"
+        },
+        {
+          "name": "大蒜"
+        },
+        {
+          "name": "干辣椒"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "鸡粉"
+        },
+        {
+          "name": "豌豆"
+        },
+        {
+          "name": "大料（八角）"
+        },
+        {
+          "name": "花生米"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "芝麻"
+        }
+      ],
+      "steps": [
+        "【一、五五鸡腿排】大鸡腿去骨：贴着骨头划开、刮出关节，砍断、撕下骨头，再把肉中间的筋全部斩断便于入味。",
+        "葱、姜、洋葱、芹菜、香菜攥出蔬菜水，把鸡排放入，加盐、打入鸡蛋抓匀腌制。",
+        "鸡排用纸蘸水，拍一层玉米淀粉，裹满蛋液，再裹满面包糠并按压结实，下锅不易脱落。",
+        "起锅烧油，扔一粒面包糠起泡即可下锅。小火恒温炸，翻面、不时拨动防粘；再开大火复炸上色，炸时随手捞出脆渣以免发糊。出锅即带皮鸡腿排。",
+        "【二、中式炒薯条】土豆切片再切条（刀工不好可拿筷子比着切），切好泡水防氧化。",
+        "水烧开，薯条下水焯半分钟，表面淀粉成熟即捞出。",
+        "锅中放油，可在薯条上拍点淀粉使更酥脆，油温约120多度下锅，炸到冒泡、定型捞出。",
+        "锅底留油，下干辣椒、花椒，再下蒜末、葱末和薯条，加鸡粉调味，翻匀出锅即中式炒薯条。",
+        "【三、盐水豌豆】豌豆（或毛豆、花生）两端剪一下露个小口，便于入味。",
+        "起一锅水，下花椒、大料、辣椒、葱姜、盐，下豌豆煮约一分钟，关火再焖三分钟，最大程度缩短入味时间。出锅即盐水豌豆。",
+        "【四、芝麻花生】花生米下锅，加一勺油，小火慢炸至不再冒泡、搅动无生粘感即可。",
+        "另起锅放糖、加少量水促其融化，糖浆不停翻滚、略变色，下入炸好的花生，离火拌匀让糖慢慢变硬挂在花生上。",
+        "趁热把花生倒在芝麻上拌匀（手要快，慢了会成坨），摊开放凉，凉透即酥脆。"
+      ],
+      "notes": [
+        "鸡排用的是鲜鸡腿，鲜味足，只需少许盐和蔬菜水调味即可。",
+        "炒薯条用鸡粉而非味精，因鸡粉是粉状更易融化。",
+        "盐水豌豆想快速入味就把盐量放足、泡的时间短；盐少则需泡较长时间。",
+        "做芝麻花生时天凉手快，凉透才会脆。详细用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Late-Night Snack Set (4 Dishes)",
+      "ingredients": [
+        {
+          "name": "Large chicken drumsticks (thighs)"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Corn starch"
+        },
+        {
+          "name": "Panko"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Onion"
+        },
+        {
+          "name": "Celery"
+        },
+        {
+          "name": "Cilantro"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Potato"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Dried chili peppers"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Chicken bouillon powder"
+        },
+        {
+          "name": "Green peas"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Peanuts"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Sesame seeds"
+        }
+      ],
+      "steps": [
+        "[1. Crispy Chicken Cutlet] Debone a large chicken thigh: cut along the bone, scrape out the joint, snap and tear out the bone, then sever all the tendons through the middle of the meat so it absorbs flavor.",
+        "Squeeze scallion, ginger, onion, celery, and cilantro by hand to extract a vegetable water. Add the chicken, season with salt, crack in an egg, and mix to marinate.",
+        "Blot the cutlet with damp paper, dust with corn starch, coat fully in egg, then press firmly into panko so the crumbs stick and won't fall off when frying.",
+        "Heat oil; drop in a panko crumb and once it bubbles up the oil is ready. Fry at a steady low temperature, flipping and nudging it to prevent sticking; then raise to high heat to fry again for color, scooping out loose crumbs as you go so they don't burn. This gives the skin-on chicken cutlet.",
+        "[2. Chinese-Style Fried Fries] Cut potato into slices then sticks (use a chopstick as a guide if your knife skills are shaky), and soak the cut fries in water to prevent oxidation.",
+        "Bring water to a boil, blanch the fries for half a minute until the surface starch is set, then remove.",
+        "Add oil to the pot; you can dust the fries with a little starch for extra crispness. Fry at around 120°C until they bubble and set, then remove.",
+        "Leave a little oil in the pot, add dried chilies and Sichuan peppercorns, then minced garlic, minced scallion, and the fries. Season with chicken bouillon powder, toss to combine, and serve as Chinese-style fried fries.",
+        "[3. Salted Peas] Snip both ends of each pea (or edamame, or peanut) to open a small gap so the brine penetrates.",
+        "Bring a pot of water with Sichuan peppercorns, star anise, chili, scallion, ginger, and salt to a boil. Add the peas, boil about one minute, turn off the heat, and let steep three minutes to absorb flavor quickly. Serve as salted peas.",
+        "[4. Sesame Peanut Brittle] Put peanuts in a pan with a spoon of oil and fry slowly over low heat until they stop bubbling and lose their raw stickiness when stirred.",
+        "In another pan, melt sugar with a little water; let the syrup keep bubbling until slightly colored, add the fried peanuts, take off the heat, and toss so the sugar slowly hardens and coats the peanuts.",
+        "While hot, tip the peanuts onto sesame seeds and toss quickly (work fast or it clumps), spread out and let cool completely until crisp."
+      ],
+      "notes": [
+        "The cutlet uses fresh chicken thigh, which is naturally savory, so only a little salt and the vegetable water are needed to season it.",
+        "Use chicken bouillon powder rather than MSG for the fries because the powder melts more easily.",
+        "For the peas, use plenty of salt and a short steep for fast flavor; with less salt they need a longer soak.",
+        "Make the sesame peanuts on a cool day and work fast; they only turn crisp once fully cooled. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Assortiment de Quatre Snacks de Nuit",
+      "ingredients": [
+        {
+          "name": "Gros pilons (cuisses) de poulet"
+        },
+        {
+          "name": "Oeuf"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Panko"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Oignon"
+        },
+        {
+          "name": "Céleri"
+        },
+        {
+          "name": "Coriandre"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Pomme de terre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Piments séchés"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Bouillon de poulet en poudre"
+        },
+        {
+          "name": "Petits pois"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Cacahuètes"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Graines de sésame"
+        }
+      ],
+      "steps": [
+        "[1. Escalope de Poulet Croustillante] Désosser une grosse cuisse de poulet : inciser le long de l'os, dégager l'articulation, casser et arracher l'os, puis sectionner tous les tendons au milieu de la chair pour qu'elle s'imprègne des saveurs.",
+        "Presser à la main la ciboule, l'oignon, le céleri et la coriandre pour en extraire une eau de légumes. Ajouter le poulet, saler, casser un oeuf et mélanger pour mariner.",
+        "Éponger l'escalope avec du papier humide, fariner à la fécule de maïs, enrober entièrement d'oeuf, puis presser fermement dans le panko pour que la chapelure adhère et ne tombe pas à la friture.",
+        "Chauffer l'huile ; jeter une miette de panko, dès qu'elle remonte en bouillonnant l'huile est prête. Frire à température douce et constante en retournant et en bougeant l'escalope pour éviter qu'elle n'attache ; puis monter à feu vif pour une seconde friture qui colore, en retirant les miettes au fur et à mesure pour qu'elles ne brûlent pas. On obtient l'escalope de poulet avec sa peau.",
+        "[2. Frites Sautées à la Chinoise] Couper la pomme de terre en tranches puis en bâtonnets (utiliser une baguette comme guide si besoin) et faire tremper les frites dans l'eau pour éviter l'oxydation.",
+        "Porter l'eau à ébullition, blanchir les frites une demi-minute jusqu'à ce que l'amidon de surface soit pris, puis les retirer.",
+        "Mettre de l'huile dans la casserole ; on peut saupoudrer les frites d'un peu de fécule pour plus de croustillant. Frire à environ 120°C jusqu'à ce qu'elles bouillonnent et se tiennent, puis retirer.",
+        "Laisser un peu d'huile dans la casserole, ajouter les piments séchés et le poivre du Sichuan, puis l'ail haché, la ciboule hachée et les frites. Assaisonner avec le bouillon de poulet en poudre, mélanger et servir comme frites sautées à la chinoise.",
+        "[3. Petits Pois Saumurés] Inciser les deux bouts de chaque pois (ou edamame, ou cacahuète) pour ouvrir une petite fente afin que la saumure pénètre.",
+        "Porter à ébullition une casserole d'eau avec poivre du Sichuan, anis étoilé, piment, ciboule, gingembre et sel. Ajouter les pois, bouillir environ une minute, couper le feu et laisser infuser trois minutes pour une imprégnation rapide. Servir comme petits pois saumurés.",
+        "[4. Cacahuètes au Sésame] Mettre les cacahuètes dans une poêle avec une cuillère d'huile et frire doucement à feu doux jusqu'à ce qu'elles cessent de bouillonner et perdent leur collant cru à la cuillère.",
+        "Dans une autre poêle, faire fondre le sucre avec un peu d'eau ; laisser le sirop bouillonner jusqu'à légère coloration, ajouter les cacahuètes frites, retirer du feu et remuer pour que le sucre durcisse lentement et les enrobe.",
+        "Encore chaud, verser les cacahuètes sur les graines de sésame et mélanger rapidement (travailler vite sinon ça s'agglomère), étaler et laisser refroidir complètement jusqu'à ce que ce soit croustillant."
+      ],
+      "notes": [
+        "L'escalope utilise de la cuisse de poulet fraîche, naturellement savoureuse ; il suffit donc d'un peu de sel et de l'eau de légumes pour l'assaisonner.",
+        "Utiliser du bouillon de poulet en poudre plutôt que du glutamate pour les frites, car la poudre fond plus facilement.",
+        "Pour les pois, mettre beaucoup de sel et une infusion courte pour une saveur rapide ; avec moins de sel il faut un trempage plus long.",
+        "Préparer les cacahuètes au sésame par temps frais et travailler vite ; elles ne deviennent croustillantes qu'une fois complètement refroidies. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

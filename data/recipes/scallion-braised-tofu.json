@@ -1,0 +1,107 @@
+{
+  "id": "scallion-braised-tofu",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=3IGPh1RPB5I",
+  "ingredientKeys": [
+    "tofu",
+    "scallion",
+    "garlic",
+    "oil",
+    "light-soy-sauce",
+    "water",
+    "salt",
+    "msg",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "葱烧豆腐",
+      "ingredients": [
+        { "name": "豆腐" },
+        { "name": "大葱" },
+        { "name": "大蒜" },
+        { "name": "油" },
+        { "name": "酱油" },
+        { "name": "水" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "豆腐切三角片（一块斜切两刀成三片，口感更好）。",
+        "大葱一劈两半，斜切成眉毛葱，只用葱白（葱白更香，葱绿不用）。",
+        "锅里放干净油，下两个蒜瓣和一半的葱，大火把葱煸黄，出浓葱香味。",
+        "葱煸黄后转小火，把豆腐顺势倒进去，让豆腐把葱挤到旁边，用炸出的葱油煎豆腐。",
+        "翻面，把豆腐两面用葱油煎到金黄、逼出水分并渗入葱香。",
+        "煎好先加酱油（高温激发酱香），后加水没过豆腐，水稍多一点。",
+        "把颜色深的葱拨到一边一会儿取出；调味加味精、盐，烧开后再烧约三分钟入味。",
+        "倒入另一半生葱（带来清香的葱味），勾芡，淋点葱油，出锅。"
+      ],
+      "notes": [
+        "豆腐切得厚口感更好；先煎后烧、先酱油后水，豆腐才吸味足。",
+        "两次下葱：煸黄的浓葱香 + 后下的清香葱味，层次更丰富。"
+      ]
+    },
+    "en": {
+      "title": "Scallion-Braised Tofu",
+      "ingredients": [
+        { "name": "Tofu" },
+        { "name": "Scallion" },
+        { "name": "Garlic" },
+        { "name": "Oil" },
+        { "name": "Soy sauce" },
+        { "name": "Water" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Cornstarch slurry" }
+      ],
+      "steps": [
+        "Cut the tofu into triangular slabs (two angled cuts turn one block into three pieces, for a better texture).",
+        "Halve the scallion lengthwise and cut on a slant into slivers, using only the white part (it's more fragrant; skip the green).",
+        "Add clean oil to the wok, drop in two garlic cloves and half the scallion, and fry over high heat until the scallion turns golden and deeply fragrant.",
+        "Once golden, lower the heat and slide in the tofu so it pushes the scallion to the side, frying the tofu in the scallion oil.",
+        "Flip and fry both sides of the tofu in the scallion oil until golden, driving out moisture and infusing the scallion aroma.",
+        "Once fried, add soy sauce first (high heat brings out its aroma), then add water to just cover the tofu, on the generous side.",
+        "Push the darker scallion to one side to remove later; season with MSG and salt, bring to a boil and braise about 3 minutes to soak in flavor.",
+        "Add the other half of the raw scallion (for a fresh scallion fragrance), thicken with cornstarch slurry, drizzle a little scallion oil and serve."
+      ],
+      "notes": [
+        "Cut the tofu thick for a better bite; pan-fry then braise, and add soy sauce before water so the tofu absorbs plenty of flavor.",
+        "Add scallion twice: the fried golden scallion for deep aroma and the later raw scallion for fresh fragrance, giving more layers.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tofu Braisé à la Ciboule",
+      "ingredients": [
+        { "name": "Tofu" },
+        { "name": "Ciboule" },
+        { "name": "Ail" },
+        { "name": "Huile" },
+        { "name": "Sauce soja" },
+        { "name": "Eau" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Coupez le tofu en tranches triangulaires (deux coupes en biais font trois morceaux d'un bloc, pour une meilleure texture).",
+        "Coupez la ciboule en deux dans la longueur puis en biais en fines lanières, en n'utilisant que le blanc (plus parfumé ; laissez le vert).",
+        "Mettez de l'huile propre dans le wok, ajoutez deux gousses d'ail et la moitié de la ciboule, et faites revenir à feu vif jusqu'à ce que la ciboule dore et embaume.",
+        "Une fois dorée, baissez le feu et glissez le tofu de sorte qu'il pousse la ciboule sur le côté, en faisant frire le tofu dans l'huile de ciboule.",
+        "Retournez et faites dorer les deux faces du tofu dans l'huile de ciboule pour en chasser l'eau et y infuser l'arôme.",
+        "Une fois frit, ajoutez d'abord la sauce soja (le feu vif révèle son arôme), puis de l'eau pour couvrir le tofu, généreusement.",
+        "Poussez la ciboule la plus foncée sur le côté pour la retirer ensuite ; assaisonnez de glutamate et de sel, portez à ébullition et laissez braiser environ 3 minutes.",
+        "Ajoutez l'autre moitié de ciboule crue (pour un parfum frais), liez à la fécule, versez un filet d'huile de ciboule et servez."
+      ],
+      "notes": [
+        "Coupez le tofu épais pour une meilleure mâche ; poêlez puis braisez, et ajoutez la sauce soja avant l'eau pour qu'il s'imprègne.",
+        "Ajoutez la ciboule en deux fois : la ciboule dorée pour l'arôme profond et la ciboule crue tardive pour la fraîcheur.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

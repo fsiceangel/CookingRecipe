@@ -1,0 +1,149 @@
+{
+  "id": "fried-crispy-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=HuReR9Xt5dk",
+  "ingredientKeys": [
+    "pork-shoulder",
+    "egg",
+    "sweet-potato-starch",
+    "salt",
+    "msg",
+    "sichuan-peppercorn",
+    "thirteen-spice",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炸酥肉",
+      "ingredients": [
+        {
+          "name": "猪梅花肉"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "红薯粉"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "花椒粉"
+        },
+        {
+          "name": "十三香"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "猪梅花肉顶刀切成手指粗细的条，肥瘦相间。",
+        "加盐、味精、花椒粉、十三香，再放点香料水，抓匀腌制，直到调料融化、盆里没有多余水分。",
+        "做糊：鸡蛋打散，加入红薯粉，充分搅匀至没有一个疙瘩。",
+        "为了更酥脆，糊里再打入一点油。",
+        "起锅烧油至六成油温，把糊抓裹在肉上，肉能若隐若现、厚度适中。",
+        "下锅炸约三分钟，炸到肉浮起、定型上色后捞出。",
+        "油温再次升高，下入复炸一遍，让外皮更酥脆，捞出沥油即可。"
+      ],
+      "notes": [
+        "香料水既能增香，又能融化干料、给肉补充水分，吃起来更嫩。",
+        "糊里打点油会更酥脆；糊太厚、油太少会起大泡、看不见肉，挂糊别太厚。",
+        "具体配料和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Fried Crispy Pork",
+      "ingredients": [
+        {
+          "name": "Pork shoulder (collar)"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Sweet potato starch"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Ground Sichuan peppercorn"
+        },
+        {
+          "name": "Thirteen-spice powder"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Cut the pork shoulder against the grain into finger-thick strips with fat and lean intermixed.",
+        "Add salt, MSG, ground Sichuan peppercorn, and thirteen-spice powder, plus a little spiced water, and mix by hand until the seasonings dissolve and there is no excess water in the bowl.",
+        "Make the batter: beat the eggs, add sweet potato starch, and mix thoroughly until there are no lumps at all.",
+        "Beat a little oil into the batter to make it crispier.",
+        "Heat oil to about 60% (medium-hot), coat the pork in the batter so the meat is faintly visible and the coating is moderately thick.",
+        "Fry for about three minutes until the pieces float and set with color, then remove.",
+        "Raise the oil temperature again and re-fry once to make the crust extra crispy, then drain and serve."
+      ],
+      "notes": [
+        "Spiced water adds aroma, dissolves the dry seasonings, and adds moisture to the meat for a more tender result.",
+        "A little oil in the batter makes it crispier; if the batter is too thick or has too little oil it puffs into big bubbles and hides the meat, so don't coat it too thickly.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Croustillant Frit",
+      "ingredients": [
+        {
+          "name": "Échine de porc"
+        },
+        {
+          "name": "Œuf"
+        },
+        {
+          "name": "Fécule de patate douce"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Poivre du Sichuan moulu"
+        },
+        {
+          "name": "Poudre treize-épices"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Couper l'échine de porc contre le grain en lanières de l'épaisseur d'un doigt, avec gras et maigre mêlés.",
+        "Ajouter le sel, le glutamate, le poivre du Sichuan moulu et la poudre treize-épices, plus un peu d'eau épicée, et mélanger à la main jusqu'à dissolution des assaisonnements et disparition de l'excédent d'eau.",
+        "Préparer la pâte : battre les œufs, ajouter la fécule de patate douce et bien mélanger jusqu'à absence totale de grumeaux.",
+        "Incorporer un peu d'huile à la pâte pour la rendre plus croustillante.",
+        "Chauffer l'huile à environ 60 % (moyennement chaude), enrober le porc de pâte de façon que la viande soit à peine visible et l'enrobage modérément épais.",
+        "Frire environ trois minutes jusqu'à ce que les morceaux remontent et prennent couleur, puis retirer.",
+        "Remonter la température de l'huile et refrire une fois pour une croûte extra croustillante, puis égoutter et servir."
+      ],
+      "notes": [
+        "L'eau épicée ajoute de l'arôme, dissout les assaisonnements secs et apporte de l'humidité à la viande pour plus de tendreté.",
+        "Un peu d'huile dans la pâte la rend plus croustillante; si la pâte est trop épaisse ou manque d'huile, elle gonfle en grosses bulles et cache la viande, donc ne pas trop l'enrober.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

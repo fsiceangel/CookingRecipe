@@ -1,0 +1,164 @@
+{
+  "id": "guizhou-sour-soup-hotpot",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=-naczd9okkQ",
+  "ingredientKeys": [
+    "red-sour-soup",
+    "chili-pepper",
+    "tomato",
+    "ginger",
+    "garlic",
+    "oil",
+    "water",
+    "msg",
+    "salt",
+    "chicken-bouillon",
+    "sugar",
+    "celery",
+    "scallion",
+    "cilantro",
+    "mu-jiang-zi-oil",
+    "tofu",
+    "beef-balls",
+    "sausage",
+    "pig-trotter",
+    "pork-tendon",
+    "yuba",
+    "glass-noodles",
+    "noodles"
+  ],
+  "translations": {
+    "cn": {
+      "title": "贵州酸汤火锅",
+      "ingredients": [
+        { "name": "贵州红酸汤" },
+        { "name": "美人椒" },
+        { "name": "西红柿" },
+        { "name": "姜" },
+        { "name": "大蒜" },
+        { "name": "油" },
+        { "name": "水" },
+        { "name": "味精" },
+        { "name": "盐" },
+        { "name": "鸡汁" },
+        { "name": "糖" },
+        { "name": "芹菜" },
+        { "name": "葱" },
+        { "name": "香菜" },
+        { "name": "木姜子油" },
+        { "name": "冻豆腐" },
+        { "name": "肉丸子" },
+        { "name": "菜肠" },
+        { "name": "猪蹄" },
+        { "name": "猪板筋" },
+        { "name": "腐竹" },
+        { "name": "粉条" },
+        { "name": "方便面" }
+      ],
+      "steps": [
+        "把美人椒（怕辣可换小米辣，喜辣可用小米辣）加点红酸汤打碎，倒出备用。",
+        "锅洗净倒油，下姜蒜炒香。",
+        "下西红柿炒出味（生倒酸汤味道不够复合），再倒入红酸汤，酸汤和水比例约1:3（一勺酸汤三勺水）。",
+        "加水至合适量，调味放味精、盐，没有鸡汤可放点鸡汁，再加少许糖融合味道（在家可把水换成鸡汤或骨头汤更浓）。",
+        "放入芹菜、葱、香菜，再淋少许木姜子油（关键但不能多放），多煮一会让蔬菜香味煮进汤里。",
+        "汤煮开约两分钟后倒入砂锅。",
+        "下入冻豆腐、肉丸子、菜肠、猪蹄、猪板筋，慢慢煮透，让丸子定型、汤入味。",
+        "放入腐竹煮至漂起，再下粉条煮三五分钟煮入肉味。",
+        "最后下方便面，煮到稍硬一点即可出锅，边吃边涮。"
+      ],
+      "notes": [
+        "酸汤和水约1:3；木姜子油是关键风味但要少放，多了味道太冲。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Guizhou Sour-Soup Hotpot",
+      "ingredients": [
+        { "name": "Guizhou red sour soup" },
+        { "name": "Red chili pepper" },
+        { "name": "Tomato" },
+        { "name": "Ginger" },
+        { "name": "Garlic" },
+        { "name": "Oil" },
+        { "name": "Water" },
+        { "name": "MSG" },
+        { "name": "Salt" },
+        { "name": "Chicken bouillon" },
+        { "name": "Sugar" },
+        { "name": "Celery" },
+        { "name": "Scallion" },
+        { "name": "Cilantro" },
+        { "name": "Litsea (mountain pepper) oil" },
+        { "name": "Frozen tofu" },
+        { "name": "Meatballs" },
+        { "name": "Sausage" },
+        { "name": "Pig trotters" },
+        { "name": "Pork tendon" },
+        { "name": "Yuba" },
+        { "name": "Glass noodles" },
+        { "name": "Instant noodles" }
+      ],
+      "steps": [
+        "Blend red chili peppers (use mild ones if you prefer, or bird's-eye chili for more heat) with a little red sour soup, then pour out and set aside.",
+        "Wash the wok, add oil, and fry the ginger and garlic until fragrant.",
+        "Add the tomato and cook until flavorful (raw sour soup alone is not complex enough), then add the red sour soup at about a 1:3 ratio with water (one spoon sour soup to three spoons water).",
+        "Add water to the desired amount, season with MSG and salt, add a little chicken bouillon if you have no stock, and a touch of sugar to round out the flavor (using chicken or bone stock at home makes it richer).",
+        "Add celery, scallion, and cilantro, then drizzle in a little litsea oil (key, but don't overdo it), and simmer a while so the vegetable aromas cook into the soup.",
+        "Once the soup has boiled for about two minutes, pour it into a clay pot.",
+        "Add frozen tofu, meatballs, sausage, pig trotters, and pork tendon, and simmer slowly until cooked through so the balls set and the soup is infused.",
+        "Add yuba and cook until it floats, then add glass noodles and cook three to five minutes to absorb the meaty flavor.",
+        "Finally add the instant noodles, cook until just slightly firm, and serve, dipping more ingredients as you eat."
+      ],
+      "notes": [
+        "Sour soup to water is about 1:3; litsea oil is the key flavor but use only a little, as too much is overpowering.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Fondue à la Soupe Aigre du Guizhou",
+      "ingredients": [
+        { "name": "Soupe aigre rouge du Guizhou" },
+        { "name": "Piment rouge" },
+        { "name": "Tomate" },
+        { "name": "Gingembre" },
+        { "name": "Ail" },
+        { "name": "Huile" },
+        { "name": "Eau" },
+        { "name": "Glutamate" },
+        { "name": "Sel" },
+        { "name": "Bouillon de poulet en poudre" },
+        { "name": "Sucre" },
+        { "name": "Céleri" },
+        { "name": "Ciboule" },
+        { "name": "Coriandre" },
+        { "name": "Huile de litsée (poivre des montagnes)" },
+        { "name": "Tofu congelé" },
+        { "name": "Boulettes de viande" },
+        { "name": "Saucisse" },
+        { "name": "Pieds de porc" },
+        { "name": "Tendon de porc" },
+        { "name": "Yuba" },
+        { "name": "Vermicelles de patate douce" },
+        { "name": "Nouilles instantanées" }
+      ],
+      "steps": [
+        "Mixer des piments rouges (doux si vous préférez, ou piments oiseau pour plus de feu) avec un peu de soupe aigre rouge, puis réserver.",
+        "Laver le wok, ajouter l'huile et faire revenir le gingembre et l'ail jusqu'à parfum.",
+        "Ajouter la tomate et cuire jusqu'à ce qu'elle parfume (la soupe aigre crue seule manque de complexité), puis ajouter la soupe aigre rouge dans un rapport d'environ 1:3 avec l'eau (une cuillère de soupe aigre pour trois d'eau).",
+        "Ajouter l'eau à la quantité voulue, assaisonner de glutamate et de sel, ajouter un peu de bouillon de poulet si vous n'avez pas de fond, et un soupçon de sucre pour arrondir (un fond de poulet ou d'os le rend plus riche).",
+        "Ajouter céleri, ciboule et coriandre, puis verser un peu d'huile de litsée (essentielle, mais sans excès), et laisser mijoter pour que les arômes des légumes passent dans la soupe.",
+        "Une fois la soupe bouillie environ deux minutes, la verser dans un poêlon en terre.",
+        "Ajouter le tofu congelé, les boulettes, la saucisse, les pieds de porc et le tendon de porc, et mijoter lentement jusqu'à cuisson complète.",
+        "Ajouter le yuba et cuire jusqu'à ce qu'il flotte, puis ajouter les vermicelles et cuire trois à cinq minutes pour qu'ils s'imprègnent du goût de viande.",
+        "Enfin ajouter les nouilles instantanées, cuire jusqu'à ce qu'elles soient juste fermes, et servir en y trempant d'autres ingrédients."
+      ],
+      "notes": [
+        "Le rapport soupe aigre/eau est d'environ 1:3 ; l'huile de litsée est la saveur clé mais à doser, car trop est envahissant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

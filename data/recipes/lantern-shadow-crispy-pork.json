@@ -1,0 +1,197 @@
+{
+  "id": "lantern-shadow-crispy-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=FafauU4KUic",
+  "ingredientKeys": [
+    "pork-loin",
+    "scallion-ginger-water",
+    "cornstarch",
+    "oil",
+    "scallion",
+    "ginger",
+    "garlic",
+    "ketchup",
+    "sugar",
+    "vinegar",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "灯影猪肉",
+      "ingredients": [
+        {
+          "name": "猪通脊"
+        },
+        {
+          "name": "葱姜水"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "蒜"
+        },
+        {
+          "name": "番茄酱"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "白醋"
+        },
+        {
+          "name": "盐"
+        }
+      ],
+      "steps": [
+        "猪通脊蘸点水切片，切成适中厚度。",
+        "把肉片放入葱姜水里腌约十分钟去腥。",
+        "腌好的肉放纸上吸干水分。",
+        "两面均匀蘸上干淀粉（淀粉一定要蘸匀，否则砸时会粘在垫上）。",
+        "用肉锤（或擀面杖）慢慢把肉片砸薄，砸到肉面湿透就补蘸干淀粉，砸到比馄饨皮还薄、约0.15毫米、透光能见纹理。",
+        "为方便入口，把砸好的薄片改刀分块。",
+        "起锅放底油，下少量葱姜蒜炒香，倒入番茄酱炒香，加白糖、白醋、盐，把汁倒出并滤去葱姜蒜。",
+        "重新倒入干净油，油温约四成，中小火炸薄肉片，油温不能太高。",
+        "不停翻看，表面结白、挺实就先捞出，稍后复炸。",
+        "中小火复炸第二遍，炸到浅黄色即可捞出（火大会发皮）。",
+        "锅里放刚才炸肉的热油，倒入炒好的汁，开大火至汁起泡后关火。",
+        "把汁淋在肉片上，每个角落都浇到，装盘即可。"
+      ],
+      "notes": [
+        "淀粉要蘸匀，否则肉会粘在砧板上；砸到湿透就补干淀粉。",
+        "全程中小火炸，火大薄片会发皮、易炸过火。",
+        "葱姜蒜炒香后滤掉，取其味不留其物，不影响薄肉片口感。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Lantern-Shadow Crispy Pork",
+      "ingredients": [
+        {
+          "name": "Pork loin"
+        },
+        {
+          "name": "Scallion ginger water"
+        },
+        {
+          "name": "Starch"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Ketchup"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "White vinegar"
+        },
+        {
+          "name": "Salt"
+        }
+      ],
+      "steps": [
+        "Wet the pork loin and slice it into moderately thick pieces.",
+        "Marinate the slices in scallion-ginger water for about ten minutes to remove odor.",
+        "Lay the marinated slices on paper and blot dry.",
+        "Coat both sides evenly with dry starch (coat it evenly or the meat will stick to the mat when pounded).",
+        "Pound the slices thin with a meat mallet (or rolling pin); whenever the surface gets wet, re-coat with dry starch, pounding until thinner than wonton wrappers, about 0.15mm, so light shows the grain through it.",
+        "For easier eating, cut the pounded thin sheets into pieces.",
+        "Heat base oil, fry a little scallion, ginger, and garlic until fragrant, add ketchup and fry, then add sugar, white vinegar, and salt; pour out the sauce and strain out the aromatics.",
+        "Pour in clean oil at about 40% heat and fry the thin slices over medium-low; the oil must not be too hot.",
+        "Watch and turn constantly; when the surface turns white and firm, remove first, to re-fry shortly.",
+        "Re-fry a second time over medium-low until light golden, then remove (high heat makes it leathery).",
+        "Put the hot frying oil back in the wok, pour in the prepared sauce, bring to a bubble over high heat, then turn off.",
+        "Drizzle the sauce over the slices, coating every corner, and plate."
+      ],
+      "notes": [
+        "Coat the starch evenly or the meat sticks to the board; re-coat with dry starch whenever it gets wet.",
+        "Fry over medium-low throughout; high heat makes the thin slices leathery and easy to overcook.",
+        "Fry the aromatics then strain them out, keeping their flavor without the bits, so they don't affect the crisp texture.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Croustillant Ombre-de-Lanterne",
+      "ingredients": [
+        {
+          "name": "Longe de porc"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Fécule"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Ketchup"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Vinaigre blanc"
+        },
+        {
+          "name": "Sel"
+        }
+      ],
+      "steps": [
+        "Mouiller la longe de porc et la couper en tranches d'épaisseur moyenne.",
+        "Faire mariner les tranches dans l'eau de ciboule et gingembre environ dix minutes pour ôter l'odeur.",
+        "Poser les tranches marinées sur du papier et éponger.",
+        "Enrober les deux faces uniformément de fécule sèche (de façon uniforme, sinon la viande colle au plan lors du martelage).",
+        "Aplatir les tranches au maillet (ou rouleau) ; dès que la surface devient humide, ré-enrober de fécule sèche, en martelant jusqu'à plus fin qu'une feuille de wonton, environ 0,15 mm, de sorte que la lumière en révèle le grain.",
+        "Pour faciliter la dégustation, couper les fines feuilles martelées en morceaux.",
+        "Chauffer un fond d'huile, faire revenir un peu de ciboule, gingembre et ail jusqu'à parfum, ajouter le ketchup et faire revenir, puis ajouter sucre, vinaigre blanc et sel ; verser la sauce et filtrer les aromates.",
+        "Verser de l'huile propre à environ 40 % de chaleur et frire les tranches fines à feu moyen-doux ; l'huile ne doit pas être trop chaude.",
+        "Surveiller et retourner sans cesse ; quand la surface blanchit et raffermit, retirer d'abord pour re-frire bientôt.",
+        "Re-frire une seconde fois à feu moyen-doux jusqu'au jaune clair, puis retirer (un feu vif rend la chair coriace).",
+        "Remettre l'huile de friture chaude dans le wok, verser la sauce préparée, porter à ébullition à feu vif, puis éteindre.",
+        "Napper les tranches de sauce en couvrant chaque coin, et dresser."
+      ],
+      "notes": [
+        "Enrober la fécule uniformément, sinon la viande colle à la planche ; ré-enrober de fécule sèche dès qu'elle s'humidifie.",
+        "Frire à feu moyen-doux tout du long ; un feu vif rend les tranches fines coriaces et faciles à brûler.",
+        "Faire revenir les aromates puis les filtrer, pour garder leur goût sans les morceaux et ne pas altérer le croustillant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "guizhou-steamed-pork-tai-gezi",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=xCemW6PcHLM",
+  "ingredientKeys": [
+    "pork-belly",
+    "pork-ribs",
+    "fermented-chili-paste",
+    "scallion",
+    "ginger",
+    "scallion-ginger-water",
+    "oyster-sauce",
+    "msg",
+    "sesame-oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "抬格子",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "排骨"
+        },
+        {
+          "name": "糟辣椒"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "葱姜水"
+        },
+        {
+          "name": "蚝油"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "香油"
+        }
+      ],
+      "steps": [
+        "五花肉刮净毛，尽量选稍肥一点的，蒸的时间长会把油蒸出来；切成约3毫米厚的片。",
+        "排骨剁成小块，没有砍刀可以掰开。",
+        "肉和排骨里加入糟辣椒、葱姜、葱姜水、蚝油、味精拌匀，闻一下确认是肉香而非腥味。",
+        "若拌得有点干，可再补一点葱姜水；切记水不能多，蒸时会出水。",
+        "最后加入香油拌匀，提香并柔和酸辣味。",
+        "把肉皮朝下整齐铺进碗里，摆好排骨。",
+        "锅里烧开水，上锅大火蒸约一个小时，蒸到肉酥软、糟辣椒的酸香麻辣全部渗入肉中即可。"
+      ],
+      "notes": [
+        "糟辣椒（玉米面拌剁辣椒发酵）是这道贵州菜的灵魂，蒸出来咸鲜微辣带一丝酸香。",
+        "拌料时少加水，否则蒸的时候出水太多。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Guizhou Steamed Pork (Tai Gezi)",
+      "ingredients": [
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Pork ribs"
+        },
+        {
+          "name": "Fermented chili paste"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Scallion-ginger water"
+        },
+        {
+          "name": "Oyster sauce"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sesame oil"
+        }
+      ],
+      "steps": [
+        "Scrape the pork belly clean of bristles; choose a slightly fattier cut since the long steam renders out the fat. Slice about 3mm thick.",
+        "Chop the ribs into small pieces; snap them apart by hand if you have no cleaver.",
+        "Mix the pork and ribs with fermented chili paste, scallion and ginger, scallion-ginger water, oyster sauce, and MSG. Smell it to confirm it smells meaty, not fishy.",
+        "If the mix seems dry, add a little more scallion-ginger water; never too much, or it will release water while steaming.",
+        "Finally, mix in sesame oil to add fragrance and mellow the sour-spicy flavor.",
+        "Lay the pork skin-side down neatly in a bowl and arrange the ribs on top.",
+        "Bring water to a boil and steam over high heat for about an hour, until the meat is tender and the sour, spicy, numbing flavor of the chili paste has soaked through."
+      ],
+      "notes": [
+        "Fermented chili paste (chopped chili mixed with corn flour and fermented) is the soul of this Guizhou dish; it steams up savory, mildly spicy, with a sour aroma.",
+        "Add little water when mixing, or it will release too much while steaming.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc à la Vapeur du Guizhou (Tai Gezi)",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Côtes de porc"
+        },
+        {
+          "name": "Pâte de piment fermentée"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Sauce d'huître"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Huile de sésame"
+        }
+      ],
+      "steps": [
+        "Gratter la poitrine de porc pour ôter les soies ; choisir un morceau un peu gras, car la longue cuisson vapeur fait fondre la graisse. Trancher à environ 3mm d'épaisseur.",
+        "Couper les côtes en petits morceaux ; les casser à la main faute de couperet.",
+        "Mélanger le porc et les côtes avec la pâte de piment fermentée, ciboule et gingembre, eau de ciboule et gingembre, sauce d'huître et glutamate. Sentir pour vérifier l'odeur de viande, non de poisson.",
+        "Si le mélange paraît sec, ajouter un peu d'eau de ciboule et gingembre ; jamais trop, sinon il rendra de l'eau à la cuisson.",
+        "Enfin, incorporer l'huile de sésame pour parfumer et adoucir la saveur aigre-piquante.",
+        "Disposer le porc couenne vers le bas dans un bol et placer les côtes par-dessus.",
+        "Porter l'eau à ébullition et cuire à la vapeur à feu vif environ une heure, jusqu'à ce que la viande soit tendre et que les saveurs aigre, piquante et engourdissante aient imprégné la viande."
+      ],
+      "notes": [
+        "La pâte de piment fermentée (piment haché mélangé à la farine de maïs et fermenté) est l'âme de ce plat du Guizhou ; à la vapeur, elle devient savoureuse, légèrement piquante, avec un parfum aigre.",
+        "Ajouter peu d'eau au mélange, sinon il rendra trop d'eau à la cuisson.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

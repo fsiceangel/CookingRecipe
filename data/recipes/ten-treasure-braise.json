@@ -1,0 +1,146 @@
+{
+  "id": "ten-treasure-braise",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=Ks2RFh-rz9M",
+  "ingredientKeys": [
+    "ham",
+    "bamboo-shoot",
+    "carrot",
+    "tofu",
+    "shiitake-mushroom",
+    "napa-cabbage",
+    "egg-dumpling",
+    "minced-meat",
+    "egg",
+    "glass-noodles",
+    "scallion",
+    "ginger",
+    "chicken-stock",
+    "salt",
+    "msg",
+    "white-pepper",
+    "cornstarch"
+  ],
+  "translations": {
+    "cn": {
+      "title": "团圆十锦",
+      "ingredients": [
+        { "name": "火腿" },
+        { "name": "笋片" },
+        { "name": "胡萝卜" },
+        { "name": "豆腐" },
+        { "name": "香菇" },
+        { "name": "白菜" },
+        { "name": "蛋饺" },
+        { "name": "肉馅" },
+        { "name": "鸡蛋" },
+        { "name": "粉丝" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "鸡汤" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "胡椒" },
+        { "name": "淀粉" }
+      ],
+      "steps": [
+        "把火腿、笋、胡萝卜、豆腐都切成薄厚长短尽量一致的片；切下的碎料留着垫底，不浪费。",
+        "煮好的干香菇打十字花刀，留一片最好看的备用。",
+        "调肉馅：肉末加葱姜米、盐、味精、胡椒、一个鸡蛋，搅打上劲后加淀粉继续搅匀。",
+        "锅中烧开水把胡萝卜焯一下变色即可（不要久煮，否则卷曲变形）。",
+        "同一锅水中加葱姜煮出味，转中火保持微开，把肉馅挤成丸子下锅汆熟（丸子浮起即可）。",
+        "开始码盘：取一个碗，底部铺焯过水、蘸了粉防粘的白菜，再依次摆香菇、火腿、豆腐、青笋、冬笋等各色片料，空隙用碎料垫补。",
+        "再垫一层粉丝，放上蛋饺和丸子，把最好看的一片香菇放在正中。",
+        "用一个盘子扣上碗，翻转过来保持造型。",
+        "把提前煮好的鸡汤倒入锅中，加葱姜、盐、味精调味，再浇到摆好的菜上。",
+        "上火烧开后转小火煮约五分钟，让生的蛋饺、豆腐等入味煮熟即可。"
+      ],
+      "notes": [
+        "白菜垫底前蘸一层淀粉，可防止粘底巴锅。",
+        "蛋饺是生的，最后一定要小火煮够五分钟煮熟。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Ten-Treasure Reunion Braise",
+      "ingredients": [
+        { "name": "Chinese ham" },
+        { "name": "Bamboo shoot slices" },
+        { "name": "Carrot" },
+        { "name": "Tofu" },
+        { "name": "Shiitake mushroom" },
+        { "name": "Napa cabbage" },
+        { "name": "Egg dumplings" },
+        { "name": "Minced meat" },
+        { "name": "Egg" },
+        { "name": "Glass noodles" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Chicken stock" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "White pepper" },
+        { "name": "Cornstarch" }
+      ],
+      "steps": [
+        "Slice the ham, bamboo, carrot, and tofu into pieces of as uniform a thickness and length as possible; keep the trimmings to line the bottom so nothing is wasted.",
+        "Score a cross-hatch on the cooked dried shiitake caps, reserving the best-looking one.",
+        "Make the meat filling: combine minced meat with minced scallion and ginger, salt, MSG, white pepper, and an egg, beat until sticky, then add cornstarch and beat again.",
+        "Bring water to a boil and blanch the carrot just until its color sets (do not overcook, or it curls and loses shape).",
+        "In the same water add scallion and ginger to draw out flavor, lower to medium so it barely simmers, then squeeze the filling into balls and poach until they float and are cooked through.",
+        "Begin plating: in a bowl, line the bottom with blanched napa cabbage dusted with starch to prevent sticking, then layer in the shiitake, ham, tofu, green bamboo, winter bamboo, and other slices, filling gaps with trimmings.",
+        "Add a layer of glass noodles, top with the egg dumplings and meatballs, and place the best shiitake cap in the center.",
+        "Invert a plate over the bowl and flip to keep the molded shape.",
+        "Bring the pre-made chicken stock to a boil in a pot, season with scallion, ginger, salt, and MSG, then pour it over the arranged dish.",
+        "Bring to a boil, then simmer over low heat for about five minutes so the raw egg dumplings, tofu, and the rest absorb flavor and cook through."
+      ],
+      "notes": [
+        "Dust the cabbage with starch before lining the bowl to keep it from sticking and scorching.",
+        "The egg dumplings are raw, so be sure to simmer for the full five minutes to cook them.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Braisé des Dix Trésors des Retrouvailles",
+      "ingredients": [
+        { "name": "Jambon chinois" },
+        { "name": "Tranches de pousse de bambou" },
+        { "name": "Carotte" },
+        { "name": "Tofu" },
+        { "name": "Champignon shiitake" },
+        { "name": "Chou chinois" },
+        { "name": "Raviolis aux oeufs" },
+        { "name": "Viande hachée" },
+        { "name": "Oeuf" },
+        { "name": "Vermicelles" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Bouillon de poulet" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Poivre blanc" },
+        { "name": "Fécule" }
+      ],
+      "steps": [
+        "Trancher le jambon, le bambou, la carotte et le tofu en morceaux d'épaisseur et de longueur aussi uniformes que possible ; garder les chutes pour tapisser le fond, rien ne se perd.",
+        "Quadriller le dessus des chapeaux de shiitake séchés cuits, en réservant le plus beau.",
+        "Préparer la farce : mélanger la viande hachée avec ciboule et gingembre hachés, sel, glutamate, poivre blanc et un oeuf, battre jusqu'à ce que ce soit collant, puis ajouter la fécule et battre de nouveau.",
+        "Porter de l'eau à ébullition et blanchir la carotte juste le temps que sa couleur se fixe (ne pas trop cuire, sinon elle s'enroule et se déforme).",
+        "Dans la même eau, ajouter ciboule et gingembre pour parfumer, baisser à feu moyen pour un frémissement léger, puis façonner la farce en boulettes et les pocher jusqu'à ce qu'elles remontent et soient cuites.",
+        "Dresser : dans un bol, tapisser le fond de chou chinois blanchi saupoudré de fécule pour éviter qu'il colle, puis disposer en couches le shiitake, le jambon, le tofu, le bambou vert, le bambou d'hiver et les autres tranches, en comblant les vides avec les chutes.",
+        "Ajouter une couche de vermicelles, garnir des raviolis aux oeufs et des boulettes, et placer le plus beau chapeau de shiitake au centre.",
+        "Renverser une assiette sur le bol et retourner l'ensemble pour conserver la forme moulée.",
+        "Porter le bouillon de poulet préparé à ébullition, assaisonner de ciboule, gingembre, sel et glutamate, puis le verser sur le plat dressé.",
+        "Porter à ébullition, puis laisser mijoter à feu doux environ cinq minutes pour que les raviolis crus, le tofu et le reste s'imprègnent et cuisent."
+      ],
+      "notes": [
+        "Saupoudrer le chou de fécule avant de tapisser le bol pour éviter qu'il colle et brûle.",
+        "Les raviolis aux oeufs sont crus ; bien mijoter les cinq minutes complètes pour les cuire.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "white-brined-pork-elbow",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=fZaLlUYvkSM",
+  "ingredientKeys": [
+    "pork-elbow",
+    "mixed-spices",
+    "ginger",
+    "scallion",
+    "white-liquor",
+    "salt",
+    "white-pepper",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "白卤肘子",
+      "ingredients": [
+        { "name": "肘子" },
+        { "name": "香料" },
+        { "name": "姜" },
+        { "name": "葱" },
+        { "name": "白酒" },
+        { "name": "盐" },
+        { "name": "白胡椒" },
+        { "name": "水" }
+      ],
+      "steps": [
+        "肘子去毛处理干净，顺着骨头剌一道，瘦肉厚的地方也剌一道，便于入味。",
+        "取一个盆放入香料，加姜、一根葱、白酒、盐和温水（不冰手即可），用手搅匀。",
+        "把肘子皮朝下放入腌料中，腌一天一宿，腌透味足。",
+        "把腌好的肘子焯一下水；腌肘子的香料别扔，留着炖肘子用，泡过的血水汤倒掉不要。",
+        "高压锅里的水调味：放盐、几粒白胡椒，再放入腌料里的香料，开火烧开，让香料味在水里滚出来，撇去血沫，这就是简单的白卤水。",
+        "把焯过水的肘子放入白卤水中，上汽压二十分钟（没有高压锅就汤宽一点小火慢炖至少一个小时）。",
+        "关火后最好放凉，味道更透更浓；改刀装盘即可。"
+      ],
+      "notes": [
+        "肘子顺骨剌开、瘦肉处也划几刀，能让卤味更快渗透入味。",
+        "白卤所用香料都是家里常备的，腌肘子的香料可一并入锅炖。",
+        "煮好放凉后味道更浓，蘸料同食更佳；精确香料种类和克数见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "White-Brined Pork Elbow",
+      "ingredients": [
+        { "name": "Pork elbow (knuckle)" },
+        { "name": "Mixed spices" },
+        { "name": "Ginger" },
+        { "name": "Scallion" },
+        { "name": "White liquor" },
+        { "name": "Salt" },
+        { "name": "White pepper" },
+        { "name": "Water" }
+      ],
+      "steps": [
+        "Clean and de-hair the pork elbow, score one cut along the bone and another into the thick lean part so it takes on flavor quickly.",
+        "In a basin, combine the spices with ginger, one scallion, white liquor, salt, and warm water (warm enough not to chill the hand), and mix by hand.",
+        "Place the elbow skin-side down in the marinade and marinate for a full day and night until thoroughly flavored.",
+        "Blanch the marinated elbow; keep the marinade spices for braising and discard the bloody soaking liquid.",
+        "Season the water in a pressure cooker with salt and a few white peppercorns, add the reserved spices, bring to a boil to draw out the aromas, and skim the foam — this is a simple white brine.",
+        "Add the blanched elbow to the white brine and pressure cook for twenty minutes (without a pressure cooker, use a more generous amount of liquid and simmer gently for at least an hour).",
+        "After turning off the heat, ideally let it cool so the flavor penetrates deeper and richer; slice and plate to serve."
+      ],
+      "notes": [
+        "Scoring the elbow along the bone and into the lean meat lets the brine penetrate and flavor it faster.",
+        "The white-brine spices are all common household ones, and the marinade spices can go straight into the braising pot.",
+        "The flavor is richer after cooling; serving with a dipping sauce is even better. Exact spice types and amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Jarret de Porc en Saumure Blanche",
+      "ingredients": [
+        { "name": "Jarret de porc" },
+        { "name": "Épices mélangées" },
+        { "name": "Gingembre" },
+        { "name": "Ciboule" },
+        { "name": "Alcool blanc" },
+        { "name": "Sel" },
+        { "name": "Poivre blanc" },
+        { "name": "Eau" }
+      ],
+      "steps": [
+        "Nettoyer et épiler le jarret de porc, inciser une fois le long de l'os et une autre dans la partie maigre épaisse pour qu'il s'imprègne vite.",
+        "Dans une bassine, mélanger les épices avec du gingembre, une ciboule, de l'alcool blanc, du sel et de l'eau tiède (assez chaude pour ne pas glacer la main), et mélanger à la main.",
+        "Placer le jarret couenne vers le bas dans la marinade et laisser mariner un jour et une nuit entiers jusqu'à imprégnation complète.",
+        "Blanchir le jarret mariné ; conserver les épices de la marinade pour le braisage et jeter le liquide de trempage sanguinolent.",
+        "Assaisonner l'eau d'un autocuiseur avec du sel et quelques grains de poivre blanc, ajouter les épices réservées, porter à ébullition pour libérer les arômes et écumer la mousse — c'est une saumure blanche simple.",
+        "Ajouter le jarret blanchi à la saumure blanche et cuire sous pression vingt minutes (sans autocuiseur, prévoir plus de liquide et mijoter doucement au moins une heure).",
+        "Après avoir éteint le feu, idéalement laisser refroidir pour que la saveur pénètre plus profondément et richement ; trancher et dresser pour servir."
+      ],
+      "notes": [
+        "Inciser le jarret le long de l'os et dans la viande maigre permet à la saumure de pénétrer et de l'aromatiser plus vite.",
+        "Les épices de la saumure blanche sont toutes courantes à la maison, et les épices de la marinade peuvent aller directement dans la marmite.",
+        "La saveur est plus riche après refroidissement ; servir avec une sauce à tremper est encore meilleur. Les types et quantités exacts d'épices sont indiqués à la fin de la vidéo."
+      ]
+    }
+  }
+}

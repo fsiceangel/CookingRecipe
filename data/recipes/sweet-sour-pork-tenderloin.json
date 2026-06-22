@@ -1,0 +1,198 @@
+{
+  "id": "sweet-sour-pork-tenderloin",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=EhlNMfhiouI",
+  "ingredientKeys": [
+    "pork-loin",
+    "salt",
+    "scallion-ginger-water",
+    "sweet-potato-starch",
+    "cake-flour",
+    "oil",
+    "vinegar",
+    "sugar",
+    "dark-soy-sauce",
+    "garlic",
+    "ginger",
+    "cornstarch"
+  ],
+  "translations": {
+    "cn": {
+      "title": "糖醋里脊",
+      "ingredients": [
+        {
+          "name": "里脊肉"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "葱姜水"
+        },
+        {
+          "name": "红薯淀粉"
+        },
+        {
+          "name": "低筋面粉"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "米醋"
+        },
+        {
+          "name": "白糖"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "蒜末"
+        },
+        {
+          "name": "姜末"
+        },
+        {
+          "name": "淀粉"
+        }
+      ],
+      "steps": [
+        "里脊切条，片去底层薄筋，上面打点花刀便于入味。",
+        "里脊加盐（一斤肉约2克盐），再加少量葱姜水把盐化开，水不能多，否则炸时往外吐浆。",
+        "调糊：红薯淀粉和低筋面粉按3比1搅匀，加面粉是为了增加粘性、让糊挂得住。",
+        "往糊里加油（约30%，最高不超过50%），搅到像牛奶一样顺滑，这样炸出来才酥脆。",
+        "调糖醋汁：米醋、白糖，点一点老抽提色，比例调到糖醋平衡。",
+        "腌好的里脊放入糊中抓匀，每根都裹满糊。",
+        "五成油温下肉，定型后转中小火多炸一会儿，捞出。",
+        "升高油温复炸一次，炸到金黄酥脆捞出，倒出油。",
+        "锅里放蒜末、姜末，倒入糖醋汁烧开，下淀粉勾芡，大火。",
+        "趁里脊滚烫时倒入翻炒，挂匀汁即可出锅。"
+      ],
+      "notes": [
+        "糊一定要加油才会酥脆；油不足、火候不够都会不脆。",
+        "挂汁时里脊一定要很热再倒进去。",
+        "具体比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sweet and Sour Pork Tenderloin",
+      "ingredients": [
+        {
+          "name": "Pork tenderloin"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "Scallion-ginger water"
+        },
+        {
+          "name": "Sweet potato starch"
+        },
+        {
+          "name": "Cake flour"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Rice vinegar"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Minced garlic"
+        },
+        {
+          "name": "Minced ginger"
+        },
+        {
+          "name": "Cornstarch"
+        }
+      ],
+      "steps": [
+        "Cut the tenderloin into strips, trim off the thin sinew on the underside, and score the surface so it absorbs flavor.",
+        "Salt the pork (about 2g salt per 500g), then add a little scallion-ginger water to dissolve the salt. Use little water, or the batter will weep during frying.",
+        "Make the batter: mix sweet potato starch and cake flour 3:1. The flour adds stickiness so the batter clings to the meat.",
+        "Stir oil into the batter (about 30%, never over 50%) until smooth like milk; this is what makes the crust crisp.",
+        "Make the sauce: combine rice vinegar and sugar, with a touch of dark soy for color, balanced sweet and sour.",
+        "Add the marinated pork to the batter and coat every strip thoroughly.",
+        "Fry at 150°C (50% oil temperature). Once set, lower to medium-low and fry a while longer, then remove.",
+        "Raise the oil temperature and fry a second time until golden and crisp, then remove and pour off the oil.",
+        "Add minced garlic and ginger to the wok, pour in the sweet-and-sour sauce and bring to a boil, thicken with cornstarch over high heat.",
+        "While the pork is still piping hot, toss it in and coat evenly with the sauce, then serve."
+      ],
+      "notes": [
+        "The batter must contain oil to turn crisp; too little oil or under-frying leaves it soft.",
+        "Add the pork to the glaze only when it is very hot.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Filet de Porc Aigre-Doux",
+      "ingredients": [
+        {
+          "name": "Filet de porc"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Eau de ciboule et gingembre"
+        },
+        {
+          "name": "Fécule de patate douce"
+        },
+        {
+          "name": "Farine à gâteau"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Vinaigre de riz"
+        },
+        {
+          "name": "Sucre"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Ail haché"
+        },
+        {
+          "name": "Gingembre haché"
+        },
+        {
+          "name": "Fécule de maïs"
+        }
+      ],
+      "steps": [
+        "Couper le filet en lanières, ôter le nerf fin du dessous et inciser la surface pour faciliter l'absorption des saveurs.",
+        "Saler le porc (environ 2g de sel pour 500g), puis ajouter un peu d'eau de ciboule et gingembre pour dissoudre le sel. Peu d'eau, sinon la pâte rendra de l'eau à la friture.",
+        "Préparer la pâte : mélanger fécule de patate douce et farine à gâteau (3:1). La farine apporte le liant qui fait adhérer la pâte.",
+        "Incorporer l'huile à la pâte (environ 30 %, jamais plus de 50 %) jusqu'à une texture lisse comme du lait ; c'est ce qui rend la croûte croustillante.",
+        "Préparer la sauce : vinaigre de riz et sucre, avec une pointe de sauce soja foncée pour la couleur, en équilibre aigre-doux.",
+        "Plonger le porc mariné dans la pâte et bien enrober chaque lanière.",
+        "Frire à 150°C (50 % de la température d'huile). Une fois pris, baisser à feu moyen-doux et frire encore un peu, puis retirer.",
+        "Augmenter la température et frire une seconde fois jusqu'à doré et croustillant, retirer et égoutter l'huile.",
+        "Ajouter ail et gingembre hachés dans le wok, verser la sauce aigre-douce et porter à ébullition, lier à la fécule à feu vif.",
+        "Tant que le porc est brûlant, l'y faire sauter pour bien l'enrober de sauce, puis servir."
+      ],
+      "notes": [
+        "La pâte doit contenir de l'huile pour devenir croustillante ; trop peu d'huile ou une friture insuffisante la laisse molle.",
+        "N'ajouter le porc au glaçage que lorsqu'il est très chaud.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

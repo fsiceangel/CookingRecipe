@@ -1,0 +1,115 @@
+{
+  "id": "cola-chicken-wings",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=jTQL3vo4AEA",
+  "ingredientKeys": [
+    "chicken-wings",
+    "cola",
+    "dried-plum",
+    "rock-sugar",
+    "scallion",
+    "ginger",
+    "cooking-wine",
+    "salt",
+    "dark-soy-sauce",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "可乐鸡翅",
+      "ingredients": [
+        { "name": "鸡翅" },
+        { "name": "可乐" },
+        { "name": "话梅" },
+        { "name": "冰糖" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "料酒" },
+        { "name": "盐" },
+        { "name": "老抽" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "鸡翅两面各划几刀，中间再扎一刀，便于煮的时候入味；若不确定鸡翅新鲜，可加浆水多泡一会儿。",
+        "锅中加水、葱姜，下鸡翅，加料酒，水要稍宽没过鸡翅，焯出血沫撇掉。",
+        "开锅后闻一下，若腥味重就再加点料；闻到淡淡料酒和葱姜香即可捞出。",
+        "另起锅用油润一下（之后收汁的锅不易刷），倒入可乐。",
+        "加入话梅（单纯可乐香味不够，话梅让可乐味更浓郁），再放冰糖、盐。",
+        "把鸡翅倒进去，可乐以没过鸡翅为标准（可乐少了表面挂不匀、味淡）。",
+        "烧开看颜色，色浅补点老抽，撇去浮沫，关小火煮8分钟。",
+        "鸡翅用筷子插不出血水即熟，开大火旺火收汁，汤汁浓缩成糖浆裹满鸡翅。",
+        "收到锅底几乎无汁即可关火出锅装盘。"
+      ],
+      "notes": [
+        "加话梅是关键，能让可乐味更浓郁、回口带一点清香，但不能放太多以免抢味。",
+        "加盐很重要，咸味托住甜香，甜味才有厚度而不发飘。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Cola Chicken Wings",
+      "ingredients": [
+        { "name": "Chicken wings" },
+        { "name": "Cola" },
+        { "name": "Dried plum" },
+        { "name": "Rock sugar" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Cooking wine" },
+        { "name": "Salt" },
+        { "name": "Dark soy sauce" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Score the wings a few times on each side and pierce the middle so they absorb flavor while cooking; if unsure of freshness, soak them longer in lightly salted water.",
+        "Add water, scallion, and ginger to a pot, add the wings and cooking wine, with enough water to cover them, and skim off the bloody foam.",
+        "Once boiling, smell it; if it's still too fishy add more aromatics, but once it smells lightly of wine and scallion-ginger, remove the wings.",
+        "Wipe a fresh wok with oil (this makes the reduced sauce easier to clean later), then pour in cola.",
+        "Add dried plum (cola alone isn't fragrant enough; the plum deepens the cola flavor), then add rock sugar and salt.",
+        "Add the wings, with cola just covering them (too little cola gives an uneven, weak glaze).",
+        "Bring to a boil and check the color; top up with dark soy sauce if too light, skim the foam, then simmer on low for 8 minutes.",
+        "When a chopstick draws no blood the wings are done; turn the heat high to reduce the sauce into a syrup that coats the wings.",
+        "Once almost no liquid remains in the wok, turn off the heat, plate, and serve."
+      ],
+      "notes": [
+        "Adding dried plum is the key: it deepens the cola flavor and adds a clean finish, but don't add too much or it overpowers.",
+        "Salt matters: it anchors the sweetness, giving it depth instead of a flat, simple sweet taste.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Ailes de Poulet au Cola",
+      "ingredients": [
+        { "name": "Ailes de poulet" },
+        { "name": "Cola" },
+        { "name": "Prune séchée" },
+        { "name": "Sucre candi" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sel" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Inciser les ailes plusieurs fois de chaque côté et percer le milieu pour qu'elles s'imprègnent à la cuisson ; en cas de doute sur la fraîcheur, les faire tremper plus longtemps dans une eau légèrement salée.",
+        "Mettre eau, ciboule et gingembre dans une casserole, ajouter les ailes et le vin de cuisine, avec assez d'eau pour les couvrir, et écumer la mousse sanguinolente.",
+        "À ébullition, sentir ; si l'odeur reste forte, ajouter des aromates, mais dès qu'on sent légèrement le vin et la ciboule-gingembre, retirer les ailes.",
+        "Essuyer un wok propre avec de l'huile (cela facilite le nettoyage après réduction), puis verser le cola.",
+        "Ajouter la prune séchée (le cola seul n'est pas assez parfumé ; la prune intensifie son goût), puis le sucre candi et le sel.",
+        "Ajouter les ailes, le cola devant juste les couvrir (trop peu de cola donne un glaçage inégal et fade).",
+        "Porter à ébullition et vérifier la couleur ; compléter avec de la sauce soja foncée si c'est trop clair, écumer, puis laisser mijoter à feu doux 8 minutes.",
+        "Quand une baguette ne fait plus saigner les ailes, elles sont cuites ; monter le feu pour réduire la sauce en sirop qui enrobe les ailes.",
+        "Lorsqu'il ne reste presque plus de liquide dans le wok, éteindre le feu, dresser et servir."
+      ],
+      "notes": [
+        "Ajouter la prune séchée est la clé : elle intensifie le goût du cola et apporte une finale nette, mais sans excès au risque de dominer.",
+        "Le sel est important : il soutient la douceur et lui donne de la profondeur plutôt qu'un sucré plat.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

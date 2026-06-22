@@ -1,0 +1,136 @@
+{
+  "id": "jujube-red-braised-pork-chefsui",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=y7Gl6mP0myo",
+  "ingredientKeys": [
+    "pork-belly",
+    "red-dates",
+    "rock-sugar",
+    "sugar",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "cooking-wine",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cinnamon-bark",
+    "salt",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "枣香红烧肉",
+      "ingredients": [
+        { "name": "五花肉" },
+        { "name": "红枣" },
+        { "name": "冰糖" },
+        { "name": "白糖" },
+        { "name": "生抽" },
+        { "name": "老抽" },
+        { "name": "料酒" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料" },
+        { "name": "桂皮" },
+        { "name": "盐" },
+        { "name": "油" }
+      ],
+      "steps": [
+        "选用正经五花三层的五花肉，去掉边角。",
+        "锅里放清水，加葱姜、三个八角、一块桂皮（桂皮别放多），下五花肉焯煮约半小时，去腥定形，撇去血沫。",
+        "煮好的肉切成约2.8厘米的大块。",
+        "锅洗净放底油，下糖小火炒糖色，炒到浅枣红色即可。",
+        "下五花肉块煸炒，把表皮水分炒掉、让糖色慢慢渗入上色。",
+        "放入八角、桂皮、葱姜，加入生抽，让酱油与糖色融合去掉焦糊味。",
+        "烹入料酒，加热水（一定要加热水），再补点糖和老抽调出深枣红色。",
+        "大火煮两三分钟使表面上色后，连汤带肉倒入高压锅，加入红枣。",
+        "撒点盐和糖，盖盖中火压约20分钟，焖好后最好多泡一会儿更入味。",
+        "把红枣、八角、葱姜挑出（否则收汁会碎），把肉倒回锅中大火收汁。",
+        "尽量让肉皮朝上防止粘锅，收到汤汁浓稠挂在肉上、颜色红亮，关火装入砂锅即可。"
+      ],
+      "notes": [
+        "加水一定要加热水，避免肉收缩变柴。",
+        "光靠炒糖色上不出深枣红色，要配合老抽。",
+        "南方口味可把糖量再加一倍。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Jujube Red-Braised Pork Belly",
+      "ingredients": [
+        { "name": "Pork belly" },
+        { "name": "Red dates (jujube)" },
+        { "name": "Rock sugar" },
+        { "name": "Sugar" },
+        { "name": "Light soy sauce" },
+        { "name": "Dark soy sauce" },
+        { "name": "Cooking wine" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Cinnamon bark" },
+        { "name": "Salt" },
+        { "name": "Oil" }
+      ],
+      "steps": [
+        "Choose proper three-layer pork belly and trim off the edges.",
+        "Put clean water in a pot, add scallion, ginger, three star anise, and a piece of cinnamon bark (don't add too much cinnamon), then blanch the pork belly for about half an hour to remove odor and firm it up, skimming off the foam.",
+        "Cut the cooked pork into large chunks about 2.8 cm.",
+        "Wash the wok, add a little oil, and melt sugar over low heat into a caramel color, taking it to a light jujube-red.",
+        "Add the pork chunks and stir-fry to drive off surface moisture and let the caramel color slowly soak in.",
+        "Add the star anise, cinnamon bark, scallion, and ginger, then add light soy sauce so it blends with the caramel and loses any burnt taste.",
+        "Splash in cooking wine and add hot water (always use hot water), then add a bit more sugar and dark soy sauce to bring out a deep jujube-red color.",
+        "Boil over high heat for two to three minutes to color the surface, then transfer the pork and liquid to a pressure cooker and add the red dates.",
+        "Sprinkle in some salt and sugar, cover, and pressure-cook over medium heat for about 20 minutes; for best flavor, let it soak a while after cooking.",
+        "Pick out the red dates, star anise, scallion, and ginger (or they will fall apart when reducing), then return the pork to a wok and reduce over high heat.",
+        "Keep the skin facing up to avoid sticking, reduce until the sauce is thick and clinging and the color is glossy red, then turn off the heat and transfer to a clay pot."
+      ],
+      "notes": [
+        "Always add hot water so the meat doesn't seize up and turn tough.",
+        "Caramel color alone won't give the deep jujube-red; pair it with dark soy sauce.",
+        "For a southern palate, you can double the sugar.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Braisé Rouge aux Jujubes",
+      "ingredients": [
+        { "name": "Poitrine de porc" },
+        { "name": "Jujubes" },
+        { "name": "Sucre candi" },
+        { "name": "Sucre" },
+        { "name": "Sauce soja claire" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Vin de cuisine" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Écorce de cannelle" },
+        { "name": "Sel" },
+        { "name": "Huile" }
+      ],
+      "steps": [
+        "Choisir une vraie poitrine de porc à trois couches et en parer les bords.",
+        "Mettre de l'eau claire dans une casserole, ajouter ciboule, gingembre, trois anis étoilés et un morceau de cannelle (sans excès de cannelle), puis blanchir la poitrine environ une demi-heure pour ôter l'odeur et la raffermir, en écumant.",
+        "Couper le porc cuit en gros morceaux d'environ 2,8 cm.",
+        "Laver le wok, ajouter un peu d'huile et faire fondre le sucre à feu doux en un caramel jusqu'à une teinte rouge jujube clair.",
+        "Ajouter les morceaux de porc et les faire revenir pour évacuer l'humidité de surface et laisser le caramel pénétrer lentement.",
+        "Ajouter l'anis étoilé, la cannelle, la ciboule et le gingembre, puis la sauce soja claire pour qu'elle se fonde au caramel et perde tout goût de brûlé.",
+        "Verser le vin de cuisine et ajouter de l'eau chaude (toujours de l'eau chaude), puis un peu plus de sucre et de sauce soja foncée pour obtenir un rouge jujube profond.",
+        "Faire bouillir à feu vif deux à trois minutes pour colorer la surface, puis transférer le porc et le liquide dans un autocuiseur et ajouter les jujubes.",
+        "Saupoudrer de sel et de sucre, couvrir et cuire sous pression à feu moyen environ 20 minutes ; pour plus de goût, laisser reposer un moment après cuisson.",
+        "Retirer les jujubes, l'anis étoilé, la ciboule et le gingembre (sinon ils se désagrègent à la réduction), puis remettre le porc dans un wok et réduire à feu vif.",
+        "Garder la peau vers le haut pour éviter qu'elle n'attache, réduire jusqu'à ce que la sauce soit épaisse et nappante et la couleur rouge brillant, puis éteindre le feu et transférer dans un plat en terre."
+      ],
+      "notes": [
+        "Toujours ajouter de l'eau chaude pour que la viande ne se rétracte pas et ne durcisse pas.",
+        "Le caramel seul ne donne pas le rouge jujube profond ; l'associer à la sauce soja foncée.",
+        "Pour un palais du sud, on peut doubler le sucre.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

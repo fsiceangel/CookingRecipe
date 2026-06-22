@@ -1,0 +1,86 @@
+{
+  "id": "sweet-mung-bean-soup",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=P62zXJdBsmk",
+  "ingredientKeys": [
+    "mung-bean",
+    "glutinous-rice",
+    "lemon",
+    "rock-sugar",
+    "milk-popsicle"
+  ],
+  "translations": {
+    "cn": {
+      "title": "绿豆沙",
+      "ingredients": [
+        { "name": "绿豆" },
+        { "name": "糯米" },
+        { "name": "柠檬片" },
+        { "name": "冰糖" },
+        { "name": "小布丁（牛奶雪糕）" }
+      ],
+      "steps": [
+        "绿豆提前一晚用清水泡好；放入玻璃锅煮（不要用铁锅、铝锅，容易发黑）。",
+        "加入泡好的糯米（主要起增加粘稠度的作用），开火，加入柠檬片防氧化（避免熬好后变黄）。",
+        "开锅之后转小火熬约30分钟，加入冰糖（冰糖易化），关火后搅一搅化开。",
+        "稍微降温后，加入几根小布丁（牛奶雪糕）增加奶香味，比放奶油更方便。",
+        "用破壁机把绿豆打碎，打出沙沙的口感（连柠檬皮一起打碎会带柠檬清香）。",
+        "想要更细腻的口感可以再过滤一遍，放入冰箱冰一会儿即可享用。"
+      ],
+      "notes": [
+        "煮绿豆要用玻璃锅，避免铁锅、铝锅使其发黑；加柠檬片可防氧化变黄。",
+        "用牛奶雪糕代替奶油增加奶香，方便又不腻；糯米和糖的用量可按个人口味增减。",
+        "确切克数请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sweet Mung Bean Soup",
+      "ingredients": [
+        { "name": "Mung beans" },
+        { "name": "Glutinous rice" },
+        { "name": "Lemon slices" },
+        { "name": "Rock sugar" },
+        { "name": "Milk popsicle (milk ice cream bar)" }
+      ],
+      "steps": [
+        "Soak the mung beans in water overnight; cook them in a glass pot (do not use iron or aluminum pots, which can blacken them).",
+        "Add the soaked glutinous rice (mainly to add thickness), turn on the heat, and add lemon slices to prevent oxidation (which turns the soup yellow).",
+        "Once boiling, reduce to low heat and simmer for about 30 minutes, add rock sugar (it dissolves easily), turn off the heat, and stir to melt it.",
+        "After cooling slightly, add a few milk popsicles (milk ice cream bars) for a creamy aroma, more convenient than adding cream.",
+        "Blend the mung beans in a high-speed blender to a sandy texture (blending in the lemon peel gives a fresh citrus note).",
+        "For a finer texture, strain it once more, then chill in the fridge before serving."
+      ],
+      "notes": [
+        "Cook mung beans in a glass pot to avoid the blackening caused by iron or aluminum; lemon slices prevent oxidation and yellowing.",
+        "Using a milk ice cream bar instead of cream adds a creamy aroma conveniently without being heavy; adjust the glutinous rice and sugar to taste.",
+        "Exact grams are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe Sucrée de Haricots Mungo",
+      "ingredients": [
+        { "name": "Haricots mungo" },
+        { "name": "Riz gluant" },
+        { "name": "Tranches de citron" },
+        { "name": "Sucre candi" },
+        { "name": "Bâtonnet glacé au lait" }
+      ],
+      "steps": [
+        "Faire tremper les haricots mungo dans l'eau toute une nuit ; les cuire dans une casserole en verre (ne pas utiliser de casserole en fer ou en aluminium, qui peut les noircir).",
+        "Ajouter le riz gluant trempé (surtout pour épaissir), allumer le feu et ajouter des tranches de citron pour éviter l'oxydation (qui jaunit la soupe).",
+        "Une fois à ébullition, baisser à feu doux et laisser mijoter environ 30 minutes, ajouter le sucre candi (il fond facilement), éteindre le feu et remuer pour le dissoudre.",
+        "Après un léger refroidissement, ajouter quelques bâtonnets glacés au lait pour un arôme crémeux, plus pratique que d'ajouter de la crème.",
+        "Mixer les haricots mungo au blender pour obtenir une texture sableuse (mixer aussi l'écorce de citron donne une note d'agrume fraîche).",
+        "Pour une texture plus fine, filtrer une fois de plus, puis réfrigérer avant de servir."
+      ],
+      "notes": [
+        "Cuire les haricots mungo dans une casserole en verre pour éviter le noircissement dû au fer ou à l'aluminium ; les tranches de citron empêchent l'oxydation et le jaunissement.",
+        "Utiliser un bâtonnet glacé au lait à la place de la crème apporte commodément un arôme crémeux sans être lourd ; ajuster le riz gluant et le sucre selon le goût.",
+        "Les grammages exacts sont indiqués à la fin de la vidéo."
+      ]
+    }
+  }
+}

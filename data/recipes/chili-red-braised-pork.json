@@ -1,0 +1,241 @@
+{
+  "id": "chili-red-braised-pork",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=mCuP5paYfeU",
+  "ingredientKeys": [
+    "pork-belly",
+    "chili-pepper",
+    "chestnut",
+    "garlic",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cinnamon-bark",
+    "sichuan-peppercorn",
+    "cooking-wine",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "sugar",
+    "salt",
+    "msg",
+    "oil"
+  ],
+  "translations": {
+    "cn": {
+      "title": "辣椒红烧肉",
+      "ingredients": [
+        {
+          "name": "五花肉"
+        },
+        {
+          "name": "青红美人椒"
+        },
+        {
+          "name": "板栗"
+        },
+        {
+          "name": "大蒜"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "大料"
+        },
+        {
+          "name": "桂皮"
+        },
+        {
+          "name": "花椒"
+        },
+        {
+          "name": "料酒"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "老抽"
+        },
+        {
+          "name": "糖色"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "油"
+        }
+      ],
+      "steps": [
+        "去毛五花肉切成两厘米见方的块。",
+        "冷水下锅，加入料酒，随水温升高撇净浮沫。",
+        "锅烧热加底油，放入葱、姜、大料、桂皮、花椒煸香，把油炸香。",
+        "倒入焯过水的五花肉，用香料油把肉煸到表面微干、开始冒油。",
+        "撇出一部分煎出的油，再次烹入料酒，再烹入酱油去腥增香。",
+        "加入糖色，倒入热水至与肉齐平，加老抽找色、味精、盐，尝好底味。",
+        "倒入高压锅压煮至软烂，关火。",
+        "另起锅用煸肉的油，下拍蒜煸黄，转小火。",
+        "放入青红美人椒和五香板栗，煸出蒜和辣椒的香味。",
+        "倒入烧好的红烧肉，翻匀略煮，让汤汁、辣椒、蒜味融合后出锅。"
+      ],
+      "notes": [
+        "肉要煸到表面起一层胶壳，更容易吸足汤汁的味道。",
+        "用拍蒜更出味；五香板栗不用下油锅炸，也不要跟肉一起炖，最后下锅一煎一咕噜即可，否则会煮散。",
+        "家里没有料酒可直接烹酱油，酱油也能去腥增香。",
+        "具体配料和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Chili Red-Braised Pork",
+      "ingredients": [
+        {
+          "name": "Pork belly"
+        },
+        {
+          "name": "Green and red chili peppers"
+        },
+        {
+          "name": "Chestnuts"
+        },
+        {
+          "name": "Garlic"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Star anise"
+        },
+        {
+          "name": "Cinnamon bark"
+        },
+        {
+          "name": "Sichuan peppercorns"
+        },
+        {
+          "name": "Cooking wine"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Dark soy sauce"
+        },
+        {
+          "name": "Caramel color (sugar)"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Oil"
+        }
+      ],
+      "steps": [
+        "Cut the dehaired pork belly into 2 cm cubes.",
+        "Put in a pot with cold water, add cooking wine, and skim off the foam as the water heats.",
+        "Heat the wok with a little oil, then sauté scallion, ginger, star anise, cinnamon bark, and Sichuan peppercorns to flavor the oil.",
+        "Add the blanched pork belly and fry it in the spiced oil until the surface is slightly dry and starts releasing fat.",
+        "Skim off some of the rendered fat, deglaze again with cooking wine, then add soy sauce to remove odor and add aroma.",
+        "Add caramel color, pour in hot water until level with the meat, add dark soy sauce for color, MSG, and salt, and check the base seasoning.",
+        "Transfer to a pressure cooker and cook until tender, then turn off.",
+        "In another pan, use the pork-frying oil to fry smashed garlic until golden, then lower the heat.",
+        "Add the green and red chili peppers and the five-spice chestnuts, and fry until the garlic and chili aromas come out.",
+        "Pour in the braised pork, toss and simmer briefly so the sauce, chili, and garlic flavors meld, then serve."
+      ],
+      "notes": [
+        "Fry the pork until a glossy skin-like layer forms on the surface so it soaks up the braising sauce.",
+        "Smashed garlic gives more flavor; the five-spice chestnuts don't need deep-frying and shouldn't be braised with the meat - add them at the end for a quick fry and simmer, or they fall apart.",
+        "If you have no cooking wine, just deglaze with soy sauce, which also removes odor and adds aroma.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Porc Braisé au Piment",
+      "ingredients": [
+        {
+          "name": "Poitrine de porc"
+        },
+        {
+          "name": "Piments verts et rouges"
+        },
+        {
+          "name": "Châtaignes"
+        },
+        {
+          "name": "Ail"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Anis étoilé"
+        },
+        {
+          "name": "Écorce de cannelle"
+        },
+        {
+          "name": "Poivre du Sichuan"
+        },
+        {
+          "name": "Vin de cuisine"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sauce soja foncée"
+        },
+        {
+          "name": "Caramel coloré (sucre)"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Huile"
+        }
+      ],
+      "steps": [
+        "Couper la poitrine de porc épilée en cubes de 2 cm.",
+        "Mettre dans une marmite d'eau froide, ajouter le vin de cuisine et écumer la mousse à mesure que l'eau chauffe.",
+        "Chauffer le wok avec un peu d'huile, puis faire revenir ciboule, gingembre, anis étoilé, écorce de cannelle et poivre du Sichuan pour parfumer l'huile.",
+        "Ajouter la poitrine de porc blanchie et la faire revenir dans l'huile épicée jusqu'à ce que la surface soit légèrement sèche et commence à rendre du gras.",
+        "Écumer une partie du gras rendu, déglacer à nouveau au vin de cuisine, puis ajouter la sauce soja pour ôter l'odeur et parfumer.",
+        "Ajouter le caramel coloré, verser de l'eau chaude à hauteur de la viande, ajouter la sauce soja foncée pour la couleur, le glutamate et le sel, et vérifier l'assaisonnement de base.",
+        "Transférer dans un autocuiseur et cuire jusqu'à tendreté, puis éteindre.",
+        "Dans une autre poêle, utiliser l'huile de cuisson du porc pour faire dorer l'ail écrasé, puis baisser le feu.",
+        "Ajouter les piments verts et rouges et les châtaignes aux cinq-épices, et faire revenir jusqu'à ce que les arômes d'ail et de piment se dégagent.",
+        "Verser le porc braisé, mélanger et laisser mijoter brièvement pour que la sauce, le piment et l'ail se marient, puis servir."
+      ],
+      "notes": [
+        "Faire revenir le porc jusqu'à ce qu'une couche brillante semblable à une peau se forme en surface, pour qu'il absorbe bien la sauce.",
+        "L'ail écrasé donne plus de goût; les châtaignes aux cinq-épices n'ont pas besoin d'être frites et ne doivent pas être braisées avec la viande - les ajouter à la fin pour une cuisson rapide, sinon elles se défont.",
+        "Sans vin de cuisine, déglacez simplement à la sauce soja, qui ôte aussi l'odeur et parfume.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

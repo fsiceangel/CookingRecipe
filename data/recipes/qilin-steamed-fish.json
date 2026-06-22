@@ -1,0 +1,119 @@
+{
+  "id": "qilin-steamed-fish",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=ksJfkvNDrC4",
+  "ingredientKeys": [
+    "mandarin-fish",
+    "ham",
+    "bamboo-shoot",
+    "shiitake-mushroom",
+    "scallion",
+    "ginger",
+    "chicken-stock",
+    "white-pepper",
+    "salt",
+    "msg",
+    "cornstarch-slurry"
+  ],
+  "translations": {
+    "cn": {
+      "title": "龙腾盛世麒麟鱼",
+      "ingredients": [
+        { "name": "桂鱼" },
+        { "name": "火腿" },
+        { "name": "笋片" },
+        { "name": "香菇" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "鸡汤" },
+        { "name": "胡椒粉" },
+        { "name": "盐" },
+        { "name": "味精" },
+        { "name": "水淀粉" }
+      ],
+      "steps": [
+        "桂鱼处理：先切掉背鳍上有毒的尖刺，再去头去尾、片下两片鱼肉，把中间的大骨取出。",
+        "刮净鱼肉表面的黑膜和脏东西，可去除大部分腥味。",
+        "葱姜切碎，加水攥出葱姜水；把两片鱼和鱼头鱼尾放入葱姜水中腌两分钟去腥。",
+        "辅料切片：笋切两毫米厚片，干香菇切片，火腿切片。",
+        "鱼肉打花刀（约每片五刀），在刀口中依次夹入火腿、笋片、香菇，摆成麒麟鳞片状。",
+        "盘底垫鱼头鱼尾，铺上两片姜和葱，倒入一点鸡汤，撒胡椒粉。",
+        "上锅大火蒸约五分钟（视鱼大小），蒸到鱼眼凸出即熟，出锅。",
+        "把蒸鱼盘里的汤汁倒入锅中烧开，加盐、味精调味，用水淀粉勾成米汤芡。",
+        "拣去鱼身上的葱姜，把芡汁浇在鱼上，点缀红绿即可。"
+      ],
+      "notes": [
+        "桂鱼背鳍尖刺有毒，处理时务必从下方切掉，小心扎手。",
+        "火腿、鸡汤、笋、香菇是经典的提鲜组合，鲜味会随蒸汽渗入鱼肉。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Qilin Steamed Mandarin Fish",
+      "ingredients": [
+        { "name": "Mandarin fish" },
+        { "name": "Chinese ham" },
+        { "name": "Bamboo shoot slices" },
+        { "name": "Shiitake mushroom" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Chicken stock" },
+        { "name": "White pepper" },
+        { "name": "Salt" },
+        { "name": "MSG" },
+        { "name": "Cornstarch slurry" }
+      ],
+      "steps": [
+        "Prep the mandarin fish: first cut off the poisonous spines on the dorsal fin, then remove the head and tail, fillet off the two sides, and take out the central bone.",
+        "Scrape the black membrane and impurities from the surface of the fillets to remove most of the fishy smell.",
+        "Mince scallion and ginger, add water and squeeze out a scallion-ginger water; soak the two fillets, head, and tail in it for two minutes to de-odorize.",
+        "Slice the garnishes: cut bamboo shoots into 2 mm slices, slice the soaked dried shiitake, and slice the ham.",
+        "Score the fillets (about five cuts each) and tuck ham, bamboo, and shiitake into the slits, arranging them like overlapping qilin scales.",
+        "Lay the head and tail on the plate, top with two slices of ginger and scallion, pour in a little chicken stock, and sprinkle with white pepper.",
+        "Steam over high heat for about five minutes (depending on size), until the fish's eyes bulge out, then remove.",
+        "Pour the steaming juices into a wok and bring to a boil, season with salt and MSG, and thicken into a light rice-soup glaze with cornstarch slurry.",
+        "Remove the scallion and ginger from the fish, pour the glaze over it, and garnish with red and green."
+      ],
+      "notes": [
+        "The dorsal-fin spines of mandarin fish are venomous; always cut them off from below and handle with care.",
+        "Ham, chicken stock, bamboo, and shiitake are a classic flavor-boosting combination whose umami steams into the fish.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poisson Mandarin Vapeur Qilin",
+      "ingredients": [
+        { "name": "Poisson mandarin" },
+        { "name": "Jambon chinois" },
+        { "name": "Tranches de pousse de bambou" },
+        { "name": "Champignon shiitake" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Bouillon de poulet" },
+        { "name": "Poivre blanc" },
+        { "name": "Sel" },
+        { "name": "Glutamate" },
+        { "name": "Liaison à la fécule" }
+      ],
+      "steps": [
+        "Préparer le poisson mandarin : couper d'abord les épines venimeuses de la nageoire dorsale, puis retirer la tête et la queue, lever les deux filets et ôter l'arête centrale.",
+        "Gratter la membrane noire et les impuretés à la surface des filets pour éliminer l'essentiel de l'odeur de poisson.",
+        "Hacher ciboule et gingembre, ajouter de l'eau et presser pour obtenir une eau de ciboule-gingembre ; y faire mariner les deux filets, la tête et la queue deux minutes pour désodoriser.",
+        "Émincer les garnitures : couper le bambou en tranches de 2 mm, émincer les shiitakes réhydratés et trancher le jambon.",
+        "Inciser les filets (environ cinq entailles chacun) et glisser jambon, bambou et shiitake dans les fentes, en les disposant comme des écailles de qilin superposées.",
+        "Poser la tête et la queue sur le plat, garnir de deux tranches de gingembre et de ciboule, verser un peu de bouillon de poulet et saupoudrer de poivre blanc.",
+        "Cuire à la vapeur à feu vif environ cinq minutes (selon la taille), jusqu'à ce que les yeux du poisson ressortent, puis retirer.",
+        "Verser le jus de cuisson dans un wok et porter à ébullition, assaisonner de sel et de glutamate, puis lier en un glaçage léger à la fécule.",
+        "Retirer la ciboule et le gingembre du poisson, napper du glaçage et décorer de rouge et de vert."
+      ],
+      "notes": [
+        "Les épines dorsales du poisson mandarin sont venimeuses ; toujours les couper par en dessous et manipuler avec précaution.",
+        "Jambon, bouillon de poulet, bambou et shiitake forment une combinaison classique dont l'umami imprègne le poisson à la vapeur.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

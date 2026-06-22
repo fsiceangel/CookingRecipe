@@ -1,0 +1,130 @@
+{
+  "id": "pan-fried-pork-elbow",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=kHzz4N840_I",
+  "ingredientKeys": [
+    "pork-elbow",
+    "scallion",
+    "ginger",
+    "star-anise",
+    "cinnamon-bark",
+    "cooking-wine",
+    "light-soy-sauce",
+    "dark-soy-sauce",
+    "salt",
+    "egg",
+    "cornstarch",
+    "oil",
+    "sichuan-peppercorn",
+    "sesame-seeds"
+  ],
+  "translations": {
+    "cn": {
+      "title": "锅烧肘子",
+      "ingredients": [
+        { "name": "肘子" },
+        { "name": "葱" },
+        { "name": "姜" },
+        { "name": "大料（八角）" },
+        { "name": "桂皮" },
+        { "name": "料酒" },
+        { "name": "酱油" },
+        { "name": "老抽" },
+        { "name": "盐" },
+        { "name": "鸡蛋" },
+        { "name": "淀粉" },
+        { "name": "油" },
+        { "name": "花椒面" },
+        { "name": "芝麻" }
+      ],
+      "steps": [
+        "解冻好的肘子沿骨头拉开改刀，把肉翻开使厚度均匀，厚肉处再划两刀（成花状），便于成熟入味。",
+        "肘子加料酒焯一下水，撇去浮沫（新鲜肘子可省略此步）。",
+        "锅中多放点油，下葱姜、香料（大料、桂皮）大火煸香，加酱油炒香。",
+        "把炒香的料和肘子一起倒入高压锅，颜色浅就加点老抽，再加一勺料酒和盐。",
+        "盖盖上汽压约三十五分钟，关火，把骨头捡出。",
+        "把肘子按平、切一下，加入鸡蛋、淀粉抓成鸡蛋淀粉糊，再抓入一些油（加油后糊更听话）。",
+        "盘子里抹一层糊，铺上炖熟的肘子，撒花椒面和葱花（糊里没放盐，花椒面里加点盐即可），盖上剩下的糊，表面撒一层芝麻。",
+        "起锅烧油至六成热，开大火，把肘子下锅高温迅速定型；因肘子是热的，糊炸熟即可。",
+        "炸到金黄酥脆捞出，改刀修边，配花椒盐卷着吃。"
+      ],
+      "notes": [
+        "鸡蛋淀粉糊里抓点油，炸出来格外酥脆。",
+        "糊里不放盐，把盐加进花椒面调成花椒盐，蘸食增香。"
+      ]
+    },
+    "en": {
+      "title": "Pan-Fried Pork Elbow (Guo-shao Zhouzi)",
+      "ingredients": [
+        { "name": "Pork elbow" },
+        { "name": "Scallion" },
+        { "name": "Ginger" },
+        { "name": "Star anise" },
+        { "name": "Cinnamon bark" },
+        { "name": "Cooking wine" },
+        { "name": "Soy sauce" },
+        { "name": "Dark soy sauce" },
+        { "name": "Salt" },
+        { "name": "Egg" },
+        { "name": "Cornstarch" },
+        { "name": "Oil" },
+        { "name": "Ground Sichuan peppercorn" },
+        { "name": "Sesame seeds" }
+      ],
+      "steps": [
+        "Thaw the pork elbow, cut along the bone and open the meat out so it's an even thickness; score the thicker parts so it cooks through and absorbs flavor.",
+        "Blanch the elbow with a splash of cooking wine and skim off the scum (you can skip this with a fresh elbow).",
+        "Add a generous amount of oil to the wok, fry scallion, ginger and spices (star anise, cinnamon) over high heat until fragrant, then add soy sauce.",
+        "Tip the fried aromatics and the elbow into a pressure cooker; if the color is pale add some dark soy, then add a spoon of cooking wine and salt.",
+        "Cover and pressure-cook about 35 minutes once it comes up to pressure, turn off, and pick out the bone.",
+        "Press the elbow flat, slice it, then mix with egg and cornstarch into an egg-starch batter, working in a little oil (oil makes the batter behave).",
+        "Spread a layer of batter on a plate, lay on the cooked elbow, dust with ground Sichuan peppercorn and chopped scallion (no salt in the batter — salt the peppercorn instead), cover with the rest of the batter and sprinkle sesame seeds on top.",
+        "Heat oil to about 60%, turn the heat high, and fry the elbow so it sets quickly at high temperature; since the meat is already hot, you just need the batter cooked.",
+        "Fry until golden and crisp, lift out, trim the edges, and eat rolled up with Sichuan pepper-salt."
+      ],
+      "notes": [
+        "Work a little oil into the egg-starch batter so it fries up especially crisp.",
+        "Leave salt out of the batter and instead mix it into the ground Sichuan peppercorn to make a fragrant pepper-salt dip.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Jarret de Porc Frit (Guo-shao Zhouzi)",
+      "ingredients": [
+        { "name": "Jarret de porc" },
+        { "name": "Ciboule" },
+        { "name": "Gingembre" },
+        { "name": "Anis étoilé" },
+        { "name": "Écorce de cannelle" },
+        { "name": "Vin de cuisine" },
+        { "name": "Sauce soja" },
+        { "name": "Sauce soja foncée" },
+        { "name": "Sel" },
+        { "name": "Oeuf" },
+        { "name": "Fécule de maïs" },
+        { "name": "Huile" },
+        { "name": "Poivre du Sichuan moulu" },
+        { "name": "Graines de sésame" }
+      ],
+      "steps": [
+        "Décongelez le jarret, coupez le long de l'os et ouvrez la viande pour une épaisseur régulière ; incisez les parties épaisses pour qu'il cuise et s'imprègne.",
+        "Blanchissez le jarret avec un trait de vin de cuisine et écumez (étape facultative avec un jarret frais).",
+        "Mettez une bonne quantité d'huile dans le wok, faites revenir à feu vif ciboule, gingembre et épices (anis étoilé, cannelle), puis ajoutez la sauce soja.",
+        "Versez les aromates frits et le jarret dans un autocuiseur ; si la couleur est pâle, ajoutez de la sauce soja foncée, puis une cuillère de vin de cuisine et du sel.",
+        "Couvrez et cuisez sous pression environ 35 minutes, éteignez et retirez l'os.",
+        "Aplatissez le jarret, tranchez-le, puis mélangez avec l'œuf et la fécule en une pâte œuf-fécule en y incorporant un peu d'huile (l'huile assouplit la pâte).",
+        "Étalez une couche de pâte sur une assiette, déposez le jarret cuit, saupoudrez de poivre du Sichuan moulu et de ciboule (pas de sel dans la pâte — salez le poivre), couvrez du reste de pâte et parsemez de graines de sésame.",
+        "Chauffez l'huile à environ 60 %, montez le feu et faites frire le jarret pour qu'il se fige vite à haute température ; la viande étant déjà chaude, il suffit que la pâte cuise.",
+        "Faites frire jusqu'à doré et croustillant, retirez, parez les bords et dégustez roulé avec le sel au poivre du Sichuan."
+      ],
+      "notes": [
+        "Incorporez un peu d'huile à la pâte œuf-fécule pour une friture particulièrement croustillante.",
+        "Ne salez pas la pâte ; mettez plutôt le sel dans le poivre du Sichuan moulu pour un sel parfumé à tremper.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

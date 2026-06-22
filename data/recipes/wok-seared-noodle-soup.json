@@ -1,0 +1,145 @@
+{
+  "id": "wok-seared-noodle-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=FIIU31RSp9Y",
+  "ingredientKeys": [
+    "tomato",
+    "egg",
+    "scallion",
+    "noodles",
+    "oil",
+    "light-soy-sauce",
+    "salt"
+  ],
+  "translations": {
+    "cn": {
+      "title": "炝锅面",
+      "ingredients": [
+        {
+          "name": "西红柿"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "大葱"
+        },
+        {
+          "name": "面条"
+        },
+        {
+          "name": "油"
+        },
+        {
+          "name": "酱油"
+        },
+        {
+          "name": "盐"
+        }
+      ],
+      "steps": [
+        "西红柿切丁。",
+        "打三个鸡蛋打散。",
+        "大葱斜刀切成稍粗的“眉毛葱”，煸时更出香味。",
+        "开火放油，油稍多，油温高一些下蛋液，起泡后用勺扒散，炒得稍老一点更出香味，盛出。",
+        "再加干净油，温油下大葱，要放大量葱，煸到发黄出浓郁的炝锅香味。",
+        "倒入西红柿，再倒入酱油烹一下。",
+        "加水，把炒好的鸡蛋倒进去，大火滚开，让蛋香和葱香融进汤里。",
+        "加盐调味，下面条，大火煮到面条熟即可出锅。"
+      ],
+      "notes": [
+        "葱一定要放足量并煸到发黄，才能出浓郁的炝锅香味。",
+        "全靠葱、蛋、西红柿的本味，不放味精、鸡精、胡椒粉。",
+        "喜欢喝汤汤面比例约3:1，喜欢干一点约2:1。",
+        "具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Wok-Seared Noodle Soup",
+      "ingredients": [
+        {
+          "name": "Tomato"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "Noodles"
+        },
+        {
+          "name": "Oil"
+        },
+        {
+          "name": "Soy sauce"
+        },
+        {
+          "name": "Salt"
+        }
+      ],
+      "steps": [
+        "Dice the tomato.",
+        "Beat three eggs.",
+        "Cut the scallion on a slant into slightly thick \"eyebrow\" pieces, which release more aroma when fried.",
+        "Heat a fairly generous amount of oil; add the eggs while the oil is hot so they puff up, break them apart with the ladle, fry slightly well-done for more aroma, then remove.",
+        "Add fresh oil and add a large amount of scallion to warm oil; fry until golden to release the deep wok-seared aroma.",
+        "Add the tomato, then add soy sauce and let it sizzle.",
+        "Add water, return the fried egg, and bring to a hard boil over high heat so the egg and scallion aromas blend into the broth.",
+        "Season with salt, add the noodles, and boil over high heat just until the noodles are cooked, then serve."
+      ],
+      "notes": [
+        "Use plenty of scallion and fry it until golden to get the deep wok-seared aroma.",
+        "It relies entirely on the natural flavor of scallion, egg, and tomato; no MSG, chicken bouillon, or pepper.",
+        "For a soupier bowl use about 3:1 broth to noodles; for drier, about 2:1.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Nouilles Saisie au Wok",
+      "ingredients": [
+        {
+          "name": "Tomate"
+        },
+        {
+          "name": "Œuf"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Nouilles"
+        },
+        {
+          "name": "Huile"
+        },
+        {
+          "name": "Sauce soja"
+        },
+        {
+          "name": "Sel"
+        }
+      ],
+      "steps": [
+        "Couper la tomate en dés.",
+        "Battre trois œufs.",
+        "Couper la ciboule en biais en morceaux un peu épais (« sourcils »), qui libèrent plus d'arôme à la friture.",
+        "Chauffer une bonne quantité d'huile ; verser les œufs dans l'huile chaude pour qu'ils gonflent, les défaire à la louche, les frire un peu fermes pour plus d'arôme, puis réserver.",
+        "Ajouter de l'huile fraîche et beaucoup de ciboule dans l'huile tiède ; faire revenir jusqu'à coloration dorée pour libérer l'arôme profond du saisi au wok.",
+        "Ajouter la tomate, puis la sauce soja et la laisser grésiller.",
+        "Ajouter de l'eau, remettre les œufs frits et porter à forte ébullition à feu vif pour que les arômes d'œuf et de ciboule se fondent dans le bouillon.",
+        "Saler, ajouter les nouilles et cuire à feu vif juste jusqu'à ce qu'elles soient cuites, puis servir."
+      ],
+      "notes": [
+        "Utiliser beaucoup de ciboule et la faire revenir jusqu'à doré pour obtenir l'arôme profond du saisi au wok.",
+        "Le plat repose entièrement sur le goût naturel de la ciboule, de l'œuf et de la tomate ; ni glutamate, ni bouillon, ni poivre.",
+        "Pour un bol plus liquide, environ 3:1 de bouillon pour nouilles ; pour plus sec, environ 2:1.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

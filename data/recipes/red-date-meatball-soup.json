@@ -1,0 +1,176 @@
+{
+  "id": "red-date-meatball-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=D7kHwLYeNDs",
+  "ingredientKeys": [
+    "minced-meat",
+    "red-dates",
+    "egg",
+    "ginger",
+    "scallion",
+    "white-pepper",
+    "salt",
+    "msg",
+    "sesame-oil",
+    "cornstarch",
+    "water"
+  ],
+  "translations": {
+    "cn": {
+      "title": "红枣肉丸汤",
+      "ingredients": [
+        {
+          "name": "猪肉馅"
+        },
+        {
+          "name": "红枣"
+        },
+        {
+          "name": "鸡蛋"
+        },
+        {
+          "name": "姜"
+        },
+        {
+          "name": "葱"
+        },
+        {
+          "name": "胡椒粉"
+        },
+        {
+          "name": "盐"
+        },
+        {
+          "name": "味精"
+        },
+        {
+          "name": "香油"
+        },
+        {
+          "name": "淀粉"
+        },
+        {
+          "name": "水"
+        }
+      ],
+      "steps": [
+        "选新鲜猪肉馅，加入姜末、葱末、胡椒粉、盐、味精、香油调味。",
+        "半斤肉馅加半个鸡蛋（一斤肉馅加一个鸡蛋），加鸡蛋能让丸子煮后更松软。",
+        "把肉馅摔打上劲，再放入少量淀粉拌匀（淀粉要少）。",
+        "锅中烧水，用手或勺子把肉馅搓成丸子下入锅中。",
+        "煮的过程中出现的浮沫用勺撇掉，加盐、味精、胡椒粉调味（胡椒粉用带眼的瓶轻抖，别一下放太多）。",
+        "煮一会儿后放入红枣，继续煮到丸子松软、枣和肉汤的味道融合。",
+        "尝一个丸子确认熟透，撒上葱花点缀即可上桌。"
+      ],
+      "notes": [
+        "关键是选好新鲜肉馅和红枣，丸子煮到松软、汤里有枣味和肉味即可，做法很简单。",
+        "适合冬天，暖身又滋补；喜欢吃辣的可加点辣。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Red Date Meatball Soup",
+      "ingredients": [
+        {
+          "name": "Minced pork"
+        },
+        {
+          "name": "Red dates"
+        },
+        {
+          "name": "Egg"
+        },
+        {
+          "name": "Ginger"
+        },
+        {
+          "name": "Scallion"
+        },
+        {
+          "name": "White pepper"
+        },
+        {
+          "name": "Salt"
+        },
+        {
+          "name": "MSG"
+        },
+        {
+          "name": "Sesame oil"
+        },
+        {
+          "name": "Cornstarch"
+        },
+        {
+          "name": "Water"
+        }
+      ],
+      "steps": [
+        "Use fresh minced pork and season with minced ginger, minced scallion, white pepper, salt, MSG, and sesame oil.",
+        "Add half an egg per 250 g of meat (one egg per 500 g); the egg makes the meatballs softer after cooking.",
+        "Throw and beat the meat against the bowl until springy, then mix in a small amount of cornstarch (use only a little).",
+        "Bring water to a boil and form the meat into balls by hand or with a spoon, dropping them into the pot.",
+        "Skim off any foam that rises while cooking, then season with salt, MSG, and white pepper (shake the white pepper from a shaker so you don't add too much at once).",
+        "After simmering a while, add the red dates and continue cooking until the meatballs are tender and the date and pork flavors meld.",
+        "Taste a meatball to confirm it's cooked through, garnish with chopped scallion, and serve."
+      ],
+      "notes": [
+        "The key is good fresh meat and dates; just cook the meatballs until soft and the broth carries both date and meat flavor. It's very simple.",
+        "Great for winter, warming and nourishing; add chili if you like heat. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Boulettes aux Jujubes",
+      "ingredients": [
+        {
+          "name": "Porc haché"
+        },
+        {
+          "name": "Jujubes"
+        },
+        {
+          "name": "Oeuf"
+        },
+        {
+          "name": "Gingembre"
+        },
+        {
+          "name": "Ciboule"
+        },
+        {
+          "name": "Poivre blanc"
+        },
+        {
+          "name": "Sel"
+        },
+        {
+          "name": "Glutamate"
+        },
+        {
+          "name": "Huile de sésame"
+        },
+        {
+          "name": "Fécule de maïs"
+        },
+        {
+          "name": "Eau"
+        }
+      ],
+      "steps": [
+        "Utiliser du porc haché frais et assaisonner de gingembre haché, ciboule hachée, poivre blanc, sel, glutamate et huile de sésame.",
+        "Ajouter un demi-oeuf pour 250 g de viande (un oeuf pour 500 g) ; l'oeuf rend les boulettes plus moelleuses après cuisson.",
+        "Battre la viande contre le bol jusqu'à ce qu'elle soit élastique, puis incorporer un peu de fécule (en petite quantité).",
+        "Porter l'eau à ébullition et former les boulettes à la main ou à la cuillère, en les laissant tomber dans la casserole.",
+        "Écumer la mousse qui remonte pendant la cuisson, puis assaisonner de sel, glutamate et poivre blanc (secouer le poivre depuis un flacon pour ne pas trop en mettre d'un coup).",
+        "Après quelques minutes de mijotage, ajouter les jujubes et poursuivre la cuisson jusqu'à ce que les boulettes soient tendres et que les saveurs de jujube et de porc se marient.",
+        "Goûter une boulette pour vérifier la cuisson, garnir de ciboule ciselée et servir."
+      ],
+      "notes": [
+        "L'essentiel est une bonne viande fraîche et de bons jujubes ; cuire simplement les boulettes jusqu'à ce qu'elles soient moelleuses et que le bouillon porte les deux saveurs. C'est très simple.",
+        "Parfait pour l'hiver, réconfortant et nourrissant ; ajouter du piment si on aime le piquant. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}
