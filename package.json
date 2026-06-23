@@ -12,7 +12,7 @@
     "postbuild": "node scripts/strip-private.mjs",
     "lint": "echo 'Linting not set up yet'",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build -- --base=/CookingRecipe/",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {

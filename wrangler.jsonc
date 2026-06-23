@@ -1,0 +1,11 @@
+{
+  // Static-assets Worker for the recipe site. Providing this explicit config
+  // makes `wrangler deploy` upload the built dist/ folder directly, instead of
+  // trying to auto-configure the Vite framework (which would require Vite >= 6).
+  "name": "recipe",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
