@@ -8,7 +8,7 @@ export function useCatalog() {
   useEffect(() => {
     const controller = new AbortController();
     setState({ status: 'loading' });
-    void fetch(`${import.meta.env.BASE_URL}data/catalog.json`, { signal: controller.signal })
+    void fetch(`${import.meta.env.BASE_URL}data/catalog.json?v=${import.meta.env.VITE_CATALOG_VERSION}`, { signal: controller.signal, cache: 'no-cache' })
       .then(async response => {
         if (!response.ok) throw new Error(`Catalog HTTP ${response.status}`);
         const catalog = await response.json() as Catalog;

@@ -1,6 +1,7 @@
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
 import { resolve, sep } from 'node:path';
+import { createHash } from 'node:crypto';
 import { generateCatalog, readCatalog, projectRoot } from './scripts/content';
 
 function recipeContent(includePrivate: boolean): Plugin {
@@ -42,18 +43,22 @@ function recipeContent(includePrivate: boolean): Plugin {
   };
 }
 
-export default defineConfig(({ command, mode }) => ({
+export default defineConfig(async ({ command, mode }) => {
+  const catalogVersion = createHash('sha256').update(JSON.stringify(await readCatalog())).digest('hex').slice(0, 16);
+  return {
+  define: { 'import.meta.env.VITE_CATALOG_VERSION': JSON.stringify(catalogVersion) },
   base: '/',
   plugins: [recipeContent(command === 'serve' && mode === 'private'), react()],
   server: { host: '127.0.0.1', fs: { deny: ['.env', '.env.*', '*.{crt,pem}', '**/.git/**', '**/content/private/**'] } },
   build: {
     rollupOptions: {
       output: {
-        manualChunks(id) {
+        manualChunks(id: string) {
           if (/node_modules[/\\](react|react-dom|scheduler)[/\\]/.test(id)) return 'react';
           if (id.includes('/@mui/') || id.includes('/@emotion/')) return 'material';
         },
       },
     },
   },
-}));
+  };
+});
