@@ -1,0 +1,48 @@
+{
+  "$ref": "#/definitions/ingredients",
+  "definitions": {
+    "ingredients": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string",
+            "enum": [
+              "meat",
+              "veggie",
+              "dairy",
+              "pantry",
+              "seasoning"
+            ]
+          },
+          "names": {
+            "type": "object",
+            "properties": {
+              "cn": {
+                "type": "string",
+                "minLength": 1
+              },
+              "en": {
+                "$ref": "#/definitions/ingredients/additionalProperties/properties/names/properties/cn"
+              },
+              "fr": {
+                "$ref": "#/definitions/ingredients/additionalProperties/properties/names/properties/cn"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "category",
+          "names"
+        ],
+        "additionalProperties": false
+      },
+      "propertyNames": {
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      }
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

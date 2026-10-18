@@ -1,0 +1,236 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "kung-pao-chicken-chefsui",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=KFZX7VRN_oY",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "chicken-drumstick-1",
+      "ingredient": "chicken-drumstick",
+      "name": {
+        "cn": "鸡腿肉",
+        "en": "Chicken leg meat",
+        "fr": "Chair de cuisse de poulet"
+      }
+    },
+    {
+      "id": "peanuts-2",
+      "ingredient": "peanuts",
+      "name": {
+        "cn": "花生米",
+        "en": "Peanuts",
+        "fr": "Cacahuètes"
+      }
+    },
+    {
+      "id": "chili-pepper-3",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "干辣椒",
+        "en": "Dried chili peppers",
+        "fr": "Piments séchés"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-4",
+      "ingredient": "sichuan-peppercorn",
+      "name": {
+        "cn": "花椒",
+        "en": "Sichuan peppercorns",
+        "fr": "Poivre du Sichuan"
+      }
+    },
+    {
+      "id": "scallion-5",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱",
+        "en": "Scallion",
+        "fr": "Ciboule"
+      }
+    },
+    {
+      "id": "ginger-6",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "garlic-7",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "salt-8",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "white-pepper-9",
+      "ingredient": "white-pepper",
+      "name": {
+        "cn": "胡椒粉",
+        "en": "White pepper",
+        "fr": "Poivre blanc"
+      }
+    },
+    {
+      "id": "scallion-ginger-water-10",
+      "ingredient": "scallion-ginger-water",
+      "name": {
+        "cn": "葱姜水",
+        "en": "Scallion ginger water",
+        "fr": "Eau de ciboule et gingembre"
+      }
+    },
+    {
+      "id": "cornstarch-11",
+      "ingredient": "cornstarch",
+      "name": {
+        "cn": "淀粉",
+        "en": "Cornstarch",
+        "fr": "Fécule de maïs"
+      }
+    },
+    {
+      "id": "sugar-12",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "vinegar-13",
+      "ingredient": "vinegar",
+      "name": {
+        "cn": "醋",
+        "en": "Vinegar",
+        "fr": "Vinaigre"
+      }
+    },
+    {
+      "id": "cooking-wine-14",
+      "ingredient": "cooking-wine",
+      "name": {
+        "cn": "料酒",
+        "en": "Cooking wine",
+        "fr": "Vin de cuisine"
+      }
+    },
+    {
+      "id": "light-soy-sauce-15",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "酱油",
+        "en": "Soy sauce",
+        "fr": "Sauce soja"
+      }
+    },
+    {
+      "id": "dark-soy-sauce-16",
+      "ingredient": "dark-soy-sauce",
+      "name": {
+        "cn": "老抽",
+        "en": "Dark soy sauce",
+        "fr": "Sauce soja foncée"
+      }
+    },
+    {
+      "id": "chili-powder-17",
+      "ingredient": "chili-powder",
+      "name": {
+        "cn": "辣椒面",
+        "en": "Chili powder",
+        "fr": "Poudre de piment"
+      }
+    },
+    {
+      "id": "oil-18",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "宫保鸡丁（峨眉酒家版）",
+      "steps": [
+        "整鸡取两个鸡腿，去骨，剞十字花刀后切成约2.5到3厘米的丁。",
+        "鸡丁先加盐和胡椒粉，再分次打入葱姜水（约一斤肉二两水），抓到发粘。",
+        "加少量淀粉抓匀，表面挂一层薄薄的浆，再封一点油。",
+        "调碗芡：白糖、醋、料酒、酱油、老抽、水淀粉调匀备用。",
+        "花生米用热水烫后去皮，凉油下锅炸至微黄，捞到吸油纸上控油。",
+        "锅留底油，下花椒小火炸到将糊时捞出，再下干辣椒炸成棕红色捞出。",
+        "下上浆的鸡丁滑炒，使花椒、辣椒的味道煸进鸡肉里。",
+        "鸡肉变色后放入姜蒜炒香，倒入辣椒面上色。",
+        "下葱段，倒入碗芡，开大火快速翻炒，不能久炒以免醋味挥发。",
+        "倒入花生米炒到粘稠，最后下回炸好的干辣椒，翻匀出锅。"
+      ],
+      "notes": [
+        "腌肉一定要先加盐再加葱姜水，盐能帮助肉吸住水分。",
+        "干辣椒最后放，吃起来才脆；碗芡入锅后要大火快炒锁住醋香。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Kung Pao Chicken (Emei Restaurant Style)",
+      "steps": [
+        "Bone two chicken legs, score them in a crosshatch, then cut into roughly 2.5-3 cm dice.",
+        "Season the chicken with salt and white pepper first, then beat in scallion-ginger water in batches (about 100g water per 500g meat) until sticky.",
+        "Mix in a little cornstarch to coat with a thin layer of slurry, then seal with a little oil.",
+        "Prepare the sauce: combine sugar, vinegar, cooking wine, soy sauce, dark soy sauce, and cornstarch slurry; set aside.",
+        "Blanch peanuts in hot water and peel, then fry from cold oil until lightly golden; drain on paper.",
+        "Leaving base oil in the wok, fry Sichuan peppercorns over low heat until nearly scorched and remove, then fry dried chilies to a brown-red and remove.",
+        "Add the coated chicken and stir-fry so the peppercorn and chili flavors are absorbed into the meat.",
+        "Once the chicken changes color, add ginger and garlic and stir-fry, then add chili powder for color.",
+        "Add the scallion pieces, pour in the sauce, and stir-fry quickly over high heat - do not cook long or the vinegar aroma will evaporate.",
+        "Add the peanuts and toss until thickened, finally return the fried dried chilies, mix well, and serve."
+      ],
+      "notes": [
+        "Always salt the meat before adding scallion-ginger water - salt helps the meat hold the water.",
+        "Add dried chilies at the very end so they stay crisp; once the sauce hits the wok, stir-fry fast over high heat to lock in the vinegar aroma.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Poulet Kung Pao (Style Restaurant Emei)",
+      "steps": [
+        "Désossez deux cuisses de poulet, incisez-les en croisillons, puis coupez en dés d'environ 2,5 à 3 cm.",
+        "Assaisonnez d'abord le poulet de sel et de poivre blanc, puis incorporez l'eau de ciboule-gingembre en plusieurs fois (environ 100 g d'eau pour 500 g de viande) jusqu'à ce que ce soit collant.",
+        "Mélangez un peu de fécule pour enrober d'une fine couche, puis scellez avec un peu d'huile.",
+        "Préparez la sauce : mélangez sucre, vinaigre, vin de cuisine, sauce soja, sauce soja foncée et liaison à la fécule ; réservez.",
+        "Blanchissez les cacahuètes à l'eau chaude et pelez-les, puis faites-les frire à partir d'huile froide jusqu'à légèrement dorées ; égouttez sur papier.",
+        "En laissant un fond d'huile dans le wok, faites frire le poivre du Sichuan à feu doux jusqu'à presque brûlé et retirez, puis faites frire les piments séchés jusqu'à brun-rouge et retirez.",
+        "Ajoutez le poulet enrobé et faites sauter pour que les saveurs du poivre et du piment imprègnent la viande.",
+        "Quand le poulet a changé de couleur, ajoutez gingembre et ail et faites sauter, puis ajoutez la poudre de piment pour la couleur.",
+        "Ajoutez les morceaux de ciboule, versez la sauce et faites sauter rapidement à feu vif - ne cuisez pas longtemps sinon l'arôme du vinaigre s'évapore.",
+        "Ajoutez les cacahuètes et remuez jusqu'à épaississement, remettez enfin les piments séchés frits, mélangez bien et servez."
+      ],
+      "notes": [
+        "Salez toujours la viande avant d'ajouter l'eau de ciboule-gingembre - le sel aide la viande à retenir l'eau.",
+        "Ajoutez les piments séchés à la toute fin pour qu'ils restent croustillants ; dès que la sauce entre dans le wok, faites sauter vite à feu vif pour fixer l'arôme du vinaigre.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

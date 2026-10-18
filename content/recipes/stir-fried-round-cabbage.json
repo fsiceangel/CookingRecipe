@@ -1,0 +1,143 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "stir-fried-round-cabbage",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=ST51DbNAV1I",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "round-cabbage-1",
+      "ingredient": "round-cabbage",
+      "name": {
+        "cn": "莲花白（圆白菜）",
+        "en": "Round cabbage",
+        "fr": "Chou rond"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-2",
+      "ingredient": "sichuan-peppercorn",
+      "name": {
+        "cn": "花椒",
+        "en": "Sichuan peppercorns",
+        "fr": "Poivre du Sichuan"
+      }
+    },
+    {
+      "id": "chili-pepper-3",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "干辣椒",
+        "en": "Dried chili peppers",
+        "fr": "Piments séchés"
+      }
+    },
+    {
+      "id": "light-soy-sauce-4",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "生抽",
+        "en": "Light soy sauce",
+        "fr": "Sauce soja claire"
+      }
+    },
+    {
+      "id": "vinegar-5",
+      "ingredient": "vinegar",
+      "name": {
+        "cn": "米醋",
+        "en": "Rice vinegar",
+        "fr": "Vinaigre de riz"
+      }
+    },
+    {
+      "id": "sugar-6",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "msg-7",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "salt-8",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "oil-9",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "炝炒莲花白",
+      "steps": [
+        "选用松弛的圆白菜，掰开叶片，去掉硬梗只留叶片部分，撕成大片。",
+        "提前对好碗汁：生抽、米醋、白糖、味精、盐混合均匀。",
+        "锅里放少量油润锅，再加一勺油，下花椒小火炸香。",
+        "加一点凉油降温，下干辣椒小火炒出红色香味。",
+        "转最大火，倒入圆白菜快速翻炒。",
+        "看到菜叶微微变软，沿锅边淋入碗汁，大火快速翻匀即可出锅。"
+      ],
+      "notes": [
+        "火候是关键：圆白菜的量绝对不能超过锅，否则降温太快、口感变差。",
+        "成菜应是似脆非脆、似软非软的临界口感，需要多练习。",
+        "精确的碗汁配比见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Stir-Fried Round Cabbage",
+      "steps": [
+        "Choose a loose-leaf round cabbage, separate the leaves, discard the tough ribs, and tear the leaves into large pieces.",
+        "Mix the sauce in advance: light soy sauce, rice vinegar, sugar, MSG, and salt.",
+        "Add a little oil to season the wok, then add a spoon of oil and fry the Sichuan peppercorns over low heat until fragrant.",
+        "Add a splash of cool oil to lower the temperature, then add the dried chilies and fry over low heat until red and fragrant.",
+        "Turn the heat to maximum and add the cabbage, stir-frying quickly.",
+        "When the leaves just begin to wilt, pour the sauce in around the edge of the wok, toss quickly over high heat, and serve immediately."
+      ],
+      "notes": [
+        "Heat control is everything: never exceed the wok's capacity with cabbage, or the temperature drops too fast and the texture suffers.",
+        "The goal is a borderline texture, just barely crisp and just barely tender; it takes practice.",
+        "Exact sauce ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Chou Rond Sauté",
+      "steps": [
+        "Choisir un chou rond à feuilles lâches, détacher les feuilles, retirer les côtes dures et déchirer les feuilles en grands morceaux.",
+        "Préparer la sauce à l'avance : mélanger la sauce soja claire, le vinaigre de riz, le sucre, le glutamate et le sel.",
+        "Mettre un peu d'huile pour culotter le wok, ajouter une cuillère d'huile et faire revenir le poivre du Sichuan à feu doux jusqu'à ce qu'il embaume.",
+        "Ajouter un filet d'huile froide pour baisser la température, puis ajouter les piments séchés et les faire revenir à feu doux jusqu'à ce qu'ils rougissent et parfument.",
+        "Monter le feu au maximum et ajouter le chou, en le faisant sauter rapidement.",
+        "Dès que les feuilles commencent à flétrir, verser la sauce le long du bord du wok, mélanger vivement à feu vif et servir aussitôt."
+      ],
+      "notes": [
+        "La maîtrise du feu est essentielle : ne jamais dépasser la capacité du wok, sinon la température chute trop vite et la texture en pâtit.",
+        "Le but est une texture limite, à peine croquante et à peine tendre ; cela demande de la pratique.",
+        "Les proportions exactes de la sauce sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "hot-and-sour-egg-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=aJsA1ucwtYQ",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "egg-1",
+      "ingredient": "egg",
+      "name": {
+        "cn": "鸡蛋",
+        "en": "Egg",
+        "fr": "Œuf"
+      }
+    },
+    {
+      "id": "water-2",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      }
+    },
+    {
+      "id": "light-soy-sauce-3",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "酱油",
+        "en": "Soy sauce",
+        "fr": "Sauce soja"
+      }
+    },
+    {
+      "id": "vinegar-4",
+      "ingredient": "vinegar",
+      "name": {
+        "cn": "醋",
+        "en": "Vinegar",
+        "fr": "Vinaigre"
+      }
+    },
+    {
+      "id": "white-pepper-5",
+      "ingredient": "white-pepper",
+      "name": {
+        "cn": "胡椒粉",
+        "en": "White pepper",
+        "fr": "Poivre blanc"
+      }
+    },
+    {
+      "id": "salt-6",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "cornstarch-7",
+      "ingredient": "cornstarch",
+      "name": {
+        "cn": "淀粉",
+        "en": "Cornstarch",
+        "fr": "Fécule de maïs"
+      }
+    },
+    {
+      "id": "garlic-8",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "scallion-9",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱花",
+        "en": "Scallion",
+        "fr": "Ciboule"
+      }
+    },
+    {
+      "id": "cilantro-10",
+      "ingredient": "cilantro",
+      "name": {
+        "cn": "香菜",
+        "en": "Cilantro",
+        "fr": "Coriandre"
+      }
+    },
+    {
+      "id": "sesame-oil-11",
+      "ingredient": "sesame-oil",
+      "name": {
+        "cn": "香油",
+        "en": "Sesame oil",
+        "fr": "Huile de sésame"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸辣鸡蛋汤",
+      "steps": [
+        "把鸡蛋打散备用。",
+        "锅中加水，把调料（酱油、醋、胡椒粉、盐、淀粉、蒜末）不分先后全部倒进去，用筷子搅匀。",
+        "开火，边烧边搅动，防止淀粉成团。",
+        "烧开之后转小火，把蛋液均匀地撒进去。",
+        "撒完先别动，让鸡蛋定型，等蛋花一飘起来即可。",
+        "关火，撇去表面浮沫，撒上香菜和葱花，淋上香油即可。"
+      ],
+      "notes": [
+        "蛋液撒入后先静置定型，蛋花一飘起再搅动，蛋花更漂亮。",
+        "除了胡椒粉，加一点蒜和葱花会让酸辣口更有层次；喜欢辣可多放胡椒粉。",
+        "确切比例请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Hot and Sour Egg Soup",
+      "steps": [
+        "Beat the eggs and set aside.",
+        "Add water to a pot, then add all the seasonings (soy sauce, vinegar, white pepper, salt, cornstarch, minced garlic) in any order and stir evenly with chopsticks.",
+        "Turn on the heat and stir constantly while it heats to keep the cornstarch from clumping.",
+        "Once it boils, reduce to low heat and pour in the beaten egg in an even stream.",
+        "Do not stir right away; let the egg set, and wait until the egg ribbons float up.",
+        "Turn off the heat, skim off any foam on the surface, top with cilantro and scallion, and drizzle with sesame oil."
+      ],
+      "notes": [
+        "After adding the egg, let it set undisturbed and only stir once the ribbons float, for prettier egg flowers.",
+        "Beyond white pepper, a little garlic and scallion give the hot-and-sour flavor more depth; add more white pepper if you like it spicier.",
+        "Exact ratios are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe Aigre-Piquante aux Œufs",
+      "steps": [
+        "Battre les œufs et réserver.",
+        "Mettre de l'eau dans une casserole, puis ajouter tous les assaisonnements (sauce soja, vinaigre, poivre blanc, sel, fécule, ail haché) dans n'importe quel ordre et mélanger uniformément aux baguettes.",
+        "Allumer le feu et remuer sans cesse pendant la chauffe pour éviter que la fécule ne forme des grumeaux.",
+        "Une fois à ébullition, baisser à feu doux et verser les œufs battus en un filet régulier.",
+        "Ne pas remuer tout de suite ; laisser les œufs prendre et attendre que les rubans d'œuf remontent.",
+        "Éteindre le feu, écumer la mousse en surface, parsemer de coriandre et de ciboule, et arroser d'huile de sésame."
+      ],
+      "notes": [
+        "Après avoir ajouté l'œuf, le laisser prendre sans remuer et n'agiter qu'une fois les rubans remontés, pour de plus jolies fleurs d'œuf.",
+        "Au-delà du poivre blanc, un peu d'ail et de ciboule donnent plus de profondeur à la saveur aigre-piquante ; ajouter plus de poivre blanc si vous l'aimez plus relevée.",
+        "Les proportions exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

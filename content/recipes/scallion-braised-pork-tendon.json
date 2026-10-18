@@ -1,0 +1,200 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "scallion-braised-pork-tendon",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 4,
+  "videoLink": "https://www.youtube.com/watch?v=WWmCg4hCGZU",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "pork-tendon-1",
+      "ingredient": "pork-tendon",
+      "name": {
+        "cn": "猪蹄筋（干发或鲜）",
+        "en": "Pork tendon (rehydrated dried or fresh)",
+        "fr": "Tendons de porc (séchés réhydratés ou frais)"
+      }
+    },
+    {
+      "id": "pork-skin-2",
+      "ingredient": "pork-skin",
+      "name": {
+        "cn": "猪皮",
+        "en": "Pork skin",
+        "fr": "Couenne de porc"
+      }
+    },
+    {
+      "id": "scallion-3",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "大葱（葱白）",
+        "en": "Scallion (white part)",
+        "fr": "Ciboule (partie blanche)"
+      }
+    },
+    {
+      "id": "ginger-4",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "star-anise-5",
+      "ingredient": "star-anise",
+      "name": {
+        "cn": "大料（八角）",
+        "en": "Star anise",
+        "fr": "Anis étoilé"
+      }
+    },
+    {
+      "id": "light-soy-sauce-6",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "生抽",
+        "en": "Light soy sauce",
+        "fr": "Sauce soja claire"
+      }
+    },
+    {
+      "id": "dark-soy-sauce-7",
+      "ingredient": "dark-soy-sauce",
+      "name": {
+        "cn": "老抽",
+        "en": "Dark soy sauce",
+        "fr": "Sauce soja foncée"
+      }
+    },
+    {
+      "id": "oyster-sauce-8",
+      "ingredient": "oyster-sauce",
+      "name": {
+        "cn": "蚝油",
+        "en": "Oyster sauce",
+        "fr": "Sauce d'huître"
+      }
+    },
+    {
+      "id": "cooking-wine-9",
+      "ingredient": "cooking-wine",
+      "name": {
+        "cn": "料酒",
+        "en": "Cooking wine",
+        "fr": "Vin de cuisine"
+      }
+    },
+    {
+      "id": "msg-10",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "sugar-11",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "white-pepper-12",
+      "ingredient": "white-pepper",
+      "name": {
+        "cn": "胡椒粉",
+        "en": "White pepper",
+        "fr": "Poivre blanc"
+      }
+    },
+    {
+      "id": "oil-13",
+      "ingredient": "oil",
+      "name": {
+        "cn": "葱油",
+        "en": "Scallion oil",
+        "fr": "Huile de ciboule"
+      }
+    },
+    {
+      "id": "cornstarch-slurry-14",
+      "ingredient": "cornstarch-slurry",
+      "name": {
+        "cn": "水淀粉",
+        "en": "Cornstarch slurry",
+        "fr": "Liaison à la fécule"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "葱烧蹄筋",
+      "steps": [
+        "干蹄筋提前泡发好备用（鲜蹄筋亦可）；发好的蹄筋有弹性，口感与鲜的一致。",
+        "煮好的猪皮加一点汤，放入破壁机打碎成浓稠的胶质汁，用来快速增加汤的粘稠度。",
+        "起锅烧油，下葱段炸制，不停翻动让其受热均匀，炸到金黄后捞出；用热油的余温再浸炸一会儿。",
+        "锅留底油，放两瓣八角，下葱段，加一片姜，全程大火不停翻动让葱均匀变色（只用纯葱白，去掉带葱粘液发苦的葱芯）。",
+        "倒入生抽、蚝油，加入备好的高汤，调入味精、白糖、胡椒粉。",
+        "烧开后转中火熬一会儿，让葱香融入汤中，加老抽调色，再加入打碎的猪皮汁，汤立刻变粘稠。",
+        "汤汁挂勺成线即为浓度合适，调好味后过滤，只留葱烧汁；炸过的葱放回汁中浸泡入味。",
+        "另起一锅，水中加蚝油、料酒、葱姜煮出味，捞出葱姜，下发好的蹄筋焯一下水捞出。",
+        "锅洗净下葱油热锅，倒入葱烧汁，放入焯过水的蹄筋和炸过的大葱，转小火稍微咕嘟入味。",
+        "汤汁浓稠后补一点水淀粉勾芡到挂汁的程度，淋一点葱油即可出锅。"
+      ],
+      "notes": [
+        "用破壁机把煮好的猪皮直接打碎，是快速获得高汤胶质感、增加汤汁粘稠度的捷径。",
+        "葱只用纯葱白，去掉葱芯（葱绿），否则带葱粘液会发苦。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Scallion-Braised Pork Tendon",
+      "steps": [
+        "Rehydrate dried pork tendon in advance (fresh tendon also works); properly soaked tendon is springy with the same texture as fresh.",
+        "Add a little stock to cooked pork skin and blend it smooth in a high-speed blender to make a thick gelatinous paste, a shortcut for thickening the sauce.",
+        "Heat oil in a wok and fry the scallion segments, stirring constantly so they color evenly; remove once golden, then let the residual heat of the oil steep-fry them a little more.",
+        "Leave some oil in the wok, add two pieces of star anise, return the scallions and a slice of ginger, and stir-fry over high heat, stirring constantly so the scallions color evenly (use only the white part, discarding the green core, which turns bitter).",
+        "Pour in light soy sauce and oyster sauce, add the prepared stock, and season with MSG, sugar, and white pepper.",
+        "Bring to a boil, then simmer over medium heat to infuse the scallion aroma into the broth; add dark soy sauce for color, then stir in the blended pork-skin paste, which instantly thickens the sauce.",
+        "When the sauce coats the spoon in a thin ribbon the consistency is right; adjust seasoning, then strain to keep only the scallion sauce, and steep the fried scallions back in it to absorb flavor.",
+        "In a separate pot, simmer water with oyster sauce, cooking wine, scallion, and ginger; remove the aromatics, then blanch the rehydrated tendon briefly and remove.",
+        "Wipe the wok clean, heat scallion oil, pour in the scallion sauce, add the blanched tendon and the fried scallions, and gently simmer over low heat to absorb flavor.",
+        "Once the sauce is thick, finish with a little cornstarch slurry to reach a glazing consistency, drizzle with scallion oil, and serve."
+      ],
+      "notes": [
+        "Blending cooked pork skin straight in a high-speed blender is the fastest way to get a rich, gelatinous body and thicken the sauce.",
+        "Use only the pure white part of the scallion and discard the green core, which contains sap that turns bitter.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Tendons de Porc Braisés à la Ciboule",
+      "steps": [
+        "Réhydrater à l'avance les tendons de porc séchés (les tendons frais conviennent aussi) ; bien trempés, ils sont élastiques et ont la même texture que les frais.",
+        "Ajouter un peu de bouillon à la couenne de porc cuite et la mixer finement au blender pour obtenir une pâte gélatineuse épaisse, un raccourci pour épaissir la sauce.",
+        "Chauffer l'huile dans un wok et frire les tronçons de ciboule en remuant sans cesse pour qu'ils colorent uniformément ; les retirer une fois dorés, puis les laisser confire un peu dans la chaleur résiduelle de l'huile.",
+        "Laisser un peu d'huile dans le wok, ajouter deux morceaux d'anis étoilé, remettre la ciboule et une tranche de gingembre, et faire sauter à feu vif en remuant constamment (n'utiliser que la partie blanche, jeter le cœur vert qui devient amer).",
+        "Verser la sauce soja claire et la sauce d'huître, ajouter le bouillon préparé et assaisonner avec le glutamate, le sucre et le poivre blanc.",
+        "Porter à ébullition puis laisser mijoter à feu moyen pour infuser l'arôme de ciboule dans le bouillon ; ajouter la sauce soja foncée pour la couleur, puis incorporer la pâte de couenne mixée, qui épaissit aussitôt la sauce.",
+        "Quand la sauce nappe la cuillère en un fin ruban, la consistance est bonne ; rectifier l'assaisonnement, filtrer pour ne garder que la sauce à la ciboule, et y laisser tremper les ciboules frites pour qu'elles s'imprègnent.",
+        "Dans une autre casserole, faire mijoter de l'eau avec sauce d'huître, vin de cuisine, ciboule et gingembre ; retirer les aromates, puis blanchir brièvement les tendons réhydratés et les retirer.",
+        "Essuyer le wok, chauffer l'huile de ciboule, verser la sauce à la ciboule, ajouter les tendons blanchis et les ciboules frites, et laisser mijoter doucement à feu doux pour qu'ils s'imprègnent.",
+        "Une fois la sauce épaisse, finir avec un peu de liaison à la fécule pour atteindre une consistance nappante, arroser d'huile de ciboule et servir."
+      ],
+      "notes": [
+        "Mixer la couenne de porc cuite directement au blender est le moyen le plus rapide d'obtenir un corps gélatineux riche et d'épaissir la sauce.",
+        "N'utiliser que la partie blanche de la ciboule et jeter le cœur vert, dont la sève devient amère.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

@@ -1,30 +1,51 @@
 {
-  "name": "personal-recipe-book",
-  "homepage": "https://fsiceangel.github.io/CookingRecipe",
+  "name": "cooking-recipe",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
-    "predev": "node scripts/update-index.mjs --include-private",
     "dev": "vite",
-    "prebuild": "node scripts/update-index.mjs",
-    "build": "vite build",
-    "postbuild": "node scripts/strip-private.mjs",
-    "lint": "echo 'Linting not set up yet'",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "content:check": "tsx scripts/content.ts --check",
+    "content:schema": "tsx scripts/schema.ts",
+    "recipe:new": "tsx scripts/new-recipe.ts",
+    "check": "npm run typecheck && npm run lint && npm run content:check && npm test",
+    "build": "npm run typecheck && vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build -- --base=/CookingRecipe/",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run check && npm run build -- --base=/CookingRecipe/",
+    "deploy": "gh-pages -d dist",
+    "dev:private": "vite --mode private --host 127.0.0.1"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/roboto": "^5.2.0",
+    "@mui/icons-material": "^7.3.0",
+    "@mui/material": "^7.3.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.66",
-    "@types/react-dom": "^18.2.22",
-    "@vitejs/plugin-react": "^4.2.1",
-    "gh-pages": "^6.1.1",
-    "typescript": "^5.2.2",
-    "vite": "^5.2.0"
+    "@eslint/js": "^9.39.0",
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.39.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "gh-pages": "6.1.1",
+    "globals": "^16.4.0",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.0",
+    "vite": "^7.1.0",
+    "vitest": "4.1.12",
+    "zod": "^3.25.0",
+    "zod-to-json-schema": "^3.25.2"
   }
 }

@@ -1,0 +1,1898 @@
+{
+  "abalone": {
+    "category": "meat",
+    "names": {
+      "cn": "鲍鱼",
+      "en": "Abalone",
+      "fr": "Ormeau"
+    }
+  },
+  "aged-vinegar": {
+    "category": "seasoning",
+    "names": {
+      "cn": "陈醋",
+      "en": "Aged Vinegar",
+      "fr": "Vinaigre Vieilli"
+    }
+  },
+  "amomum": {
+    "category": "seasoning",
+    "names": {
+      "cn": "砂仁粉",
+      "en": "Amomum (Sand Ginger) Powder",
+      "fr": "Amome (Poudre)"
+    }
+  },
+  "angelica-root": {
+    "category": "seasoning",
+    "names": {
+      "cn": "当归",
+      "en": "Angelica Root",
+      "fr": "Racine d'Angélique"
+    }
+  },
+  "baking-powder": {
+    "category": "pantry",
+    "names": {
+      "cn": "泡打粉",
+      "en": "Baking Powder",
+      "fr": "Levure Chimique"
+    }
+  },
+  "baking-soda": {
+    "category": "seasoning",
+    "names": {
+      "cn": "小苏打",
+      "en": "Baking Soda",
+      "fr": "Bicarbonate de Soude"
+    }
+  },
+  "bamboo-charcoal-powder": {
+    "category": "pantry",
+    "names": {
+      "cn": "竹炭粉",
+      "en": "Bamboo Charcoal Powder",
+      "fr": "Poudre de Charbon de Bambou"
+    }
+  },
+  "bamboo-leaves": {
+    "category": "pantry",
+    "names": {
+      "cn": "粽叶",
+      "en": "Bamboo Leaves",
+      "fr": "Feuilles de Bambou"
+    }
+  },
+  "bamboo-shoot": {
+    "category": "veggie",
+    "names": {
+      "cn": "笋",
+      "en": "Bamboo Shoot",
+      "fr": "Pousse de Bambou"
+    }
+  },
+  "bay-leaf": {
+    "category": "seasoning",
+    "names": {
+      "cn": "香叶",
+      "en": "Bay Leaf",
+      "fr": "Feuille de Laurier"
+    }
+  },
+  "bean-sprouts": {
+    "category": "veggie",
+    "names": {
+      "cn": "豆芽",
+      "en": "Bean Sprouts",
+      "fr": "Germes de Soja"
+    }
+  },
+  "beef": {
+    "category": "meat",
+    "names": {
+      "cn": "牛肉",
+      "en": "Beef",
+      "fr": "Boeuf"
+    }
+  },
+  "beef-balls": {
+    "category": "meat",
+    "names": {
+      "cn": "牛肉丸",
+      "en": "Beef Balls",
+      "fr": "Boulettes de Boeuf"
+    }
+  },
+  "beef-bouillon": {
+    "category": "seasoning",
+    "names": {
+      "cn": "牛肉粉",
+      "en": "Beef Bouillon",
+      "fr": "Bouillon de Bœuf en Poudre"
+    }
+  },
+  "beef-brisket": {
+    "category": "meat",
+    "names": {
+      "cn": "牛腩",
+      "en": "Beef Brisket",
+      "fr": "Tendron de Boeuf"
+    }
+  },
+  "beef-hind-leg": {
+    "category": "meat",
+    "names": {
+      "cn": "牛后腿肉",
+      "en": "Beef Hind Leg",
+      "fr": "Gigot de Boeuf"
+    }
+  },
+  "beef-omasum": {
+    "category": "meat",
+    "names": {
+      "cn": "百叶",
+      "en": "Beef Omasum",
+      "fr": "Feuillet de Boeuf"
+    }
+  },
+  "beef-shank": {
+    "category": "meat",
+    "names": {
+      "cn": "牛腱子",
+      "en": "Beef Shank",
+      "fr": "Jarret de Boeuf"
+    }
+  },
+  "beef-short-ribs": {
+    "category": "meat",
+    "names": {
+      "cn": "牛小排",
+      "en": "Beef Short Ribs",
+      "fr": "Côtes Courtes de Boeuf"
+    }
+  },
+  "beef-tallow": {
+    "category": "meat",
+    "names": {
+      "cn": "牛油",
+      "en": "Beef Tallow",
+      "fr": "Suif de Boeuf"
+    }
+  },
+  "beef-tendon": {
+    "category": "meat",
+    "names": {
+      "cn": "牛筋",
+      "en": "Beef Tendon",
+      "fr": "Tendon de Boeuf"
+    }
+  },
+  "beef-tripe": {
+    "category": "meat",
+    "names": {
+      "cn": "毛肚",
+      "en": "Beef Tripe",
+      "fr": "Tripes de Boeuf"
+    }
+  },
+  "bell-pepper": {
+    "category": "veggie",
+    "names": {
+      "cn": "彩椒",
+      "en": "Bell Pepper",
+      "fr": "Poivron"
+    }
+  },
+  "black-pepper": {
+    "category": "seasoning",
+    "names": {
+      "cn": "黑胡椒",
+      "en": "Black Pepper",
+      "fr": "Poivre Noir"
+    }
+  },
+  "bok-choy": {
+    "category": "veggie",
+    "names": {
+      "cn": "小白菜",
+      "en": "Bok Choy",
+      "fr": "Bok Choy"
+    }
+  },
+  "broomcorn-millet": {
+    "category": "pantry",
+    "names": {
+      "cn": "大黄米",
+      "en": "Broomcorn Millet",
+      "fr": "Millet Jaune Gluant"
+    }
+  },
+  "brown-sugar": {
+    "category": "seasoning",
+    "names": {
+      "cn": "红糖",
+      "en": "Brown Sugar",
+      "fr": "Sucre Roux"
+    }
+  },
+  "butter": {
+    "category": "dairy",
+    "names": {
+      "cn": "黄油",
+      "en": "Butter",
+      "fr": "Beurre"
+    }
+  },
+  "button-mushroom": {
+    "category": "veggie",
+    "names": {
+      "cn": "口蘑",
+      "en": "Button Mushroom",
+      "fr": "Champignon de Paris"
+    }
+  },
+  "cake-flour": {
+    "category": "pantry",
+    "names": {
+      "cn": "低筋面粉",
+      "en": "Cake Flour",
+      "fr": "Farine à Gâteau"
+    }
+  },
+  "carp": {
+    "category": "meat",
+    "names": {
+      "cn": "鲤鱼",
+      "en": "Carp",
+      "fr": "Carpe"
+    }
+  },
+  "carrot": {
+    "category": "veggie",
+    "names": {
+      "cn": "胡萝卜",
+      "en": "Carrot",
+      "fr": "Carotte"
+    }
+  },
+  "celery": {
+    "category": "veggie",
+    "names": {
+      "cn": "芹菜",
+      "en": "Celery",
+      "fr": "Céleri"
+    }
+  },
+  "celtuce": {
+    "category": "veggie",
+    "names": {
+      "cn": "莴笋",
+      "en": "Celtuce",
+      "fr": "Celtuce"
+    }
+  },
+  "century-egg": {
+    "category": "meat",
+    "names": {
+      "cn": "松花蛋",
+      "en": "Century Egg",
+      "fr": "Œuf de Cent Ans"
+    }
+  },
+  "chestnut": {
+    "category": "veggie",
+    "names": {
+      "cn": "板栗",
+      "en": "Chestnut",
+      "fr": "Châtaigne"
+    }
+  },
+  "chicken": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡",
+      "en": "Chicken",
+      "fr": "Poulet"
+    }
+  },
+  "chicken-bouillon": {
+    "category": "seasoning",
+    "names": {
+      "cn": "鸡精",
+      "en": "Chicken Bouillon",
+      "fr": "Bouillon de Poulet en Poudre"
+    }
+  },
+  "chicken-breast": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡胸肉",
+      "en": "Chicken Breast",
+      "fr": "Poitrine de Poulet"
+    }
+  },
+  "chicken-drumstick": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡腿",
+      "en": "Chicken Drumstick",
+      "fr": "Pilon de Poulet"
+    }
+  },
+  "chicken-feet": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡爪",
+      "en": "Chicken Feet",
+      "fr": "Pieds de Poulet"
+    }
+  },
+  "chicken-gizzard": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡胗",
+      "en": "Chicken Gizzard",
+      "fr": "Gésier de Poulet"
+    }
+  },
+  "chicken-stock": {
+    "category": "pantry",
+    "names": {
+      "cn": "鸡汤",
+      "en": "Chicken Stock",
+      "fr": "Bouillon de Poulet"
+    }
+  },
+  "chicken-wings": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡翅",
+      "en": "Chicken Wings",
+      "fr": "Ailes de Poulet"
+    }
+  },
+  "chili-crisp": {
+    "category": "seasoning",
+    "names": {
+      "cn": "辣椒酥",
+      "en": "Chili Crisp",
+      "fr": "Chili Croustillant"
+    }
+  },
+  "chili-oil": {
+    "category": "seasoning",
+    "names": {
+      "cn": "红油",
+      "en": "Chili Oil",
+      "fr": "Huile Pimentée"
+    }
+  },
+  "chili-pepper": {
+    "category": "veggie",
+    "names": {
+      "cn": "辣椒",
+      "en": "Chili Pepper",
+      "fr": "Piment"
+    }
+  },
+  "chili-powder": {
+    "category": "seasoning",
+    "names": {
+      "cn": "辣椒面",
+      "en": "Chili Powder",
+      "fr": "Poudre de Piment"
+    }
+  },
+  "chili-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "辣酱",
+      "en": "Chili Sauce",
+      "fr": "Sauce Piquante"
+    }
+  },
+  "chinese-chives": {
+    "category": "veggie",
+    "names": {
+      "cn": "韭菜",
+      "en": "Chinese Chives",
+      "fr": "Ciboulette Chinoise"
+    }
+  },
+  "chopped-salted-chili": {
+    "category": "seasoning",
+    "names": {
+      "cn": "剁椒",
+      "en": "Chopped Salted Chili",
+      "fr": "Piment Haché Salé"
+    }
+  },
+  "choy-sum": {
+    "category": "veggie",
+    "names": {
+      "cn": "菜心",
+      "en": "Choy Sum",
+      "fr": "Choy Sum"
+    }
+  },
+  "cilantro": {
+    "category": "veggie",
+    "names": {
+      "cn": "香菜",
+      "en": "Cilantro",
+      "fr": "Coriandre"
+    }
+  },
+  "cinnamon-bark": {
+    "category": "seasoning",
+    "names": {
+      "cn": "桂皮",
+      "en": "Cinnamon Bark",
+      "fr": "Écorce de Cannelle"
+    }
+  },
+  "citrus": {
+    "category": "veggie",
+    "names": {
+      "cn": "柑橘皮",
+      "en": "Citrus Zest",
+      "fr": "Zeste d'Agrumes"
+    }
+  },
+  "cola": {
+    "category": "pantry",
+    "names": {
+      "cn": "可乐",
+      "en": "Cola",
+      "fr": "Cola"
+    }
+  },
+  "cooked-rice": {
+    "category": "pantry",
+    "names": {
+      "cn": "米饭",
+      "en": "Cooked Rice",
+      "fr": "Riz Cuit"
+    }
+  },
+  "cooking-wine": {
+    "category": "seasoning",
+    "names": {
+      "cn": "料酒",
+      "en": "Cooking Wine",
+      "fr": "Vin de Cuisine"
+    }
+  },
+  "corn": {
+    "category": "veggie",
+    "names": {
+      "cn": "玉米",
+      "en": "Corn",
+      "fr": "Maïs"
+    }
+  },
+  "cornstarch": {
+    "category": "pantry",
+    "names": {
+      "cn": "淀粉",
+      "en": "Cornstarch",
+      "fr": "Fécule de Maïs"
+    }
+  },
+  "cornstarch-slurry": {
+    "category": "seasoning",
+    "names": {
+      "cn": "水淀粉",
+      "en": "Cornstarch Slurry",
+      "fr": "Liaison à la Fécule"
+    }
+  },
+  "crab": {
+    "category": "meat",
+    "names": {
+      "cn": "螃蟹",
+      "en": "Crab",
+      "fr": "Crabe"
+    }
+  },
+  "crayfish": {
+    "category": "meat",
+    "names": {
+      "cn": "小龙虾",
+      "en": "Crayfish",
+      "fr": "Écrevisses"
+    }
+  },
+  "cream-cheese": {
+    "category": "dairy",
+    "names": {
+      "cn": "奶油奶酪",
+      "en": "Cream Cheese",
+      "fr": "Fromage à la Crème"
+    }
+  },
+  "crown-daisy": {
+    "category": "veggie",
+    "names": {
+      "cn": "茼蒿",
+      "en": "Crown Daisy Greens",
+      "fr": "Chrysanthème Comestible"
+    }
+  },
+  "crucian-carp": {
+    "category": "meat",
+    "names": {
+      "cn": "鲫鱼",
+      "en": "Crucian Carp",
+      "fr": "Carassin"
+    }
+  },
+  "cucumber": {
+    "category": "veggie",
+    "names": {
+      "cn": "黄瓜",
+      "en": "Cucumber",
+      "fr": "Concombre"
+    }
+  },
+  "cumin": {
+    "category": "seasoning",
+    "names": {
+      "cn": "孜然",
+      "en": "Cumin",
+      "fr": "Cumin"
+    }
+  },
+  "custard-powder": {
+    "category": "pantry",
+    "names": {
+      "cn": "吉士粉",
+      "en": "Custard Powder",
+      "fr": "Poudre à Crème"
+    }
+  },
+  "dang-shen": {
+    "category": "veggie",
+    "names": {
+      "cn": "党参",
+      "en": "Dang Shen (Codonopsis Root)",
+      "fr": "Dang Shen (Racine de Codonopsis)"
+    }
+  },
+  "dark-soy-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "老抽",
+      "en": "Dark Soy Sauce",
+      "fr": "Sauce Soja Foncée"
+    }
+  },
+  "doubanjiang": {
+    "category": "seasoning",
+    "names": {
+      "cn": "豆瓣酱",
+      "en": "Doubanjiang",
+      "fr": "Doubanjiang"
+    }
+  },
+  "dragon-fruit": {
+    "category": "veggie",
+    "names": {
+      "cn": "火龙果",
+      "en": "Dragon Fruit",
+      "fr": "Fruit du Dragon"
+    }
+  },
+  "dried-plum": {
+    "category": "pantry",
+    "names": {
+      "cn": "话梅",
+      "en": "Dried Plum (Huamei)",
+      "fr": "Prune Séchée"
+    }
+  },
+  "dried-scallop": {
+    "category": "meat",
+    "names": {
+      "cn": "瑶柱",
+      "en": "Dried Scallop",
+      "fr": "Pétoncle Séché"
+    }
+  },
+  "dried-shrimp": {
+    "category": "meat",
+    "names": {
+      "cn": "海米",
+      "en": "Dried Shrimp",
+      "fr": "Crevettes Séchées"
+    }
+  },
+  "dried-yellow-bean-paste": {
+    "category": "seasoning",
+    "names": {
+      "cn": "干黄酱",
+      "en": "Dried Yellow Bean Paste",
+      "fr": "Pâte de Haricots Jaunes"
+    }
+  },
+  "duck": {
+    "category": "meat",
+    "names": {
+      "cn": "鸭",
+      "en": "Duck",
+      "fr": "Canard"
+    }
+  },
+  "duck-head": {
+    "category": "meat",
+    "names": {
+      "cn": "鸭头",
+      "en": "Duck Head",
+      "fr": "Tête de Canard"
+    }
+  },
+  "duck-neck": {
+    "category": "meat",
+    "names": {
+      "cn": "鸭脖",
+      "en": "Duck Neck",
+      "fr": "Cou de Canard"
+    }
+  },
+  "duck-wing": {
+    "category": "meat",
+    "names": {
+      "cn": "鸭翅",
+      "en": "Duck Wing",
+      "fr": "Aile de Canard"
+    }
+  },
+  "edamame": {
+    "category": "veggie",
+    "names": {
+      "cn": "毛豆",
+      "en": "Edamame",
+      "fr": "Edamame"
+    }
+  },
+  "edible-alkali": {
+    "category": "seasoning",
+    "names": {
+      "cn": "食用碱",
+      "en": "Edible Alkali",
+      "fr": "Alcali Alimentaire"
+    }
+  },
+  "eel": {
+    "category": "meat",
+    "names": {
+      "cn": "鳝鱼",
+      "en": "Eel",
+      "fr": "Anguille"
+    }
+  },
+  "egg": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡蛋",
+      "en": "Egg",
+      "fr": "Oeuf"
+    }
+  },
+  "egg-dumpling": {
+    "category": "meat",
+    "names": {
+      "cn": "蛋饺",
+      "en": "Egg Dumplings",
+      "fr": "Raviolis aux Oeufs"
+    }
+  },
+  "egg-white": {
+    "category": "meat",
+    "names": {
+      "cn": "蛋清",
+      "en": "Egg White",
+      "fr": "Blanc d'Oeuf"
+    }
+  },
+  "egg-yolk": {
+    "category": "meat",
+    "names": {
+      "cn": "蛋黄",
+      "en": "Egg Yolk",
+      "fr": "Jaune d'Oeuf"
+    }
+  },
+  "eggplant": {
+    "category": "veggie",
+    "names": {
+      "cn": "茄子",
+      "en": "Eggplant",
+      "fr": "Aubergine"
+    }
+  },
+  "enoki-mushroom": {
+    "category": "veggie",
+    "names": {
+      "cn": "金针菇",
+      "en": "Enoki Mushroom",
+      "fr": "Champignon Enoki"
+    }
+  },
+  "fatty-beef": {
+    "category": "meat",
+    "names": {
+      "cn": "肥牛",
+      "en": "Fatty Beef Slices",
+      "fr": "Tranches de Boeuf Gras"
+    }
+  },
+  "fennel-seeds": {
+    "category": "seasoning",
+    "names": {
+      "cn": "小茴香",
+      "en": "Fennel Seeds",
+      "fr": "Graines de Fenouil"
+    }
+  },
+  "fermented-bean-curd": {
+    "category": "seasoning",
+    "names": {
+      "cn": "腐乳",
+      "en": "Fermented Bean Curd",
+      "fr": "Fromage de Soja Fermenté"
+    }
+  },
+  "fermented-chili-paste": {
+    "category": "seasoning",
+    "names": {
+      "cn": "糟辣椒",
+      "en": "Fermented Chili Paste",
+      "fr": "Pâte de Piment Fermentée"
+    }
+  },
+  "flour": {
+    "category": "pantry",
+    "names": {
+      "cn": "面粉",
+      "en": "Flour",
+      "fr": "Farine"
+    }
+  },
+  "fried-garlic-crisps": {
+    "category": "seasoning",
+    "names": {
+      "cn": "炸蒜酥",
+      "en": "Fried Garlic Crisps",
+      "fr": "Croustilles d'Ail Frites"
+    }
+  },
+  "fried-tofu": {
+    "category": "veggie",
+    "names": {
+      "cn": "炸豆腐",
+      "en": "Fried Tofu",
+      "fr": "Tofu Frit"
+    }
+  },
+  "garlic": {
+    "category": "veggie",
+    "names": {
+      "cn": "大蒜",
+      "en": "Garlic",
+      "fr": "Ail"
+    }
+  },
+  "garlic-scapes": {
+    "category": "veggie",
+    "names": {
+      "cn": "蒜苔",
+      "en": "Garlic Scapes",
+      "fr": "Tiges d'Ail"
+    }
+  },
+  "ginger": {
+    "category": "veggie",
+    "names": {
+      "cn": "姜",
+      "en": "Ginger",
+      "fr": "Gingembre"
+    }
+  },
+  "glass-noodles": {
+    "category": "pantry",
+    "names": {
+      "cn": "粉条",
+      "en": "Glass Noodles",
+      "fr": "Vermicelles de Patate Douce"
+    }
+  },
+  "glutinous-rice": {
+    "category": "pantry",
+    "names": {
+      "cn": "糯米",
+      "en": "Glutinous Rice",
+      "fr": "Riz Gluant"
+    }
+  },
+  "glutinous-rice-flour": {
+    "category": "pantry",
+    "names": {
+      "cn": "糯米粉",
+      "en": "Glutinous Rice Flour",
+      "fr": "Farine de Riz Gluant"
+    }
+  },
+  "goji-berry": {
+    "category": "veggie",
+    "names": {
+      "cn": "枸杞",
+      "en": "Goji Berries",
+      "fr": "Baies de Goji"
+    }
+  },
+  "grass-carp": {
+    "category": "meat",
+    "names": {
+      "cn": "草鱼",
+      "en": "Grass Carp",
+      "fr": "Carpe Herbivore"
+    }
+  },
+  "green-garlic": {
+    "category": "veggie",
+    "names": {
+      "cn": "青蒜",
+      "en": "Green Garlic",
+      "fr": "Ail Vert"
+    }
+  },
+  "green-peas": {
+    "category": "veggie",
+    "names": {
+      "cn": "豌豆",
+      "en": "Green Peas",
+      "fr": "Petits Pois"
+    }
+  },
+  "guanciale-pancetta": {
+    "category": "meat",
+    "names": {
+      "cn": "意式烟肉",
+      "en": "Guanciale / Pancetta",
+      "fr": "Guanciale / Pancetta"
+    }
+  },
+  "hairtail-fish": {
+    "category": "meat",
+    "names": {
+      "cn": "带鱼",
+      "en": "Hairtail Fish",
+      "fr": "Poisson-Sabre"
+    }
+  },
+  "ham": {
+    "category": "meat",
+    "names": {
+      "cn": "火腿",
+      "en": "Chinese Ham",
+      "fr": "Jambon Chinois"
+    }
+  },
+  "hamachi-kama": {
+    "category": "meat",
+    "names": {
+      "cn": "鰤鱼颈肉",
+      "en": "Hamachi Kama",
+      "fr": "Collier de Sériole"
+    }
+  },
+  "haw-flakes": {
+    "category": "pantry",
+    "names": {
+      "cn": "果丹皮",
+      "en": "Haw Flakes",
+      "fr": "Pastilles d'Aubépine"
+    }
+  },
+  "heavy-cream": {
+    "category": "dairy",
+    "names": {
+      "cn": "高脂淡奶油",
+      "en": "Heavy Cream",
+      "fr": "Crème Fleurette"
+    }
+  },
+  "hoisin-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "海鲜酱",
+      "en": "Hoisin Sauce",
+      "fr": "Sauce Hoisin"
+    }
+  },
+  "honey": {
+    "category": "seasoning",
+    "names": {
+      "cn": "蜂蜜",
+      "en": "Honey",
+      "fr": "Miel"
+    }
+  },
+  "hotpot-base": {
+    "category": "seasoning",
+    "names": {
+      "cn": "火锅底料",
+      "en": "Hotpot Base",
+      "fr": "Base de Fondue Chinoise"
+    }
+  },
+  "huangfeihong-chili-crisp": {
+    "category": "seasoning",
+    "names": {
+      "cn": "辣椒酥（黄飞红）",
+      "en": "Chili-Peanut Crisp (Huangfeihong)",
+      "fr": "Croustillant Piment-Cacahuète"
+    }
+  },
+  "ice-cubes": {
+    "category": "pantry",
+    "names": {
+      "cn": "冰块",
+      "en": "Ice Cubes",
+      "fr": "Glaçons"
+    }
+  },
+  "italian-herbs": {
+    "category": "seasoning",
+    "names": {
+      "cn": "意大利香草",
+      "en": "Italian Herbs",
+      "fr": "Herbes Italiennes"
+    }
+  },
+  "jellyfish-head": {
+    "category": "meat",
+    "names": {
+      "cn": "海蜇头",
+      "en": "Jellyfish Head",
+      "fr": "Tête de Méduse"
+    }
+  },
+  "jobs-tears": {
+    "category": "pantry",
+    "names": {
+      "cn": "薏米",
+      "en": "Job's Tears (Pearl Barley)",
+      "fr": "Larmes-de-Job"
+    }
+  },
+  "kelp": {
+    "category": "veggie",
+    "names": {
+      "cn": "海带",
+      "en": "Kelp",
+      "fr": "Algue Kombu"
+    }
+  },
+  "ketchup": {
+    "category": "seasoning",
+    "names": {
+      "cn": "番茄酱",
+      "en": "Ketchup",
+      "fr": "Ketchup"
+    }
+  },
+  "la-xian-lu": {
+    "category": "seasoning",
+    "names": {
+      "cn": "辣鲜露",
+      "en": "La Xian Lu (Savory Soy Seasoning)",
+      "fr": "La Xian Lu"
+    }
+  },
+  "lamb": {
+    "category": "meat",
+    "names": {
+      "cn": "羊肉",
+      "en": "Lamb",
+      "fr": "Agneau"
+    }
+  },
+  "lard": {
+    "category": "meat",
+    "names": {
+      "cn": "猪油",
+      "en": "Lard",
+      "fr": "Saindoux"
+    }
+  },
+  "latiao": {
+    "category": "pantry",
+    "names": {
+      "cn": "辣条",
+      "en": "Latiao (Spicy Gluten Snack)",
+      "fr": "Latiao"
+    }
+  },
+  "leafy-greens": {
+    "category": "veggie",
+    "names": {
+      "cn": "青菜",
+      "en": "Leafy Greens",
+      "fr": "Légumes Verts"
+    }
+  },
+  "lemon": {
+    "category": "veggie",
+    "names": {
+      "cn": "柠檬",
+      "en": "Lemon",
+      "fr": "Citron"
+    }
+  },
+  "lemon-juice": {
+    "category": "seasoning",
+    "names": {
+      "cn": "柠檬汁",
+      "en": "Lemon Juice",
+      "fr": "Jus de Citron"
+    }
+  },
+  "light-cream": {
+    "category": "dairy",
+    "names": {
+      "cn": "低脂淡奶油",
+      "en": "Light Cream",
+      "fr": "Crème Légère"
+    }
+  },
+  "light-soy-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "酱油",
+      "en": "Light Soy Sauce",
+      "fr": "Sauce Soja Claire"
+    }
+  },
+  "liuyang-fermented-soybeans": {
+    "category": "seasoning",
+    "names": {
+      "cn": "豆豉",
+      "en": "Liuyang Fermented Soybeans",
+      "fr": "Soja Fermenté de Liuyang"
+    }
+  },
+  "longan": {
+    "category": "veggie",
+    "names": {
+      "cn": "桂圆",
+      "en": "Longan",
+      "fr": "Longane"
+    }
+  },
+  "lotus-root": {
+    "category": "veggie",
+    "names": {
+      "cn": "藕",
+      "en": "Lotus Root",
+      "fr": "Racine de Lotus"
+    }
+  },
+  "luncheon-meat": {
+    "category": "meat",
+    "names": {
+      "cn": "午餐肉",
+      "en": "Luncheon Meat",
+      "fr": "Pâté de Jambon"
+    }
+  },
+  "mandarin-fish": {
+    "category": "meat",
+    "names": {
+      "cn": "桂鱼",
+      "en": "Mandarin Fish",
+      "fr": "Poisson Mandarin"
+    }
+  },
+  "matsutake-mushroom": {
+    "category": "veggie",
+    "names": {
+      "cn": "松茸",
+      "en": "Matsutake Mushroom",
+      "fr": "Champignon Matsutake"
+    }
+  },
+  "milk": {
+    "category": "dairy",
+    "names": {
+      "cn": "牛奶",
+      "en": "Milk",
+      "fr": "Lait"
+    }
+  },
+  "milk-popsicle": {
+    "category": "dairy",
+    "names": {
+      "cn": "牛奶雪糕",
+      "en": "Milk Popsicle",
+      "fr": "Bâtonnet Glacé au Lait"
+    }
+  },
+  "milk-powder": {
+    "category": "dairy",
+    "names": {
+      "cn": "奶粉",
+      "en": "Milk Powder",
+      "fr": "Lait en Poudre"
+    }
+  },
+  "minced-meat": {
+    "category": "meat",
+    "names": {
+      "cn": "肉末",
+      "en": "Minced Meat",
+      "fr": "Viande Hachée"
+    }
+  },
+  "mixed-spices": {
+    "category": "seasoning",
+    "names": {
+      "cn": "香料",
+      "en": "Mixed Spices",
+      "fr": "Épices Mélangées"
+    }
+  },
+  "mozzarella": {
+    "category": "dairy",
+    "names": {
+      "cn": "马苏里拉芝士",
+      "en": "Mozzarella Cheese",
+      "fr": "Mozzarella"
+    }
+  },
+  "msg": {
+    "category": "seasoning",
+    "names": {
+      "cn": "味精",
+      "en": "MSG",
+      "fr": "Glutamate"
+    }
+  },
+  "mu-jiang-zi-oil": {
+    "category": "seasoning",
+    "names": {
+      "cn": "木姜子油",
+      "en": "Litsea (Mountain Pepper) Oil",
+      "fr": "Huile de Litsée"
+    }
+  },
+  "mung-bean": {
+    "category": "veggie",
+    "names": {
+      "cn": "绿豆",
+      "en": "Mung Beans",
+      "fr": "Haricots Mungo"
+    }
+  },
+  "napa-cabbage": {
+    "category": "veggie",
+    "names": {
+      "cn": "白菜",
+      "en": "Napa Cabbage",
+      "fr": "Chou Chinois"
+    }
+  },
+  "noodles": {
+    "category": "pantry",
+    "names": {
+      "cn": "面条",
+      "en": "Noodles",
+      "fr": "Nouilles"
+    }
+  },
+  "oil": {
+    "category": "seasoning",
+    "names": {
+      "cn": "油",
+      "en": "Oil",
+      "fr": "Huile"
+    }
+  },
+  "okra": {
+    "category": "veggie",
+    "names": {
+      "cn": "秋葵",
+      "en": "Okra",
+      "fr": "Okra"
+    }
+  },
+  "onion": {
+    "category": "veggie",
+    "names": {
+      "cn": "洋葱",
+      "en": "Onion",
+      "fr": "Oignon"
+    }
+  },
+  "oyster-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "蚝油",
+      "en": "Oyster Sauce",
+      "fr": "Sauce d'Huître"
+    }
+  },
+  "panko": {
+    "category": "pantry",
+    "names": {
+      "cn": "面包糠",
+      "en": "Panko",
+      "fr": "Panko"
+    }
+  },
+  "parkay-margarine": {
+    "category": "dairy",
+    "names": {
+      "cn": "人造黄油",
+      "en": "Margarine",
+      "fr": "Margarine"
+    }
+  },
+  "parmesan-pecorino": {
+    "category": "dairy",
+    "names": {
+      "cn": "芝士",
+      "en": "Parmesan / Pecorino",
+      "fr": "Parmesan / Pecorino"
+    }
+  },
+  "peanuts": {
+    "category": "veggie",
+    "names": {
+      "cn": "花生",
+      "en": "Peanuts",
+      "fr": "Cacahuètes"
+    }
+  },
+  "pickled-chili-paste": {
+    "category": "seasoning",
+    "names": {
+      "cn": "泡椒酱",
+      "en": "Pickled Chili Paste",
+      "fr": "Pâte de Piment Mariné"
+    }
+  },
+  "pickled-potherb-mustard": {
+    "category": "veggie",
+    "names": {
+      "cn": "雪菜",
+      "en": "Pickled Potherb Mustard (Xuecai)",
+      "fr": "Moutarde Marinée (Xuecai)"
+    }
+  },
+  "pickled-radish": {
+    "category": "veggie",
+    "names": {
+      "cn": "酸萝卜",
+      "en": "Pickled Radish",
+      "fr": "Radis Mariné"
+    }
+  },
+  "pig-ear": {
+    "category": "meat",
+    "names": {
+      "cn": "猪耳朵",
+      "en": "Pig Ears",
+      "fr": "Oreilles de Porc"
+    }
+  },
+  "pig-tail": {
+    "category": "meat",
+    "names": {
+      "cn": "猪尾巴",
+      "en": "Pig Tail",
+      "fr": "Queue de Porc"
+    }
+  },
+  "pig-trotter": {
+    "category": "meat",
+    "names": {
+      "cn": "猪蹄",
+      "en": "Pig Trotters",
+      "fr": "Pieds de Porc"
+    }
+  },
+  "pineapple": {
+    "category": "veggie",
+    "names": {
+      "cn": "菠萝",
+      "en": "Pineapple",
+      "fr": "Ananas"
+    }
+  },
+  "pork-belly": {
+    "category": "meat",
+    "names": {
+      "cn": "五花肉",
+      "en": "Pork Belly",
+      "fr": "Poitrine de Porc"
+    }
+  },
+  "pork-elbow": {
+    "category": "meat",
+    "names": {
+      "cn": "肘子",
+      "en": "Pork Elbow (Knuckle)",
+      "fr": "Jarret de Porc"
+    }
+  },
+  "pork-intestine": {
+    "category": "meat",
+    "names": {
+      "cn": "肥肠",
+      "en": "Pork Intestine",
+      "fr": "Intestin de Porc"
+    }
+  },
+  "pork-kidney": {
+    "category": "meat",
+    "names": {
+      "cn": "猪腰",
+      "en": "Pork Kidney",
+      "fr": "Rognon de Porc"
+    }
+  },
+  "pork-loin": {
+    "category": "meat",
+    "names": {
+      "cn": "里脊肉",
+      "en": "Pork Loin",
+      "fr": "Longe de Porc"
+    }
+  },
+  "pork-ribs": {
+    "category": "meat",
+    "names": {
+      "cn": "排骨",
+      "en": "Pork Ribs",
+      "fr": "Côtes de Porc"
+    }
+  },
+  "pork-shoulder": {
+    "category": "meat",
+    "names": {
+      "cn": "梅花肉",
+      "en": "Pork Shoulder (Collar)",
+      "fr": "Échine de Porc"
+    }
+  },
+  "pork-skin": {
+    "category": "meat",
+    "names": {
+      "cn": "猪皮",
+      "en": "Pork Skin",
+      "fr": "Couenne de Porc"
+    }
+  },
+  "pork-stomach": {
+    "category": "meat",
+    "names": {
+      "cn": "猪肚",
+      "en": "Pork Stomach",
+      "fr": "Estomac de Porc"
+    }
+  },
+  "pork-tendon": {
+    "category": "meat",
+    "names": {
+      "cn": "蹄筋",
+      "en": "Pork Tendon",
+      "fr": "Tendon de Porc"
+    }
+  },
+  "potato": {
+    "category": "veggie",
+    "names": {
+      "cn": "土豆",
+      "en": "Potato",
+      "fr": "Pomme de Terre"
+    }
+  },
+  "prawns": {
+    "category": "meat",
+    "names": {
+      "cn": "大虾",
+      "en": "Large Prawns",
+      "fr": "Grosses Gambas"
+    }
+  },
+  "preserved-mustard-greens": {
+    "category": "veggie",
+    "names": {
+      "cn": "梅干菜",
+      "en": "Preserved Mustard Greens",
+      "fr": "Légumes Moutarde Confits"
+    }
+  },
+  "pumpkin": {
+    "category": "veggie",
+    "names": {
+      "cn": "南瓜",
+      "en": "Pumpkin",
+      "fr": "Potiron"
+    }
+  },
+  "radish": {
+    "category": "veggie",
+    "names": {
+      "cn": "青萝卜",
+      "en": "Green Radish",
+      "fr": "Radis Vert"
+    }
+  },
+  "raisin": {
+    "category": "veggie",
+    "names": {
+      "cn": "葡萄干",
+      "en": "Raisins",
+      "fr": "Raisins Secs"
+    }
+  },
+  "rape-greens": {
+    "category": "veggie",
+    "names": {
+      "cn": "油菜",
+      "en": "Rape Greens (Yu Choy)",
+      "fr": "Yu Choy"
+    }
+  },
+  "red-bean-paste": {
+    "category": "pantry",
+    "names": {
+      "cn": "豆沙",
+      "en": "Red Bean Paste",
+      "fr": "Pâte de Haricots Rouges"
+    }
+  },
+  "red-dates": {
+    "category": "veggie",
+    "names": {
+      "cn": "红枣",
+      "en": "Red Dates",
+      "fr": "Jujubes"
+    }
+  },
+  "red-sour-soup": {
+    "category": "seasoning",
+    "names": {
+      "cn": "贵州红酸汤",
+      "en": "Guizhou Red Sour Soup",
+      "fr": "Soupe Aigre Rouge du Guizhou"
+    }
+  },
+  "red-yeast-rice": {
+    "category": "seasoning",
+    "names": {
+      "cn": "红麴米",
+      "en": "Red Yeast Rice",
+      "fr": "Riz à Levure Rouge"
+    }
+  },
+  "rock-sugar": {
+    "category": "seasoning",
+    "names": {
+      "cn": "冰糖",
+      "en": "Rock Sugar",
+      "fr": "Sucre Candi"
+    }
+  },
+  "round-cabbage": {
+    "category": "veggie",
+    "names": {
+      "cn": "圆白菜",
+      "en": "Round Cabbage",
+      "fr": "Chou Rond"
+    }
+  },
+  "salmon-fillets": {
+    "category": "meat",
+    "names": {
+      "cn": "三文鱼",
+      "en": "Salmon Fillets",
+      "fr": "Filets de Saumon"
+    }
+  },
+  "salt": {
+    "category": "seasoning",
+    "names": {
+      "cn": "盐",
+      "en": "Salt",
+      "fr": "Sel"
+    }
+  },
+  "salted-egg-yolk": {
+    "category": "meat",
+    "names": {
+      "cn": "咸蛋黄",
+      "en": "Salted Egg Yolk",
+      "fr": "Jaune d'Œuf Salé"
+    }
+  },
+  "sausage": {
+    "category": "meat",
+    "names": {
+      "cn": "香肠",
+      "en": "Chinese Sausage",
+      "fr": "Saucisse Chinoise"
+    }
+  },
+  "scallion": {
+    "category": "veggie",
+    "names": {
+      "cn": "葱",
+      "en": "Scallion",
+      "fr": "Ciboule"
+    }
+  },
+  "scallion-ginger-water": {
+    "category": "seasoning",
+    "names": {
+      "cn": "葱姜水",
+      "en": "Scallion Ginger Water",
+      "fr": "Eau de Ciboule et Gingembre"
+    }
+  },
+  "sea-bass": {
+    "category": "meat",
+    "names": {
+      "cn": "鲈鱼",
+      "en": "Sea Bass",
+      "fr": "Bar"
+    }
+  },
+  "sea-cucumber": {
+    "category": "meat",
+    "names": {
+      "cn": "海参",
+      "en": "Sea Cucumber",
+      "fr": "Concombre de Mer"
+    }
+  },
+  "sesame-oil": {
+    "category": "seasoning",
+    "names": {
+      "cn": "香油",
+      "en": "Sesame Oil",
+      "fr": "Huile de Sésame"
+    }
+  },
+  "sesame-paste": {
+    "category": "seasoning",
+    "names": {
+      "cn": "芝麻酱",
+      "en": "Sesame Paste",
+      "fr": "Pâte de Sésame"
+    }
+  },
+  "sesame-seeds": {
+    "category": "seasoning",
+    "names": {
+      "cn": "芝麻",
+      "en": "Sesame Seeds",
+      "fr": "Graines de Sésame"
+    }
+  },
+  "shacha-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "沙茶酱",
+      "en": "Shacha Sauce",
+      "fr": "Sauce Shacha"
+    }
+  },
+  "shiitake-mushroom": {
+    "category": "veggie",
+    "names": {
+      "cn": "香菇",
+      "en": "Shiitake Mushroom",
+      "fr": "Champignon Shiitake"
+    }
+  },
+  "shrimp": {
+    "category": "meat",
+    "names": {
+      "cn": "虾仁",
+      "en": "Shrimp",
+      "fr": "Crevettes"
+    }
+  },
+  "sichuan-peppercorn": {
+    "category": "seasoning",
+    "names": {
+      "cn": "花椒",
+      "en": "Sichuan Peppercorn",
+      "fr": "Poivre du Sichuan"
+    }
+  },
+  "sichuan-peppercorn-oil": {
+    "category": "seasoning",
+    "names": {
+      "cn": "花椒油",
+      "en": "Sichuan Peppercorn Oil",
+      "fr": "Huile de Poivre du Sichuan"
+    }
+  },
+  "sichuan-peppercorn-water": {
+    "category": "seasoning",
+    "names": {
+      "cn": "花椒水",
+      "en": "Sichuan Peppercorn Water",
+      "fr": "Eau de Poivre du Sichuan"
+    }
+  },
+  "silver-carp": {
+    "category": "meat",
+    "names": {
+      "cn": "花鲢",
+      "en": "Silver Carp",
+      "fr": "Carpe Argentée"
+    }
+  },
+  "silver-carp-head": {
+    "category": "meat",
+    "names": {
+      "cn": "鲢鱼头",
+      "en": "Silver Carp Head",
+      "fr": "Tête de Carpe Argentée"
+    }
+  },
+  "sour-cream": {
+    "category": "dairy",
+    "names": {
+      "cn": "酸奶油",
+      "en": "Sour Cream",
+      "fr": "Crème Aigre"
+    }
+  },
+  "spaghettoni": {
+    "category": "pantry",
+    "names": {
+      "cn": "意式粗面",
+      "en": "Spaghettoni",
+      "fr": "Spaghettoni"
+    }
+  },
+  "spinach": {
+    "category": "veggie",
+    "names": {
+      "cn": "菠菜",
+      "en": "Spinach",
+      "fr": "Épinards"
+    }
+  },
+  "star-anise": {
+    "category": "seasoning",
+    "names": {
+      "cn": "八角",
+      "en": "Star Anise",
+      "fr": "Anis Étoilé"
+    }
+  },
+  "sugar": {
+    "category": "seasoning",
+    "names": {
+      "cn": "糖",
+      "en": "Sugar",
+      "fr": "Sucre"
+    }
+  },
+  "sweet-bean-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "甜面酱",
+      "en": "Sweet Bean Sauce",
+      "fr": "Pâte de Soja Sucrée"
+    }
+  },
+  "sweet-potato": {
+    "category": "veggie",
+    "names": {
+      "cn": "红薯",
+      "en": "Sweet Potato",
+      "fr": "Patate Douce"
+    }
+  },
+  "sweet-potato-starch": {
+    "category": "pantry",
+    "names": {
+      "cn": "红薯粉",
+      "en": "Sweet Potato Starch",
+      "fr": "Fécule de Patate Douce"
+    }
+  },
+  "taro": {
+    "category": "veggie",
+    "names": {
+      "cn": "芋头",
+      "en": "Taro",
+      "fr": "Taro"
+    }
+  },
+  "tea-leaves": {
+    "category": "pantry",
+    "names": {
+      "cn": "茶叶",
+      "en": "Tea Leaves",
+      "fr": "Feuilles de Thé"
+    }
+  },
+  "thirteen-spice": {
+    "category": "seasoning",
+    "names": {
+      "cn": "十三香",
+      "en": "Thirteen-Spice Powder",
+      "fr": "Poudre Treize-Épices"
+    }
+  },
+  "tofu": {
+    "category": "veggie",
+    "names": {
+      "cn": "豆腐",
+      "en": "Tofu",
+      "fr": "Tofu"
+    }
+  },
+  "tofu-skin": {
+    "category": "veggie",
+    "names": {
+      "cn": "豆皮",
+      "en": "Tofu Skin",
+      "fr": "Feuille de Tofu"
+    }
+  },
+  "tomato": {
+    "category": "veggie",
+    "names": {
+      "cn": "西红柿",
+      "en": "Tomato",
+      "fr": "Tomate"
+    }
+  },
+  "vanilla-extract": {
+    "category": "seasoning",
+    "names": {
+      "cn": "香草精",
+      "en": "Vanilla Extract",
+      "fr": "Extrait de Vanille"
+    }
+  },
+  "vinegar": {
+    "category": "seasoning",
+    "names": {
+      "cn": "醋",
+      "en": "Vinegar",
+      "fr": "Vinaigre"
+    }
+  },
+  "warm-water": {
+    "category": "pantry",
+    "names": {
+      "cn": "温水",
+      "en": "Warm Water",
+      "fr": "Eau Tiède"
+    }
+  },
+  "water": {
+    "category": "pantry",
+    "names": {
+      "cn": "水",
+      "en": "Water",
+      "fr": "Eau"
+    }
+  },
+  "water-chestnut": {
+    "category": "veggie",
+    "names": {
+      "cn": "马蹄",
+      "en": "Water Chestnut",
+      "fr": "Châtaigne d'Eau"
+    }
+  },
+  "white-kidney-bean": {
+    "category": "veggie",
+    "names": {
+      "cn": "芸豆",
+      "en": "White Kidney Beans",
+      "fr": "Haricots Blancs"
+    }
+  },
+  "white-liquor": {
+    "category": "seasoning",
+    "names": {
+      "cn": "白酒",
+      "en": "White Liquor (Baijiu)",
+      "fr": "Alcool Blanc"
+    }
+  },
+  "white-pepper": {
+    "category": "seasoning",
+    "names": {
+      "cn": "白胡椒",
+      "en": "White Pepper",
+      "fr": "Poivre Blanc"
+    }
+  },
+  "white-radish": {
+    "category": "veggie",
+    "names": {
+      "cn": "白萝卜",
+      "en": "White Radish",
+      "fr": "Radis Blanc"
+    }
+  },
+  "winter-melon": {
+    "category": "veggie",
+    "names": {
+      "cn": "冬瓜",
+      "en": "Winter Melon",
+      "fr": "Melon d'Hiver"
+    }
+  },
+  "wood-ear-mushroom": {
+    "category": "veggie",
+    "names": {
+      "cn": "木耳",
+      "en": "Wood Ear Mushroom",
+      "fr": "Champignon Noir"
+    }
+  },
+  "xinjiang-dried-chili": {
+    "category": "veggie",
+    "names": {
+      "cn": "辣皮子",
+      "en": "Xinjiang Dried Chili",
+      "fr": "Piment Séché du Xinjiang"
+    }
+  },
+  "yeast": {
+    "category": "pantry",
+    "names": {
+      "cn": "酵母",
+      "en": "Yeast",
+      "fr": "Levure"
+    }
+  },
+  "yellow-chili-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "黄灯笼辣椒酱",
+      "en": "Yellow Chili Sauce",
+      "fr": "Sauce de Piment Jaune"
+    }
+  },
+  "yellow-croaker": {
+    "category": "meat",
+    "names": {
+      "cn": "黄鱼",
+      "en": "Yellow Croaker",
+      "fr": "Maigre Jaune"
+    }
+  },
+  "yuba": {
+    "category": "veggie",
+    "names": {
+      "cn": "腐竹",
+      "en": "Yuba (Tofu Skin)",
+      "fr": "Yuba (Peau de Tofu)"
+    }
+  },
+  "yuzu-juice": {
+    "category": "seasoning",
+    "names": {
+      "cn": "柚子汁",
+      "en": "Yuzu Juice",
+      "fr": "Jus de Yuzu"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "spicy-potato-shreds",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=RbNNSZim49g",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "potato-1",
+      "ingredient": "potato",
+      "name": {
+        "cn": "土豆",
+        "en": "Potato",
+        "fr": "Pomme de terre"
+      }
+    },
+    {
+      "id": "garlic-2",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "chili-pepper-3",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "干辣椒",
+        "en": "Dried chili peppers",
+        "fr": "Piments séchés"
+      }
+    },
+    {
+      "id": "cilantro-4",
+      "ingredient": "cilantro",
+      "name": {
+        "cn": "香菜",
+        "en": "Cilantro",
+        "fr": "Coriandre"
+      }
+    },
+    {
+      "id": "scallion-5",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱丝",
+        "en": "Shredded scallion",
+        "fr": "Ciboule émincée"
+      }
+    },
+    {
+      "id": "chicken-bouillon-6",
+      "ingredient": "chicken-bouillon",
+      "name": {
+        "cn": "鸡粉",
+        "en": "Chicken bouillon",
+        "fr": "Bouillon de poulet en poudre"
+      }
+    },
+    {
+      "id": "salt-7",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "sesame-oil-8",
+      "ingredient": "sesame-oil",
+      "name": {
+        "cn": "香油",
+        "en": "Sesame oil",
+        "fr": "Huile de sésame"
+      }
+    },
+    {
+      "id": "oil-9",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "香辣土豆丝",
+      "steps": [
+        "土豆削皮，切成比火柴棍略细的细丝，先把不平整的边角切平防止打滚。",
+        "锅中倒油，油面不要超过锅的一半，烧至七成热。",
+        "下入土豆丝，边炸边用筷子拨散，尽量往锅中间靠拢，全程大火。",
+        "炸到土豆丝变硬、上色金黄即可捞出，控油。",
+        "把炸油倒出，锅里留底油，下蒜末煸至金黄出蒜香。",
+        "放入干辣椒段和香菜段炒香，让香味跑进油里。",
+        "关火，把炸好的土豆丝倒回锅中，用筷子轻轻抖散。",
+        "加鸡粉、盐、葱丝，淋少许香油，拌匀出锅。"
+      ],
+      "notes": [
+        "土豆丝要全程大火、高油温炸，才能干香酥脆。",
+        "拌料时关火操作，保持土豆丝的酥脆口感。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Spicy Crispy Potato Shreds",
+      "steps": [
+        "Peel the potatoes and cut into shreds slightly thinner than a matchstick; trim the rounded edges first so they don't roll.",
+        "Pour oil into the wok, no more than half full, and heat to about 70% hot.",
+        "Add the potato shreds, stirring with chopsticks to keep them apart and gathered toward the center; keep the heat high throughout.",
+        "Fry until the shreds turn firm and golden, then remove and drain.",
+        "Pour off the frying oil, leave a little in the wok, and fry the minced garlic until golden and fragrant.",
+        "Add the dried chili sections and chopped cilantro and stir-fry until fragrant, releasing the aromas into the oil.",
+        "Turn off the heat, return the fried potato shreds, and gently toss them apart with chopsticks.",
+        "Season with chicken bouillon, salt, and shredded scallion, drizzle with a little sesame oil, toss, and serve."
+      ],
+      "notes": [
+        "Fry the potato shreds over high heat in hot oil so they stay dry, fragrant, and crisp.",
+        "Turn off the heat while seasoning to keep the shreds crunchy.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Julienne de Pommes de Terre Croustillante et Épicée",
+      "steps": [
+        "Éplucher les pommes de terre et les couper en julienne un peu plus fine qu'une allumette ; aplatir d'abord les bords arrondis pour qu'elles ne roulent pas.",
+        "Verser l'huile dans le wok, sans dépasser la moitié, et chauffer à environ 70 %.",
+        "Ajouter la julienne et la séparer avec des baguettes en la rassemblant vers le centre ; garder le feu vif tout du long.",
+        "Frire jusqu'à ce que la julienne soit ferme et dorée, puis l'égoutter.",
+        "Vider l'huile de friture, en laisser un peu dans le wok et faire revenir l'ail haché jusqu'à ce qu'il soit doré et parfumé.",
+        "Ajouter les morceaux de piment séché et la coriandre hachée et faire sauter jusqu'à libérer les arômes dans l'huile.",
+        "Éteindre le feu, remettre la julienne frite et la détacher délicatement avec des baguettes.",
+        "Assaisonner avec le bouillon de poulet, le sel et la ciboule émincée, arroser d'un peu d'huile de sésame, mélanger et servir."
+      ],
+      "notes": [
+        "Frire la julienne à feu vif dans une huile bien chaude pour qu'elle reste sèche, parfumée et croustillante.",
+        "Éteindre le feu pendant l'assaisonnement pour préserver le croustillant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

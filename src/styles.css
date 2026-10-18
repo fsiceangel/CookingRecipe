@@ -1,0 +1,19 @@
+.skip-link { position: fixed; top: -100px; left: 16px; z-index: 1500; padding: 12px 20px; background: #e3edf7; color: #173f5f; border-radius: 12px; }
+.skip-link:focus { top: 12px; }
+@media (pointer: coarse) { .MuiChip-clickable { min-height: 44px; } }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
+}
+@media print {
+  .no-print, .app-header, .skip-link { display: none !important; }
+  html, body, #root, .MuiPaper-root { background: white !important; color: black !important; }
+  main { max-width: none !important; padding: 0 !important; }
+  .recipe-layout { display: block !important; }
+  .MuiPaper-root { box-shadow: none !important; break-inside: avoid; margin-bottom: 12px; }
+  #ingredients .MuiCheckbox-root { display: none; }
+  #ingredients .MuiTypography-root { text-decoration: none !important; }
+  .MuiTypography-root { color: black !important; }
+  .step-number { background: #eee !important; color: black !important; }
+  #steps .step-number { display: none; }
+  #steps .MuiCheckbox-root::after { content: attr(data-step); display: grid; place-items: center; width: 36px; height: 36px; color: black; }
+}

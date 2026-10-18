@@ -1,0 +1,143 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "oil-braised-prawns",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=4Tdee1QPf9g",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "prawns-1",
+      "ingredient": "prawns",
+      "name": {
+        "cn": "大虾",
+        "en": "Large prawns",
+        "fr": "Grosses gambas"
+      }
+    },
+    {
+      "id": "oil-2",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    },
+    {
+      "id": "scallion-3",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱丝",
+        "en": "Shredded scallion",
+        "fr": "Ciboule émincée"
+      }
+    },
+    {
+      "id": "ginger-4",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜丝",
+        "en": "Shredded ginger",
+        "fr": "Gingembre émincé"
+      }
+    },
+    {
+      "id": "ketchup-5",
+      "ingredient": "ketchup",
+      "name": {
+        "cn": "番茄酱",
+        "en": "Ketchup",
+        "fr": "Ketchup"
+      }
+    },
+    {
+      "id": "sugar-6",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "salt-7",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "water-8",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "油焖大虾",
+      "steps": [
+        "处理大虾：剪掉腿、爪、虾枪和虾须；从第二节开始挑出虾线，去掉头部的沙包，冲洗干净。",
+        "锅洗净烧热，倒入一勺干净油，把大虾虾头朝下放入，开大火煎。",
+        "用勺子按着虾头慢慢煎，煎出红色虾油、出香味后转小火翻面。",
+        "煎香后放入部分葱姜丝，开大火炒香。",
+        "加入番茄酱炒匀，边煎边晃锅别让它扒锅。",
+        "烹一点水（料酒/醋），再加水至与虾齐平；汤色和虾色接近时说明番茄酱量够了。",
+        "加糖、加盐定味（盐要足，糖用来柔和味道）。",
+        "大火收汁两三分钟，让虾的鲜甜和汁水互相融合，下剩余葱姜丝。",
+        "边收汁边把汁往虾上浇，汁浓稠发亮即可出锅。"
+      ],
+      "notes": [
+        "煎虾一定要煎出虾油、煎出香味，这是这道菜鲜味的来源。",
+        "盐一定要足，糖不是为了甜口，而是放大虾本身的鲜甜。",
+        "精确用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Oil-Braised Prawns",
+      "steps": [
+        "Prep the prawns: trim off the legs, claws, rostrum, and antennae; devein from the second segment, remove the sand sac in the head, and rinse clean.",
+        "Wash and heat the wok, add a spoon of clean oil, lay the prawns head-down, and pan-fry over high heat.",
+        "Press the heads with a spoon while frying to render the red prawn oil; once fragrant, lower the heat and flip them.",
+        "After they smell fragrant, add some of the shredded scallion and ginger and stir-fry over high heat.",
+        "Add ketchup and stir to combine, shaking the pan as you fry so it doesn't stick.",
+        "Splash in a little liquid, then add water to roughly the level of the prawns; when the sauce color matches the prawn color, you've added enough ketchup.",
+        "Season with sugar and salt (salt should be generous; sugar is to soften the flavor).",
+        "Reduce over high heat for two or three minutes so the prawns' sweetness and the sauce meld, then add the remaining scallion and ginger.",
+        "As it reduces, spoon the sauce over the prawns; once the sauce is thick and glossy, serve."
+      ],
+      "notes": [
+        "Be sure to fry the prawns until the red prawn oil renders and they smell fragrant; this is the source of the dish's umami.",
+        "Salt should be generous; the sugar is not for sweetness but to amplify the prawns' own sweet flavor.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Gambas Braisées à l'Huile",
+      "steps": [
+        "Préparer les gambas : couper les pattes, les pinces, le rostre et les antennes ; retirer le boyau à partir du deuxième segment, ôter la poche de sable dans la tête et rincer.",
+        "Laver et chauffer le wok, ajouter une cuillère d'huile propre, poser les gambas tête vers le bas et les saisir à feu vif.",
+        "Presser les têtes à la cuillère pendant la cuisson pour faire ressortir l'huile rouge des gambas ; une fois parfumées, baisser le feu et les retourner.",
+        "Quand elles embaument, ajouter une partie de la ciboule et du gingembre émincés et faire sauter à feu vif.",
+        "Ajouter le ketchup et mélanger, en secouant la poêle pendant la cuisson pour éviter que ça colle.",
+        "Verser un filet de liquide, puis ajouter de l'eau jusqu'au niveau des gambas ; quand la couleur de la sauce rejoint celle des gambas, le ketchup est suffisant.",
+        "Assaisonner de sucre et de sel (le sel doit être généreux ; le sucre sert à adoucir la saveur).",
+        "Réduire à feu vif deux ou trois minutes pour que la douceur des gambas et la sauce se mêlent, puis ajouter le reste de ciboule et de gingembre.",
+        "À mesure que ça réduit, napper les gambas de sauce ; quand la sauce est épaisse et brillante, servir."
+      ],
+      "notes": [
+        "Bien saisir les gambas jusqu'à ce que l'huile rouge ressorte et qu'elles embaument ; c'est la source de l'umami du plat.",
+        "Le sel doit être généreux ; le sucre n'est pas là pour le goût sucré mais pour amplifier la douceur naturelle des gambas.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

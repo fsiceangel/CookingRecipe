@@ -1,0 +1,274 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "black-pepper-beef-short-ribs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "beef-short-ribs-1",
+      "ingredient": "beef-short-ribs",
+      "name": {
+        "cn": "牛小排",
+        "en": "Beef Short Ribs",
+        "fr": "Côtes courtes de bœuf"
+      },
+      "amount": {
+        "cn": "400克",
+        "en": "400g",
+        "fr": "400g"
+      }
+    },
+    {
+      "id": "cooking-wine-2",
+      "ingredient": "cooking-wine",
+      "name": {
+        "cn": "花雕酒",
+        "en": "Hua Diao wine",
+        "fr": "Vin de Hua Diao"
+      },
+      "amount": {
+        "cn": "10克",
+        "en": "10g",
+        "fr": "10g"
+      }
+    },
+    {
+      "id": "light-soy-sauce-3",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "生抽",
+        "en": "Light Soy Sauce",
+        "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "20克",
+        "en": "20g",
+        "fr": "20g"
+      }
+    },
+    {
+      "id": "dark-soy-sauce-4",
+      "ingredient": "dark-soy-sauce",
+      "name": {
+        "cn": "老抽",
+        "en": "Dark Soy Sauce",
+        "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "10克",
+        "en": "10g",
+        "fr": "10g"
+      }
+    },
+    {
+      "id": "sugar-5",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "10克",
+        "en": "10g",
+        "fr": "10g"
+      }
+    },
+    {
+      "id": "black-pepper-6",
+      "ingredient": "black-pepper",
+      "name": {
+        "cn": "黑胡椒",
+        "en": "Black Pepper",
+        "fr": "Poivre noir"
+      },
+      "amount": {
+        "cn": "4克",
+        "en": "4g",
+        "fr": "4g"
+      }
+    },
+    {
+      "id": "baking-soda-7",
+      "ingredient": "baking-soda",
+      "name": {
+        "cn": "小苏打",
+        "en": "Baking Soda",
+        "fr": "Bicarbonate de soude"
+      },
+      "amount": {
+        "cn": "2克",
+        "en": "2g",
+        "fr": "2g"
+      }
+    },
+    {
+      "id": "cornstarch-8",
+      "ingredient": "cornstarch",
+      "name": {
+        "cn": "玉米淀粉",
+        "en": "Cornstarch",
+        "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "10克",
+        "en": "10g",
+        "fr": "10g"
+      }
+    },
+    {
+      "id": "butter-9",
+      "ingredient": "butter",
+      "name": {
+        "cn": "黄油",
+        "en": "Butter",
+        "fr": "Beurre"
+      },
+      "amount": {
+        "cn": "30克",
+        "en": "30g",
+        "fr": "30g"
+      }
+    },
+    {
+      "id": "cooking-wine-10",
+      "ingredient": "cooking-wine",
+      "name": {
+        "cn": "广东米酒",
+        "en": "Guangdong Rice Wine",
+        "fr": "Vin de riz du Guangdong"
+      },
+      "amount": {
+        "cn": "30克",
+        "en": "30g",
+        "fr": "30g"
+      }
+    },
+    {
+      "id": "ginger-11",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜末",
+        "en": "Minced Ginger",
+        "fr": "Gingembre haché"
+      }
+    },
+    {
+      "id": "garlic-12",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜末",
+        "en": "Minced Garlic",
+        "fr": "Ail haché"
+      }
+    },
+    {
+      "id": "onion-13",
+      "ingredient": "onion",
+      "name": {
+        "cn": "洋葱碎",
+        "en": "Chopped Onion",
+        "fr": "Oignon haché"
+      }
+    },
+    {
+      "id": "bell-pepper-14",
+      "ingredient": "bell-pepper",
+      "name": {
+        "cn": "彩椒丁",
+        "en": "Chopped Bell Peppers",
+        "fr": "Poivrons hachés"
+      }
+    },
+    {
+      "id": "oil-15",
+      "ingredient": "oil",
+      "name": {
+        "cn": "食用油",
+        "en": "Cooking Oil",
+        "fr": "Huile de cuisson"
+      }
+    },
+    {
+      "id": "oyster-sauce-16",
+      "ingredient": "oyster-sauce",
+      "name": {
+        "cn": "蚝油",
+        "en": "Oyster Sauce",
+        "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "10克",
+        "en": "10g",
+        "fr": "10g"
+      }
+    },
+    {
+      "id": "water-17",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      },
+      "amount": {
+        "cn": "30克",
+        "en": "30g",
+        "fr": "30g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "黑椒牛小排",
+      "steps": [
+        "准备牛肉：将牛小排冲洗干净，用厨房纸巾彻底擦干。",
+        "腌制牛肉：在碗中，将牛小排与10克花雕酒、10克生抽、5克老抽、5克糖、2克黑胡椒、2克小苏打和5克玉米淀粉混合。充分搅拌，确保每块都均匀裹上腌料。至少腌制2小时，但为获得最佳嫩度和风味，建议在冰箱中腌制过夜。",
+        "准备酱汁：在另一个小碗中，将2克黑胡椒、5克糖、10克生抽、10克蚝油、5克老抽、5克玉米淀粉和30克水搅拌均匀至顺滑。备用。",
+        "煎牛小排：在平底锅中用中高火加热足量油。将腌好的牛小排单层放入锅中。每面煎约1分钟，直到两面都呈漂亮的棕色并焦糖化。从锅中取出牛小排备用。",
+        "炒香料和蔬菜：清理平底锅，然后加入少量油和30克黄油。黄油融化后，加入姜末和蒜末炒香。加入切碎的洋葱和彩椒，用大火翻炒，直到它们开始变软但仍保持爽脆。",
+        "合并食材：将煎好的牛小排倒回锅中。将30克广东米酒沿锅边淋入，翻炒片刻让酒精蒸发。",
+        "完成菜肴：将准备好的酱汁混合物倒在所有食材上。继续用大火翻炒，直到酱汁变稠并均匀地裹在所有食材上。",
+        "立即装盘上桌。"
+      ],
+      "notes": [
+        "这道菜能做出风味浓郁、肉质鲜嫩的牛小排，堪比粤菜馆水准。建议将牛肉腌制过夜以获得最佳效果。"
+      ]
+    },
+    "en": {
+      "title": "Black Pepper Beef Short Ribs",
+      "steps": [
+        "Prepare the Beef: Rinse the beef short ribs and pat them completely dry with paper towels.",
+        "Marinate the Beef: In a bowl, combine the beef short ribs with 10g Hua Diao wine, 10g light soy sauce, 5g dark soy sauce, 5g sugar, 2g black pepper, 2g baking soda, and 5g cornstarch. Mix thoroughly. Marinate for at least 2 hours, or overnight in the refrigerator for best results.",
+        "Prepare the Sauce: In a separate small bowl, whisk together 2g black pepper, 5g sugar, 10g light soy sauce, 10g oyster sauce, 5g dark soy sauce, 5g cornstarch, and 30g water until smooth. Set aside.",
+        "Pan-Fry the Ribs: Heat a generous amount of oil in a pan over medium-high heat. Sear the marinated ribs for about 1 minute per side until browned. Remove and set aside.",
+        "Sauté Aromatics & Vegetables: Clean the pan, add more oil and 30g butter. Once melted, sauté minced ginger and garlic until fragrant. Add chopped onions and bell peppers, and stir-fry on high heat until they begin to soften but remain crisp.",
+        "Combine: Return the seared ribs to the pan. Pour 30g Guangdong rice wine around the edge of the pan and stir-fry briefly.",
+        "Finish the Dish: Pour the prepared sauce mixture over everything. Continue to stir-fry over high heat until the sauce thickens and coats all the ingredients.",
+        "Serve immediately."
+      ],
+      "notes": [
+        "This recipe creates a flavorful and tender beef short rib dish, similar to what you might find at a Cantonese restaurant. Marinating the beef overnight is recommended for the best results."
+      ]
+    },
+    "fr": {
+      "title": "Côtes Courtes de Bœuf au Poivre Noir",
+      "steps": [
+        "Préparer le bœuf : Rincer les côtes courtes de bœuf et les sécher complètement avec du papier absorbant.",
+        "Mariner le bœuf : Dans un bol, mélanger les côtes courtes avec 10g de vin de Hua Diao, 10g de sauce soja claire, 5g de sauce soja foncée, 5g de sucre, 2g de poivre noir, 2g de bicarbonate de soude et 5g de fécule de maïs. Bien mélanger. Laisser mariner au moins 2 heures, ou toute une nuit au réfrigérateur pour un meilleur résultat.",
+        "Préparer la sauce : Dans un petit bol, fouetter ensemble 2g de poivre noir, 5g de sucre, 10g de sauce soja claire, 10g de sauce d'huître, 5g de sauce soja foncée, 5g de fécule de maïs et 30g d'eau jusqu'à consistance lisse. Mettre de côté.",
+        "Saisir les côtes : Chauffer une généreuse quantité d'huile dans une poêle à feu moyen-vif. Saisir les côtes marinées environ 1 minute de chaque côté jusqu'à ce qu'elles soient dorées. Retirer et réserver.",
+        "Faire revenir les aromates et les légumes : Nettoyer la poêle, ajouter un peu plus d'huile et 30g de beurre. Une fois fondu, faire revenir le gingembre et l'ail hachés jusqu'à ce qu'ils soient parfumés. Ajouter les oignons et les poivrons hachés, et faire sauter à feu vif jusqu'à ce qu'ils commencent à ramollir tout en restant croquants.",
+        "Combiner : Remettre les côtes saisies dans la poêle. Verser 30g de vin de riz du Guangdong sur le bord de la poêle et faire sauter brièvement.",
+        "Terminer le plat : Verser le mélange de sauce préparé sur l'ensemble. Continuer à faire sauter à feu vif jusqu'à ce que la sauce épaississe et enrobe tous les ingrédients.",
+        "Servir immédiatement."
+      ],
+      "notes": [
+        "Cette recette permet de créer un plat de côtes courtes de bœuf savoureux et tendre, similaire à ce que l'on pourrait trouver dans un restaurant cantonais. Il est recommandé de faire mariner le bœuf toute une nuit pour de meilleurs résultats."
+      ]
+    }
+  }
+}

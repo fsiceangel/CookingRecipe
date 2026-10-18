@@ -1,0 +1,294 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "braised-beef-shank",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.bilibili.com/video/BV1Yu41177FD",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "beef-shank-1",
+      "ingredient": "beef-shank",
+      "name": {
+        "cn": "牛腱子",
+        "en": "Beef Shank",
+        "fr": "Jarret de boeuf"
+      },
+      "amount": {
+        "cn": "6斤",
+        "en": "3kg (6 jin)",
+        "fr": "3kg"
+      }
+    },
+    {
+      "id": "star-anise-2",
+      "ingredient": "star-anise",
+      "name": {
+        "cn": "大料",
+        "en": "Star Anise",
+        "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "12个",
+        "en": "12",
+        "fr": "12"
+      }
+    },
+    {
+      "id": "cinnamon-bark-3",
+      "ingredient": "cinnamon-bark",
+      "name": {
+        "cn": "桂皮",
+        "en": "Cinnamon Bark",
+        "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "25g",
+        "en": "25g",
+        "fr": "25g"
+      }
+    },
+    {
+      "id": "dried-yellow-bean-paste-4",
+      "ingredient": "dried-yellow-bean-paste",
+      "name": {
+        "cn": "干黄酱",
+        "en": "Dried Yellow Bean Paste",
+        "fr": "Pâte de haricots jaunes séchée"
+      },
+      "amount": {
+        "cn": "150g",
+        "en": "150g",
+        "fr": "150g"
+      }
+    },
+    {
+      "id": "fennel-seeds-5",
+      "ingredient": "fennel-seeds",
+      "name": {
+        "cn": "小茴香",
+        "en": "Fennel Seeds",
+        "fr": "Graines de fenouil"
+      },
+      "amount": {
+        "cn": "12g",
+        "en": "12g",
+        "fr": "12g"
+      }
+    },
+    {
+      "id": "light-soy-sauce-6",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "大豆酱油",
+        "en": "Soybean Sauce",
+        "fr": "Sauce de soja"
+      },
+      "amount": {
+        "cn": "100g",
+        "en": "100g",
+        "fr": "100g"
+      }
+    },
+    {
+      "id": "light-soy-sauce-7",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "鲜味酱油",
+        "en": "Light Soy Sauce",
+        "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "50g",
+        "en": "50g",
+        "fr": "50g"
+      }
+    },
+    {
+      "id": "salt-8",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      },
+      "amount": {
+        "cn": "70g",
+        "en": "70g",
+        "fr": "70g"
+      }
+    },
+    {
+      "id": "scallion-9",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "大葱",
+        "en": "Scallion",
+        "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "250g",
+        "en": "250g",
+        "fr": "250g"
+      }
+    },
+    {
+      "id": "ginger-10",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "250g",
+        "en": "250g",
+        "fr": "250g"
+      }
+    },
+    {
+      "id": "cooking-wine-11",
+      "ingredient": "cooking-wine",
+      "name": {
+        "cn": "花雕酒",
+        "en": "Huadiao Wine",
+        "fr": "Vin de Huadiao"
+      },
+      "amount": {
+        "cn": "适量",
+        "en": "as needed",
+        "fr": "au besoin"
+      }
+    },
+    {
+      "id": "water-12",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      },
+      "amount": {
+        "cn": "6斤",
+        "en": "3L (6 jin)",
+        "fr": "3L"
+      }
+    },
+    {
+      "id": "light-soy-sauce-13",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "酱油",
+        "en": "Soy Sauce",
+        "fr": "Sauce Soja"
+      },
+      "amount": {
+        "cn": "100g",
+        "en": "100g",
+        "fr": "100g"
+      }
+    },
+    {
+      "id": "chili-pepper-14",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "干辣椒",
+        "en": "Dried Chili Peppers",
+        "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "3个",
+        "en": "3",
+        "fr": "3"
+      }
+    },
+    {
+      "id": "bay-leaf-15",
+      "ingredient": "bay-leaf",
+      "name": {
+        "cn": "香叶",
+        "en": "Bay Leaves",
+        "fr": "Feuilles de laurier"
+      },
+      "amount": {
+        "cn": "3片",
+        "en": "3",
+        "fr": "3"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-16",
+      "ingredient": "sichuan-peppercorn",
+      "name": {
+        "cn": "花椒",
+        "en": "Sichuan Peppercorns",
+        "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "2g",
+        "en": "2g",
+        "fr": "2g"
+      }
+    },
+    {
+      "id": "rock-sugar-17",
+      "ingredient": "rock-sugar",
+      "name": {
+        "cn": "冰糖",
+        "en": "Rock Sugar",
+        "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "适量",
+        "en": "as needed",
+        "fr": "au besoin"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "卤牛肉",
+      "steps": [
+        "牛腱子表面的油和皮去掉（不扔掉，卤汤一块炖），牛肉先中间改刀再分成小块。",
+        "用竹签在牛肉块表面均匀扎孔，便于入味。",
+        "牛肉加入香料、黄酱、花雕酒稀释黄酱、大豆酱油、鲜味酱油、葱姜、盐，反复抓匀腌制（最短两小时）。",
+        "锅中加底油，葱姜煸黄。变色后倒入香料和干辣椒，煸出香味，加入黄酱，加酱油，水，烧开。颜色浅的话补酱油，味合适后加冰糖（汤比正常咸就行）。",
+        "卤汤倒入高压锅，另起一锅水烧开，腌好的牛肉放入，开锅后撇去浮沫。捞入高压锅中，开头片下的油也加进去。",
+        "高压锅盖盖，上汽后40分钟。再浸泡20分钟，出锅。"
+      ],
+      "notes": [
+        "可以拌面！"
+      ]
+    },
+    "en": {
+      "title": "Braised Beef Shank",
+      "steps": [
+        "Trim the fat and skin from the beef shank (do not discard, braise with the meat), then cut the shank into smaller chunks.",
+        "Use a skewer to poke holes all over the beef chunks to help the marinade penetrate.",
+        "Add spices, yellow bean paste (diluted with Huadiao wine), soybean sauce, light soy sauce, scallion, ginger, and salt to the beef. Mix thoroughly and marinate for at least two hours.",
+        "Heat oil in a wok and sauté scallion and ginger until golden brown. Add spices and dried chili peppers, stir-frying until fragrant. Add yellow bean paste, soy sauce, and water. Bring to a boil. If the color is too light, add more soy sauce. Add rock sugar to taste (the broth should be saltier than normal).",
+        "Transfer the braising liquid to a pressure cooker. In a separate pot, bring water to a boil, blanch the marinated beef, and skim off any scum. Transfer the blanched beef and the reserved fat/skin to the pressure cooker.",
+        "Secure the lid of the pressure cooker. After it reaches pressure, cook for 40 minutes. Let it rest and soak in the liquid for another 20 minutes before serving."
+      ],
+      "notes": [
+        "Great with noodles!"
+      ]
+    },
+    "fr": {
+      "title": "Jarret de boeuf braisé",
+      "steps": [
+        "Parer la graisse et la peau du jarret de boeuf (ne pas jeter, braiser avec la viande), puis couper le jarret en morceaux plus petits.",
+        "Utiliser une brochette pour piquer des trous partout sur les morceaux de boeuf pour aider la marinade à pénétrer.",
+        "Ajouter les épices, la pâte de haricots jaunes (diluée avec du vin de Huadiao), la sauce de soja, la sauce soja claire, la ciboule, le gingembre et le sel au boeuf. Bien mélanger et laisser mariner pendant au moins deux heures.",
+        "Chauffer l'huile dans un wok et faire sauter la ciboule et le gingembre jusqu'à ce qu'ils soient dorés. Ajouter les épices et les piments séchés, en remuant jusqu'à ce qu'ils soient parfumés. Ajouter la pâte de haricots jaunes, la sauce soja et l'eau. Porter à ébullition. Si la couleur est trop claire, ajouter plus de sauce soja. Ajouter du sucre candi au goût (le bouillon doit être plus salé que la normale).",
+        "Transférer le liquide de braisage dans un autocuiseur. Dans une autre casserole, porter l'eau à ébullition, blanchir le boeuf mariné et écumer toute impureté. Transférer le boeuf blanchi et la graisse/peau réservée dans l'autocuiseur.",
+        "Fermer le couvercle de l'autocuiseur. Après avoir atteint la pression, cuire pendant 40 minutes. Laisser reposer et tremper dans le liquide pendant 20 minutes supplémentaires avant de servir."
+      ],
+      "notes": [
+        "Excellent avec des nouilles !"
+      ]
+    }
+  }
+}

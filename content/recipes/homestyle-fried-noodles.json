@@ -1,0 +1,146 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "homestyle-fried-noodles",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=rP_S9BNdWu0",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "noodles-1",
+      "ingredient": "noodles",
+      "name": {
+        "cn": "面条",
+        "en": "Noodles",
+        "fr": "Nouilles"
+      }
+    },
+    {
+      "id": "pork-loin-2",
+      "ingredient": "pork-loin",
+      "name": {
+        "cn": "肉丝",
+        "en": "Shredded pork",
+        "fr": "Porc émincé"
+      }
+    },
+    {
+      "id": "onion-3",
+      "ingredient": "onion",
+      "name": {
+        "cn": "洋葱",
+        "en": "Onion",
+        "fr": "Oignon"
+      }
+    },
+    {
+      "id": "chili-pepper-4",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "青红椒、小米辣",
+        "en": "Green & red chilies, bird's-eye chili",
+        "fr": "Piments verts et rouges, piment oiseau"
+      }
+    },
+    {
+      "id": "garlic-5",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜蓉",
+        "en": "Minced garlic",
+        "fr": "Ail haché"
+      }
+    },
+    {
+      "id": "chili-sauce-6",
+      "ingredient": "chili-sauce",
+      "name": {
+        "cn": "辣酱",
+        "en": "Chili sauce",
+        "fr": "Sauce piquante"
+      }
+    },
+    {
+      "id": "light-soy-sauce-7",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "酱油",
+        "en": "Soy sauce",
+        "fr": "Sauce soja"
+      }
+    },
+    {
+      "id": "sesame-oil-8",
+      "ingredient": "sesame-oil",
+      "name": {
+        "cn": "香油",
+        "en": "Sesame oil",
+        "fr": "Huile de sésame"
+      }
+    },
+    {
+      "id": "oil-9",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "家常炒面",
+      "steps": [
+        "煮面：水一定要宽，面条下锅搅动防粘，烧开后转中火慢煮。",
+        "尝一口，咬开中间没有白芯即熟，捞出放一旁，不要过水。",
+        "起锅烧油，全程大火，下肉丝煸熟。",
+        "依次放入洋葱、青红椒、小米辣，把所有配料煸香。",
+        "放入辣酱炒匀（一定要在下面条之前放，否则肉丝不入味）。",
+        "转小火，把料和面条拌匀，让面条都裹上料、上色。",
+        "沿锅边烹入酱油，放入蒜蓉，翻炒提香。",
+        "尝味，差咸味就再烹点酱油，最后淋香油，出锅。"
+      ],
+      "notes": [
+        "出锅前锅底要有微微'巴锅'的状态，香气才出得来；锅太干净反而炒不香。",
+        "可随意加鸡蛋、火腿肠等配料。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Homestyle Fried Noodles",
+      "steps": [
+        "Boil the noodles in plenty of water, stirring to prevent sticking; once boiling, lower to medium heat and simmer.",
+        "Taste a strand: when there is no white core in the center it is done. Drain and set aside, do NOT rinse.",
+        "Heat oil in a wok over high heat (keep it high throughout) and stir-fry the shredded pork until cooked.",
+        "Add the onion, green and red chilies, and bird's-eye chili, and stir-fry until fragrant.",
+        "Stir in the chili sauce (add it now, before the noodles, or the pork won't take on flavor).",
+        "Lower the heat, add the noodles, and toss until evenly coated and colored.",
+        "Drizzle soy sauce around the edge of the wok, add minced garlic, and toss to bring out the aroma.",
+        "Taste; if it needs salt, add a touch more soy sauce. Finish with sesame oil and serve."
+      ],
+      "notes": [
+        "Just before serving, the wok bottom should be lightly searing ('ba guo') — that is what brings out the aroma; too clean a wok won't develop it.",
+        "Feel free to add egg, ham sausage, or any vegetables you like. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles Sautées Maison",
+      "steps": [
+        "Cuire les nouilles dans une grande quantité d'eau en remuant pour éviter qu'elles collent ; à l'ébullition, baisser à feu moyen et laisser mijoter.",
+        "Goûter une nouille : quand il n'y a plus de cœur blanc au centre, elles sont cuites. Égoutter et réserver, ne PAS rincer.",
+        "Chauffer l'huile dans un wok à feu vif (le garder vif tout du long) et faire sauter le porc émincé jusqu'à cuisson.",
+        "Ajouter l'oignon, les piments verts et rouges et le piment oiseau, et faire sauter jusqu'à ce que ce soit parfumé.",
+        "Incorporer la sauce piquante (l'ajouter maintenant, avant les nouilles, sinon le porc ne prendra pas de goût).",
+        "Baisser le feu, ajouter les nouilles et mélanger jusqu'à ce qu'elles soient bien enrobées et colorées.",
+        "Verser la sauce soja sur le bord du wok, ajouter l'ail haché et mélanger pour libérer les arômes.",
+        "Goûter ; s'il manque du sel, ajouter un peu de sauce soja. Terminer avec l'huile de sésame et servir."
+      ],
+      "notes": [
+        "Juste avant de servir, le fond du wok doit légèrement accrocher ('ba guo') — c'est ce qui développe l'arôme ; un wok trop propre ne le donnera pas.",
+        "On peut ajouter œuf, saucisse ou les légumes de son choix. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

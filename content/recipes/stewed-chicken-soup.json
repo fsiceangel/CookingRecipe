@@ -1,0 +1,140 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "stewed-chicken-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=g2Pv_BV0Rdg",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "chicken-1",
+      "ingredient": "chicken",
+      "name": {
+        "cn": "鸡",
+        "en": "Chicken",
+        "fr": "Poulet"
+      }
+    },
+    {
+      "id": "cooking-wine-2",
+      "ingredient": "cooking-wine",
+      "name": {
+        "cn": "料酒",
+        "en": "Cooking wine",
+        "fr": "Vin de cuisine"
+      }
+    },
+    {
+      "id": "dang-shen-3",
+      "ingredient": "dang-shen",
+      "name": {
+        "cn": "党参",
+        "en": "Codonopsis (dang shen)",
+        "fr": "Codonopsis (dang shen)"
+      }
+    },
+    {
+      "id": "red-dates-4",
+      "ingredient": "red-dates",
+      "name": {
+        "cn": "红枣",
+        "en": "Red dates",
+        "fr": "Jujubes"
+      }
+    },
+    {
+      "id": "longan-5",
+      "ingredient": "longan",
+      "name": {
+        "cn": "桂圆",
+        "en": "Longan",
+        "fr": "Longane"
+      }
+    },
+    {
+      "id": "goji-berry-6",
+      "ingredient": "goji-berry",
+      "name": {
+        "cn": "枸杞",
+        "en": "Goji berries",
+        "fr": "Baies de goji"
+      }
+    },
+    {
+      "id": "ginger-7",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "salt-8",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "msg-9",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "炖鸡汤",
+      "steps": [
+        "买回来的小鸡，把骨头捏一下，这样熟得更快。",
+        "鸡冷水下锅，加料酒焯水，撇去浮沫，开两开、水清澈即可。",
+        "把鸡放到干净锅里，加入党参、红枣、桂圆、枸杞和两片姜。",
+        "加入足量清水（八分满），大火烧开。",
+        "这么大的鸡至少炖一个半小时；着急可以煮或高压锅；想汤特别清就用蒸的。",
+        "到时间后调味，加盐和味精，尝味后即可出锅。"
+      ],
+      "notes": [
+        "想要汤更清澈，用蒸的方式炖鸡。",
+        "具体克数请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Stewed Chicken Soup",
+      "steps": [
+        "Lightly crack the bones of the chicken so it cooks faster.",
+        "Put the chicken in a pot of cold water, add cooking wine, blanch, skim off the foam, and boil until the water runs clear.",
+        "Transfer the chicken to a clean pot and add codonopsis, red dates, longan, goji berries and two slices of ginger.",
+        "Add plenty of water (about 80% full) and bring to a boil.",
+        "Stew a chicken this size for at least 1.5 hours; use a pot or pressure cooker if in a hurry, or steam it for an especially clear soup.",
+        "When the time is up, season with salt and MSG, taste, and serve."
+      ],
+      "notes": [
+        "For a clearer soup, steam the chicken instead of boiling.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de Poulet Mijotée",
+      "steps": [
+        "Fêler légèrement les os du poulet pour qu'il cuise plus vite.",
+        "Mettre le poulet dans une casserole d'eau froide, ajouter le vin de cuisine, blanchir, écumer la mousse et faire bouillir jusqu'à ce que l'eau soit claire.",
+        "Transférer le poulet dans une casserole propre et ajouter le codonopsis, les jujubes, le longane, les baies de goji et deux tranches de gingembre.",
+        "Ajouter beaucoup d'eau (environ 80% du volume) et porter à ébullition.",
+        "Mijoter un poulet de cette taille au moins 1h30 ; utiliser une cocotte-minute si pressé, ou le cuire à la vapeur pour une soupe particulièrement claire.",
+        "Une fois le temps écoulé, assaisonner de sel et de glutamate, goûter et servir."
+      ],
+      "notes": [
+        "Pour une soupe plus claire, cuire le poulet à la vapeur plutôt qu'à l'eau.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

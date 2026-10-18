@@ -1,0 +1,218 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "homestyle-crispy-rice",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=2GFRgzSjafA",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "cooked-rice-1",
+      "ingredient": "cooked-rice",
+      "name": {
+        "cn": "米饭",
+        "en": "Cooked rice",
+        "fr": "Riz cuit"
+      }
+    },
+    {
+      "id": "oil-2",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    },
+    {
+      "id": "chili-pepper-3",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "辣椒",
+        "en": "Chili pepper",
+        "fr": "Piment"
+      }
+    },
+    {
+      "id": "sesame-seeds-4",
+      "ingredient": "sesame-seeds",
+      "name": {
+        "cn": "芝麻",
+        "en": "Sesame seeds",
+        "fr": "Graines de sésame"
+      }
+    },
+    {
+      "id": "pork-belly-5",
+      "ingredient": "pork-belly",
+      "name": {
+        "cn": "五花肉",
+        "en": "Pork belly",
+        "fr": "Poitrine de porc"
+      }
+    },
+    {
+      "id": "onion-6",
+      "ingredient": "onion",
+      "name": {
+        "cn": "洋葱",
+        "en": "Onion",
+        "fr": "Oignon"
+      }
+    },
+    {
+      "id": "ginger-7",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "garlic-8",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "potato-9",
+      "ingredient": "potato",
+      "name": {
+        "cn": "土豆",
+        "en": "Potato",
+        "fr": "Pomme de terre"
+      }
+    },
+    {
+      "id": "shiitake-mushroom-10",
+      "ingredient": "shiitake-mushroom",
+      "name": {
+        "cn": "香菇",
+        "en": "Shiitake mushroom",
+        "fr": "Champignon shiitake"
+      }
+    },
+    {
+      "id": "light-soy-sauce-11",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "酱油",
+        "en": "Soy sauce",
+        "fr": "Sauce soja"
+      }
+    },
+    {
+      "id": "salt-12",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "msg-13",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "shrimp-14",
+      "ingredient": "shrimp",
+      "name": {
+        "cn": "虾仁",
+        "en": "Shrimp",
+        "fr": "Crevettes"
+      }
+    },
+    {
+      "id": "cornstarch-slurry-15",
+      "ingredient": "cornstarch-slurry",
+      "name": {
+        "cn": "水淀粉",
+        "en": "Cornstarch slurry",
+        "fr": "Liaison à la fécule"
+      }
+    },
+    {
+      "id": "water-16",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "家常锅巴",
+      "steps": [
+        "电饼铛打开，把热米饭趁热按进去，按得薄而均匀，让米粒之间粘在一起。",
+        "用最高档烘烤，每隔几分钟掀开放掉热气，让里面的湿气蒸发，否则锅巴干不了。",
+        "等表面定型可翻面，之后不用再翻，继续烘到一掰就断、里面没有水汽的程度，掰成块备用。",
+        "锅中加底油，放辣椒和芝麻，大火烧热转小火慢慢把辣椒炸香后捞出。",
+        "下五花肉片煸出油脂，煎到表面焦黄。",
+        "放入洋葱、姜末、蒜末炒出香气和锅气。",
+        "倒入土豆，用锅里的油煸到变色（土豆的淀粉煮时还能让汤汁浓稠），再放入焯过水的香菇。",
+        "加入酱油，先别急着加水，让肉和土豆吃足酱油味并去腥，然后加水。",
+        "开锅让肉香味滚到汤里，加盐、味精，放入焯过水的虾仁，烧开后勾芡成浓汤。",
+        "另起锅烧油，下锅巴炸到蓬松酥脆，捞出装盘。",
+        "把烧好的浓汤浇在锅巴上，最后放上炸好的辣椒点缀即可。"
+      ],
+      "notes": [
+        "烘锅巴时要勤掀盖放热气，把湿气排掉锅巴才能酥脆。",
+        "辣椒最后放，炸得跟锅巴一样酥；趁锅巴最酥脆时浇汁吸味最香。具体用量见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Homestyle Crispy Rice (Guoba)",
+      "steps": [
+        "Open an electric griddle and press the hot rice into it while warm, spreading it thin and even so the grains stick together.",
+        "Bake on the highest setting; every few minutes lift the lid to release the heat and let the moisture evaporate, or the crust won't dry out.",
+        "Once the surface sets, flip it; after that no more flipping. Keep baking until it snaps when broken and is dry inside, then break into pieces.",
+        "Add a little oil to a wok, add the chili peppers and sesame seeds, heat over high then lower to gently fry the chilies fragrant, and remove them.",
+        "Add the sliced pork belly and render out the fat, frying until the surface is golden-brown.",
+        "Add the onion, minced ginger, and minced garlic and stir-fry until fragrant.",
+        "Add the potato and saute in the oil until it changes color (the potato starch will also thicken the broth later), then add the blanched shiitake mushrooms.",
+        "Add soy sauce; don't rush to add water - let the pork and potato absorb the soy flavor and lose any off smell first, then add water.",
+        "Bring to a boil so the pork aroma infuses the broth, season with salt and MSG, add the blanched shrimp, bring back to a boil, and thicken with cornstarch slurry into a rich sauce.",
+        "In a separate pot, heat oil and fry the rice crusts until puffed and crisp, then drain and plate.",
+        "Pour the hot sauce over the crispy rice and garnish with the fried chilies."
+      ],
+      "notes": [
+        "While baking the crust, lift the lid often to vent moisture so it turns crisp.",
+        "Add the chilies last so they fry as crisp as the rice; pour the sauce when the crust is at its crispest for the best flavor absorption. Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Riz Croustillant Maison (Guoba)",
+      "steps": [
+        "Ouvrir une plaque électrique et presser le riz chaud dedans tant qu'il est tiède, en l'étalant fin et régulier pour que les grains collent ensemble.",
+        "Cuire au réglage maximal ; toutes les quelques minutes, soulever le couvercle pour libérer la chaleur et laisser l'humidité s'évaporer, sinon la croûte ne séchera pas.",
+        "Une fois la surface prise, la retourner ; ensuite ne plus la retourner. Continuer à cuire jusqu'à ce qu'elle casse net et soit sèche à l'intérieur, puis la briser en morceaux.",
+        "Ajouter un peu d'huile dans un wok, ajouter les piments et les graines de sésame, chauffer à feu vif puis baisser pour frire doucement les piments jusqu'à parfum, et les retirer.",
+        "Ajouter la poitrine de porc tranchée et faire fondre le gras, en frisant jusqu'à ce que la surface soit dorée.",
+        "Ajouter l'oignon, le gingembre et l'ail hachés et faire sauter jusqu'à parfum.",
+        "Ajouter la pomme de terre et la faire revenir dans l'huile jusqu'à ce qu'elle change de couleur (sa fécule épaissira aussi le bouillon plus tard), puis ajouter les shiitakes blanchis.",
+        "Ajouter la sauce soja ; ne pas se précipiter pour ajouter l'eau - laisser le porc et la pomme de terre absorber le goût de soja d'abord, puis ajouter l'eau.",
+        "Porter à ébullition pour que l'arôme du porc imprègne le bouillon, assaisonner de sel et de glutamate, ajouter les crevettes blanchies, redonner un bouillon et lier avec la fécule en une sauce onctueuse.",
+        "Dans une autre casserole, chauffer l'huile et frire les croûtes de riz jusqu'à ce qu'elles soient gonflées et croustillantes, puis égoutter et dresser.",
+        "Verser la sauce chaude sur le riz croustillant et garnir des piments frits."
+      ],
+      "notes": [
+        "Pendant la cuisson de la croûte, soulever souvent le couvercle pour évacuer l'humidité afin qu'elle devienne croustillante.",
+        "Ajouter les piments en dernier pour qu'ils soient aussi croustillants que le riz ; verser la sauce quand la croûte est au plus croustillant pour la meilleure absorption. Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

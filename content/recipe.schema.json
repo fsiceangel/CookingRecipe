@@ -1,0 +1,140 @@
+{
+  "$ref": "#/definitions/recipe",
+  "definitions": {
+    "recipe": {
+      "type": "object",
+      "properties": {
+        "$schema": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "draft": {
+          "type": "boolean"
+        },
+        "hidden": {
+          "type": "boolean"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "dish",
+              "bakery",
+              "dessert"
+            ]
+          },
+          "minItems": 1
+        },
+        "difficulty": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 5,
+          "multipleOf": 0.5
+        },
+        "videoLink": {
+          "type": "string",
+          "format": "uri"
+        },
+        "defaultLanguage": {
+          "type": "string",
+          "enum": [
+            "cn",
+            "en",
+            "fr"
+          ]
+        },
+        "ingredients": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "$ref": "#/definitions/recipe/properties/id"
+              },
+              "ingredient": {
+                "$ref": "#/definitions/recipe/properties/id"
+              },
+              "name": {
+                "type": "object",
+                "properties": {
+                  "cn": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "en": {
+                    "$ref": "#/definitions/recipe/properties/ingredients/items/properties/name/properties/cn"
+                  },
+                  "fr": {
+                    "$ref": "#/definitions/recipe/properties/ingredients/items/properties/name/properties/cn"
+                  }
+                },
+                "additionalProperties": false
+              },
+              "amount": {
+                "$ref": "#/definitions/recipe/properties/ingredients/items/properties/name"
+              }
+            },
+            "required": [
+              "id",
+              "ingredient"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 1
+        },
+        "translations": {
+          "type": "object",
+          "properties": {
+            "cn": {
+              "type": "object",
+              "properties": {
+                "title": {
+                  "$ref": "#/definitions/recipe/properties/ingredients/items/properties/name/properties/cn"
+                },
+                "steps": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/recipe/properties/ingredients/items/properties/name/properties/cn"
+                  },
+                  "minItems": 1
+                },
+                "notes": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/recipe/properties/ingredients/items/properties/name/properties/cn"
+                  }
+                }
+              },
+              "required": [
+                "title",
+                "steps"
+              ],
+              "additionalProperties": false
+            },
+            "en": {
+              "$ref": "#/definitions/recipe/properties/translations/properties/cn"
+            },
+            "fr": {
+              "$ref": "#/definitions/recipe/properties/translations/properties/cn"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "id",
+        "tags",
+        "difficulty",
+        "defaultLanguage",
+        "ingredients",
+        "translations"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

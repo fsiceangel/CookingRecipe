@@ -1,0 +1,155 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "hot-sour-bean-sprouts",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=hnRuYmoKejw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "bean-sprouts-1",
+      "ingredient": "bean-sprouts",
+      "name": {
+        "cn": "豆芽",
+        "en": "Bean sprouts",
+        "fr": "Germes de soja"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-2",
+      "ingredient": "sichuan-peppercorn",
+      "name": {
+        "cn": "花椒",
+        "en": "Sichuan peppercorns",
+        "fr": "Poivre du Sichuan"
+      }
+    },
+    {
+      "id": "chili-pepper-3",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "干辣椒",
+        "en": "Dried chili peppers",
+        "fr": "Piments séchés"
+      }
+    },
+    {
+      "id": "salt-4",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "msg-5",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "sugar-6",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "cornstarch-7",
+      "ingredient": "cornstarch",
+      "name": {
+        "cn": "淀粉",
+        "en": "Starch",
+        "fr": "Fécule"
+      }
+    },
+    {
+      "id": "vinegar-8",
+      "ingredient": "vinegar",
+      "name": {
+        "cn": "米醋",
+        "en": "Rice vinegar",
+        "fr": "Vinaigre de riz"
+      }
+    },
+    {
+      "id": "sesame-oil-9",
+      "ingredient": "sesame-oil",
+      "name": {
+        "cn": "香油",
+        "en": "Sesame oil",
+        "fr": "Huile de sésame"
+      }
+    },
+    {
+      "id": "oil-10",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸辣豆芽",
+      "steps": [
+        "选短粗、没泡过水的豆芽，时间充裕可把两头掐掉，口感更好。",
+        "调一个碗汁：盐、味精、白糖、淀粉、米醋、香油混合均匀。",
+        "起锅烧油，旺火爆炒，先下花椒炸到中红色，再下干辣椒。",
+        "倒入豆芽，量不要太多，保持锅温。",
+        "少翻锅、不抬锅，让火一直在锅底加热，锅里始终冒着热气。",
+        "豆芽稍微变色、锅里一点汤都没有时，烹入调好的碗汁。",
+        "快速翻匀即可出锅。"
+      ],
+      "notes": [
+        "炒豆芽不出汤的关键：锅要够热、旺火爆炒；豆芽一次别放太多，否则锅温下降太快。",
+        "淀粉量要掌控好，旺火下淀粉失水，烹汁后能锁住水分，半天不出汤。",
+        "具体配料和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Hot & Sour Bean Sprouts",
+      "steps": [
+        "Choose short, plump bean sprouts that haven't been soaked; if you have time, pinch off both ends for a better texture.",
+        "Mix a sauce in a bowl: salt, MSG, sugar, starch, rice vinegar, and sesame oil.",
+        "Heat oil in the wok over high heat; first add Sichuan peppercorns and fry until medium-red, then add dried chili peppers.",
+        "Add the bean sprouts, but not too many, to keep the wok hot.",
+        "Toss the wok as little as possible and don't lift it off the flame, keeping the heat on the bottom so steam keeps rising.",
+        "When the sprouts have slightly changed color and there is no liquid in the wok, pour in the prepared sauce.",
+        "Toss quickly to coat and serve."
+      ],
+      "notes": [
+        "Keys to liquid-free sprouts: the wok must be very hot with high-heat flash-frying, and don't add too many sprouts at once or the temperature drops too fast.",
+        "Control the amount of starch; under high heat it loses water, and once the sauce is added it locks in moisture so no liquid weeps out.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Germes de Soja Aigres-Piquants",
+      "steps": [
+        "Choisir des germes de soja courts et dodus, non trempés; si vous avez le temps, pincer les deux extrémités pour une meilleure texture.",
+        "Mélanger une sauce dans un bol : sel, glutamate, sucre, fécule, vinaigre de riz et huile de sésame.",
+        "Chauffer l'huile dans le wok à feu vif; ajouter d'abord le poivre du Sichuan et frire jusqu'au rouge moyen, puis ajouter les piments séchés.",
+        "Ajouter les germes de soja, mais pas trop, pour garder le wok bien chaud.",
+        "Remuer le wok le moins possible et ne pas le soulever du feu, en gardant la chaleur au fond pour que la vapeur continue de monter.",
+        "Quand les germes ont légèrement changé de couleur et qu'il n'y a pas de liquide dans le wok, verser la sauce préparée.",
+        "Mélanger rapidement pour enrober et servir."
+      ],
+      "notes": [
+        "Clés pour des germes sans jus : le wok doit être brûlant avec une cuisson éclair à feu vif, et ne pas mettre trop de germes à la fois sinon la température chute trop vite.",
+        "Doser la fécule; à feu vif elle perd son eau, et une fois la sauce ajoutée elle retient l'humidité pour qu'aucun jus ne s'échappe.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

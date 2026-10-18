@@ -1,0 +1,149 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "butter-mochi-cake",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=yhjTPI7s89w",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "egg-1",
+      "ingredient": "egg",
+      "name": {
+        "cn": "全蛋液",
+        "en": "Whole Egg",
+        "fr": "Œuf entier"
+      },
+      "amount": {
+        "cn": "50克",
+        "en": "50g",
+        "fr": "50g"
+      }
+    },
+    {
+      "id": "milk-2",
+      "ingredient": "milk",
+      "name": {
+        "cn": "牛奶",
+        "en": "Milk",
+        "fr": "Lait"
+      },
+      "amount": {
+        "cn": "200克",
+        "en": "200g",
+        "fr": "200g"
+      }
+    },
+    {
+      "id": "sugar-3",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "细砂糖",
+        "en": "Caster Sugar",
+        "fr": "Sucre en poudre"
+      },
+      "amount": {
+        "cn": "50克",
+        "en": "50g",
+        "fr": "50g"
+      }
+    },
+    {
+      "id": "salt-4",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      },
+      "amount": {
+        "cn": "1.5克",
+        "en": "1.5g",
+        "fr": "1.5g"
+      }
+    },
+    {
+      "id": "butter-5",
+      "ingredient": "butter",
+      "name": {
+        "cn": "黄油 (融化)",
+        "en": "Butter (melted)",
+        "fr": "Beurre (fondu)"
+      },
+      "amount": {
+        "cn": "30克",
+        "en": "30g",
+        "fr": "30g"
+      }
+    },
+    {
+      "id": "milk-powder-6",
+      "ingredient": "milk-powder",
+      "name": {
+        "cn": "奶粉",
+        "en": "Milk Powder",
+        "fr": "Lait en poudre"
+      },
+      "amount": {
+        "cn": "20克",
+        "en": "20g",
+        "fr": "20g"
+      }
+    },
+    {
+      "id": "glutinous-rice-flour-7",
+      "ingredient": "glutinous-rice-flour",
+      "name": {
+        "cn": "糯米粉",
+        "en": "Glutinous Rice Flour",
+        "fr": "Farine de riz gluant"
+      },
+      "amount": {
+        "cn": "160克",
+        "en": "160g",
+        "fr": "160g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "黄油年糕",
+      "steps": [
+        "在碗中加入牛奶、鸡蛋、融化的黄油、细砂糖和盐，搅拌至糖和盐完全融化。",
+        "加入奶粉和糯米粉，搅拌至没有大的颗粒。",
+        "将面糊过筛两次，使其更加细腻。",
+        "在模具内壁刷上一层软化的黄油。",
+        "将面糊倒入模具中，约八九分满。",
+        "放入预热好的烤箱中下层，实际温度180度，烘烤约35分钟。"
+      ],
+      "notes": []
+    },
+    "en": {
+      "title": "Butter Mochi Cake",
+      "steps": [
+        "In a bowl, add milk, egg, melted butter, caster sugar, and salt. Stir until the sugar and salt are completely dissolved.",
+        "Add the milk powder and glutinous rice flour, and stir until there are no large lumps.",
+        "Sift the batter twice to make it finer.",
+        "Brush the inside of the mold with a layer of softened butter.",
+        "Pour the batter into the mold, about 80-90% full.",
+        "Place in a preheated oven on the lower-middle rack. Bake at 180°C (355°F) for about 35 minutes."
+      ],
+      "notes": []
+    },
+    "fr": {
+      "title": "Gâteau Mochi au Beurre",
+      "steps": [
+        "Dans un bol, ajouter le lait, l'œuf, le beurre fondu, le sucre en poudre et le sel. Remuer jusqu'à ce que le sucre et le sel soient complètement dissous.",
+        "Ajouter le lait en poudre et la farine de riz gluant, et remuer jusqu'à ce qu'il n'y ait plus de gros grumeaux.",
+        "Tamiser la pâte deux fois pour la rendre plus fine.",
+        "Badigeonner l'intérieur du moule avec une couche de beurre ramolli.",
+        "Verser la pâte dans le moule, en le remplissant à environ 80-90%.",
+        "Placer dans un four préchauffé sur la grille inférieure-moyenne. Cuire à 180°C pendant environ 35 minutes."
+      ],
+      "notes": []
+    }
+  }
+}

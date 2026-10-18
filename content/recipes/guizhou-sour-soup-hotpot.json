@@ -1,0 +1,275 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "guizhou-sour-soup-hotpot",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=-naczd9okkQ",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "red-sour-soup-1",
+      "ingredient": "red-sour-soup",
+      "name": {
+        "cn": "贵州红酸汤",
+        "en": "Guizhou red sour soup",
+        "fr": "Soupe aigre rouge du Guizhou"
+      }
+    },
+    {
+      "id": "chili-pepper-2",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "美人椒",
+        "en": "Red chili pepper",
+        "fr": "Piment rouge"
+      }
+    },
+    {
+      "id": "tomato-3",
+      "ingredient": "tomato",
+      "name": {
+        "cn": "西红柿",
+        "en": "Tomato",
+        "fr": "Tomate"
+      }
+    },
+    {
+      "id": "ginger-4",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "garlic-5",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "大蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "oil-6",
+      "ingredient": "oil",
+      "name": {
+        "cn": "油",
+        "en": "Oil",
+        "fr": "Huile"
+      }
+    },
+    {
+      "id": "water-7",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      }
+    },
+    {
+      "id": "msg-8",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "salt-9",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "chicken-bouillon-10",
+      "ingredient": "chicken-bouillon",
+      "name": {
+        "cn": "鸡汁",
+        "en": "Chicken bouillon",
+        "fr": "Bouillon de poulet en poudre"
+      }
+    },
+    {
+      "id": "sugar-11",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "celery-12",
+      "ingredient": "celery",
+      "name": {
+        "cn": "芹菜",
+        "en": "Celery",
+        "fr": "Céleri"
+      }
+    },
+    {
+      "id": "scallion-13",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱",
+        "en": "Scallion",
+        "fr": "Ciboule"
+      }
+    },
+    {
+      "id": "cilantro-14",
+      "ingredient": "cilantro",
+      "name": {
+        "cn": "香菜",
+        "en": "Cilantro",
+        "fr": "Coriandre"
+      }
+    },
+    {
+      "id": "mu-jiang-zi-oil-15",
+      "ingredient": "mu-jiang-zi-oil",
+      "name": {
+        "cn": "木姜子油",
+        "en": "Litsea (mountain pepper) oil",
+        "fr": "Huile de litsée (poivre des montagnes)"
+      }
+    },
+    {
+      "id": "tofu-16",
+      "ingredient": "tofu",
+      "name": {
+        "cn": "冻豆腐",
+        "en": "Frozen tofu",
+        "fr": "Tofu congelé"
+      }
+    },
+    {
+      "id": "beef-balls-17",
+      "ingredient": "beef-balls",
+      "name": {
+        "cn": "肉丸子",
+        "en": "Meatballs",
+        "fr": "Boulettes de viande"
+      }
+    },
+    {
+      "id": "sausage-18",
+      "ingredient": "sausage",
+      "name": {
+        "cn": "菜肠",
+        "en": "Sausage",
+        "fr": "Saucisse"
+      }
+    },
+    {
+      "id": "pig-trotter-19",
+      "ingredient": "pig-trotter",
+      "name": {
+        "cn": "猪蹄",
+        "en": "Pig trotters",
+        "fr": "Pieds de porc"
+      }
+    },
+    {
+      "id": "pork-tendon-20",
+      "ingredient": "pork-tendon",
+      "name": {
+        "cn": "猪板筋",
+        "en": "Pork tendon",
+        "fr": "Tendon de porc"
+      }
+    },
+    {
+      "id": "yuba-21",
+      "ingredient": "yuba",
+      "name": {
+        "cn": "腐竹",
+        "en": "Yuba",
+        "fr": "Yuba"
+      }
+    },
+    {
+      "id": "glass-noodles-22",
+      "ingredient": "glass-noodles",
+      "name": {
+        "cn": "粉条",
+        "en": "Glass noodles",
+        "fr": "Vermicelles de patate douce"
+      }
+    },
+    {
+      "id": "noodles-23",
+      "ingredient": "noodles",
+      "name": {
+        "cn": "方便面",
+        "en": "Instant noodles",
+        "fr": "Nouilles instantanées"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "贵州酸汤火锅",
+      "steps": [
+        "把美人椒（怕辣可换小米辣，喜辣可用小米辣）加点红酸汤打碎，倒出备用。",
+        "锅洗净倒油，下姜蒜炒香。",
+        "下西红柿炒出味（生倒酸汤味道不够复合），再倒入红酸汤，酸汤和水比例约1:3（一勺酸汤三勺水）。",
+        "加水至合适量，调味放味精、盐，没有鸡汤可放点鸡汁，再加少许糖融合味道（在家可把水换成鸡汤或骨头汤更浓）。",
+        "放入芹菜、葱、香菜，再淋少许木姜子油（关键但不能多放），多煮一会让蔬菜香味煮进汤里。",
+        "汤煮开约两分钟后倒入砂锅。",
+        "下入冻豆腐、肉丸子、菜肠、猪蹄、猪板筋，慢慢煮透，让丸子定型、汤入味。",
+        "放入腐竹煮至漂起，再下粉条煮三五分钟煮入肉味。",
+        "最后下方便面，煮到稍硬一点即可出锅，边吃边涮。"
+      ],
+      "notes": [
+        "酸汤和水约1:3；木姜子油是关键风味但要少放，多了味道太冲。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Guizhou Sour-Soup Hotpot",
+      "steps": [
+        "Blend red chili peppers (use mild ones if you prefer, or bird's-eye chili for more heat) with a little red sour soup, then pour out and set aside.",
+        "Wash the wok, add oil, and fry the ginger and garlic until fragrant.",
+        "Add the tomato and cook until flavorful (raw sour soup alone is not complex enough), then add the red sour soup at about a 1:3 ratio with water (one spoon sour soup to three spoons water).",
+        "Add water to the desired amount, season with MSG and salt, add a little chicken bouillon if you have no stock, and a touch of sugar to round out the flavor (using chicken or bone stock at home makes it richer).",
+        "Add celery, scallion, and cilantro, then drizzle in a little litsea oil (key, but don't overdo it), and simmer a while so the vegetable aromas cook into the soup.",
+        "Once the soup has boiled for about two minutes, pour it into a clay pot.",
+        "Add frozen tofu, meatballs, sausage, pig trotters, and pork tendon, and simmer slowly until cooked through so the balls set and the soup is infused.",
+        "Add yuba and cook until it floats, then add glass noodles and cook three to five minutes to absorb the meaty flavor.",
+        "Finally add the instant noodles, cook until just slightly firm, and serve, dipping more ingredients as you eat."
+      ],
+      "notes": [
+        "Sour soup to water is about 1:3; litsea oil is the key flavor but use only a little, as too much is overpowering.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Fondue à la Soupe Aigre du Guizhou",
+      "steps": [
+        "Mixer des piments rouges (doux si vous préférez, ou piments oiseau pour plus de feu) avec un peu de soupe aigre rouge, puis réserver.",
+        "Laver le wok, ajouter l'huile et faire revenir le gingembre et l'ail jusqu'à parfum.",
+        "Ajouter la tomate et cuire jusqu'à ce qu'elle parfume (la soupe aigre crue seule manque de complexité), puis ajouter la soupe aigre rouge dans un rapport d'environ 1:3 avec l'eau (une cuillère de soupe aigre pour trois d'eau).",
+        "Ajouter l'eau à la quantité voulue, assaisonner de glutamate et de sel, ajouter un peu de bouillon de poulet si vous n'avez pas de fond, et un soupçon de sucre pour arrondir (un fond de poulet ou d'os le rend plus riche).",
+        "Ajouter céleri, ciboule et coriandre, puis verser un peu d'huile de litsée (essentielle, mais sans excès), et laisser mijoter pour que les arômes des légumes passent dans la soupe.",
+        "Une fois la soupe bouillie environ deux minutes, la verser dans un poêlon en terre.",
+        "Ajouter le tofu congelé, les boulettes, la saucisse, les pieds de porc et le tendon de porc, et mijoter lentement jusqu'à cuisson complète.",
+        "Ajouter le yuba et cuire jusqu'à ce qu'il flotte, puis ajouter les vermicelles et cuire trois à cinq minutes pour qu'ils s'imprègnent du goût de viande.",
+        "Enfin ajouter les nouilles instantanées, cuire jusqu'à ce qu'elles soient juste fermes, et servir en y trempant d'autres ingrédients."
+      ],
+      "notes": [
+        "Le rapport soupe aigre/eau est d'environ 1:3 ; l'huile de litsée est la saveur clé mais à doser, car trop est envahissant.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

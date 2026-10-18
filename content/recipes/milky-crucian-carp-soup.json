@@ -1,0 +1,155 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "milky-crucian-carp-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=p13TGI-lHus",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "crucian-carp-1",
+      "ingredient": "crucian-carp",
+      "name": {
+        "cn": "鲫鱼",
+        "en": "Crucian carp",
+        "fr": "Carassin"
+      }
+    },
+    {
+      "id": "lard-2",
+      "ingredient": "lard",
+      "name": {
+        "cn": "猪油",
+        "en": "Lard",
+        "fr": "Saindoux"
+      }
+    },
+    {
+      "id": "tofu-3",
+      "ingredient": "tofu",
+      "name": {
+        "cn": "豆腐",
+        "en": "Tofu",
+        "fr": "Tofu"
+      }
+    },
+    {
+      "id": "scallion-4",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱",
+        "en": "Scallion",
+        "fr": "Ciboule"
+      }
+    },
+    {
+      "id": "ginger-5",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "salt-6",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "white-pepper-7",
+      "ingredient": "white-pepper",
+      "name": {
+        "cn": "胡椒粉",
+        "en": "White pepper",
+        "fr": "Poivre blanc"
+      }
+    },
+    {
+      "id": "msg-8",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "cilantro-9",
+      "ingredient": "cilantro",
+      "name": {
+        "cn": "香菜",
+        "en": "Cilantro",
+        "fr": "Coriandre"
+      }
+    },
+    {
+      "id": "goji-berry-10",
+      "ingredient": "goji-berry",
+      "name": {
+        "cn": "枸杞",
+        "en": "Goji berries",
+        "fr": "Baies de goji"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "奶汤鲫鱼",
+      "steps": [
+        "处理鲫鱼：掏空内脏，刮净腹腔黑膜，去掉背部的鱼线，反复冲洗干净。",
+        "用热水烫一下鱼身，把残留的鳞和黑膜刮净，进一步去腥去色，保证汤白。",
+        "鱼身两面打花刀，深至鱼骨，便于入味出鲜。",
+        "净锅烧热，下猪油，把鱼煎至两面金黄焦香，不要煎糊。",
+        "砂锅里烧一锅热水，放入葱姜，再把煎好的鱼倒进去。",
+        "全程大火滚煮，汤色逐渐变浓变白，约熬十分钟左右至奶白色。",
+        "放入豆腐块，加盐、白胡椒粉、味精调味，鲫鱼汤胡椒粉必须放。",
+        "再咕嘟两分钟让鱼汤味进入豆腐，最后撒上香菜和枸杞即可。"
+      ],
+      "notes": [
+        "用猪油煎鱼能让汤更白更香；全程大火滚煮是出奶白汤的关键。",
+        "确切用量请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Milky Crucian Carp Soup",
+      "steps": [
+        "Clean the carp: remove the innards, scrape off the black membrane in the belly, remove the fishy line along the back, and rinse thoroughly.",
+        "Blanch the fish surface with hot water, then scrape off any remaining scales and black film to further remove odor and discoloration so the soup stays white.",
+        "Score both sides of the fish down to the bone to help the flavor and umami come out.",
+        "Heat a clean pot, add lard, and fry the fish until both sides are golden and fragrant, without burning.",
+        "Bring a pot of hot water to a boil in a clay pot, add scallion and ginger, then add the fried fish.",
+        "Boil over high heat the whole time; the soup gradually thickens and turns white, about 10 minutes until milky.",
+        "Add the tofu cubes, then season with salt, white pepper, and MSG. White pepper is a must for crucian carp soup.",
+        "Simmer two more minutes to let the tofu absorb the flavor, then sprinkle with cilantro and goji berries and serve."
+      ],
+      "notes": [
+        "Frying the fish in lard makes the soup whiter and more fragrant; boiling over high heat the whole time is key to a milky soup.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Soupe Laiteuse de Carassin",
+      "steps": [
+        "Nettoyer le carassin : retirer les viscères, gratter la membrane noire du ventre, enlever la veine dorsale et rincer soigneusement.",
+        "Ébouillanter la surface du poisson, puis gratter les écailles et le film noir restants pour ôter l'odeur et garder une soupe bien blanche.",
+        "Inciser les deux côtés du poisson jusqu'à l'arête pour libérer la saveur.",
+        "Chauffer une poêle propre, ajouter le saindoux et frire le poisson jusqu'à ce que les deux faces soient dorées et parfumées, sans brûler.",
+        "Porter une marmite d'eau chaude à ébullition dans un poêlon en terre, ajouter ciboule et gingembre, puis le poisson frit.",
+        "Faire bouillir à feu vif tout le temps ; la soupe épaissit et blanchit, environ 10 minutes jusqu'à devenir laiteuse.",
+        "Ajouter les cubes de tofu, puis assaisonner de sel, poivre blanc et glutamate. Le poivre blanc est indispensable.",
+        "Laisser mijoter deux minutes de plus pour que le tofu s'imprègne, puis parsemer de coriandre et de baies de goji et servir."
+      ],
+      "notes": [
+        "Frire le poisson au saindoux rend la soupe plus blanche et parfumée ; l'ébullition à feu vif est la clé d'une soupe laiteuse.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

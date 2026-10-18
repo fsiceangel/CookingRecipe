@@ -1,0 +1,167 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "clear-stewed-lamb",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=UMqKA9xFB7E",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "lamb-1",
+      "ingredient": "lamb",
+      "name": {
+        "cn": "带骨羊腿肉",
+        "en": "Bone-in lamb leg",
+        "fr": "Gigot d'agneau avec os"
+      }
+    },
+    {
+      "id": "white-radish-2",
+      "ingredient": "white-radish",
+      "name": {
+        "cn": "白萝卜",
+        "en": "White radish",
+        "fr": "Radis blanc"
+      }
+    },
+    {
+      "id": "scallion-3",
+      "ingredient": "scallion",
+      "name": {
+        "cn": "葱",
+        "en": "Scallion",
+        "fr": "Ciboule"
+      }
+    },
+    {
+      "id": "ginger-4",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "angelica-root-5",
+      "ingredient": "angelica-root",
+      "name": {
+        "cn": "当归",
+        "en": "Angelica root (dang gui)",
+        "fr": "Racine d'angélique (dang gui)"
+      }
+    },
+    {
+      "id": "dang-shen-6",
+      "ingredient": "dang-shen",
+      "name": {
+        "cn": "党参",
+        "en": "Dang shen (codonopsis root)",
+        "fr": "Dang shen (racine de codonopsis)"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-7",
+      "ingredient": "sichuan-peppercorn",
+      "name": {
+        "cn": "花椒",
+        "en": "Sichuan peppercorns",
+        "fr": "Poivre du Sichuan"
+      }
+    },
+    {
+      "id": "white-pepper-8",
+      "ingredient": "white-pepper",
+      "name": {
+        "cn": "白胡椒",
+        "en": "White pepper",
+        "fr": "Poivre blanc"
+      }
+    },
+    {
+      "id": "goji-berry-9",
+      "ingredient": "goji-berry",
+      "name": {
+        "cn": "枸杞",
+        "en": "Goji berries",
+        "fr": "Baies de goji"
+      }
+    },
+    {
+      "id": "salt-10",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "msg-11",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "清炖羊肉",
+      "steps": [
+        "羊腿骨敲开、羊肉剁成块，清洗后用清水泡去血水。",
+        "白萝卜削净外圈，切成滚刀块。",
+        "锅中宽水不盖盖，大火将萝卜焯去异味后捞出。",
+        "换水加两三片葱姜，泡好的羊肉冷水下锅。",
+        "锅开后撇净血沫，多焯一会儿后捞出。",
+        "将羊肉、葱姜连同当归、党参、花椒、白胡椒、白萝卜放入高压锅，加开水。",
+        "盖盖上汽后转小火压15分钟，关火放汽。",
+        "开盖后放盐、味精调味，撒入枸杞略加热即可。"
+      ],
+      "notes": [
+        "若羊肉膻味较重，焯水时多泡多焯、加大葱姜量并多煮一会儿。",
+        "不着急吃可改用砂锅小火慢炖。",
+        "具体配料和比例见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Clear-Stewed Lamb",
+      "steps": [
+        "Crack the lamb leg bone, chop the lamb into chunks, rinse, and soak in water to draw out the blood.",
+        "Peel off the tough outer ring of the white radish and cut into rolling-knife chunks.",
+        "Blanch the radish in plenty of water over high heat, uncovered, until the off-odor is gone, then remove.",
+        "Change the water, add a few slices of scallion and ginger, and put the soaked lamb in with cold water.",
+        "When it boils, skim off the blood foam and blanch a while longer, then remove.",
+        "Transfer the lamb, scallion, and ginger to a pressure cooker along with angelica root, dang shen, Sichuan peppercorns, white pepper, and white radish, then add boiling water.",
+        "Cover, bring to pressure, lower the heat, and cook for 15 minutes, then turn off and release the steam.",
+        "Open the lid, season with salt and MSG, add the goji berries, and warm through before serving."
+      ],
+      "notes": [
+        "If your lamb is gamey, soak and blanch it longer, use more scallion and ginger, and simmer longer.",
+        "If you are not in a hurry, use a clay pot and simmer slowly over low heat.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Agneau Mijoté Clair",
+      "steps": [
+        "Fendre l'os du gigot, couper l'agneau en morceaux, rincer et faire tremper dans l'eau pour retirer le sang.",
+        "Peler l'anneau extérieur dur du radis blanc et le couper en morceaux au couteau roulant.",
+        "Blanchir le radis dans beaucoup d'eau à feu vif, sans couvercle, jusqu'à disparition de l'odeur, puis retirer.",
+        "Changer l'eau, ajouter quelques tranches de ciboule et de gingembre, et mettre l'agneau trempé à l'eau froide.",
+        "À l'ébullition, écumer la mousse de sang et blanchir encore un moment, puis retirer.",
+        "Transférer l'agneau, la ciboule et le gingembre dans un autocuiseur avec la racine d'angélique, le dang shen, le poivre du Sichuan, le poivre blanc et le radis blanc, puis ajouter de l'eau bouillante.",
+        "Couvrir, monter en pression, baisser le feu et cuire 15 minutes, puis éteindre et relâcher la vapeur.",
+        "Ouvrir le couvercle, assaisonner de sel et de glutamate, ajouter les baies de goji et réchauffer avant de servir."
+      ],
+      "notes": [
+        "Si votre agneau est fort en goût, le faire tremper et blanchir plus longtemps, utiliser plus de ciboule et de gingembre, et mijoter plus longtemps.",
+        "Si vous n'êtes pas pressé, utilisez une marmite en terre et mijotez doucement à feu doux.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}

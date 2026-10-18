@@ -1,0 +1,202 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "chaoshan-beef-balls",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.bilibili.com/video/BV1ym4y1276B",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "beef-hind-leg-1",
+      "ingredient": "beef-hind-leg",
+      "name": {
+        "cn": "牛后腿肉",
+        "en": "Beef hind leg",
+        "fr": "Gigot de boeuf"
+      },
+      "amount": {
+        "cn": "500g",
+        "en": "500g",
+        "fr": "500g"
+      }
+    },
+    {
+      "id": "baking-soda-2",
+      "ingredient": "baking-soda",
+      "name": {
+        "cn": "小苏打",
+        "en": "Baking soda",
+        "fr": "Bicarbonate de soude"
+      },
+      "amount": {
+        "cn": "1g",
+        "en": "1g",
+        "fr": "1g"
+      }
+    },
+    {
+      "id": "salt-3",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      },
+      "amount": {
+        "cn": "8g",
+        "en": "8g",
+        "fr": "8g"
+      }
+    },
+    {
+      "id": "sugar-4",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "4g",
+        "en": "4g",
+        "fr": "4g"
+      }
+    },
+    {
+      "id": "msg-5",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate monosodique"
+      },
+      "amount": {
+        "cn": "2g",
+        "en": "2g",
+        "fr": "2g"
+      }
+    },
+    {
+      "id": "cornstarch-6",
+      "ingredient": "cornstarch",
+      "name": {
+        "cn": "玉米淀粉",
+        "en": "Cornstarch",
+        "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "15g",
+        "en": "15g",
+        "fr": "15g"
+      }
+    },
+    {
+      "id": "ice-cubes-7",
+      "ingredient": "ice-cubes",
+      "name": {
+        "cn": "冰块",
+        "en": "Ice cubes",
+        "fr": "Glaçons"
+      },
+      "amount": {
+        "cn": "50g",
+        "en": "50g",
+        "fr": "50g"
+      }
+    },
+    {
+      "id": "beef-tallow-8",
+      "ingredient": "beef-tallow",
+      "name": {
+        "cn": "牛油粒",
+        "en": "Beef tallow bits",
+        "fr": "Morceaux de suif de boeuf"
+      }
+    },
+    {
+      "id": "beef-tendon-9",
+      "ingredient": "beef-tendon",
+      "name": {
+        "cn": "牛筋粒",
+        "en": "Beef tendon bits",
+        "fr": "Morceaux de tendon de boeuf"
+      }
+    },
+    {
+      "id": "garlic-10",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "大蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "fried-garlic-crisps-11",
+      "ingredient": "fried-garlic-crisps",
+      "name": {
+        "cn": "炸蒜酥",
+        "en": "Fried garlic crisps",
+        "fr": "Croustilles d'ail frites"
+      }
+    },
+    {
+      "id": "shacha-sauce-12",
+      "ingredient": "shacha-sauce",
+      "name": {
+        "cn": "沙茶酱",
+        "en": "Shacha sauce",
+        "fr": "Sauce Shacha"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "潮汕牛肉丸",
+      "steps": [
+        "牛后腿肉500g，去掉筋膜，切薄片，冷冻2小时。",
+        "牛肉，小苏打1g，盐8g，白糖4g，味精2g，玉米淀粉15g，冰块50g倒入料理机，绞成肉泥。中途料理机过热，把肉泥放到冰箱冷冻，等料理机降温再打。或者换另一个料理机继续搅打至细腻。",
+        "加入玉米淀粉搅打融合即可。",
+        "汆成肉丸，水开下入丸子，水开煮10分钟，捞出来放入冰水中，冷冻保存即可。"
+      ],
+      "notes": [
+        "或者：加入淀粉后",
+        "按需加入牛油粒，搅打融合，即为牛油版的牛肉丸。",
+        "按需加入牛筋粒，搅打融合，即为牛筋丸。",
+        "按需加入蒜末，炸蒜酥，沙茶酱等风味亦可。"
+      ]
+    },
+    "en": {
+      "title": "Chaoshan Beef Balls",
+      "steps": [
+        "Take 500g of beef hind leg, remove sinew, slice thinly, and freeze for 2 hours.",
+        "Combine beef, 1g baking soda, 8g salt, 4g sugar, 2g MSG, 15g cornstarch, and 50g ice cubes in a food processor. Blend into a paste. If the processor overheats, chill the paste in the freezer and resume blending when cool, or use another processor until smooth.",
+        "Add cornstarch and blend until fully incorporated.",
+        "Form into balls and drop into boiling water. Cook for 10 minutes after the water returns to a boil. Remove and place in an ice bath. Can be frozen for storage."
+      ],
+      "notes": [
+        "Alternatively, after adding starch:",
+        "Add beef tallow bits as desired and blend to make tallow-infused beef balls.",
+        "Add beef tendon bits as desired and blend to make tendon balls.",
+        "Flavorings like minced garlic, fried garlic crisps, or shacha sauce can also be added."
+      ]
+    },
+    "fr": {
+      "title": "Boulettes de boeuf Chaoshan",
+      "steps": [
+        "Prendre 500g de gigot de boeuf, retirer les nerfs, trancher finement et congeler pendant 2 heures.",
+        "Combiner le boeuf, 1g de bicarbonate de soude, 8g de sel, 4g de sucre, 2g de glutamate, 15g de fécule de maïs et 50g de glaçons dans un robot culinaire. Mixer jusqu'à obtenir une pâte. Si le robot surchauffe, refroidir la pâte au congélateur et reprendre le mixage une fois refroidi, ou utiliser un autre robot jusqu'à consistance lisse.",
+        "Ajouter la fécule de maïs et mixer jusqu'à incorporation complète.",
+        "Former des boulettes et les plonger dans l'eau bouillante. Cuire 10 minutes après la reprise de l'ébullition. Retirer et placer dans un bain d'eau glacée. Peut être congelé pour conservation."
+      ],
+      "notes": [
+        "Alternativement, après avoir ajouté la fécule :",
+        "Ajouter des morceaux de suif de boeuf au goût et mixer pour faire des boulettes de boeuf au suif.",
+        "Ajouter des morceaux de tendon de boeuf au goût et mixer pour faire des boulettes de tendon.",
+        "Des arômes comme de l'ail haché, des croustilles d'ail frites ou de la sauce Shacha peuvent également être ajoutés."
+      ]
+    }
+  }
+}

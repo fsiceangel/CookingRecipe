@@ -1,0 +1,200 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "sour-soup-beef",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=M3rglZ22Rdw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "fatty-beef-1",
+      "ingredient": "fatty-beef",
+      "name": {
+        "cn": "肥牛",
+        "en": "Fatty beef slices",
+        "fr": "Tranches de boeuf gras"
+      }
+    },
+    {
+      "id": "yellow-chili-sauce-2",
+      "ingredient": "yellow-chili-sauce",
+      "name": {
+        "cn": "黄灯笼辣椒酱",
+        "en": "Yellow chili sauce",
+        "fr": "Sauce de piment jaune"
+      }
+    },
+    {
+      "id": "enoki-mushroom-3",
+      "ingredient": "enoki-mushroom",
+      "name": {
+        "cn": "金针菇",
+        "en": "Enoki mushrooms",
+        "fr": "Champignons enoki"
+      }
+    },
+    {
+      "id": "bamboo-shoot-4",
+      "ingredient": "bamboo-shoot",
+      "name": {
+        "cn": "笋丝",
+        "en": "Shredded bamboo shoots",
+        "fr": "Pousses de bambou émincées"
+      }
+    },
+    {
+      "id": "pumpkin-5",
+      "ingredient": "pumpkin",
+      "name": {
+        "cn": "南瓜",
+        "en": "Pumpkin",
+        "fr": "Potiron"
+      }
+    },
+    {
+      "id": "chicken-stock-6",
+      "ingredient": "chicken-stock",
+      "name": {
+        "cn": "高汤",
+        "en": "Stock",
+        "fr": "Bouillon"
+      }
+    },
+    {
+      "id": "garlic-7",
+      "ingredient": "garlic",
+      "name": {
+        "cn": "蒜",
+        "en": "Garlic",
+        "fr": "Ail"
+      }
+    },
+    {
+      "id": "ginger-8",
+      "ingredient": "ginger",
+      "name": {
+        "cn": "姜",
+        "en": "Ginger",
+        "fr": "Gingembre"
+      }
+    },
+    {
+      "id": "chili-pepper-9",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "小辣椒",
+        "en": "Small chili peppers",
+        "fr": "Petits piments"
+      }
+    },
+    {
+      "id": "vinegar-10",
+      "ingredient": "vinegar",
+      "name": {
+        "cn": "白醋",
+        "en": "White vinegar",
+        "fr": "Vinaigre blanc"
+      }
+    },
+    {
+      "id": "sugar-11",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "白糖",
+        "en": "Sugar",
+        "fr": "Sucre"
+      }
+    },
+    {
+      "id": "msg-12",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精",
+        "en": "MSG",
+        "fr": "Glutamate"
+      }
+    },
+    {
+      "id": "salt-13",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐",
+        "en": "Salt",
+        "fr": "Sel"
+      }
+    },
+    {
+      "id": "sesame-oil-14",
+      "ingredient": "sesame-oil",
+      "name": {
+        "cn": "香油",
+        "en": "Sesame oil",
+        "fr": "Huile de sésame"
+      }
+    },
+    {
+      "id": "cilantro-15",
+      "ingredient": "cilantro",
+      "name": {
+        "cn": "香菜",
+        "en": "Cilantro",
+        "fr": "Coriandre"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸汤肥牛",
+      "steps": [
+        "锅里放底油，下蒜、姜、小辣椒煸炒，炝锅出香味。",
+        "放入黄灯笼辣椒酱炒香，能吃辣就多放一些。",
+        "倒入高汤（鸡蛋高汤或鸡汤均可）烧开。",
+        "调味：加白醋、白糖、味精；根据辣椒酱的咸度决定是否加盐。",
+        "放入焯过水的笋丝和金针菇。",
+        "肥牛焯水时可加点白醋煮一下，让酸味进入肥牛，再放入汤中。",
+        "加入熟南瓜蓉搅拌，汤即变成金黄色。",
+        "淋入香油，撒香菜，把留出的小辣椒放进去，煮约两分钟出锅。"
+      ],
+      "notes": [
+        "这是少油清爽版，金针菇最入味。",
+        "具体克数请见视频片尾。"
+      ]
+    },
+    "en": {
+      "title": "Sour Soup Fatty Beef",
+      "steps": [
+        "Heat oil in the wok, add garlic, ginger and chili peppers, and stir-fry until fragrant.",
+        "Add the yellow chili sauce and stir-fry until aromatic; add more if you like it spicy.",
+        "Pour in the stock (egg stock or chicken stock both work) and bring to a boil.",
+        "Season: add white vinegar, sugar and MSG; add salt only if needed, depending on how salty the chili sauce is.",
+        "Add the blanched shredded bamboo shoots and enoki mushrooms.",
+        "Blanch the fatty beef with a little white vinegar so the sour flavor soaks in, then add it to the soup.",
+        "Stir in cooked pureed pumpkin; the soup turns a golden color.",
+        "Drizzle in sesame oil, add cilantro and the reserved chili peppers, simmer about 2 minutes, and serve."
+      ],
+      "notes": [
+        "This is a light, low-oil version; the enoki mushrooms absorb the most flavor.",
+        "Exact amounts are shown on the video's end screen."
+      ]
+    },
+    "fr": {
+      "title": "Boeuf en Soupe Aigre",
+      "steps": [
+        "Chauffer l'huile dans le wok, ajouter l'ail, le gingembre et les piments, et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Ajouter la sauce de piment jaune et faire revenir jusqu'à ce qu'elle embaume ; en mettre plus si vous aimez relevé.",
+        "Verser le bouillon (bouillon d'oeuf ou de poulet) et porter à ébullition.",
+        "Assaisonner : ajouter le vinaigre blanc, le sucre et le glutamate ; ajouter du sel seulement si nécessaire selon la salinité de la sauce.",
+        "Ajouter les pousses de bambou et les champignons enoki blanchis.",
+        "Blanchir le boeuf gras avec un peu de vinaigre blanc pour que l'acidité l'imprègne, puis l'ajouter à la soupe.",
+        "Incorporer la purée de potiron cuit ; la soupe prend une couleur dorée.",
+        "Arroser d'huile de sésame, ajouter la coriandre et les piments réservés, laisser mijoter environ 2 minutes et servir."
+      ],
+      "notes": [
+        "C'est une version légère et peu grasse ; les champignons enoki absorbent le plus de saveur.",
+        "Les quantités exactes sont indiquées à la fin de la vidéo."
+      ]
+    }
+  }
+}
