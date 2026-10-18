@@ -15,6 +15,11 @@
         "cn": "糯米",
         "en": "Glutinous rice",
         "fr": "Riz gluant"
+      },
+      "amount": {
+        "cn": "600 g",
+        "en": "600 g",
+        "fr": "600 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "鸡肉",
         "en": "Chicken",
         "fr": "Poulet"
+      },
+      "amount": {
+        "cn": "700 g",
+        "en": "700 g",
+        "fr": "700 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "辣椒（二荆条）",
         "en": "Erjingtiao chili",
         "fr": "Piment erjingtiao"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "辣椒面",
         "en": "Chili powder",
         "fr": "Poudre de piment"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "花椒面",
         "en": "Ground Sichuan peppercorn",
         "fr": "Poivre du Sichuan moulu"
+      },
+      "amount": {
+        "cn": "4 g",
+        "en": "4 g",
+        "fr": "4 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "花生米",
         "en": "Peanuts",
         "fr": "Cacahuètes"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "果丹皮",
         "en": "Haw flakes",
         "fr": "Pastilles d'aubépine"
+      },
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "豆沙",
         "en": "Red bean paste",
         "fr": "Pâte de haricots rouges"
+      },
+      "amount": {
+        "cn": "每个粽子 3 g",
+        "en": "3 g per zongzi",
+        "fr": "3 g par zongzi"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "水淀粉",
         "en": "Starch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -123,6 +178,38 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "cooking-wine-endcard",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -145,7 +232,7 @@
       "notes": [
         "两种辣椒搭配，香味更足；中间的豆沙能把辣味揉柔一些。",
         "果丹皮煮后会化开，增加一点跳跃的酸甜口感。",
-        "确切比例请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -166,7 +253,7 @@
       "notes": [
         "Combining two kinds of chili gives a fuller aroma; the red bean paste in the middle softens the heat.",
         "The haw flakes dissolve during cooking, adding a lively sweet-sour pop.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -187,7 +274,7 @@
       "notes": [
         "Combiner deux sortes de piment donne un arôme plus complet ; la pâte de haricots rouges au centre adoucit le piquant.",
         "Les pastilles d'aubépine fondent à la cuisson, apportant une touche sucrée-acidulée vive.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

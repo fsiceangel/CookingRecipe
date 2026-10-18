@@ -15,6 +15,11 @@
         "cn": "牛前腿肉（板腱）",
         "en": "Beef chuck (front leg)",
         "fr": "Paleron de bœuf (patte avant)"
+      },
+      "amount": {
+        "cn": "1 kg",
+        "en": "1 kg",
+        "fr": "1 kg"
       }
     },
     {
@@ -60,6 +65,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "与花椒比例 2:1",
+        "en": "2 parts to 1 part Sichuan peppercorns",
+        "fr": "2 parts pour 1 part de poivre du Sichuan"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "与干辣椒比例 1:2",
+        "en": "1 part to 2 parts dried chilies",
+        "fr": "1 part pour 2 parts de piments séchés"
       }
     },
     {
@@ -135,7 +150,8 @@
       "notes": [
         "牛肉一定要断丝切，吃起来才不塞牙；煮的火候要抢好，断生即可。",
         "反复分次煸炒，让辣椒、花椒和调料的味道一层层吸进牛肉里。",
-        "可凉吃也可热吃，确切用量请见视频片尾。"
+        "可凉吃也可热吃",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -155,7 +171,8 @@
       "notes": [
         "Always slice the beef across the grain so it isn't chewy; nail the cooking time - just barely cooked through.",
         "Dry-fry repeatedly in stages so the chili, peppercorn, and seasoning flavors are absorbed layer by layer into the beef.",
-        "Can be eaten hot or cold. Exact amounts are shown on the video's end screen."
+        "Can be eaten hot or cold.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -175,7 +192,8 @@
       "notes": [
         "Tranchez toujours le bœuf en travers du grain pour qu'il ne soit pas coriace ; maîtrisez le temps de cuisson - juste cuit à cœur.",
         "Faites sauter à sec à plusieurs reprises pour que les saveurs du piment, du poivre et des assaisonnements s'imprègnent couche par couche dans le bœuf.",
-        "Peut se manger chaud ou froid. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Peut se manger chaud ou froid.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

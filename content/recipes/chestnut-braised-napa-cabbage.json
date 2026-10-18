@@ -15,6 +15,11 @@
         "cn": "娃娃菜",
         "en": "Baby napa cabbage",
         "fr": "Chou chinois nain"
+      },
+      "amount": {
+        "cn": "260 g",
+        "en": "260 g",
+        "fr": "260 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "板栗",
         "en": "Chestnut",
         "fr": "Châtaigne"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "570 g",
+        "en": "570 g",
+        "fr": "570 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 10 g，加水调开",
+        "en": "10 g starch, mixed with water",
+        "fr": "10 g de fécule, délayée dans de l’eau"
       }
     }
   ],
@@ -104,7 +144,8 @@
       ],
       "notes": [
         "焯白菜一定要开水下锅，否则会有捂过的臭味。",
-        "火候关键是把白菜煮到软烂为止，各地白菜品质不同，时间灵活掌握。具体用量见视频片尾。"
+        "火候关键是把白菜煮到软烂为止，各地白菜品质不同，时间灵活掌握。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -120,7 +161,8 @@
       ],
       "notes": [
         "Always blanch napa cabbage in boiling water, or it develops a stewed, off smell.",
-        "The key is cooking the cabbage until truly soft; cabbage quality varies by region, so adjust the time. Exact amounts are shown on the video's end screen."
+        "The key is cooking the cabbage until truly soft; cabbage quality varies by region, so adjust the time.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -136,7 +178,8 @@
       ],
       "notes": [
         "Toujours blanchir le chou chinois dans l'eau bouillante, sinon il développe une odeur d'étouffé.",
-        "L'essentiel est de cuire le chou jusqu'à ce qu'il soit vraiment tendre ; la qualité du chou varie selon les régions, ajuster le temps. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "L'essentiel est de cuire le chou jusqu'à ce qu'il soit vraiment tendre ; la qualité du chou varie selon les régions, ajuster le temps.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

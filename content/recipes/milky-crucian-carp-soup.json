@@ -15,6 +15,11 @@
         "cn": "鲫鱼",
         "en": "Crucian carp",
         "fr": "Carassin"
+      },
+      "amount": {
+        "cn": "3 条",
+        "en": "3 fish",
+        "fr": "3 poissons"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "猪油",
         "en": "Lard",
         "fr": "Saindoux"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "豆腐",
         "en": "Tofu",
         "fr": "Tofu"
+      },
+      "amount": {
+        "cn": "1 盒",
+        "en": "1 pack",
+        "fr": "1 paquet"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "4 g",
+        "en": "4 g",
+        "fr": "4 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,7 +159,7 @@
       ],
       "notes": [
         "用猪油煎鱼能让汤更白更香；全程大火滚煮是出奶白汤的关键。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -131,7 +176,7 @@
       ],
       "notes": [
         "Frying the fish in lard makes the soup whiter and more fragrant; boiling over high heat the whole time is key to a milky soup.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -148,7 +193,7 @@
       ],
       "notes": [
         "Frire le poisson au saindoux rend la soupe plus blanche et parfumée ; l'ébullition à feu vif est la clé d'une soupe laiteuse.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "肘子",
         "en": "Pork elbow",
         "fr": "Jarret de porc"
+      },
+      "amount": {
+        "cn": "155 g（片尾原文，整肘重量待确认）",
+        "en": "155 g as written; whole-knuckle weight needs confirmation",
+        "fr": "155 g indiqués ; poids du jarret entier à confirmer"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜共 150 g；另备葱米 20 g",
+        "en": "150 g combined with ginger; plus 20 g chopped scallion",
+        "fr": "150 g au total avec le gingembre ; plus 20 g de ciboule hachée"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 150 g",
+        "en": "150 g combined with scallion",
+        "fr": "150 g au total avec la ciboule"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "5 个",
+        "en": "5 stars",
+        "fr": "5 étoiles"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "桂皮",
         "en": "Cinnamon bark",
         "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "黄酒 100 g；料酒 100 g",
+        "en": "100 g yellow rice wine; 100 g cooking wine",
+        "fr": "100 g de vin de riz jaune ; 100 g de vin de cuisson"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "3 个",
+        "en": "3 eggs",
+        "fr": "3 œufs"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "260 g",
+        "en": "260 g",
+        "fr": "260 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "蛋糊 100 g；炸制另备油",
+        "en": "100 g for egg batter; extra oil for frying",
+        "fr": "100 g pour la pâte aux œufs ; supplément pour la friture"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "花椒面",
         "en": "Ground Sichuan peppercorn",
         "fr": "Poivre du Sichuan moulu"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -132,6 +197,20 @@
         "cn": "芝麻",
         "en": "Sesame seeds",
         "fr": "Graines de sésame"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "bay-leaf-endcard",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     }
   ],
@@ -151,7 +230,9 @@
       ],
       "notes": [
         "鸡蛋淀粉糊里抓点油，炸出来格外酥脆。",
-        "糊里不放盐，把盐加进花椒面调成花椒盐，蘸食增香。"
+        "糊里不放盐，把盐加进花椒面调成花椒盐，蘸食增香。",
+        "片尾把肘子写为 155 g，视频处理的是整肘，重量待确认，未自行补零。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -170,7 +251,8 @@
       "notes": [
         "Work a little oil into the egg-starch batter so it fries up especially crisp.",
         "Leave salt out of the batter and instead mix it into the ground Sichuan peppercorn to make a fragrant pepper-salt dip.",
-        "Exact amounts are shown on the video's end screen."
+        "The card says 155 g pork knuckle, while the video handles a whole knuckle. The weight needs confirmation; no missing zero has been assumed.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -189,7 +271,8 @@
       "notes": [
         "Incorporez un peu d'huile à la pâte œuf-fécule pour une friture particulièrement croustillante.",
         "Ne salez pas la pâte ; mettez plutôt le sel dans le poivre du Sichuan moulu pour un sel parfumé à tremper.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "La fiche indique 155 g de jarret, tandis que la vidéo travaille un jarret entier. Le poids reste à confirmer ; aucun zéro n’a été ajouté par supposition.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -24,6 +24,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "蒜水 150 g",
+        "en": "150 g garlic water",
+        "fr": "150 g d’eau à l’ail"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "腐乳汁",
         "en": "Fermented bean curd sauce",
         "fr": "Sauce de tofu fermenté"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "海鲜酱",
         "en": "Hoisin sauce",
         "fr": "Sauce hoisin"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "120 g",
+        "en": "120 g",
+        "fr": "120 g"
       }
     },
     {
@@ -96,7 +126,7 @@
       ],
       "notes": [
         "一定要用肥一点的五花肉，炸后腐乳、海鲜酱和蒜把油腻味盖住，吃着不腻。",
-        "具体比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -113,7 +143,7 @@
       ],
       "notes": [
         "Use fattier pork belly; after frying the fermented bean curd, hoisin and garlic mask the richness, so it doesn't taste greasy.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -130,7 +160,7 @@
       ],
       "notes": [
         "Utiliser une poitrine de porc grasse ; après friture, le tofu fermenté, le hoisin et l'ail masquent le gras, le plat n'est pas écœurant.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

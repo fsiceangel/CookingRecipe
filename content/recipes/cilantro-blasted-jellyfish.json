@@ -15,6 +15,11 @@
         "cn": "海蜇头",
         "en": "Jellyfish head",
         "fr": "Tête de méduse"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,6 +169,29 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "chili-pepper-endcard",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -131,7 +209,8 @@
       ],
       "notes": [
         "蜇头含水多，火候是关键——旺火爆炒十几秒，既要炒入味又要保持脆嫩、少出水。",
-        "焯水水温别太高（六七十度即可），稍一打卷就捞，过火就老。"
+        "焯水水温别太高（六七十度即可），稍一打卷就捞，过火就老。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -148,7 +227,7 @@
       "notes": [
         "Jellyfish holds a lot of water, so timing is everything: a hard ten-second blast over high heat to season it while keeping it crisp and tender without weeping water.",
         "Keep the blanching water cool (60-70°C) and scoop the jellyfish the instant it curls; overcooking makes it rubbery.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -165,7 +244,7 @@
       "notes": [
         "La méduse retient beaucoup d'eau ; le minutage est essentiel : un saut vif d'une dizaine de secondes à feu vif pour l'assaisonner tout en la gardant croquante.",
         "Gardez l'eau de blanchiment tiède (60-70 °C) et retirez la méduse dès qu'elle s'enroule ; trop cuite, elle devient caoutchouteuse.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "北豆腐",
         "en": "Firm (north) tofu",
         "fr": "Tofu ferme (du nord)"
+      },
+      "amount": {
+        "cn": "2 盒",
+        "en": "2 packs",
+        "fr": "2 paquets"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "螃蟹",
         "en": "Crab",
         "fr": "Crabe"
+      },
+      "amount": {
+        "cn": "2 只",
+        "en": "2 crabs",
+        "fr": "2 crabes"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "鸡蛋",
         "en": "Eggs",
         "fr": "Œufs"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 eggs",
+        "fr": "2 œufs"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "白菜",
         "en": "Napa cabbage",
         "fr": "Chou chinois"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "2 kg",
+        "en": "2 kg",
+        "fr": "2 kg"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "大葱 50 g；出锅香葱 5 g",
+        "en": "50 g large scallion; 5 g scallion to finish",
+        "fr": "50 g de ciboule ; 5 g de ciboule en finition"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "7 g",
+        "en": "7 g",
+        "fr": "7 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "胡椒粉",
         "en": "Ground white pepper",
         "fr": "Poivre blanc moulu"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -114,6 +164,24 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "goji-berry-endcard",
+      "ingredient": "goji-berry",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -133,7 +201,7 @@
       "notes": [
         "豆腐要手掰、要选好，鸡蛋要炸得稍狠一些，滚煮时蛋香才出得来。",
         "蟹块刀口蘸淀粉可以保护蟹肉；这道菜用点高汤，汤会更鲜更浓。",
-        "高汤做法见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -151,7 +219,7 @@
       "notes": [
         "Tear the tofu by hand and choose good tofu; fry the eggs fairly hard so their aroma comes out when boiled.",
         "Dipping the crab's cut edges in starch protects the meat; using some real stock makes the soup richer and fresher.",
-        "The stock recipe is shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -169,7 +237,7 @@
       "notes": [
         "Casser le tofu à la main et choisir un bon tofu; frire les œufs assez fort pour que leur arôme ressorte à l'ébullition.",
         "Tremper les arêtes coupées du crabe dans la fécule protège la chair; un vrai bouillon rend la soupe plus riche et plus fraîche.",
-        "La recette du bouillon est indiquée à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

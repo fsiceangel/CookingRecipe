@@ -15,6 +15,11 @@
         "cn": "猪五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "厚 2.5–3 cm（重量未标）",
+        "en": "2.5–3 cm thick (weight not shown)",
+        "fr": "2,5–3 cm d’épaisseur (poids non indiqué)"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "红麴米",
         "en": "Red yeast rice",
         "fr": "Riz à levure rouge"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "200 g（炒糖色 100 g；调味 100 g）",
+        "en": "200 g (100 g for caramel; 100 g for seasoning)",
+        "fr": "200 g (100 g pour le caramel ; 100 g pour assaisonner)"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "60（片尾未标单位）",
+        "en": "60 (unit not shown)",
+        "fr": "60 (unité non indiquée)"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30（片尾未标单位）",
+        "en": "30 (unit not shown)",
+        "fr": "30 (unité non indiquée)"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "大料",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 pieces",
+        "fr": "4 pièces"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "50（片尾未标单位）",
+        "en": "50 (unit not shown)",
+        "fr": "50 (unité non indiquée)"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -116,7 +161,8 @@
       "notes": [
         "红麴米只用来上色，煮出枣红色后即捞出弃掉。",
         "炒糖色没经验时全程中小火，接近枣红色时立刻关小火，否则一秒就糊。",
-        "盐和糖的比例较重要，精确配方见视频片尾。"
+        "盐和糖的比例较重要",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -135,7 +181,8 @@
       "notes": [
         "The red yeast rice is only for color; scoop it out and discard once the water turns jujube-red.",
         "If inexperienced with caramel, keep it on medium-low heat the whole time and cut the heat the instant it nears jujube-red, or it burns within a second.",
-        "The salt-to-sugar ratio matters; the exact recipe is shown on the video's end screen."
+        "The salt-to-sugar ratio matters",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +201,8 @@
       "notes": [
         "Le riz à levure rouge ne sert qu'à la couleur ; le retirer et le jeter une fois l'eau devenue rouge jujube.",
         "Si l'on manque d'expérience avec le caramel, le garder à feu moyen-doux tout le temps et couper le feu dès qu'il approche du rouge jujube, sinon il brûle en une seconde.",
-        "Le rapport sel-sucre est important ; la recette exacte est indiquée à la fin de la vidéo."
+        "Le rapport sel-sucre est important",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

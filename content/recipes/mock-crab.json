@@ -24,6 +24,11 @@
         "cn": "咸鸭蛋黄",
         "en": "Salted duck egg yolk",
         "fr": "Jaune d'oeuf de cane salé"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 yolks",
+        "fr": "2 jaunes"
       }
     },
     {
@@ -69,6 +74,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "1.5 g",
+        "en": "1.5 g",
+        "fr": "1.5 g"
       }
     },
     {
@@ -78,6 +88,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -87,6 +102,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -134,7 +154,7 @@
       ],
       "notes": [
         "蒸鱼和蛋黄时一定要放姜，味道才像蟹；炒蛋清要小火慢炒，像炒鲜奶一样才嫩。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -153,7 +173,7 @@
       ],
       "notes": [
         "Always add ginger when steaming the fish and yolk so it tastes like crab; scramble the egg whites gently over low heat, like cooking milk, to keep them tender.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -172,7 +192,7 @@
       ],
       "notes": [
         "Toujours ajouter du gingembre à la cuisson vapeur du poisson et du jaune pour le goût de crabe ; brouiller les blancs doucement à feu doux, comme du lait, pour les garder tendres.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

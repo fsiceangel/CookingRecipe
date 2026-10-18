@@ -15,6 +15,11 @@
         "cn": "鸡腿（鸡翅也可）",
         "en": "Chicken legs (wings also work)",
         "fr": "Cuisses de poulet (les ailes conviennent aussi)"
+      },
+      "amount": {
+        "cn": "鸡腿 4 个",
+        "en": "4 chicken legs",
+        "fr": "4 cuisses de poulet"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "辣椒",
         "en": "Chili",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "面粉",
         "en": "Flour",
         "fr": "Farine"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "生粉",
         "en": "Cornstarch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "泡打粉",
         "en": "Baking powder",
         "fr": "Levure chimique"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "竹炭粉",
         "en": "Bamboo charcoal powder",
         "fr": "Poudre de charbon de bambou"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "火龙果",
         "en": "Dragon fruit",
         "fr": "Fruit du dragon"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "蜂蜜",
         "en": "Honey",
         "fr": "Miel"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -160,7 +225,8 @@
       ],
       "notes": [
         "竹炭粉一放糊就变黑，是这道菜'黑'的来源；浆糊里加油能让外壳更脆。",
-        "料放得不多，鸡肉本味更突出。腌料和脆浆的具体比例见视频片尾。"
+        "料放得不多，鸡肉本味更突出。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -178,7 +244,8 @@
       ],
       "notes": [
         "Bamboo charcoal powder turns the batter black the moment it's added — that's where the dish's color comes from; oil in the batter makes the crust crispier.",
-        "Not much seasoning is used so the chicken's own flavor stands out. Exact marinade and batter ratios are shown on the video's end screen."
+        "Not much seasoning is used so the chicken's own flavor stands out.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -196,7 +263,8 @@
       ],
       "notes": [
         "La poudre de charbon de bambou noircit la pâte dès qu'on l'ajoute — c'est de là que vient la couleur du plat ; l'huile dans la pâte rend la croûte plus croustillante.",
-        "Peu d'assaisonnement est utilisé pour que la saveur propre du poulet ressorte. Les proportions exactes de marinade et de pâte sont indiquées à la fin de la vidéo."
+        "Peu d'assaisonnement est utilisé pour que la saveur propre du poulet ressorte.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "牛肋腩",
         "en": "Beef brisket",
         "fr": "Tendron de boeuf"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "西红柿",
         "en": "Tomato",
         "fr": "Tomate"
+      },
+      "amount": {
+        "cn": "700 g",
+        "en": "700 g",
+        "fr": "700 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "大料",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 stars",
+        "fr": "4 étoiles"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "6 g",
+        "en": "6 g",
+        "fr": "6 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -124,7 +174,7 @@
       ],
       "notes": [
         "全程不加清水，要加就加煮牛肉的原汤，汤才浓厚不寡淡。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -142,7 +192,7 @@
       ],
       "notes": [
         "Never add plain water; only add the broth the beef was cooked in, so the soup stays rich.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -160,7 +210,7 @@
       ],
       "notes": [
         "Ne jamais ajouter d'eau claire ; n'ajouter que le bouillon de cuisson du boeuf pour une soupe riche.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

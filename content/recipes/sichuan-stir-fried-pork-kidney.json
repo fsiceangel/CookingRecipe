@@ -15,6 +15,11 @@
         "cn": "猪腰",
         "en": "Pork kidney",
         "fr": "Rognon de porc"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 kidneys",
+        "fr": "4 rognons"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "料酒（或啤酒）",
         "en": "Cooking wine (or beer)",
         "fr": "Vin de cuisine (ou bière)"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "腌制 1 g；碗汁 2 g",
+        "en": "1 g for marinating; 2 g for the sauce",
+        "fr": "1 g pour mariner ; 2 g pour la sauce"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌制 2 g；碗汁 4 g",
+        "en": "2 g for marinating; 4 g for the sauce",
+        "fr": "2 g pour mariner ; 4 g pour la sauce"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌制 2 g；碗汁 3 g",
+        "en": "2 g for marinating; 3 g for the sauce",
+        "fr": "2 g pour mariner ; 3 g pour la sauce"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "腌制 5 g；碗汁 2 g",
+        "en": "5 g for marinating; 2 g for the sauce",
+        "fr": "5 g pour mariner ; 2 g pour la sauce"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "腌制 20 g；碗汁 5 g",
+        "en": "20 g for marinating; 5 g for the sauce",
+        "fr": "20 g pour mariner ; 5 g pour la sauce"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "小米辣",
         "en": "Bird's eye chili",
         "fr": "Piment oiseau"
+      },
+      "amount": {
+        "cn": "青红小米辣 250 g；碗汁另备 20 g",
+        "en": "250 g green/red chilies; 20 g extra for the sauce",
+        "fr": "250 g de petits piments verts et rouges ; 20 g de plus pour la sauce"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorn",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "泡姜",
         "en": "Pickled ginger",
         "fr": "Gingembre mariné"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "韭菜",
         "en": "Chinese chives",
         "fr": "Ciboulette chinoise"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -123,6 +183,29 @@
         "cn": "猪油菜籽油",
         "en": "Lard / rapeseed oil",
         "fr": "Saindoux / huile de colza"
+      },
+      "amount": {
+        "cn": "猪油 80 g；菜籽油 100 g",
+        "en": "80 g lard; 100 g rapeseed oil",
+        "fr": "80 g de saindoux ; 100 g d’huile de colza"
+      }
+    },
+    {
+      "id": "light-soy-sauce-endcard",
+      "ingredient": "light-soy-sauce",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "vinegar-endcard",
+      "ingredient": "vinegar",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -142,7 +225,8 @@
       "notes": [
         "用酒泡腌并冲洗，能把猪腰的异味去得干净，腌的时候底味要加足。",
         "腰花下锅后先静置，等打卷再翻动，火候到位才嫩。",
-        "这套椒麻配料很万能，把腰子换成鸡肉、猪肉同样好吃；确切用量请见视频片尾。"
+        "这套椒麻配料很万能，把腰子换成鸡肉、猪肉同样好吃",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -160,7 +244,8 @@
       "notes": [
         "Soaking in wine and rinsing removes the off-odor of pork kidney cleanly; build a full base flavor while marinating.",
         "After adding the kidney to the wok, let it sit and only stir once it curls; correct timing keeps it tender.",
-        "This numbing-spicy seasoning mix is versatile and works just as well with chicken or pork instead of kidney; exact amounts are shown on the video's end screen."
+        "This numbing-spicy seasoning mix is versatile and works just as well with chicken or pork instead of kidney",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -178,7 +263,8 @@
       "notes": [
         "Le trempage au vin et le rinçage éliminent proprement l'odeur des rognons de porc ; construire une saveur de base complète pendant la marinade.",
         "Après avoir mis les rognons dans le wok, les laisser reposer et ne remuer qu'une fois enroulés ; un bon timing les garde tendres.",
-        "Ce mélange d'assaisonnement engourdissant et piquant est polyvalent et fonctionne aussi bien avec du poulet ou du porc ; les quantités exactes sont indiquées à la fin de la vidéo."
+        "Ce mélange d'assaisonnement engourdissant et piquant est polyvalent et fonctionne aussi bien avec du poulet ou du porc",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

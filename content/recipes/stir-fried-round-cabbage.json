@@ -15,6 +15,11 @@
         "cn": "莲花白（圆白菜）",
         "en": "Round cabbage",
         "fr": "Chou rond"
+      },
+      "amount": {
+        "cn": "430 g",
+        "en": "430 g",
+        "fr": "430 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "7 g",
+        "en": "7 g",
+        "fr": "7 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "22 g",
+        "en": "22 g",
+        "fr": "22 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -104,7 +144,7 @@
       "notes": [
         "火候是关键：圆白菜的量绝对不能超过锅，否则降温太快、口感变差。",
         "成菜应是似脆非脆、似软非软的临界口感，需要多练习。",
-        "精确的碗汁配比见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -120,7 +160,7 @@
       "notes": [
         "Heat control is everything: never exceed the wok's capacity with cabbage, or the temperature drops too fast and the texture suffers.",
         "The goal is a borderline texture, just barely crisp and just barely tender; it takes practice.",
-        "Exact sauce ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -136,7 +176,7 @@
       "notes": [
         "La maîtrise du feu est essentielle : ne jamais dépasser la capacité du wok, sinon la température chute trop vite et la texture en pâtit.",
         "Le but est une texture limite, à peine croquante et à peine tendre ; cela demande de la pratique.",
-        "Les proportions exactes de la sauce sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "牛外脊",
         "en": "Beef striploin",
         "fr": "Faux-filet de boeuf"
+      },
+      "amount": {
+        "cn": "1250 g",
+        "en": "1250 g",
+        "fr": "1250 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "豆瓣酱",
         "en": "Doubanjiang",
         "fr": "Doubanjiang"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜末",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "大葱 40 g；香葱 20 g",
+        "en": "40 g large scallion; 20 g small scallion",
+        "fr": "40 g de grosse ciboule ; 20 g de ciboule fine"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "姜末",
         "en": "Minced ginger",
         "fr": "Gingembre haché"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,15 +113,25 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "1 个全蛋",
+        "en": "1 whole egg",
+        "fr": "1 œuf entier"
       }
     },
     {
       "id": "cornstarch-9",
-      "ingredient": "cornstarch",
+      "ingredient": "sweet-potato-starch",
       "name": {
-        "cn": "淀粉",
-        "en": "Cornstarch",
-        "fr": "Fécule de maïs"
+        "cn": "红薯粉（或绿豆淀粉）",
+        "en": "Sweet potato starch (or mung bean starch)",
+        "fr": "Fécule de patate douce (ou de haricot mungo)"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "食用碱",
         "en": "Edible alkali",
         "fr": "Alcali alimentaire"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "葱姜水",
         "en": "Scallion ginger water",
         "fr": "Eau de ciboule et gingembre"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -132,6 +197,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -141,6 +211,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -150,6 +225,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌牛肉 2 g；汤底 3 g",
+        "en": "2 g for marinating beef; 3 g for the broth",
+        "fr": "2 g pour mariner le bœuf ; 3 g pour le bouillon"
       }
     },
     {
@@ -159,6 +239,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -168,6 +253,29 @@
         "cn": "芝麻",
         "en": "Sesame seeds",
         "fr": "Graines de sésame"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "腌肉 50 g；烹制 300 g",
+        "en": "50 g for marinating; 300 g for cooking",
+        "fr": "50 g pour mariner ; 300 g pour la cuisson"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "3000 ml",
+        "en": "3000 ml",
+        "fr": "3000 ml"
       }
     }
   ],
@@ -191,7 +299,8 @@
       "notes": [
         "选瘦肉多、筋少的牛外脊，和牛最好；务必顶丝切断纤维才好嚼。",
         "腌肉打水后加蛋、上浆、封油，是牛肉又嫩又不柴的关键。",
-        "水和牛肉的比例见视频片尾，按比例增减。"
+        "按比例增减。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -213,7 +322,8 @@
       "notes": [
         "Choose lean, low-tendon beef striploin, ideally wagyu; you must slice against the grain to cut the fibers for tender bites.",
         "Beating in water, then adding egg, coating with starch, and sealing with oil are the keys to tender, never-tough beef.",
-        "The water-to-beef ratio is shown on the video's end screen; scale to taste."
+        "scale to taste.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -235,7 +345,8 @@
       "notes": [
         "Choisir un faux-filet maigre et peu nerveux, idéalement du wagyu ; trancher impérativement dans le sens contraire des fibres pour des bouchées tendres.",
         "Incorporer de l'eau, puis l'oeuf, enrober de fécule et sceller d'huile sont les clés d'un boeuf tendre et jamais sec.",
-        "Le rapport eau/boeuf est indiqué à la fin de la vidéo ; ajuster selon le goût."
+        "ajuster selon le goût.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Œuf"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 eggs",
+        "fr": "2 œufs"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "600 g",
+        "en": "600 g",
+        "fr": "600 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1.5 g",
+        "en": "1.5 g",
+        "fr": "1.5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "18 g",
+        "en": "18 g",
+        "fr": "18 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "葱花",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -105,6 +155,29 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "wood-ear-mushroom-endcard",
+      "ingredient": "wood-ear-mushroom",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -122,7 +195,7 @@
       "notes": [
         "蛋液撒入后先静置定型，蛋花一飘起再搅动，蛋花更漂亮。",
         "除了胡椒粉，加一点蒜和葱花会让酸辣口更有层次；喜欢辣可多放胡椒粉。",
-        "确切比例请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -138,7 +211,7 @@
       "notes": [
         "After adding the egg, let it set undisturbed and only stir once the ribbons float, for prettier egg flowers.",
         "Beyond white pepper, a little garlic and scallion give the hot-and-sour flavor more depth; add more white pepper if you like it spicier.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +227,7 @@
       "notes": [
         "Après avoir ajouté l'œuf, le laisser prendre sans remuer et n'agiter qu'une fois les rubans remontés, pour de plus jolies fleurs d'œuf.",
         "Au-delà du poivre blanc, un peu d'ail et de ciboule donnent plus de profondeur à la saveur aigre-piquante ; ajouter plus de poivre blanc si vous l'aimez plus relevée.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

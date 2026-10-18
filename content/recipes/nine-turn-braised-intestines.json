@@ -24,6 +24,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "高压煮 15 g；焖制 3 g；清洗和腌制另备",
+        "en": "15 g for pressure cooking; 3 g for braising; extra for cleaning/marinating",
+        "fr": "15 g pour l’autocuiseur ; 3 g pour mijoter ; supplément pour nettoyer et mariner"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "焖制 150 g；清洗及出锅前另备",
+        "en": "150 g for braising; extra for cleaning and finishing",
+        "fr": "150 g pour mijoter ; supplément pour nettoyer et finir"
       }
     },
     {
@@ -51,6 +61,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "焖制葱姜蒜米共 10 g；前处理另备",
+        "en": "10 g scallion/ginger/garlic combined for braising; extra for preparation",
+        "fr": "10 g de ciboule/gingembre/ail au total pour mijoter ; supplément pour la préparation"
       }
     },
     {
@@ -60,6 +75,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱蒜共享焖制用的 10 g；前处理另备",
+        "en": "included in the combined 10 g aromatics; extra for preparation",
+        "fr": "compris dans les 10 g d’aromates ; supplément pour la préparation"
       }
     },
     {
@@ -69,6 +89,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "焯水 50 g；焖制 10 g；腌制另备",
+        "en": "50 g for blanching; 10 g for braising; extra for marinating",
+        "fr": "50 g pour blanchir ; 10 g pour mijoter ; supplément pour mariner"
       }
     },
     {
@@ -78,6 +103,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "高压煮 20 g；焖制 15 g；腌制另备",
+        "en": "20 g for pressure cooking; 15 g for braising; extra for marinating",
+        "fr": "20 g pour l’autocuiseur ; 15 g pour mijoter ; supplément pour mariner"
       }
     },
     {
@@ -87,6 +117,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "高压煮 5 g；焖制 2 g；收汁 2 g",
+        "en": "5 g for pressure cooking; 2 g for braising; 2 g for reduction",
+        "fr": "5 g pour l’autocuiseur ; 2 g pour mijoter ; 2 g pour réduire"
       }
     },
     {
@@ -105,6 +140,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "焖制 50 g；炒糖色另备",
+        "en": "50 g for braising; extra for caramel coloring",
+        "fr": "50 g pour mijoter ; supplément pour le caramel"
       }
     },
     {
@@ -114,6 +154,11 @@
         "cn": "肉桂粉",
         "en": "Cinnamon powder",
         "fr": "Cannelle en poudre"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -123,6 +168,11 @@
         "cn": "砂仁粉",
         "en": "Amomum (sand ginger) powder",
         "fr": "Amome (poudre)"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -132,6 +182,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "与葱姜共享焖制用的 10 g；出锅另备少量",
+        "en": "included in the combined 10 g aromatics; a little extra to finish",
+        "fr": "compris dans les 10 g d’aromates ; un peu plus en finition"
       }
     },
     {
@@ -175,7 +230,7 @@
         "内脏类菜在烹调时蒜、胡椒粉、醋都不能少。",
         "成菜要酸、甜、咸、辣（胡椒）、苦各味平衡，不能只是甜咸或酸甜。",
         "套肠和不套肠用同样的时间压煮。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -199,7 +254,7 @@
         "For all offal dishes, garlic, pepper, and vinegar are indispensable in the cooking.",
         "The finished dish should balance sour, sweet, salty, peppery, and bitter, not just sweet-salty or sweet-sour.",
         "Cook the tucked and untucked intestines for the same time.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -223,7 +278,7 @@
         "Pour tous les plats d'abats, l'ail, le poivre et le vinaigre sont indispensables à la cuisson.",
         "Le plat fini doit équilibrer l'aigre, le sucré, le salé, le poivré et l'amer, pas seulement sucré-salé ou aigre-doux.",
         "Cuire les intestins emboîtés et non emboîtés pendant le même temps.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

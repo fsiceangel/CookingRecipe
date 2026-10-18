@@ -15,6 +15,11 @@
         "cn": "鸡翅",
         "en": "Chicken wings",
         "fr": "Ailes de poulet"
+      },
+      "amount": {
+        "cn": "11 个",
+        "en": "11 wings",
+        "fr": "11 ailes"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "可乐",
         "en": "Cola",
         "fr": "Cola"
+      },
+      "amount": {
+        "cn": "1100 g",
+        "en": "1100 g",
+        "fr": "1100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "话梅",
         "en": "Dried plum",
         "fr": "Prune séchée"
+      },
+      "amount": {
+        "cn": "35 g",
+        "en": "35 g",
+        "fr": "35 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 50 g",
+        "en": "50 g combined with ginger",
+        "fr": "50 g au total avec le gingembre"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 50 g",
+        "en": "50 g combined with scallion",
+        "fr": "50 g au total avec la ciboule"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     }
   ],
@@ -116,7 +166,7 @@
       "notes": [
         "加话梅是关键，能让可乐味更浓郁、回口带一点清香，但不能放太多以免抢味。",
         "加盐很重要，咸味托住甜香，甜味才有厚度而不发飘。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -135,7 +185,7 @@
       "notes": [
         "Adding dried plum is the key: it deepens the cola flavor and adds a clean finish, but don't add too much or it overpowers.",
         "Salt matters: it anchors the sweetness, giving it depth instead of a flat, simple sweet taste.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +204,7 @@
       "notes": [
         "Ajouter la prune séchée est la clé : elle intensifie le goût du cola et apporte une finale nette, mais sans excès au risque de dominer.",
         "Le sel est important : il soutient la douceur et lui donne de la profondeur plutôt qu'un sucré plat.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

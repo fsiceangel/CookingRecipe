@@ -15,6 +15,11 @@
         "cn": "茄子",
         "en": "Eggplant",
         "fr": "Aubergine"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "辣椒",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "绿尖椒 50 g；红尖椒 80 g",
+        "en": "50 g green peppers; 80 g red peppers",
+        "fr": "50 g de piments verts ; 80 g de piments rouges"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "木耳",
         "en": "Wood ear mushroom",
         "fr": "Champignon noir"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -123,6 +183,38 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 20 g，加水调开",
+        "en": "20 g starch, mixed with water",
+        "fr": "20 g de fécule, délayée dans de l’eau"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "pickled-chili-paste-endcard",
+      "ingredient": "pickled-chili-paste",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -142,7 +234,8 @@
       "notes": [
         "用电饼铛代替油炸，省油不油腻，又省时省力。",
         "勾了淀粉收汁很快，一般3分钟搞定，全程约10分钟即成。",
-        "葱姜蒜按比例放，姜蒜适量，具体比例见视频片尾。"
+        "葱姜蒜按比例放，姜蒜适量",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -160,7 +253,8 @@
       "notes": [
         "Using an electric griddle instead of deep-frying saves oil, keeps it from being greasy, and saves time and effort.",
         "Once thickened the sauce reduces fast, usually in 3 minutes, with the whole dish taking about 10 minutes.",
-        "Add the scallion, ginger, and garlic in proportion; exact amounts are shown on the video's end screen."
+        "Add the scallion, ginger, and garlic in proportion",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -178,7 +272,8 @@
       "notes": [
         "Utiliser une plaque électrique au lieu de la friture économise l'huile, évite le gras et fait gagner du temps et des efforts.",
         "Une fois liée, la sauce réduit vite, généralement en 3 minutes, le plat entier prenant environ 10 minutes.",
-        "Ajouter la ciboule, le gingembre et l'ail dans les bonnes proportions ; les quantités exactes sont indiquées à la fin de la vidéo."
+        "Ajouter la ciboule, le gingembre et l'ail dans les bonnes proportions",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

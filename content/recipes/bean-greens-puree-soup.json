@@ -15,6 +15,11 @@
         "cn": "小白菜",
         "en": "Bok choy",
         "fr": "Bok choy"
+      },
+      "amount": {
+        "cn": "600 g",
+        "en": "600 g",
+        "fr": "600 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "毛豆",
         "en": "Edamame",
         "fr": "Edamame"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "大葱",
         "en": "Scallion (white part)",
         "fr": "Ciboule (partie blanche)"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "350 g",
+        "en": "350 g",
+        "fr": "350 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "80 g（葱油）；焯水另加少许",
+        "en": "80 g for scallion oil; a little extra for blanching",
+        "fr": "80 g pour l’huile de ciboule ; un peu plus pour blanchir"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -92,7 +127,8 @@
       ],
       "notes": [
         "焯青菜要宽水大火迅速烧开，保持翠绿和清香。",
-        "汤的浓稠来自毛豆本身的淀粉，无需勾芡。"
+        "汤的浓稠来自毛豆本身的淀粉，无需勾芡。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -114,7 +150,8 @@
       ],
       "notes": [
         "Blanch the greens in plenty of water over high heat, bringing it to a boil fast to keep them bright green and fresh.",
-        "The thickness comes from the edamame's natural starch, so no slurry is needed."
+        "The thickness comes from the edamame's natural starch, so no slurry is needed.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -136,7 +173,8 @@
       ],
       "notes": [
         "Blanchir les légumes dans beaucoup d'eau à feu vif, en la portant vite à ébullition pour garder leur vert éclatant et leur fraîcheur.",
-        "L'épaisseur vient de l'amidon naturel des edamames, aucune liaison n'est nécessaire."
+        "L'épaisseur vient de l'amidon naturel des edamames, aucune liaison n'est nécessaire.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

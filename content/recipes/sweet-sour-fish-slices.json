@@ -15,6 +15,11 @@
         "cn": "鲤鱼",
         "en": "Carp",
         "fr": "Carpe"
+      },
+      "amount": {
+        "cn": "800 g",
+        "en": "800 g",
+        "fr": "800 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "蒜末",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "洗鱼 5 g；糖醋汁 3 g",
+        "en": "5 g for washing fish; 3 g for the sauce",
+        "fr": "5 g pour laver le poisson ; 3 g pour la sauce"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "玉米淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "130 g",
+        "en": "130 g",
+        "fr": "130 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "180 g",
+        "en": "180 g",
+        "fr": "180 g"
       }
     },
     {
@@ -134,7 +184,7 @@
       "notes": [
         "鱼片浸泡时一定要加葱姜水去腥。",
         "鱼骨中间特别粗的硬骨一定不要，那是真炸不酥的；其余切小块趁热裹汁。",
-        "确切比例请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -153,7 +203,7 @@
       "notes": [
         "Always add scallion-ginger water when soaking to remove the fishy smell.",
         "Discard the thick central bone, which truly won't crisp; cut the rest small and coat with sauce while hot.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -172,7 +222,7 @@
       "notes": [
         "Toujours ajouter de l'eau de ciboule-gingembre lors du trempage pour ôter l'odeur de poisson.",
         "Jeter l'os central épais qui ne croustillera pas ; couper le reste en petits morceaux et enrober de sauce à chaud.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

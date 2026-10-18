@@ -150,6 +150,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "出锅前 2 g；前处理另备",
+        "en": "2 g to finish; extra for preparation",
+        "fr": "2 g en finition ; supplément pour la préparation"
       }
     },
     {
@@ -201,7 +206,7 @@
       "notes": [
         "胡椒粉是这道菜的灵魂，不能少；最后的香油一定要热，淋下去要冒泡。",
         "鳝鱼不能在热水里泡太久，否则肉会糟。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -224,7 +229,7 @@
       "notes": [
         "White pepper is the soul of this dish - do not skimp; the finishing sesame oil must be hot enough to sizzle and bubble when poured.",
         "Do not soak the eel in hot water too long or the flesh will turn mushy.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -247,7 +252,7 @@
       "notes": [
         "Le poivre blanc est l'âme de ce plat - n'en lésinez pas ; l'huile de sésame finale doit être assez chaude pour grésiller en la versant.",
         "Ne faites pas tremper l'anguille trop longtemps dans l'eau chaude, sinon la chair deviendra pâteuse.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

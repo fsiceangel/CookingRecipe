@@ -15,6 +15,11 @@
         "cn": "青萝卜",
         "en": "Green radish",
         "fr": "Radis vert"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "面粉",
         "en": "Flour",
         "fr": "Farine"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "泡打粉",
         "en": "Baking powder",
         "fr": "Levure chimique"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "吉士粉",
         "en": "Custard powder",
         "fr": "Poudre à crème"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -86,7 +116,8 @@
       ],
       "notes": [
         "焯水能去掉萝卜的辣味和臭气，成品只剩萝卜的清香。",
-        "成品外酥里软，做法非常简单。具体用量见视频片尾。"
+        "成品外酥里软，做法非常简单。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -102,7 +133,8 @@
       ],
       "notes": [
         "Blanching removes the radish's spicy and off odor, leaving only its fresh sweetness.",
-        "The result is crispy outside and soft inside, and very easy to make. Exact amounts are shown on the video's end screen."
+        "The result is crispy outside and soft inside, and very easy to make.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -118,7 +150,8 @@
       ],
       "notes": [
         "Le blanchiment élimine le piquant et l'odeur du radis, ne laissant que sa fraîcheur sucrée.",
-        "Le résultat est croustillant à l'extérieur et moelleux à l'intérieur, et très facile à réaliser. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Le résultat est croustillant à l'extérieur et moelleux à l'intérieur, et très facile à réaliser.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "猪肉馅",
         "en": "Minced pork",
         "fr": "Porc haché"
+      },
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "红枣",
         "en": "Red dates",
         "fr": "Jujubes"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "半个",
+        "en": "½ egg",
+        "fr": "½ œuf"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "肉馅 15 g；出锅香葱 3 g",
+        "en": "15 g for the filling; 3 g scallion to finish",
+        "fr": "15 g pour la farce ; 3 g de ciboule en finition"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "肉馅 0.5 g；汤 0.5 g",
+        "en": "0.5 g for filling; 0.5 g for broth",
+        "fr": "0,5 g pour la farce ; 0,5 g pour le bouillon"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "肉馅 2 g；汤 5 g",
+        "en": "2 g for filling; 5 g for broth",
+        "fr": "2 g pour la farce ; 5 g pour le bouillon"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "肉馅 1 g；汤 1 g",
+        "en": "1 g for filling; 1 g for broth",
+        "fr": "1 g pour la farce ; 1 g pour le bouillon"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "食材表 2 g；步骤 5 g",
+        "en": "2 g in the ingredient list; 5 g in the steps",
+        "fr": "2 g dans la liste ; 5 g dans les étapes"
       }
     },
     {
@@ -105,6 +155,20 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "800 g",
+        "en": "800 g",
+        "fr": "800 g"
+      }
+    },
+    {
+      "id": "goji-berry-endcard",
+      "ingredient": "goji-berry",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -122,7 +186,8 @@
       ],
       "notes": [
         "关键是选好新鲜肉馅和红枣，丸子煮到松软、汤里有枣味和肉味即可，做法很简单。",
-        "适合冬天，暖身又滋补；喜欢吃辣的可加点辣。具体用量见视频片尾。"
+        "适合冬天，暖身又滋补；喜欢吃辣的可加点辣。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -138,7 +203,8 @@
       ],
       "notes": [
         "The key is good fresh meat and dates; just cook the meatballs until soft and the broth carries both date and meat flavor. It's very simple.",
-        "Great for winter, warming and nourishing; add chili if you like heat. Exact amounts are shown on the video's end screen."
+        "Great for winter, warming and nourishing; add chili if you like heat.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +220,8 @@
       ],
       "notes": [
         "L'essentiel est une bonne viande fraîche et de bons jujubes ; cuire simplement les boulettes jusqu'à ce qu'elles soient moelleuses et que le bouillon porte les deux saveurs. C'est très simple.",
-        "Parfait pour l'hiver, réconfortant et nourrissant ; ajouter du piment si on aime le piquant. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Parfait pour l'hiver, réconfortant et nourrissant ; ajouter du piment si on aime le piquant.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

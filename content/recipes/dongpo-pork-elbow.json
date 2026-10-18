@@ -69,6 +69,11 @@
         "cn": "高汤",
         "en": "Stock",
         "fr": "Bouillon"
+      },
+      "amount": {
+        "cn": "2 勺（可不放）",
+        "en": "2 ladlefuls (optional)",
+        "fr": "2 louches (facultatif)"
       }
     },
     {
@@ -115,6 +120,14 @@
         "en": "Hot oil",
         "fr": "Huile chaude"
       }
+    },
+    {
+      "id": "light-soy-sauce-endcard",
+      "ingredient": "light-soy-sauce"
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg"
     }
   ],
   "translations": {
@@ -133,7 +146,7 @@
       "notes": [
         "炖的时候提前下盐，盐味才能渗到肉里，吃着才有回味。",
         "砂锅里花椒只放一粒，量大了会发苦。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -151,7 +164,7 @@
       "notes": [
         "Salt early during the simmer so the flavor soaks into the meat and leaves a lasting savor.",
         "Use only a single peppercorn in the clay pot; more will turn the broth bitter.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -169,7 +182,7 @@
       "notes": [
         "Saler tôt pendant le mijotage pour que la saveur imprègne la viande et laisse une longue rémanence.",
         "N'utiliser qu'un seul grain de poivre dans la marmite ; davantage rendrait le bouillon amer.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

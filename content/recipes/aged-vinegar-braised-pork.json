@@ -15,6 +15,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -78,6 +83,11 @@
         "cn": "陈醋",
         "en": "Aged vinegar",
         "fr": "Vinaigre vieilli"
+      },
+      "amount": {
+        "cn": "500 g（炒制 250 g，炖煮 250 g）",
+        "en": "500 g (250 g for frying, 250 g for braising)",
+        "fr": "500 g (250 g pour faire revenir, 250 g pour mijoter)"
       }
     },
     {
@@ -87,6 +97,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -96,6 +111,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -105,6 +125,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "15–20 g",
+        "en": "15–20 g",
+        "fr": "15–20 g"
       }
     },
     {
@@ -152,7 +177,8 @@
       ],
       "notes": [
         "正宗做法应用山西陈放时间长的老陈醋，家用普通陈醋也可，香味略有差别。",
-        "醋能促进肉的融化、融掉部分脂肪，所以肥肉吃起来不腻。详细用量见视频片尾。"
+        "醋能促进肉的融化、融掉部分脂肪，所以肥肉吃起来不腻。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -171,7 +197,8 @@
       ],
       "notes": [
         "The authentic version uses long-aged Shanxi vinegar; ordinary aged vinegar works for home cooking, with a slight difference in aroma.",
-        "The vinegar helps break down the meat and renders some of the fat, so the fatty pork doesn't taste greasy. Exact amounts are shown on the video's end screen."
+        "The vinegar helps break down the meat and renders some of the fat, so the fatty pork doesn't taste greasy.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -190,7 +217,8 @@
       ],
       "notes": [
         "La version authentique utilise du vinaigre du Shanxi longuement vieilli ; du vinaigre vieilli ordinaire convient pour la maison, avec une légère différence d'arôme.",
-        "Le vinaigre aide à décomposer la viande et fait fondre une partie du gras, si bien que le porc gras ne paraît pas écœurant. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Le vinaigre aide à décomposer la viande et fait fondre une partie du gras, si bien que le porc gras ne paraît pas écœurant.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

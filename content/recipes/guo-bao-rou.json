@@ -15,15 +15,25 @@
         "cn": "里脊肉",
         "en": "Pork loin",
         "fr": "Longe de porc"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
       "id": "cornstarch-2",
-      "ingredient": "cornstarch",
+      "ingredient": "potato-starch",
       "name": {
         "cn": "土豆淀粉",
         "en": "Potato starch",
         "fr": "Fécule de pomme de terre"
+      },
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "90 g",
+        "en": "90 g",
+        "fr": "90 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "90 g",
+        "en": "90 g",
+        "fr": "90 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -87,6 +117,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "2 瓣",
+        "en": "2 cloves",
+        "fr": "2 gousses"
       }
     },
     {
@@ -124,7 +159,8 @@
       ],
       "notes": [
         "酥脆口感主要来自好的纯土豆淀粉，淀粉糊要稍干、提前多泡一会儿。",
-        "肉片一定要反复复炸两三次才够酥脆。具体比例见视频片尾。"
+        "肉片一定要反复复炸两三次才够酥脆。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -142,7 +178,8 @@
       ],
       "notes": [
         "The crispiness comes mainly from good pure potato starch; keep the batter on the dry side and soak the starch ahead of time.",
-        "The pork must be re-fried two or three times to be properly crisp. Exact ratios are shown on the video's end screen."
+        "The pork must be re-fried two or three times to be properly crisp.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -160,7 +197,8 @@
       ],
       "notes": [
         "Le croustillant vient surtout d'une bonne fécule de pomme de terre pure ; garder la pâte plutôt sèche et faire tremper la fécule à l'avance.",
-        "Le porc doit être frit deux ou trois fois pour être bien croustillant. Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Le porc doit être frit deux ou trois fois pour être bien croustillant.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -24,6 +24,11 @@
         "cn": "马蹄",
         "en": "Water chestnut",
         "fr": "Châtaigne d'eau"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 pieces",
+        "fr": "4 pièces"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "肉馅 6 g；汤按口味另调",
+        "en": "6 g for the filling; season the broth to taste",
+        "fr": "6 g pour la farce ; assaisonner le bouillon au goût"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "肉馅 2 g；汤 1 g",
+        "en": "2 g for the filling; 1 g for the broth",
+        "fr": "2 g pour la farce ; 1 g pour le bouillon"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "葱姜水",
         "en": "Scallion-ginger water",
         "fr": "Eau de ciboule et gingembre"
+      },
+      "amount": {
+        "cn": "1 碗（水 150 g、葱 25 g、姜 50 g）",
+        "en": "1 bowl made with 150 g water, 25 g scallion and 50 g ginger",
+        "fr": "1 bol préparé avec 150 g d’eau, 25 g de ciboule et 50 g de gingembre"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "玉米淀粉",
         "en": "Corn starch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "白菜叶",
         "en": "Napa cabbage leaves",
         "fr": "Feuilles de chou chinois"
+      },
+      "amount": {
+        "cn": "1 片",
+        "en": "1 leaf",
+        "fr": "1 feuille"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "葱姜水用 50 g；炖汤另备 1 片",
+        "en": "50 g for aromatic water; 1 extra slice for the broth",
+        "fr": "50 g pour l’eau aromatique ; 1 tranche supplémentaire pour le bouillon"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "葱姜水用 25 g；炖汤另备几片",
+        "en": "25 g for aromatic water; a few extra pieces for the broth",
+        "fr": "25 g pour l’eau aromatique ; quelques morceaux supplémentaires pour le bouillon"
       }
     },
     {
@@ -135,7 +180,8 @@
       ],
       "notes": [
         "检验狮子头是否炖好：拿筷子能直接插起来；插不起来说明火候不够，表面过分塌陷则是炖过火了。",
-        "汤味要与狮子头咸淡一致，肉才不会在水里流失咸味。详细用量见视频片尾。"
+        "汤味要与狮子头咸淡一致，肉才不会在水里流失咸味。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -155,7 +201,8 @@
       ],
       "notes": [
         "To check doneness: you should be able to lift the meatball straight up with chopsticks; if it falls apart the heat was insufficient, and an overly collapsed surface means it was overcooked.",
-        "Season the broth to the same saltiness as the meatballs so the meat doesn't lose its seasoning in the water. Exact amounts are shown on the video's end screen."
+        "Season the broth to the same saltiness as the meatballs so the meat doesn't lose its seasoning in the water.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -175,7 +222,8 @@
       ],
       "notes": [
         "Pour vérifier la cuisson : on doit pouvoir soulever la boulette à la verticale avec des baguettes ; si elle se défait, la cuisson était insuffisante, et une surface trop affaissée signifie une surcuisson.",
-        "Assaisonner le bouillon à la même salinité que les boulettes pour que la viande ne perde pas son assaisonnement dans l'eau. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Assaisonner le bouillon à la même salinité que les boulettes pour que la viande ne perde pas son assaisonnement dans l'eau.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

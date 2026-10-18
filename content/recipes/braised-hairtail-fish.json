@@ -15,6 +15,11 @@
         "cn": "带鱼",
         "en": "Hairtail fish",
         "fr": "Poisson-sabre"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "花雕酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "25 g（腌鱼）＋10 g（料汁）",
+        "en": "25 g for marinating + 10 g for the sauce",
+        "fr": "25 g pour mariner + 10 g pour la sauce"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "葱花",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "花生米",
         "en": "Peanuts",
         "fr": "Cacahuètes"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -105,6 +150,47 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "130 g",
+        "en": "130 g",
+        "fr": "130 g"
+      }
+    },
+    {
+      "id": "light-soy-sauce-endcard",
+      "ingredient": "light-soy-sauce",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "vinegar-endcard",
+      "ingredient": "vinegar",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "sugar-endcard",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     }
   ],
@@ -125,7 +211,7 @@
       ],
       "notes": [
         "煎（而非炸）能保留带鱼焦脆的层次感，又省油。",
-        "料汁的具体配比请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -144,7 +230,7 @@
       ],
       "notes": [
         "Pan-frying (rather than deep-frying) keeps a crisp, layered texture while using less oil.",
-        "The exact sauce ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -163,7 +249,7 @@
       ],
       "notes": [
         "Poêler (plutôt que frire) conserve une texture croustillante et nuancée tout en utilisant moins d'huile.",
-        "Les proportions exactes de la sauce sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

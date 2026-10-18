@@ -15,6 +15,11 @@
         "cn": "萝卜",
         "en": "Daikon radish",
         "fr": "Radis blanc (daikon)"
+      },
+      "amount": {
+        "cn": "850 g",
+        "en": "850 g",
+        "fr": "850 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "茼蒿（嫩叶）",
         "en": "Crown daisy greens (tender leaves)",
         "fr": "Chrysanthème comestible (jeunes feuilles)"
+      },
+      "amount": {
+        "cn": "700 g",
+        "en": "700 g",
+        "fr": "700 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "面粉",
         "en": "Flour",
         "fr": "Farine"
+      },
+      "amount": {
+        "cn": "均匀裹满蔬菜表面",
+        "en": "enough to coat the vegetables evenly",
+        "fr": "assez pour enrober uniformément les légumes"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱油",
         "en": "Scallion oil",
         "fr": "Huile de ciboule"
+      },
+      "amount": {
+        "cn": "葱油 20 g；炝辣椒食用油 40 g",
+        "en": "20 g scallion oil; 40 g cooking oil for chilies",
+        "fr": "20 g d’huile de ciboule ; 40 g d’huile de cuisson pour les piments"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜末",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "炝锅蒜末 20 g；蒜汁 50 g",
+        "en": "20 g minced garlic for frying; 50 g for garlic sauce",
+        "fr": "20 g d’ail haché pour faire revenir ; 50 g pour la sauce"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "干辣椒",
         "en": "Dried chili pepper",
         "fr": "Piment séché"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "调菜 2 g；蒜汁 2 g",
+        "en": "2 g for vegetables; 2 g for garlic sauce",
+        "fr": "2 g pour les légumes ; 2 g pour la sauce"
       }
     },
     {
@@ -78,6 +113,47 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "carrot-endcard",
+      "ingredient": "carrot",
+      "amount": {
+        "cn": "580 g",
+        "en": "580 g",
+        "fr": "580 g"
+      }
+    },
+    {
+      "id": "mint-endcard",
+      "ingredient": "mint",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "蒜汁 30 g",
+        "en": "30 g for garlic sauce",
+        "fr": "30 g pour la sauce à l’ail"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     }
   ],
@@ -97,7 +173,7 @@
       "notes": [
         "拌面粉后一定要拌一点葱油形成油膜，蒸完菜丝才会一根一根不粘成坨。",
         "调味时不要再开火加热，否则淀粉受热可能回粘结块；这种做法很多蔬菜都可以蒸，健康软糯。",
-        "蒜汁配方与确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -115,7 +191,7 @@
       "notes": [
         "Always toss the floured vegetables with a little scallion oil to form an oil film, so the strands stay separate and do not clump after steaming.",
         "Do not reheat over the flame when seasoning, or the heated starch may turn gummy and clump; many vegetables can be steamed this way for a healthy, soft dish.",
-        "The garlic sauce recipe and exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -133,7 +209,7 @@
       "notes": [
         "Toujours mélanger les légumes farinés avec un peu d'huile de ciboule pour former un film huileux, afin que les brins restent séparés et ne s'agglomèrent pas après cuisson.",
         "Ne pas réchauffer sur le feu lors de l'assaisonnement, sinon la fécule chauffée peut devenir collante et s'agglomérer ; de nombreux légumes peuvent être cuits ainsi pour un plat sain et tendre.",
-        "La recette de la sauce à l'ail et les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

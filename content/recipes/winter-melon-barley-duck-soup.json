@@ -15,6 +15,11 @@
         "cn": "老鸭",
         "en": "Old duck",
         "fr": "Canard âgé"
+      },
+      "amount": {
+        "cn": "1200 g",
+        "en": "1200 g",
+        "fr": "1200 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "冬瓜",
         "en": "Winter melon",
         "fr": "Melon d'hiver"
+      },
+      "amount": {
+        "cn": "600 g",
+        "en": "600 g",
+        "fr": "600 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "薏米",
         "en": "Job's tears (Chinese pearl barley)",
         "fr": "Larmes-de-Job (orge perlé chinois)"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +113,20 @@
         "cn": "胡椒粉",
         "en": "Ground white pepper",
         "fr": "Poivre blanc moulu"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "3000 g",
+        "en": "3000 g",
+        "fr": "3000 g"
       }
     }
   ],
@@ -97,7 +146,7 @@
         "鸭子要选老鸭，皮下脂肪少，炖出来肉紧实、汤不腻。",
         "想让汤色奶白，可在鸭肉炖烂后再大火滚一下。",
         "冬瓜带皮一起炖，冬瓜味更足。",
-        "具体配料和比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -115,7 +164,7 @@
         "Use an old duck; it has less subcutaneous fat, so the meat stays firm and the soup is not greasy.",
         "For a milky-white soup, boil it hard for a moment after the duck is tender.",
         "Leave the skin on the winter melon for a stronger flavor.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -133,7 +182,7 @@
         "Utiliser un canard âgé; il a moins de graisse sous-cutanée, la chair reste ferme et la soupe n'est pas grasse.",
         "Pour une soupe blanche laiteuse, la faire bouillir fort un instant une fois le canard tendre.",
         "Laisser la peau sur le melon d'hiver pour plus de goût.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

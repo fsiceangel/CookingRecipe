@@ -15,6 +15,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "400 g（大土豆 2 个）",
+        "en": "400 g (2 large potatoes)",
+        "fr": "400 g (2 grosses pommes de terre)"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "面粉",
         "en": "Flour",
         "fr": "Farine"
+      },
+      "amount": {
+        "cn": "约 500 g",
+        "en": "about 500 g",
+        "fr": "environ 500 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "肉丝",
         "en": "Shredded pork",
         "fr": "Porc émincé"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "大葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "尖椒",
         "en": "Green chili pepper",
         "fr": "Piment vert"
+      },
+      "amount": {
+        "cn": "小米辣 10 g",
+        "en": "10 g bird’s-eye chilies",
+        "fr": "10 g de petits piments forts"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "鸡精",
         "en": "Chicken bouillon",
         "fr": "Bouillon de poulet en poudre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     }
   ],
@@ -114,7 +159,8 @@
       ],
       "notes": [
         "热锅凉油加猪油，土豆才香润不粘锅。",
-        "全程大火把葱姜蒜和肉的香味逼进油里，再裹到土豆上。"
+        "全程大火把葱姜蒜和肉的香味逼进油里，再裹到土豆上。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -132,7 +178,7 @@
       "notes": [
         "Use a hot wok with cool oil plus lard so the potato turns fragrant and won't stick.",
         "Keep the heat high to drive the aroma of the aromatics and pork into the oil, which then coats the potato.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -150,7 +196,7 @@
       "notes": [
         "Utilisez un wok chaud avec de l'huile froide et du saindoux pour que la pomme de terre soit parfumée et n'accroche pas.",
         "Gardez un feu vif pour faire pénétrer l'arôme des aromates et du porc dans l'huile, qui enrobe ensuite la pomme de terre.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

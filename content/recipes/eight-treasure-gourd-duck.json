@@ -15,6 +15,11 @@
         "cn": "鸭子",
         "en": "Whole duck",
         "fr": "Canard entier"
+      },
+      "amount": {
+        "cn": "1 只整鸭",
+        "en": "1 whole duck",
+        "fr": "1 canard entier"
       }
     },
     {
@@ -229,7 +234,7 @@
         "八宝料没有固定配方，凑够八种新鲜无异味的料即可。",
         "海参、鲍鱼要后放，下早了易化、久煮易老。",
         "勾芡时要小火，大火高温的芡不亮。",
-        "精确用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -253,7 +258,7 @@
         "There is no fixed recipe for the eight treasures; any eight fresh, odor-free ingredients will do.",
         "Add sea cucumber and abalone last; added too early they dissolve, and overcooked they turn tough.",
         "Thicken the glaze over low heat; a glaze cooked at high heat won't be glossy.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -277,7 +282,7 @@
         "Il n'y a pas de recette fixe pour les huit trésors ; huit ingrédients frais et sans odeur conviennent.",
         "Ajouter le concombre de mer et l'ormeau en dernier ; trop tôt ils se dissolvent, trop cuits ils durcissent.",
         "Lier la sauce à feu doux ; une liaison cuite à feu vif ne sera pas brillante.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

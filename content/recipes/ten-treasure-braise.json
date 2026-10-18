@@ -15,6 +15,11 @@
         "cn": "火腿",
         "en": "Chinese ham",
         "fr": "Jambon chinois"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "笋片",
         "en": "Bamboo shoot slices",
         "fr": "Tranches de pousse de bambou"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "胡萝卜",
         "en": "Carrot",
         "fr": "Carotte"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "豆腐",
         "en": "Tofu",
         "fr": "Tofu"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "香菇",
         "en": "Shiitake mushroom",
         "fr": "Champignon shiitake"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "白菜",
         "en": "Napa cabbage",
         "fr": "Chou chinois"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "蛋饺",
         "en": "Egg dumplings",
         "fr": "Raviolis aux oeufs"
+      },
+      "amount": {
+        "cn": "1 盒",
+        "en": "1 pack",
+        "fr": "1 paquet"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "肉馅",
         "en": "Minced meat",
         "fr": "Viande hachée"
+      },
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "1 个",
+        "en": "1 egg",
+        "fr": "1 œuf"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "粉丝",
         "en": "Glass noodles",
         "fr": "Vermicelles"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "5（片尾未标单位）",
+        "en": "5 (unit not shown)",
+        "fr": "5 (unité non indiquée)"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "适量",
+        "en": "as needed",
+        "fr": "selon besoin"
       }
     },
     {
@@ -132,6 +197,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "肉馅 2 g；鸡汤 3 g",
+        "en": "2 g for filling; 3 g for stock",
+        "fr": "2 g pour la farce ; 3 g pour le bouillon"
       }
     },
     {
@@ -141,6 +211,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "肉馅 1 g；鸡汤 1 g",
+        "en": "1 g for filling; 1 g for stock",
+        "fr": "1 g pour la farce ; 1 g pour le bouillon"
       }
     },
     {
@@ -150,6 +225,11 @@
         "cn": "胡椒",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -159,7 +239,34 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
+    },
+    {
+      "id": "celtuce-endcard",
+      "ingredient": "celtuce",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      }
+    },
+    {
+      "id": "chicken-drumstick-endcard",
+      "ingredient": "chicken-drumstick",
+      "amount": {
+        "cn": "2 个",
+        "en": "2 drumsticks",
+        "fr": "2 pilons"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil"
     }
   ],
   "translations": {
@@ -180,7 +287,8 @@
       "notes": [
         "白菜垫底前蘸一层淀粉，可防止粘底巴锅。",
         "蛋饺是生的，最后一定要小火煮够五分钟煮熟。",
-        "精确用量见视频片尾。"
+        "片尾肉馅明确写 250 g（肥瘦比 2:8），同一行还出现没有对应食材的“1 kg”，未将该数字分配给任何食材。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -200,7 +308,8 @@
       "notes": [
         "Dust the cabbage with starch before lining the bowl to keep it from sticking and scorching.",
         "The egg dumplings are raw, so be sure to simmer for the full five minutes to cook them.",
-        "Exact amounts are shown on the video's end screen."
+        "The card explicitly lists 250 g minced meat (20% fat, 80% lean). An unassigned “1 kg” also appears on that line; it has not been attributed to an ingredient.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -220,7 +329,8 @@
       "notes": [
         "Saupoudrer le chou de fécule avant de tapisser le bol pour éviter qu'il colle et brûle.",
         "Les raviolis aux oeufs sont crus ; bien mijoter les cinq minutes complètes pour les cuire.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "La fiche indique clairement 250 g de viande hachée (20 % de gras, 80 % de maigre). Un « 1 kg » sans ingrédient associé figure sur la même ligne ; il n’a été attribué à aucun ingrédient.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

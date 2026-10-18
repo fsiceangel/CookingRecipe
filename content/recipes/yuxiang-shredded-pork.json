@@ -15,6 +15,11 @@
         "cn": "里脊肉",
         "en": "Pork loin",
         "fr": "Longe de porc"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；调味 5 g",
+        "en": "1 g for marinating; 5 g for seasoning",
+        "fr": "1 g pour mariner ; 5 g pour assaisonner"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；调味 2 g",
+        "en": "1 g for marinating; 2 g for seasoning",
+        "fr": "1 g pour mariner ; 2 g pour assaisonner"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "小苏打",
         "en": "Baking soda",
         "fr": "Bicarbonate de soude"
+      },
+      "amount": {
+        "cn": "可选：每 500 g 肉用 1 g",
+        "en": "optional: 1 g per 500 g meat",
+        "fr": "facultatif : 1 g pour 500 g de viande"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "腌肉 10 g",
+        "en": "10 g for marinating",
+        "fr": "10 g pour mariner"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "封浆 40 g；底油 100 g；出锅封油 10 g",
+        "en": "40 g to seal the marinade; 100 g for frying; 10 g to finish",
+        "fr": "40 g pour sceller la marinade ; 100 g pour faire revenir ; 10 g en finition"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "美人椒 / 小米辣",
         "en": "Red & bird's-eye chilies",
         "fr": "Piments rouges et oiseau"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "笋丝",
         "en": "Bamboo shoots",
         "fr": "Pousses de bambou"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -141,6 +206,11 @@
         "cn": "木耳",
         "en": "Wood ear mushroom",
         "fr": "Champignon noir"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -150,6 +220,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -159,6 +234,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "38 g",
+        "en": "38 g",
+        "fr": "38 g"
       }
     },
     {
@@ -168,6 +248,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -177,6 +262,20 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "cornstarch-slurry-endcard",
+      "ingredient": "cornstarch-slurry",
+      "amount": {
+        "cn": "勾芡 5 g",
+        "en": "5 g for thickening",
+        "fr": "5 g pour lier"
       }
     }
   ],
@@ -197,7 +296,8 @@
       ],
       "notes": [
         "这是“超级不正宗版”，用番茄酱和新鲜辣椒代替鱼香泡椒。",
-        "小苏打可选，用来让肉更嫩；具体比例见视频片尾。"
+        "小苏打可选，用来让肉更嫩",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -216,7 +316,8 @@
       ],
       "notes": [
         "This is the chef's \"very untraditional\" version, using ketchup and fresh chilies in place of pickled chili.",
-        "Baking soda is optional, for extra tenderness; see the video end screen for exact ratios."
+        "Baking soda is optional, for extra tenderness",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -235,7 +336,8 @@
       ],
       "notes": [
         "C'est la version « très peu traditionnelle » du chef, utilisant du ketchup et des piments frais à la place du piment mariné.",
-        "Le bicarbonate est facultatif, pour plus de tendreté; voir l'écran de fin de la vidéo pour les proportions exactes."
+        "Le bicarbonate est facultatif, pour plus de tendreté",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

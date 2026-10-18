@@ -51,6 +51,11 @@
         "cn": "白砂糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "卤汤糖色 80 g；熏制 100 g",
+        "en": "80 g for braising caramel; 100 g for smoking",
+        "fr": "80 g pour le caramel du bouillon ; 100 g pour le fumage"
       }
     },
     {
@@ -60,6 +65,11 @@
         "cn": "猪油",
         "en": "Lard",
         "fr": "Saindoux"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -78,6 +93,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -87,6 +107,11 @@
         "cn": "大葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -96,6 +121,11 @@
         "cn": "干黄酱",
         "en": "Dried yellow bean paste",
         "fr": "Pâte de haricots jaunes"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -105,6 +135,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -114,6 +149,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -123,6 +163,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "4 kg",
+        "en": "4 kg",
+        "fr": "4 kg"
       }
     },
     {
@@ -132,6 +177,11 @@
         "cn": "茶叶",
         "en": "Tea leaves",
         "fr": "Feuilles de thé"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -141,6 +191,128 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "卤汤 5 kg；糖色步骤另列热水 500 g",
+        "en": "5 kg for the braising broth; the caramel step separately lists 500 g hot water",
+        "fr": "5 kg pour le bouillon ; l’étape du caramel indique séparément 500 g d’eau chaude"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "炒糖色 50 g；炒香料底油 50 g",
+        "en": "50 g for caramel; 50 g for frying aromatics",
+        "fr": "50 g pour le caramel ; 50 g pour faire revenir les aromates"
+      }
+    },
+    {
+      "id": "dried-tangerine-peel-endcard",
+      "ingredient": "dried-tangerine-peel",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "chili-pepper-endcard",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "bay-leaf-endcard",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "tsaoko-endcard",
+      "ingredient": "tsaoko",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "star-anise-endcard",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-endcard",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "white-cardamom-endcard",
+      "ingredient": "white-cardamom",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "amomum-endcard",
+      "ingredient": "amomum",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      },
+      "name": {
+        "cn": "砂仁",
+        "en": "Amomum fruit",
+        "fr": "Fruit d’amome"
+      }
+    },
+    {
+      "id": "cloves-endcard",
+      "ingredient": "cloves",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "cinnamon-bark-endcard",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "fennel-seeds-endcard",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     }
   ],
@@ -163,7 +335,9 @@
       ],
       "notes": [
         "趁热熏才能上色；茉莉花茶配白糖熏出的茶香最浓。",
-        "卤汤调好后可反复使用。卤料配比请见视频片尾。"
+        "卤汤调好后可反复使用。",
+        "片尾给出的鸡汤做法：鸡 1800 g、水 5 kg，高压锅 50 分钟；卤汤取鸡汤 4 kg。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -184,7 +358,9 @@
       ],
       "notes": [
         "Smoke the meat while hot so it takes color; jasmine tea with sugar gives the strongest tea aroma.",
-        "The braising liquid can be reused. The braising-spice ratios are shown on the video's end screen."
+        "The braising liquid can be reused.",
+        "The end card makes stock with 1800 g chicken and 5 kg water, pressure-cooked for 50 minutes; use 4 kg of stock in the braising broth.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -205,7 +381,9 @@
       ],
       "notes": [
         "Fumer la viande à chaud pour qu'elle se colore ; le thé au jasmin avec du sucre donne l'arôme de thé le plus prononcé.",
-        "Le liquide de braisage est réutilisable. Les proportions des épices sont indiquées à la fin de la vidéo."
+        "Le liquide de braisage est réutilisable.",
+        "La fiche prépare le bouillon avec 1800 g de poulet et 5 kg d’eau, 50 minutes à l’autocuiseur ; en utiliser 4 kg pour braiser.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

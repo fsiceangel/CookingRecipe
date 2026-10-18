@@ -16,6 +16,11 @@
         "cn": "红薯（红心薯加板栗薯）",
         "en": "Sweet potato (red and chestnut varieties)",
         "fr": "Patate douce (variétés rouge et châtaigne)"
+      },
+      "amount": {
+        "cn": "1500 g",
+        "en": "1500 g",
+        "fr": "1500 g"
       }
     },
     {
@@ -25,6 +30,11 @@
         "cn": "黄油",
         "en": "Butter",
         "fr": "Beurre"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -34,6 +44,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
       }
     },
     {
@@ -61,6 +76,11 @@
         "cn": "面包糠",
         "en": "Panko",
         "fr": "Panko"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -89,7 +109,8 @@
       ],
       "notes": [
         "红薯馅本身已熟，是温的，不用炸太久，全程控制好油温。",
-        "拍粉脱蛋粘面包糠是为了外壳更酥脆。具体比例见视频片尾。"
+        "拍粉脱蛋粘面包糠是为了外壳更酥脆。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -107,7 +128,8 @@
       ],
       "notes": [
         "The sweet potato filling is already cooked and warm, so it doesn't need long frying — control the oil temperature throughout.",
-        "The dredge-egg-panko coating is purely to make the shell crispier. Exact ratios are shown on the video's end screen."
+        "The dredge-egg-panko coating is purely to make the shell crispier.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -125,7 +147,8 @@
       ],
       "notes": [
         "La farce de patate douce est déjà cuite et tiède, elle ne nécessite donc pas une longue friture — maîtriser la température de l'huile tout du long.",
-        "L'enrobage fécule-œuf-panko sert uniquement à rendre la croûte plus croustillante. Les proportions exactes sont indiquées à la fin de la vidéo."
+        "L'enrobage fécule-œuf-panko sert uniquement à rendre la croûte plus croustillante.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

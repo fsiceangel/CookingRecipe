@@ -28,11 +28,16 @@
     },
     {
       "id": "fermented-chili-paste-3",
-      "ingredient": "fermented-chili-paste",
+      "ingredient": "zha-guang-jiao",
       "name": {
-        "cn": "糟辣椒",
-        "en": "Fermented chili paste",
-        "fr": "Pâte de piment fermentée"
+        "cn": "榨广椒",
+        "en": "Zha guang jiao",
+        "fr": "Zha guang jiao"
+      },
+      "amount": {
+        "cn": "与肉的重量比为 1:2",
+        "en": "1 part to 2 parts meat by weight",
+        "fr": "1 part pour 2 parts de viande en poids"
       }
     },
     {
@@ -55,11 +60,11 @@
     },
     {
       "id": "scallion-ginger-water-6",
-      "ingredient": "scallion-ginger-water",
+      "ingredient": "sichuan-peppercorn-water",
       "name": {
-        "cn": "葱姜水",
-        "en": "Scallion-ginger water",
-        "fr": "Eau de ciboule et gingembre"
+        "cn": "花椒水",
+        "en": "Sichuan peppercorn water",
+        "fr": "Eau infusée au poivre du Sichuan"
       }
     },
     {
@@ -69,6 +74,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -78,6 +88,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,59 +102,77 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
+    },
+    {
+      "id": "light-soy-sauce-endcard",
+      "ingredient": "light-soy-sauce",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "pumpkin-endcard",
+      "ingredient": "pumpkin"
     }
   ],
   "translations": {
     "cn": {
       "title": "抬格子",
       "steps": [
-        "五花肉刮净毛，尽量选稍肥一点的，蒸的时间长会把油蒸出来；切成约3毫米厚的片。",
-        "排骨剁成小块，没有砍刀可以掰开。",
-        "肉和排骨里加入糟辣椒、葱姜、葱姜水、蚝油、味精拌匀，闻一下确认是肉香而非腥味。",
-        "若拌得有点干，可再补一点葱姜水；切记水不能多，蒸时会出水。",
-        "最后加入香油拌匀，提香并柔和酸辣味。",
-        "把肉皮朝下整齐铺进碗里，摆好排骨。",
-        "锅里烧开水，上锅大火蒸约一个小时，蒸到肉酥软、糟辣椒的酸香麻辣全部渗入肉中即可。"
+        "五花肉刮净毛，选稍肥一点的，切成约3毫米厚的片。",
+        "排骨剁成小块。",
+        "肉和排骨加入花椒水、葱姜、50g蚝油和2g味精，抓匀腌制。",
+        "加入榨广椒，榨广椒与肉的比例为1:2；再加入50g鲜味酱油和10g香油，抓匀。",
+        "南瓜切片，均匀铺在蒸屉上。",
+        "把排骨和肉铺在南瓜上。",
+        "水烧开后上锅蒸约1小时，出锅撒葱花。"
       ],
       "notes": [
-        "糟辣椒（玉米面拌剁辣椒发酵）是这道贵州菜的灵魂，蒸出来咸鲜微辣带一丝酸香。",
+        "榨广椒由玉米面和辣椒发酵制成。",
         "拌料时少加水，否则蒸的时候出水太多。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
       "title": "Guizhou Steamed Pork (Tai Gezi)",
       "steps": [
-        "Scrape the pork belly clean of bristles; choose a slightly fattier cut since the long steam renders out the fat. Slice about 3mm thick.",
-        "Chop the ribs into small pieces; snap them apart by hand if you have no cleaver.",
-        "Mix the pork and ribs with fermented chili paste, scallion and ginger, scallion-ginger water, oyster sauce, and MSG. Smell it to confirm it smells meaty, not fishy.",
-        "If the mix seems dry, add a little more scallion-ginger water; never too much, or it will release water while steaming.",
-        "Finally, mix in sesame oil to add fragrance and mellow the sour-spicy flavor.",
-        "Lay the pork skin-side down neatly in a bowl and arrange the ribs on top.",
-        "Bring water to a boil and steam over high heat for about an hour, until the meat is tender and the sour, spicy, numbing flavor of the chili paste has soaked through."
+        "Scrape the pork belly clean of bristles. Choose a slightly fattier cut and slice about 3 mm thick.",
+        "Chop the ribs into small pieces.",
+        "Mix the pork and ribs with Sichuan pepper water, scallion, ginger, 50g oyster sauce, and 2g MSG. Leave to marinate.",
+        "Mix in zha guang jiao at a ratio of 1:2 to the meat, then add 50g light soy sauce and 10g sesame oil.",
+        "Slice the pumpkin and spread it evenly over the steamer tray.",
+        "Arrange the ribs and pork on the pumpkin.",
+        "Once the water boils, steam for about 1 hour. Finish with chopped scallion."
       ],
       "notes": [
-        "Fermented chili paste (chopped chili mixed with corn flour and fermented) is the soul of this Guizhou dish; it steams up savory, mildly spicy, with a sour aroma.",
-        "Add little water when mixing, or it will release too much while steaming.",
-        "Exact amounts are shown on the video's end screen."
+        "Zha guang jiao is made from fermented cornmeal and chili.",
+        "Add little water when mixing, or the meat will release too much liquid while steaming.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
       "title": "Porc à la Vapeur du Guizhou (Tai Gezi)",
       "steps": [
-        "Gratter la poitrine de porc pour ôter les soies ; choisir un morceau un peu gras, car la longue cuisson vapeur fait fondre la graisse. Trancher à environ 3mm d'épaisseur.",
-        "Couper les côtes en petits morceaux ; les casser à la main faute de couperet.",
-        "Mélanger le porc et les côtes avec la pâte de piment fermentée, ciboule et gingembre, eau de ciboule et gingembre, sauce d'huître et glutamate. Sentir pour vérifier l'odeur de viande, non de poisson.",
-        "Si le mélange paraît sec, ajouter un peu d'eau de ciboule et gingembre ; jamais trop, sinon il rendra de l'eau à la cuisson.",
-        "Enfin, incorporer l'huile de sésame pour parfumer et adoucir la saveur aigre-piquante.",
-        "Disposer le porc couenne vers le bas dans un bol et placer les côtes par-dessus.",
-        "Porter l'eau à ébullition et cuire à la vapeur à feu vif environ une heure, jusqu'à ce que la viande soit tendre et que les saveurs aigre, piquante et engourdissante aient imprégné la viande."
+        "Gratter la poitrine de porc pour ôter les soies. Choisir un morceau un peu gras et le couper en tranches de 3 mm environ.",
+        "Couper les côtes de porc en petits morceaux.",
+        "Mélanger le porc et les côtes avec l’eau de poivre du Sichuan, la ciboule, le gingembre, 50g de sauce d’huître et 2g de glutamate. Laisser mariner.",
+        "Incorporer le zha guang jiao dans un rapport de 1:2 avec la viande, puis ajouter 50g de sauce soja claire et 10g d’huile de sésame.",
+        "Trancher le potiron et le répartir sur le panier vapeur.",
+        "Disposer les côtes et la poitrine de porc sur le potiron.",
+        "Lorsque l’eau bout, cuire à la vapeur environ 1 heure. Parsemer de ciboule hachée avant de servir."
       ],
       "notes": [
-        "La pâte de piment fermentée (piment haché mélangé à la farine de maïs et fermenté) est l'âme de ce plat du Guizhou ; à la vapeur, elle devient savoureuse, légèrement piquante, avec un parfum aigre.",
-        "Ajouter peu d'eau au mélange, sinon il rendra trop d'eau à la cuisson.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Le zha guang jiao est un mélange fermenté de farine de maïs et de piment.",
+        "Ajouter peu d’eau au mélange pour éviter un excès de liquide à la cuisson.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

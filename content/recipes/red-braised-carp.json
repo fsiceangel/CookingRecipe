@@ -15,6 +15,11 @@
         "cn": "鲤鱼",
         "en": "Carp",
         "fr": "Carpe"
+      },
+      "amount": {
+        "cn": "1 kg",
+        "en": "1 kg",
+        "fr": "1 kg"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "80（片尾未标单位）",
+        "en": "80 (unit not shown)",
+        "fr": "80 (unité non indiquée)"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "桂皮",
         "en": "Cinnamon bark",
         "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "香菇",
         "en": "Dried shiitake mushroom",
         "fr": "Champignon shiitake séché"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -87,15 +127,25 @@
         "cn": "冬笋",
         "en": "Winter bamboo shoot",
         "fr": "Pousse de bambou d'hiver"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
       "id": "flour-10",
-      "ingredient": "flour",
+      "ingredient": "cornstarch",
       "name": {
-        "cn": "面粉",
-        "en": "Flour",
-        "fr": "Farine"
+        "cn": "淀粉",
+        "en": "Starch",
+        "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -132,6 +197,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -141,6 +211,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "12 g",
+        "en": "12 g",
+        "fr": "12 g"
       }
     },
     {
@@ -150,6 +225,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -159,6 +239,29 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      }
+    },
+    {
+      "id": "cooking-wine-endcard",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     }
   ],
@@ -170,7 +273,7 @@
         "鱼身两面打斜刀（花刀），深至鱼骨，便于入味；鱼太大可从中间斜切断再拼回。",
         "锅中放油，下姜蒜葱、大料、桂皮和五花肉，小火把料炸香出复合香味。",
         "再下香菇、冬笋一起炸香，然后把所有料捞出备用。",
-        "鱼身刀口处薄薄拍一层面粉，把油烧到约七成热（冒烟）。",
+        "鱼身刀口处薄薄拍一层淀粉，把油烧到约七成热（冒烟）。",
         "下鱼，注意角度，下锅后先不要动，全程大火煎到一面形成薄硬壳再翻面，半煎半炸。",
         "倒出多余的油，加酱油、加水（开水吃肉、冷水喝汤），把炸过的料倒回去。",
         "调味：放糖、味精、盐，调好汤色，别调太黑，否则炖出来颜色太深。",
@@ -179,8 +282,9 @@
         "淋一滴香油，把鱼皮上的水擦净，将汤汁浇在鱼上即可。"
       ],
       "notes": [
-        "逢烧必炸——家里可半煎半炸省油，煎前刀口拍薄薄一层面粉防粘。",
-        "先炸料油再煎鱼，五花肉和香料的复合香味会渗到鱼肉最里层，猪油又让鱼肉更润。"
+        "逢烧必炸——家里可半煎半炸省油，煎前刀口拍薄薄一层淀粉防粘。",
+        "先炸料油再煎鱼，五花肉和香料的复合香味会渗到鱼肉最里层，猪油又让鱼肉更润。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -190,7 +294,7 @@
         "Score both sides of the fish on a diagonal down to the bone so it absorbs flavor; if it's too big for the wok, cut through on a slant and reassemble.",
         "Add oil to the wok, then fry ginger, garlic, scallion, star anise, cinnamon and pork belly over low heat to build a layered aroma in the oil.",
         "Add the shiitake and winter bamboo shoot and fry until fragrant, then scoop out all the aromatics and set aside.",
-        "Dust a thin layer of flour over the scored cuts, then heat the oil to about 70% (just smoking).",
+        "Dust a thin layer of starch over the scored cuts, then heat the oil to about 70% (just smoking).",
         "Slide in the fish at an angle and don't move it; over high heat, pan-fry until a thin firm crust forms, then flip (half pan-fried, half deep-fried).",
         "Pour off the excess oil, add soy sauce and water (boiling water for the meat, cold for soup), then return the fried aromatics.",
         "Season with sugar, MSG and salt; adjust the color of the broth but don't make it too dark or the braised fish will end up too dark.",
@@ -199,9 +303,9 @@
         "Finish with a drop of sesame oil, wipe any moisture off the skin, and spoon the sauce over the fish to serve."
       ],
       "notes": [
-        "Braised fish should always be fried first; at home, do a half pan-fry / half deep-fry to save oil, dusting flour on the cuts to prevent sticking.",
+        "Braised fish should always be fried first; at home, do a half pan-fry / half deep-fry to save oil, dusting starch on the cuts to prevent sticking.",
         "Frying the aromatic oil before the fish drives the layered pork-and-spice aroma deep into the flesh, while the rendered fat keeps it moist.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -211,7 +315,7 @@
         "Incisez les deux côtés du poisson en biais jusqu'à l'arête pour qu'il s'imprègne ; s'il est trop grand pour le wok, coupez-le en biais et reconstituez-le.",
         "Mettez de l'huile dans le wok, puis faites revenir à feu doux le gingembre, l'ail, la ciboule, l'anis étoilé, la cannelle et la poitrine de porc pour parfumer l'huile.",
         "Ajoutez le shiitake et la pousse de bambou et faites revenir, puis retirez tous les aromates et réservez.",
-        "Saupoudrez une fine couche de farine sur les incisions, puis chauffez l'huile à environ 70 % (légère fumée).",
+        "Saupoudrez une fine couche de fécule sur les incisions, puis chauffez l'huile à environ 70 % (légère fumée).",
         "Glissez le poisson en biais sans le bouger ; à feu vif, faites-le frire jusqu'à former une fine croûte, puis retournez-le (mi-frit, mi-poêlé).",
         "Retirez l'excès d'huile, ajoutez la sauce soja et de l'eau, puis remettez les aromates frits.",
         "Assaisonnez avec sucre, glutamate et sel ; ajustez la couleur du bouillon sans le rendre trop foncé.",
@@ -222,7 +326,7 @@
       "notes": [
         "Un poisson braisé se frit toujours d'abord ; à la maison, faites-le mi-frit pour économiser l'huile, en farinant les incisions pour éviter qu'il n'accroche.",
         "Parfumer l'huile avant de cuire le poisson fait pénétrer l'arôme du porc et des épices jusqu'au cœur de la chair, tandis que le gras la garde moelleuse.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

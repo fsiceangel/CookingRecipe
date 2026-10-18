@@ -15,6 +15,11 @@
         "cn": "肥瘦羊肉",
         "en": "Lamb (marbled, fatty-lean)",
         "fr": "Agneau (persillé, gras et maigre)"
+      },
+      "amount": {
+        "cn": "600 g",
+        "en": "600 g",
+        "fr": "600 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "大葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "210 g（腌肉 20 g；炒肉 190 g）",
+        "en": "210 g (20 g for marinating; 190 g for frying)",
+        "fr": "210 g (20 g pour mariner ; 190 g pour faire sauter)"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "170 g",
+        "en": "170 g",
+        "fr": "170 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "制腌肉汁用 90 g（成汁取 70 g）",
+        "en": "90 g to make marinade (use 70 g of the finished mixture)",
+        "fr": "90 g pour préparer la marinade (en prélever 70 g)"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "制腌肉汁用 5 g",
+        "en": "5 g in the marinade batch",
+        "fr": "5 g pour préparer la marinade"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "桂皮",
         "en": "Cinnamon bark",
         "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "制腌肉汁用 2 g",
+        "en": "2 g in the marinade batch",
+        "fr": "2 g pour préparer la marinade"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "孜然",
         "en": "Cumin",
         "fr": "Cumin"
+      },
+      "amount": {
+        "cn": "制腌肉汁用 3 g",
+        "en": "3 g in the marinade batch",
+        "fr": "3 g pour préparer la marinade"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "胡椒粉",
         "en": "Ground white pepper",
         "fr": "Poivre blanc moulu"
+      },
+      "amount": {
+        "cn": "制腌肉汁用 1 g",
+        "en": "1 g in the marinade batch",
+        "fr": "1 g pour préparer la marinade"
       }
     },
     {
@@ -96,15 +141,25 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "制腌肉汁用 20 g",
+        "en": "20 g in the marinade batch",
+        "fr": "20 g pour préparer la marinade"
       }
     },
     {
       "id": "scallion-ginger-water-11",
-      "ingredient": "scallion-ginger-water",
+      "ingredient": "ginger-garlic-water",
       "name": {
         "cn": "姜蒜水",
-        "en": "Scallion-ginger water",
-        "fr": "Eau de ciboule et gingembre"
+        "en": "Ginger-garlic water",
+        "fr": "Eau infusée au gingembre et à l’ail"
+      },
+      "amount": {
+        "cn": "20 g（制法：姜 15 g、蒜 16 g、水 80 g）",
+        "en": "20 g (make with 15 g ginger, 16 g garlic, 80 g water)",
+        "fr": "20 g (préparer avec 15 g de gingembre, 16 g d’ail et 80 g d’eau)"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "6 g",
+        "en": "6 g",
+        "fr": "6 g"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "葱油",
         "en": "Scallion oil",
         "fr": "Huile de ciboule"
+      },
+      "amount": {
+        "cn": "适量",
+        "en": "as needed",
+        "fr": "selon besoin"
       }
     }
   ],
@@ -143,7 +208,8 @@
       "notes": [
         "三个关键：熬好复合酱油汁；炒时把肉摊平贴锅底模仿铁板；葱和香菜一定要多。",
         "家用灶火力有限，羊肉要分两锅炒，一锅炒太多会出很多汤。",
-        "具体配料和比例见视频片尾。"
+        "腌肉汁按所列酱油和香料配方制作，实际腌肉取成汁 70 g；姜蒜水另制，取 20 g。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -162,7 +228,8 @@
       "notes": [
         "Three keys: simmer a proper compound soy marinade; press the meat flat against the pan to mimic a griddle; use plenty of scallion and cilantro.",
         "Home stoves are weak, so cook the lamb in two batches; one overloaded batch releases too much liquid.",
-        "Exact amounts are shown on the video's end screen."
+        "Prepare the marinade with the listed soy sauce and spices, then use 70 g of the finished mixture. Separately prepare ginger-garlic water and use 20 g.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -181,7 +248,8 @@
       "notes": [
         "Trois clés : mijoter une vraie marinade de soja composée; presser la viande à plat contre la poêle pour imiter une plaque; mettre beaucoup de ciboule et de coriandre.",
         "Les feux domestiques sont faibles, cuire l'agneau en deux fois; une fournée surchargée rend trop de jus.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Préparer la marinade avec la sauce soja et les épices indiquées, puis en prélever 70 g. Préparer séparément l’eau au gingembre et à l’ail, et en utiliser 20 g.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "带鱼",
         "en": "Hairtail fish",
         "fr": "Poisson-sabre"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -51,6 +56,11 @@
         "cn": "大料",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "4 g",
+        "en": "4 g",
+        "fr": "4 g"
       }
     },
     {
@@ -60,6 +70,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -69,6 +84,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,6 +98,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -87,6 +112,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -105,6 +135,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -114,6 +149,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -123,6 +163,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -132,6 +177,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -141,6 +191,11 @@
         "cn": "白胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -150,6 +205,11 @@
         "cn": "尖椒",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -159,6 +219,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -187,6 +252,15 @@
         "en": "Sesame oil",
         "fr": "Huile de sésame"
       }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "清水 300 g；香菇水 300 g",
+        "en": "300 g water; 300 g shiitake soaking water",
+        "fr": "300 g d’eau ; 300 g d’eau de trempage des shiitakés"
+      }
     }
   ],
   "translations": {
@@ -207,7 +281,7 @@
       ],
       "notes": [
         "用香料油煎带鱼能去腥增香；红烧前必炸（煎），脱水后腥味更轻。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -227,7 +301,7 @@
       ],
       "notes": [
         "Frying the fish in aromatic oil removes the odor and adds fragrance; pan-frying before braising dehydrates the fish and reduces the fishy smell.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -247,7 +321,7 @@
       ],
       "notes": [
         "Frire le poisson dans une huile parfumée ôte l'odeur et ajoute de l'arôme ; la friture avant le braisage déshydrate le poisson et réduit l'odeur de poisson.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

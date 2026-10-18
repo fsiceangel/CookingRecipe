@@ -15,6 +15,11 @@
         "cn": "鸡蛋",
         "en": "Eggs",
         "fr": "Oeufs"
+      },
+      "amount": {
+        "cn": "8 个",
+        "en": "8 eggs",
+        "fr": "8 œufs"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "剁椒",
         "en": "Chopped salted chili",
         "fr": "Piment haché salé"
+      },
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "鲜辣椒",
         "en": "Fresh chili pepper",
         "fr": "Piment frais"
+      },
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "6 g",
+        "en": "6 g",
+        "fr": "6 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "蒜末",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "葱花",
         "en": "Chopped scallion",
         "fr": "Ciboule ciselée"
+      },
+      "amount": {
+        "cn": "炝锅葱花 10 g；香葱 10 g",
+        "en": "10 g chopped scallion for frying; 10 g small scallion",
+        "fr": "10 g de ciboule hachée pour faire revenir ; 10 g de ciboule fine"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -105,6 +155,20 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     }
   ],
@@ -124,7 +188,7 @@
       "notes": [
         "鸡蛋单面煎，底部一层薄脆壳，上面保持软嫩。",
         "这是万能醋溜汁，也可做醋溜鱼、醋溜白菜、醋溜木耳。",
-        "具体比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -142,7 +206,7 @@
       "notes": [
         "Fry the eggs on one side only so the bottom forms a thin crisp crust while the top stays soft and tender.",
         "This all-purpose vinegar sauce also works for vinegar fish, vinegar cabbage, or vinegar wood-ear.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -160,7 +224,7 @@
       "notes": [
         "Faire cuire les oeufs d'un seul côté pour que le fond forme une fine croûte croustillante tandis que le dessus reste moelleux.",
         "Cette sauce au vinaigre tout usage convient aussi au poisson, au chou ou aux champignons noirs au vinaigre.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

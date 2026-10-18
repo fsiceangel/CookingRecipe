@@ -15,6 +15,11 @@
         "cn": "面粉",
         "en": "Flour",
         "fr": "Farine"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "和面 1 个；出锅前 2 个",
+        "en": "1 egg in the dough; 2 eggs to finish",
+        "fr": "1 œuf dans la pâte ; 2 œufs en finition"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "西红柿",
         "en": "Tomato",
         "fr": "Tomate"
+      },
+      "amount": {
+        "cn": "210 g",
+        "en": "210 g",
+        "fr": "210 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "75 g",
+        "en": "75 g",
+        "fr": "75 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "青菜",
         "en": "Leafy greens",
         "fr": "Légumes verts"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "和面 20 g；汤 1500 g（按步骤）",
+        "en": "20 g for the dough; 1500 g for the soup (per the steps)",
+        "fr": "20 g pour la pâte ; 1500 g pour la soupe (selon les étapes)"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -117,7 +167,9 @@
       ],
       "notes": [
         "最后甩鸡蛋这一步很关键，能让汤更浑厚、更鲜。",
-        "全程只放盐调味即可。"
+        "全程只放盐调味即可。",
+        "片尾食材表把烹煮用水写为 30 g，步骤写为 1500 g；这里按步骤记录。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -137,7 +189,9 @@
       ],
       "notes": [
         "Swirling in the eggs at the very end is the key step that makes the soup richer and more savory.",
-        "Salt is the only seasoning needed."
+        "Salt is the only seasoning needed.",
+        "The end-card list says 30 g cooking water, but its instructions say 1500 g; the quantity here follows the instructions.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -157,7 +211,9 @@
       ],
       "notes": [
         "Verser les oeufs tout à la fin est l'étape clé qui rend la soupe plus riche et plus savoureuse.",
-        "Le sel est le seul assaisonnement nécessaire."
+        "Le sel est le seul assaisonnement nécessaire.",
+        "La liste finale indique 30 g d’eau de cuisson, mais les étapes indiquent 1500 g ; la quantité retenue suit les étapes.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

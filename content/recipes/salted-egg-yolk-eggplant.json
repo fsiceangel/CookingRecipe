@@ -69,6 +69,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +83,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "0.5 g",
+        "en": "0.5 g",
+        "fr": "0.5 g"
       }
     },
     {
@@ -106,7 +116,7 @@
       "notes": [
         "茄子极吸油，一定要高油温快炸，表面结痂后油就进不去了。",
         "咸蛋黄最好选手工腌的，沙沙的口感更好。",
-        "精确用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -124,7 +134,7 @@
       "notes": [
         "Eggplant absorbs a lot of oil, so fry it fast in hot oil; once the surface seals, oil can't get in.",
         "Hand-cured salted egg yolks give the best sandy texture.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -142,7 +152,7 @@
       "notes": [
         "L'aubergine absorbe beaucoup d'huile ; la frire vite dans l'huile chaude, une fois la surface scellée l'huile n'entre plus.",
         "Les jaunes d'œuf salés artisanaux donnent la meilleure texture sableuse.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

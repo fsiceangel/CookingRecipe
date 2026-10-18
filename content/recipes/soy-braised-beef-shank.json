@@ -15,6 +15,11 @@
         "cn": "牛腱子",
         "en": "Beef shank",
         "fr": "Jarret de boeuf"
+      },
+      "amount": {
+        "cn": "3 kg",
+        "en": "3 kg",
+        "fr": "3 kg"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "黄酱",
         "en": "Yellow bean paste",
         "fr": "Pâte de haricots jaunes"
+      },
+      "amount": {
+        "cn": "腌制 50 g；卤汤 100 g",
+        "en": "50 g for marinating; 100 g for the braising broth",
+        "fr": "50 g pour mariner ; 100 g pour le bouillon"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "腌制：大豆酱油 100 g、鲜味酱油 50 g；卤汤酱油 100 g",
+        "en": "Marinade: 100 g soybean soy sauce + 50 g umami soy sauce; broth: 100 g soy sauce",
+        "fr": "Marinade : 100 g de sauce soja de soja et 50 g de sauce soja umami ; bouillon : 100 g de sauce soja"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "腌制葱姜共 100 g；卤汤葱姜共 150 g",
+        "en": "Scallion and ginger combined: 100 g for marinating; 150 g for braising",
+        "fr": "Ciboule et gingembre au total : 100 g pour mariner ; 150 g pour braiser"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱共享上述用量",
+        "en": "included in the combined scallion/ginger amounts",
+        "fr": "compris dans les quantités combinées de ciboule et gingembre"
       }
     },
     {
@@ -78,6 +103,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "3 个",
+        "en": "3 chilies",
+        "fr": "3 piments"
       }
     },
     {
@@ -96,6 +126,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌制 50 g；卤汤 20 g",
+        "en": "50 g for marinating; 20 g for the broth",
+        "fr": "50 g pour mariner ; 20 g pour le bouillon"
       }
     },
     {
@@ -105,6 +140,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "3 kg",
+        "en": "3 kg",
+        "fr": "3 kg"
       }
     },
     {
@@ -114,6 +154,51 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "star-anise-endcard",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "腌制 6 个；卤汤 6 个",
+        "en": "6 stars for marinating; 6 for the broth",
+        "fr": "6 étoiles pour mariner ; 6 pour le bouillon"
+      }
+    },
+    {
+      "id": "cinnamon-bark-endcard",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "腌制 20 g；卤汤 5 g",
+        "en": "20 g for marinating; 5 g for the broth",
+        "fr": "20 g pour mariner ; 5 g pour le bouillon"
+      }
+    },
+    {
+      "id": "fennel-seeds-endcard",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "腌制 10 g；卤汤 2 g",
+        "en": "10 g for marinating; 2 g for the broth",
+        "fr": "10 g pour mariner ; 2 g pour le bouillon"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-endcard",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "bay-leaf-endcard",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "3 片",
+        "en": "3 leaves",
+        "fr": "3 feuilles"
       }
     }
   ],
@@ -135,7 +220,8 @@
       ],
       "notes": [
         "用签子扎透牛肉是入味的关键，比很多饭店做法更香。",
-        "汤咸度以尝着稍咸为准。具体香料比例见视频片尾。"
+        "汤咸度以尝着稍咸为准。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -155,7 +241,8 @@
       ],
       "notes": [
         "Skewering the beef all the way through is the key to flavor penetration, more aromatic than many restaurant versions.",
-        "Judge the broth's saltiness by tasting it slightly salty. Exact spice ratios are shown on the video's end screen."
+        "Judge the broth's saltiness by tasting it slightly salty.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -175,7 +262,8 @@
       ],
       "notes": [
         "Percer le boeuf de part en part est la clé de la pénétration des saveurs, plus parfumé que bien des versions de restaurant.",
-        "Juger le sel du bouillon en le goûtant légèrement salé. Les proportions exactes d'épices sont indiquées à la fin de la vidéo."
+        "Juger le sel du bouillon en le goûtant légèrement salé.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

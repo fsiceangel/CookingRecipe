@@ -15,6 +15,11 @@
         "cn": "韧豆腐",
         "en": "Firm tofu",
         "fr": "Tofu ferme"
+      },
+      "amount": {
+        "cn": "2 盒",
+        "en": "2 packs",
+        "fr": "2 paquets"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "牛肉沫",
         "en": "Minced beef",
         "fr": "Bœuf haché"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "豆瓣酱",
         "en": "Doubanjiang",
         "fr": "Doubanjiang"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "豆豉",
         "en": "Fermented black beans",
         "fr": "Haricots noirs fermentés"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜沫",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "姜沫",
         "en": "Minced ginger",
         "fr": "Gingembre haché"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "葱沫",
         "en": "Minced scallion",
         "fr": "Ciboule hachée"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "花椒面",
         "en": "Ground Sichuan peppercorn",
         "fr": "Poivre du Sichuan moulu"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -141,6 +206,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 5 g，加水调开",
+        "en": "5 g starch, mixed with water",
+        "fr": "5 g de fécule, délayée dans de l’eau"
       }
     },
     {
@@ -159,6 +229,20 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      }
+    },
+    {
+      "id": "chili-oil-endcard",
+      "ingredient": "chili-oil",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -178,7 +262,8 @@
       ],
       "notes": [
         "用韧豆腐比老豆腐更滑嫩；先用酱油盐水给豆腐入底味是关键，越吃越有回味。",
-        "勾芡要分次进行，口感更好。具体用量见视频片尾。"
+        "勾芡要分次进行，口感更好。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -196,7 +281,8 @@
       ],
       "notes": [
         "Firm (silken-firm) tofu is more tender than old tofu; pre-seasoning the tofu in salted soy water is the key for lingering flavor.",
-        "Thicken the sauce in stages for a better texture. Exact amounts are shown on the video's end screen."
+        "Thicken the sauce in stages for a better texture.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -214,7 +300,8 @@
       ],
       "notes": [
         "Le tofu ferme (soyeux-ferme) est plus tendre que le tofu vieux ; pré-assaisonner le tofu dans l'eau soja salée est la clé d'une saveur persistante.",
-        "Lier la sauce en plusieurs fois pour une meilleure texture. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Lier la sauce en plusieurs fois pour une meilleure texture.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

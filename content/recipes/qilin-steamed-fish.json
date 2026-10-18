@@ -15,6 +15,11 @@
         "cn": "桂鱼",
         "en": "Mandarin fish",
         "fr": "Poisson mandarin"
+      },
+      "amount": {
+        "cn": "1800 g",
+        "en": "1800 g",
+        "fr": "1800 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "火腿",
         "en": "Chinese ham",
         "fr": "Jambon chinois"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "笋片",
         "en": "Bamboo shoot slices",
         "fr": "Tranches de pousse de bambou"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "香菇",
         "en": "Shiitake mushroom",
         "fr": "Champignon shiitake"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 50 g",
+        "en": "50 g combined with ginger",
+        "fr": "50 g au total avec le gingembre"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 50 g",
+        "en": "50 g combined with scallion",
+        "fr": "50 g au total avec la ciboule"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 5 g，加水调开",
+        "en": "5 g starch, mixed with water",
+        "fr": "5 g de fécule, délayée dans de l’eau"
       }
     }
   ],
@@ -125,7 +175,7 @@
       "notes": [
         "桂鱼背鳍尖刺有毒，处理时务必从下方切掉，小心扎手。",
         "火腿、鸡汤、笋、香菇是经典的提鲜组合，鲜味会随蒸汽渗入鱼肉。",
-        "精确用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -144,7 +194,7 @@
       "notes": [
         "The dorsal-fin spines of mandarin fish are venomous; always cut them off from below and handle with care.",
         "Ham, chicken stock, bamboo, and shiitake are a classic flavor-boosting combination whose umami steams into the fish.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -163,7 +213,7 @@
       "notes": [
         "Les épines dorsales du poisson mandarin sont venimeuses ; toujours les couper par en dessous et manipuler avec précaution.",
         "Jambon, bouillon de poulet, bambou et shiitake forment une combinaison classique dont l'umami imprègne le poisson à la vapeur.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "腐竹",
         "en": "Yuba (tofu skin)",
         "fr": "Yuba (peau de tofu)"
+      },
+      "amount": {
+        "cn": "120 g（干重）",
+        "en": "120 g dry weight",
+        "fr": "120 g poids sec"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "大葱",
         "en": "Chinese scallion",
         "fr": "Ciboule chinoise"
+      },
+      "amount": {
+        "cn": "葱丝 78 g；葱段 80 g",
+        "en": "78 g shredded scallion; 80 g scallion sections",
+        "fr": "78 g de ciboule émincée ; 80 g de tronçons de ciboule"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "葱油 200 g",
+        "en": "200 g scallion oil",
+        "fr": "200 g d’huile de ciboule"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "大料",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "1 个",
+        "en": "1 star",
+        "fr": "1 étoile"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "海米",
         "en": "Dried shrimp",
         "fr": "Crevettes séchées"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "红椒",
         "en": "Red chili",
         "fr": "Piment rouge"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 5 g，加水调开",
+        "en": "5 g starch, mixed with water",
+        "fr": "5 g de fécule, délayée dans de l’eau"
       }
     }
   ],
@@ -140,7 +205,8 @@
       ],
       "notes": [
         "用葱油来煎腐竹，豆香和葱香融合，味道复合更香。",
-        "腐竹一定要泡软但别泡过，炸过后才能把葱香吸得足。具体用量见视频片尾。"
+        "腐竹一定要泡软但别泡过，炸过后才能把葱香吸得足。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -156,7 +222,8 @@
       ],
       "notes": [
         "Pan-frying the yuba in scallion oil blends the soy and scallion aromas for a richer, more complex flavor.",
-        "Soak the yuba until soft but not over-soaked; frying it lets it absorb the scallion aroma fully. Exact amounts are shown on the video's end screen."
+        "Soak the yuba until soft but not over-soaked; frying it lets it absorb the scallion aroma fully.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -172,7 +239,8 @@
       ],
       "notes": [
         "Poêler le yuba dans l'huile de ciboule marie les arômes de soja et de ciboule pour une saveur plus riche et complexe.",
-        "Tremper le yuba jusqu'à souplesse sans excès ; le frire lui permet d'absorber pleinement l'arôme de ciboule. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Tremper le yuba jusqu'à souplesse sans excès ; le frire lui permet d'absorber pleinement l'arôme de ciboule.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

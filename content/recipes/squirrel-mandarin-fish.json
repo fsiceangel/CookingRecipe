@@ -33,6 +33,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "糖醋汁 5 g；腌鱼另备",
+        "en": "5 g for the sweet-sour sauce; extra for marinating",
+        "fr": "5 g pour la sauce aigre-douce ; supplément pour mariner"
       }
     },
     {
@@ -78,6 +83,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -87,6 +97,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -96,6 +111,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "130 g",
+        "en": "130 g",
+        "fr": "130 g"
       }
     },
     {
@@ -114,6 +134,15 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     }
   ],
@@ -138,7 +167,7 @@
         "蘸干淀粉比加蛋清或全蛋更酥脆。",
         "一定要趁鱼热时浇汁，鱼一凉就挂不上汁；从捞鱼到浇汁尽量在一分钟内完成。",
         "糖醋汁用铁锅要快炒快出，时间长番茄酸会使颜色发暗。",
-        "具体比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -161,7 +190,7 @@
         "Coating in dry starch is crispier than using egg white or whole egg.",
         "Pour the sauce while the fish is still hot; once cool it won't take the sauce. Go from removing the fish to saucing within about a minute.",
         "Cook the sauce fast in an iron wok; cooking it too long lets the tomato acid darken the color.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -184,7 +213,7 @@
         "L'enrobage à la fécule sèche est plus croustillant que le blanc d'œuf ou l'œuf entier.",
         "Napper le poisson tant qu'il est chaud ; froid, il ne prend plus la sauce. Aller de la sortie du poisson au nappage en une minute environ.",
         "Cuire la sauce vite dans un wok en fonte ; une cuisson trop longue laisse l'acidité de la tomate foncer la couleur.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

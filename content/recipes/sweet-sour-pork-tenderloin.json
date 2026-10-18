@@ -42,6 +42,11 @@
         "cn": "红薯淀粉",
         "en": "Sweet potato starch",
         "fr": "Fécule de patate douce"
+      },
+      "amount": {
+        "cn": "与低筋面粉比例 3:1",
+        "en": "3 parts to 1 part cake flour",
+        "fr": "3 parts pour 1 part de farine faible en gluten"
       }
     },
     {
@@ -51,6 +56,11 @@
         "cn": "低筋面粉",
         "en": "Cake flour",
         "fr": "Farine à gâteau"
+      },
+      "amount": {
+        "cn": "与红薯淀粉比例 1:3",
+        "en": "1 part to 3 parts sweet potato starch",
+        "fr": "1 part pour 3 parts de fécule de patate douce"
       }
     },
     {
@@ -60,6 +70,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "拌糊用量为加水后面糊的 30%–50%；炸制另备",
+        "en": "30%–50% of the hydrated batter amount mixed in; extra for frying",
+        "fr": "30–50 % de la quantité de pâte hydratée à incorporer ; supplément pour la friture"
       }
     },
     {
@@ -69,6 +84,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -78,6 +98,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -115,6 +140,15 @@
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
       }
+    },
+    {
+      "id": "light-soy-sauce-endcard",
+      "ingredient": "light-soy-sauce",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
     }
   ],
   "translations": {
@@ -135,7 +169,7 @@
       "notes": [
         "糊一定要加油才会酥脆；油不足、火候不够都会不脆。",
         "挂汁时里脊一定要很热再倒进去。",
-        "具体比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -155,7 +189,7 @@
       "notes": [
         "The batter must contain oil to turn crisp; too little oil or under-frying leaves it soft.",
         "Add the pork to the glaze only when it is very hot.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -175,7 +209,7 @@
       "notes": [
         "La pâte doit contenir de l'huile pour devenir croustillante ; trop peu d'huile ou une friture insuffisante la laisse molle.",
         "N'ajouter le porc au glaçage que lorsqu'il est très chaud.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

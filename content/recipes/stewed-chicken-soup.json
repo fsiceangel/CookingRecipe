@@ -15,6 +15,11 @@
         "cn": "鸡",
         "en": "Chicken",
         "fr": "Poulet"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "党参",
         "en": "Codonopsis (dang shen)",
         "fr": "Codonopsis (dang shen)"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "红枣",
         "en": "Red dates",
         "fr": "Jujubes"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "桂圆",
         "en": "Longan",
         "fr": "Longane"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "枸杞",
         "en": "Goji berries",
         "fr": "Baies de goji"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -87,6 +127,20 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "1600 g",
+        "en": "1600 g",
+        "fr": "1600 g"
       }
     }
   ],
@@ -103,7 +157,7 @@
       ],
       "notes": [
         "想要汤更清澈，用蒸的方式炖鸡。",
-        "具体克数请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -118,7 +172,7 @@
       ],
       "notes": [
         "For a clearer soup, steam the chicken instead of boiling.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -133,7 +187,7 @@
       ],
       "notes": [
         "Pour une soupe plus claire, cuire le poulet à la vapeur plutôt qu'à l'eau.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

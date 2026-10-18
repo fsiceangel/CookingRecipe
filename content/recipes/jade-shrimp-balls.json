@@ -15,6 +15,11 @@
         "cn": "虾仁",
         "en": "Shrimp",
         "fr": "Crevettes"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "菠菜",
         "en": "Spinach",
         "fr": "Épinards"
+      },
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌虾 1 g；碗芡 1 g",
+        "en": "1 g for marinating; 1 g for the sauce",
+        "fr": "1 g pour mariner ; 1 g pour la sauce"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌虾 1 g；碗芡 1 g",
+        "en": "1 g for marinating; 1 g for the sauce",
+        "fr": "1 g pour mariner ; 1 g pour la sauce"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "生粉（淀粉）",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "裹虾 30 g；碗芡 1 g",
+        "en": "30 g for coating; 1 g for the sauce",
+        "fr": "30 g pour enrober ; 1 g pour la sauce"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "花雕酒",
         "en": "Huadiao rice wine",
         "fr": "Vin de riz Huadiao"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "葱油",
         "en": "Scallion oil",
         "fr": "Huile de ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "碗芡 20 g",
+        "en": "20 g for the sauce",
+        "fr": "20 g pour la sauce"
       }
     }
   ],
@@ -125,7 +175,7 @@
       "notes": [
         "翡翠色用的是菠菜汁烧开后浮起来的那层菜泥，颜色翠绿又没有菠菜味（第一步已把菠菜煮过）。",
         "碗芡（偷芡）勾完表面很明亮但看不出芡，是这道菜干净不挂底汁的关键；炒时放姜和花雕酒去腥增香。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -144,7 +194,7 @@
       "notes": [
         "The jade color comes from the green pulp that floats up after boiling the spinach juice; it is vivid green with no spinach taste (the spinach was already cooked in step one).",
         "The 'invisible' bowl glaze leaves the surface bright with no visible starch and is key to the dish staying clean with no pooled sauce; ginger and Huadiao wine during cooking remove off-odors and add aroma.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -163,7 +213,7 @@
       "notes": [
         "La couleur jade provient de la pulpe verte qui remonte après ébullition du jus d'épinards ; elle est d'un vert vif sans goût d'épinard (les épinards ont déjà été cuits à la première étape).",
         "Le glaçage en bol « invisible » laisse la surface brillante sans fécule visible et est la clé d'un plat net sans sauce stagnante ; le gingembre et le vin Huadiao en cuisson éliminent les mauvaises odeurs et ajoutent de l'arôme.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

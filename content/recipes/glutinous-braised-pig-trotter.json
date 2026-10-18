@@ -15,6 +15,11 @@
         "cn": "猪蹄",
         "en": "Pig trotters",
         "fr": "Pieds de porc"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 trotters",
+        "fr": "2 pieds"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "浸泡 50 g；炒制 100 g；收尾另备葱花",
+        "en": "50 g for soaking; 100 g for frying; extra chopped scallion to finish",
+        "fr": "50 g pour tremper ; 100 g pour faire revenir ; ciboule supplémentaire en finition"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "浸泡 50 g；炒制 50 g；收尾另备姜末",
+        "en": "50 g for soaking; 50 g for frying; extra minced ginger to finish",
+        "fr": "50 g pour tremper ; 50 g pour faire revenir ; gingembre haché en finition"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "浸泡 2 个；炒制 2 个",
+        "en": "2 stars for soaking; 2 for frying",
+        "fr": "2 étoiles pour tremper ; 2 pour faire revenir"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "浸泡 100 g；焯水 50 ml",
+        "en": "100 g for soaking; 50 ml for blanching",
+        "fr": "100 g pour tremper ; 50 ml pour blanchir"
       }
     },
     {
@@ -105,6 +135,11 @@
         "cn": "辣椒酥（黄飞红）",
         "en": "Chili-peanut crisp (Huangfeihong)",
         "fr": "Croustillant piment-cacahuète (Huangfeihong)"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -114,6 +149,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "炖煮 20 g；炒制另按口味补",
+        "en": "20 g for braising; adjust to taste when stir-frying",
+        "fr": "20 g pour mijoter ; ajuster au goût en faisant sauter"
       }
     },
     {
@@ -123,6 +163,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -132,6 +177,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -141,6 +191,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -189,7 +244,8 @@
       ],
       "notes": [
         "凡做猪蹄类菜，都用葱姜花椒大料料酒泡两小时，可彻底去除异味。",
-        "比清水亭做法多了最后的炒制加味一步，味道更厚重。详细用量见视频片尾。"
+        "比清水亭做法多了最后的炒制加味一步，味道更厚重。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -209,7 +265,8 @@
       ],
       "notes": [
         "For any pig-trotter dish, soaking for two hours with scallion, ginger, Sichuan peppercorns, star anise, and cooking wine completely removes off-odors.",
-        "Compared with the restaurant version, this adds a final stir-frying step for flavor, giving a richer taste. Exact amounts are shown on the video's end screen."
+        "Compared with the restaurant version, this adds a final stir-frying step for flavor, giving a richer taste.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -229,7 +286,8 @@
       ],
       "notes": [
         "Pour tout plat de pieds de porc, un trempage de deux heures avec ciboule, gingembre, poivre du Sichuan, anis étoilé et vin de cuisine élimine complètement les mauvaises odeurs.",
-        "Par rapport à la version du restaurant, on ajoute une étape finale de sauté pour le goût, ce qui donne une saveur plus riche. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Par rapport à la version du restaurant, on ajoute une étape finale de sauté pour le goût, ce qui donne une saveur plus riche.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

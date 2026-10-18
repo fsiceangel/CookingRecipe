@@ -15,6 +15,11 @@
         "cn": "鸡爪",
         "en": "Chicken feet",
         "fr": "Pieds de poulet"
+      },
+      "amount": {
+        "cn": "8 个",
+        "en": "8 pieces",
+        "fr": "8 pièces"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "鸭头",
         "en": "Duck head",
         "fr": "Tête de canard"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 heads",
+        "fr": "4 têtes"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "鸭脖",
         "en": "Duck neck",
         "fr": "Cou de canard"
+      },
+      "amount": {
+        "cn": "6 个",
+        "en": "6 necks",
+        "fr": "6 cous"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "海带",
         "en": "Kelp",
         "fr": "Algue kombu"
+      },
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "炸豆腐",
         "en": "Fried tofu",
         "fr": "Tofu frit"
+      },
+      "amount": {
+        "cn": "6 片",
+        "en": "6 slices",
+        "fr": "6 tranches"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "辣椒",
         "en": "Dried chili pepper",
         "fr": "Piment séché"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "豆瓣酱",
         "en": "Doubanjiang",
         "fr": "Doubanjiang"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "5 kg（可不放）",
+        "en": "5 kg (optional)",
+        "fr": "5 kg (facultatif)"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "花雕酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -141,6 +206,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -150,6 +220,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -159,6 +234,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -168,6 +248,187 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "750 g",
+        "en": "750 g",
+        "fr": "750 g"
+      }
+    },
+    {
+      "id": "nutmeg-endcard",
+      "ingredient": "nutmeg",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "caokou-endcard",
+      "ingredient": "caokou",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "white-cardamom-endcard",
+      "ingredient": "white-cardamom",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "cinnamon-bark-endcard",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "licorice-endcard",
+      "ingredient": "licorice",
+      "amount": {
+        "cn": "14 g",
+        "en": "14 g",
+        "fr": "14 g"
+      }
+    },
+    {
+      "id": "amomum-endcard",
+      "ingredient": "amomum",
+      "amount": {
+        "cn": "14 g",
+        "en": "14 g",
+        "fr": "14 g"
+      },
+      "name": {
+        "cn": "砂仁",
+        "en": "Amomum fruit",
+        "fr": "Fruit d’amome"
+      }
+    },
+    {
+      "id": "tsaoko-endcard",
+      "ingredient": "tsaoko",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    },
+    {
+      "id": "angelica-dahurica-endcard",
+      "ingredient": "angelica-dahurica",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    },
+    {
+      "id": "dried-tangerine-peel-endcard",
+      "ingredient": "dried-tangerine-peel",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "star-anise-endcard",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "cloves-endcard",
+      "ingredient": "cloves",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    },
+    {
+      "id": "fennel-seeds-endcard",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "12 g",
+        "en": "12 g",
+        "fr": "12 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-endcard",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "green-sichuan-peppercorn-endcard",
+      "ingredient": "green-sichuan-peppercorn",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "chicken-heart-endcard",
+      "ingredient": "chicken-heart",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "duck-gizzard-endcard",
+      "ingredient": "duck-gizzard",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "lotus-root-endcard",
+      "ingredient": "lotus-root",
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
+      }
+    },
+    {
+      "id": "chicken-drumstick-endcard",
+      "ingredient": "chicken-drumstick",
+      "amount": {
+        "cn": "6 个",
+        "en": "6 drumsticks",
+        "fr": "6 pilons"
       }
     }
   ],
@@ -188,7 +449,8 @@
       ],
       "notes": [
         "这是一锅万能卤汤，鸡腿、鸭货、海带、炸豆腐都能卤；蔬菜随意搭配。",
-        "卤完把香菜、炸过的料捞出滤一遍，下次再卤时补点香料，就成了一锅老汤。"
+        "卤完把香菜、炸过的料捞出滤一遍，下次再卤时补点香料，就成了一锅老汤。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -208,7 +470,7 @@
       "notes": [
         "This one brine handles everything: chicken legs, duck parts, kelp, fried tofu, and any vegetables you like.",
         "After brining, fish out the cilantro and fried aromatics and strain it; top up the spices next time and you have a master stock.",
-        "Exact spice ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -228,7 +490,7 @@
       "notes": [
         "Cette saumure unique convient à tout : cuisses de poulet, abats de canard, kombu, tofu frit et tous les légumes.",
         "Après usage, retirez la coriandre et les aromates frits et filtrez ; complétez les épices la prochaine fois et vous obtenez un bouillon-maître.",
-        "Les proportions exactes des épices sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

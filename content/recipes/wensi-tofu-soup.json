@@ -15,6 +15,11 @@
         "cn": "嫩豆腐",
         "en": "Silken tofu",
         "fr": "Tofu soyeux"
+      },
+      "amount": {
+        "cn": "1 盒",
+        "en": "1 pack",
+        "fr": "1 paquet"
       }
     },
     {
@@ -52,6 +57,10 @@
         "en": "Water",
         "fr": "Eau"
       }
+    },
+    {
+      "id": "salt-endcard",
+      "ingredient": "salt"
     }
   ],
   "translations": {
@@ -70,7 +79,7 @@
       "notes": [
         "这道菜全在两点：刀工和勾芡。芡太稀托不住豆腐，太浓豆腐在汤里揉不开。",
         "切豆腐两手要配合好，一人持刀一人顶刀，匀速后移、一气呵成，中间不能停。",
-        "详细用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -88,7 +97,7 @@
       "notes": [
         "This dish comes down to two things: knife skills and thickening. Too thin and the broth won't carry the tofu; too thick and the tofu won't loosen in the soup.",
         "When cutting the tofu, two hands must work together (one holds the knife, one steadies it), moving back at an even pace in one continuous motion without stopping.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -106,7 +115,7 @@
       "notes": [
         "Ce plat repose sur deux choses : le travail du couteau et la liaison. Trop liquide, le bouillon ne portera pas le tofu ; trop épaisse, le tofu ne se défera pas dans la soupe.",
         "Pour couper le tofu, les deux mains doivent coopérer (l'une tient le couteau, l'autre le stabilise), en reculant à vitesse régulière d'un seul mouvement continu, sans s'arrêter.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

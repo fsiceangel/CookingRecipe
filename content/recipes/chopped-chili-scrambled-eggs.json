@@ -15,6 +15,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "10 个",
+        "en": "10 eggs",
+        "fr": "10 œufs"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "剁椒",
         "en": "Chopped salted chili",
         "fr": "Piment haché salé"
+      },
+      "amount": {
+        "cn": "260 g（控水后）",
+        "en": "260 g drained",
+        "fr": "260 g égouttés"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "猪油",
         "en": "Lard",
         "fr": "Saindoux"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "豆豉",
         "en": "Fermented black beans",
         "fr": "Haricots noirs fermentés"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "3 g（食材表）；步骤写 1 g",
+        "en": "3 g in the ingredient list; 1 g in the steps",
+        "fr": "3 g dans la liste ; 1 g dans les étapes"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "小米辣",
         "en": "Bird's eye chili",
         "fr": "Piment oiseau"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -114,6 +169,24 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "260 g",
+        "en": "260 g",
+        "fr": "260 g"
+      }
+    },
+    {
+      "id": "salt-endcard",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -131,7 +204,8 @@
       ],
       "notes": [
         "成品剁椒一定要先泡水去盐，否则太咸；用猪油炒剁椒更香润不腻。",
-        "这道菜非常下饭，记得多备点米饭。具体用量见视频片尾。"
+        "这道菜非常下饭，记得多备点米饭。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -147,7 +221,8 @@
       ],
       "notes": [
         "Always soak store-bought chopped chili to remove salt or it will be too salty; lard makes it richer and not greasy.",
-        "This dish is very good with rice, so prepare extra rice. Exact amounts are shown on the video's end screen."
+        "This dish is very good with rice, so prepare extra rice.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -163,7 +238,8 @@
       ],
       "notes": [
         "Toujours faire tremper le piment haché du commerce pour enlever le sel, sinon ce sera trop salé ; le saindoux le rend plus onctueux sans être gras.",
-        "Ce plat se marie très bien avec le riz, prévoyez-en davantage. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Ce plat se marie très bien avec le riz, prévoyez-en davantage.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

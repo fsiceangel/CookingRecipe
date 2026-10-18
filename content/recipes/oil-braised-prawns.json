@@ -15,6 +15,11 @@
         "cn": "大虾",
         "en": "Large prawns",
         "fr": "Grosses gambas"
+      },
+      "amount": {
+        "cn": "100 g（片尾原文，重量待确认）",
+        "en": "100 g as written on the end card; weight needs confirmation",
+        "fr": "100 g indiqués à l’écran ; poids à confirmer"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "葱丝",
         "en": "Shredded scallion",
         "fr": "Ciboule émincée"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "姜丝",
         "en": "Shredded ginger",
         "fr": "Gingembre émincé"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -78,6 +108,15 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      }
+    },
+    {
+      "id": "cooking-wine-endcard",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -98,7 +137,8 @@
       "notes": [
         "煎虾一定要煎出虾油、煎出香味，这是这道菜鲜味的来源。",
         "盐一定要足，糖不是为了甜口，而是放大虾本身的鲜甜。",
-        "精确用量见视频片尾。"
+        "片尾大虾写为 100 g，与同页调料量相比偏小，可能有笔误；这里保留原文，未推测改数。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -117,7 +157,8 @@
       "notes": [
         "Be sure to fry the prawns until the red prawn oil renders and they smell fragrant; this is the source of the dish's umami.",
         "Salt should be generous; the sugar is not for sweetness but to amplify the prawns' own sweet flavor.",
-        "Exact amounts are shown on the video's end screen."
+        "The card lists 100 g prawns, unusually little relative to its seasoning quantities. It may be a typo; the source figure is preserved without guessing a correction.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -136,7 +177,8 @@
       "notes": [
         "Bien saisir les gambas jusqu'à ce que l'huile rouge ressorte et qu'elles embaument ; c'est la source de l'umami du plat.",
         "Le sel doit être généreux ; le sucre n'est pas là pour le goût sucré mais pour amplifier la douceur naturelle des gambas.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "La fiche indique 100 g de gambas, peu par rapport aux assaisonnements. Il peut s’agir d’une coquille ; le chiffre original est conservé sans correction supposée.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

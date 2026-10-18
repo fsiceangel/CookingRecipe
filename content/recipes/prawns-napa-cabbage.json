@@ -24,6 +24,11 @@
         "cn": "白菜",
         "en": "Napa cabbage",
         "fr": "Chou chinois"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 30 g",
+        "en": "30 g combined with ginger",
+        "fr": "30 g au total avec le gingembre"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 30 g",
+        "en": "30 g combined with scallion",
+        "fr": "30 g au total avec la ciboule"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 3 g，加水调开",
+        "en": "3 g starch, mixed with water",
+        "fr": "3 g de fécule, délayée dans de l’eau"
       }
     },
     {
@@ -105,7 +140,8 @@
       ],
       "notes": [
         "白菜做之前千万不能焯水，否则吸不进虾汤味；选晒过、去掉些水气的白菜更回甜。",
-        "把虾头虾壳全部用上熬汤，原汤化原食，味道最浓。具体用量见视频片尾。"
+        "把虾头虾壳全部用上熬汤，原汤化原食，味道最浓。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -122,7 +158,8 @@
       ],
       "notes": [
         "Never blanch the cabbage beforehand or it won't absorb the prawn broth; cabbage that has been sun-dried a little is sweeter.",
-        "Use every part of the prawns to make the broth — cooking the dish in its own essence gives the deepest flavor. Exact amounts are shown on the video's end screen."
+        "Use every part of the prawns to make the broth — cooking the dish in its own essence gives the deepest flavor.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -139,7 +176,8 @@
       ],
       "notes": [
         "Ne jamais blanchir le chou au préalable, sinon il n'absorbera pas le bouillon de gambas ; un chou un peu séché au soleil est plus sucré.",
-        "Utiliser toutes les parties des gambas pour le bouillon — cuire le plat dans sa propre essence donne la saveur la plus profonde. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Utiliser toutes les parties des gambas pour le bouillon — cuire le plat dans sa propre essence donne la saveur la plus profonde.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

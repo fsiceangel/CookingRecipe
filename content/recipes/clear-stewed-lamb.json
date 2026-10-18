@@ -15,6 +15,11 @@
         "cn": "带骨羊腿肉",
         "en": "Bone-in lamb leg",
         "fr": "Gigot d'agneau avec os"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "白萝卜",
         "en": "White radish",
         "fr": "Radis blanc"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 50 g",
+        "en": "50 g combined with ginger",
+        "fr": "50 g au total avec le gingembre"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 50 g",
+        "en": "50 g combined with scallion",
+        "fr": "50 g au total avec la ciboule"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "当归",
         "en": "Angelica root (dang gui)",
         "fr": "Racine d'angélique (dang gui)"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "党参",
         "en": "Dang shen (codonopsis root)",
         "fr": "Dang shen (racine de codonopsis)"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "白胡椒",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -96,6 +131,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
       }
     },
     {
@@ -105,6 +145,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -124,7 +169,7 @@
       "notes": [
         "若羊肉膻味较重，焯水时多泡多焯、加大葱姜量并多煮一会儿。",
         "不着急吃可改用砂锅小火慢炖。",
-        "具体配料和比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -142,7 +187,7 @@
       "notes": [
         "If your lamb is gamey, soak and blanch it longer, use more scallion and ginger, and simmer longer.",
         "If you are not in a hurry, use a clay pot and simmer slowly over low heat.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -160,7 +205,7 @@
       "notes": [
         "Si votre agneau est fort en goût, le faire tremper et blanchir plus longtemps, utiliser plus de ciboule et de gingembre, et mijoter plus longtemps.",
         "Si vous n'êtes pas pressé, utilisez une marmite en terre et mijotez doucement à feu doux.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

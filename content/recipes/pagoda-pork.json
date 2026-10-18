@@ -42,6 +42,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "酱汁 30 g；煮肉另备",
+        "en": "30 g for the sauce; extra for boiling pork",
+        "fr": "30 g pour la sauce ; supplément pour cuire le porc"
       }
     },
     {
@@ -60,6 +65,11 @@
         "cn": "海鲜酱",
         "en": "Hoisin sauce",
         "fr": "Sauce hoisin"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "南乳汁",
         "en": "Red fermented bean curd sauce",
         "fr": "Sauce de tofu fermenté rouge"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -113,7 +128,7 @@
         "肉一定要扒开缝把酱汁烫进每一层，里外才是一个味。",
         "梅菜底要按紧压实，否则蒸后塔形会塌。",
         "在家可不切塔形，直接切厚片拌酱蒸，味道一样好。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -138,7 +153,7 @@
         "Always pry the slices open and work the sauce into every layer so the flavor is the same inside and out.",
         "Pack the mustard-green base firmly, or the tower will slump after steaming.",
         "At home you can skip the tower shape and just steam thick slices coated in sauce; it tastes just as good.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -163,7 +178,7 @@
         "Toujours écarter les tranches et faire pénétrer la sauce dans chaque couche pour un goût identique dedans et dehors.",
         "Bien tasser la base de légumes moutarde, sinon la tour s'affaisse à la cuisson.",
         "À la maison, on peut renoncer à la forme en tour et cuire simplement des tranches épaisses enrobées de sauce ; c'est tout aussi bon.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

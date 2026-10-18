@@ -15,6 +15,11 @@
         "cn": "鸡蛋",
         "en": "Eggs",
         "fr": "Œufs"
+      },
+      "amount": {
+        "cn": "8 个",
+        "en": "8 eggs",
+        "fr": "8 œufs"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "番茄沙司",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "蒜末",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "炸蛋 600 g；润锅另备少量",
+        "en": "600 g for frying eggs; a little extra to coat the pan",
+        "fr": "600 g pour frire les œufs ; un peu plus pour graisser la poêle"
       }
     },
     {
@@ -60,6 +85,24 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      }
+    },
+    {
+      "id": "pineapple-endcard",
+      "ingredient": "pineapple",
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
+      }
+    },
+    {
+      "id": "green-peas-endcard",
+      "ingredient": "green-peas",
+      "amount": {
+        "cn": "适量，先焯水",
+        "en": "as needed, blanched",
+        "fr": "selon besoin, blanchis"
       }
     }
   ],
@@ -79,7 +122,7 @@
       "notes": [
         "炸蛋油温一定要高，否则蛋白会焦掉；复炸两遍：第一遍为酥，第二遍为焦。",
         "蛋白被炸松后内部布满小孔，像海绵一样吸满酸甜酱，一咬就爆汁。",
-        "具体配方和比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -97,7 +140,7 @@
       "notes": [
         "The oil must be quite hot when frying the eggs or the whites will scorch; fry twice: the first for crispness, the second for color.",
         "Fried until puffed, the whites are full of tiny holes that soak up the sweet-and-sour sauce like a sponge and burst when bitten.",
-        "The exact recipe and ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -115,7 +158,7 @@
       "notes": [
         "L'huile doit être bien chaude pour frire les œufs, sinon les blancs brûlent; frire deux fois : la première pour le croustillant, la seconde pour la couleur.",
         "Frits jusqu'à gonfler, les blancs se remplissent de petits trous qui absorbent la sauce aigre-douce comme une éponge et éclatent sous la dent.",
-        "La recette et les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

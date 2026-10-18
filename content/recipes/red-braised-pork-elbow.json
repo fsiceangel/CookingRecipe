@@ -10,11 +10,16 @@
   "ingredients": [
     {
       "id": "pig-trotter-1",
-      "ingredient": "pig-trotter",
+      "ingredient": "pork-elbow",
       "name": {
         "cn": "猪前肘",
         "en": "Front pork knuckle",
-        "fr": "Jarret de porc avant"
+        "fr": "Jarret avant de porc"
+      },
+      "amount": {
+        "cn": "1500 g",
+        "en": "1500 g",
+        "fr": "1500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "316 g（糖色 100 g；调味 216 g）",
+        "en": "316 g (100 g for caramel; 216 g for seasoning)",
+        "fr": "316 g (100 g pour le caramel ; 216 g pour assaisonner)"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "花雕酒",
         "en": "Shaoxing wine",
         "fr": "Vin de Shaoxing"
+      },
+      "amount": {
+        "cn": "500 g（焯水 100 g；调味 370 g；勾芡 30 g）",
+        "en": "500 g (100 g for blanching; 370 g for seasoning; 30 g for the sauce)",
+        "fr": "500 g (100 g pour blanchir ; 370 g pour assaisonner ; 30 g pour la sauce)"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "28 g",
+        "en": "28 g",
+        "fr": "28 g"
       }
     },
     {
@@ -96,6 +141,38 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "2500 g",
+        "en": "2500 g",
+        "fr": "2500 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "130 g（糖色 50 g；煸葱姜 80 g）",
+        "en": "130 g (50 g for caramel; 80 g for aromatics)",
+        "fr": "130 g (50 g pour le caramel ; 80 g pour les aromates)"
+      }
+    },
+    {
+      "id": "cornstarch-slurry-endcard",
+      "ingredient": "cornstarch-slurry",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -117,7 +194,7 @@
       "notes": [
         "酒分两次加：焯水时去腥，收汁时补酒香。",
         "成品是甜咸口，糖的量要稍大一点以平衡糖色的微苦。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -137,7 +214,7 @@
       "notes": [
         "Add wine twice: first when blanching to remove odor, again when finishing to restore aroma.",
         "The dish is sweet-savory; use slightly more sugar to balance the faint bitterness of the caramel.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -157,7 +234,7 @@
       "notes": [
         "Ajouter le vin en deux fois : d'abord au blanchiment pour ôter l'odeur, puis à la fin pour relever l'arôme.",
         "Le plat est sucré-salé ; utiliser un peu plus de sucre pour équilibrer la légère amertume du caramel.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

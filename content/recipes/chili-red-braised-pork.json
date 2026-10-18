@@ -15,6 +15,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "1600 g",
+        "en": "1600 g",
+        "fr": "1600 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "青红美人椒",
         "en": "Green and red chili peppers",
         "fr": "Piments verts et rouges"
+      },
+      "amount": {
+        "cn": "青、红美人椒各 50 g",
+        "en": "50 g each of green and red long chilies",
+        "fr": "50 g de piments longs verts et 50 g de rouges"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "大料",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 pieces",
+        "fr": "4 pièces"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "桂皮",
         "en": "Cinnamon bark",
         "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "4 g",
+        "en": "4 g",
+        "fr": "4 g"
       }
     },
     {
@@ -96,6 +131,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "焯水 100 g；煎肉 120 g",
+        "en": "100 g for blanching; 120 g for frying",
+        "fr": "100 g pour blanchir ; 120 g pour faire revenir"
       }
     },
     {
@@ -105,6 +145,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "79 g",
+        "en": "79 g",
+        "fr": "79 g"
       }
     },
     {
@@ -114,6 +159,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -123,6 +173,11 @@
         "cn": "糖色",
         "en": "Caramel color (sugar)",
         "fr": "Caramel coloré (sucre)"
+      },
+      "amount": {
+        "cn": "糖色 25 g（可不加）",
+        "en": "25 g caramel coloring (optional)",
+        "fr": "25 g de caramel colorant (facultatif)"
       }
     },
     {
@@ -132,6 +187,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -141,6 +201,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -150,6 +215,38 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "680 g",
+        "en": "680 g",
+        "fr": "680 g"
+      }
+    },
+    {
+      "id": "sugar-endcard",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "14 g",
+        "en": "14 g",
+        "fr": "14 g"
+      }
+    },
+    {
+      "id": "quail-egg-endcard",
+      "ingredient": "quail-egg",
+      "amount": {
+        "cn": "五香鹌鹑蛋 100 g",
+        "en": "100 g five-spice quail eggs",
+        "fr": "100 g d’œufs de caille aux cinq épices"
       }
     }
   ],
@@ -172,7 +269,7 @@
         "肉要煸到表面起一层胶壳，更容易吸足汤汁的味道。",
         "用拍蒜更出味；五香板栗不用下油锅炸，也不要跟肉一起炖，最后下锅一煎一咕噜即可，否则会煮散。",
         "家里没有料酒可直接烹酱油，酱油也能去腥增香。",
-        "具体配料和比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -193,7 +290,7 @@
         "Fry the pork until a glossy skin-like layer forms on the surface so it soaks up the braising sauce.",
         "Smashed garlic gives more flavor; the five-spice chestnuts don't need deep-frying and shouldn't be braised with the meat - add them at the end for a quick fry and simmer, or they fall apart.",
         "If you have no cooking wine, just deglaze with soy sauce, which also removes odor and adds aroma.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -214,7 +311,7 @@
         "Faire revenir le porc jusqu'à ce qu'une couche brillante semblable à une peau se forme en surface, pour qu'il absorbe bien la sauce.",
         "L'ail écrasé donne plus de goût; les châtaignes aux cinq-épices n'ont pas besoin d'être frites et ne doivent pas être braisées avec la viande - les ajouter à la fin pour une cuisson rapide, sinon elles se défont.",
         "Sans vin de cuisine, déglacez simplement à la sauce soja, qui ôte aussi l'odeur et parfume.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

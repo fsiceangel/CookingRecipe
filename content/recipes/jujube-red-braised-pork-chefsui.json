@@ -42,6 +42,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "炒糖色 50 g；调味 40 g",
+        "en": "50 g for caramel coloring; 40 g for seasoning",
+        "fr": "50 g pour le caramel ; 40 g pour assaisonner"
       }
     },
     {
@@ -51,6 +56,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -114,6 +129,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -123,6 +143,15 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     }
   ],
@@ -146,7 +175,7 @@
         "加水一定要加热水，避免肉收缩变柴。",
         "光靠炒糖色上不出深枣红色，要配合老抽。",
         "南方口味可把糖量再加一倍。",
-        "精确用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -168,7 +197,7 @@
         "Always add hot water so the meat doesn't seize up and turn tough.",
         "Caramel color alone won't give the deep jujube-red; pair it with dark soy sauce.",
         "For a southern palate, you can double the sugar.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -190,7 +219,7 @@
         "Toujours ajouter de l'eau chaude pour que la viande ne se rétracte pas et ne durcisse pas.",
         "Le caramel seul ne donne pas le rouge jujube profond ; l'associer à la sauce soja foncée.",
         "Pour un palais du sud, on peut doubler le sucre.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "大黄米",
         "en": "Broomcorn millet",
         "fr": "Millet jaune gluant"
+      },
+      "amount": {
+        "cn": "米与水比例 1:3",
+        "en": "1 part millet to 3 parts water",
+        "fr": "1 part de millet pour 3 parts d’eau"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "纯净水",
         "en": "Purified water",
         "fr": "Eau purifiée"
+      },
+      "amount": {
+        "cn": "水与米比例 3:1",
+        "en": "3 parts water to 1 part millet",
+        "fr": "3 parts d’eau pour 1 part de millet"
       }
     },
     {
@@ -87,7 +97,8 @@
       "notes": [
         "冷水下米同样时间熬出的粥更粘稠。",
         "加完红糖后粘稠度会下降一些属正常。",
-        "用纯红糖比赤砂糖香甜，具体用量见视频片尾。"
+        "用纯红糖比赤砂糖香甜",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -104,7 +115,8 @@
       "notes": [
         "Starting the millet in cold water gives a thicker porridge for the same cooking time.",
         "The porridge thins a little after the brown sugar is added; this is normal.",
-        "Pure brown sugar is more fragrant and sweet than refined cane sugar. Exact amounts are shown on the video's end screen."
+        "Pure brown sugar is more fragrant and sweet than refined cane sugar.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -121,7 +133,8 @@
       "notes": [
         "Démarrer le millet à l'eau froide donne une bouillie plus épaisse à temps de cuisson égal.",
         "La bouillie s'éclaircit un peu après l'ajout du sucre roux ; c'est normal.",
-        "Le sucre roux pur est plus parfumé et sucré que le sucre de canne raffiné. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Le sucre roux pur est plus parfumé et sucré que le sucre de canne raffiné.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

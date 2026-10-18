@@ -15,6 +15,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "1 kg",
+        "en": "1 kg",
+        "fr": "1 kg"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "辣椒（小米辣）",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "螺丝椒 180 g；小米辣 60 g",
+        "en": "180 g green spiral peppers; 60 g bird’s-eye chilies",
+        "fr": "180 g de piments verts longs ; 60 g de petits piments forts"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "青蒜",
         "en": "Green garlic",
         "fr": "Ail vert"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 pieces",
+        "fr": "2 pièces"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -123,6 +183,15 @@
         "cn": "米饭",
         "en": "Cooked rice",
         "fr": "Riz cuit"
+      }
+    },
+    {
+      "id": "bamboo-shoot-endcard",
+      "ingredient": "bamboo-shoot",
+      "amount": {
+        "cn": "60 g（可不加）",
+        "en": "60 g (optional)",
+        "fr": "60 g (facultatif)"
       }
     }
   ],
@@ -142,7 +211,7 @@
       "notes": [
         "原锅一锅炒，辣椒、蒜、肉的味道会很融合。",
         "这道菜汤比一般小炒肉多，更适合拌饭，猪油让米饭油润。",
-        "确切比例请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -160,7 +229,7 @@
       "notes": [
         "Cooking it all in one wok melds the chili, garlic, and pork flavors together.",
         "This dish has more sauce than a typical stir-fried pork, ideal for mixing into rice; the pork fat makes the rice rich and glossy.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -178,7 +247,7 @@
       "notes": [
         "Tout cuire dans un seul wok fond ensemble les saveurs de piment, ail et porc.",
         "Ce plat a plus de sauce qu'un porc sauté classique, idéal mélangé au riz ; le gras de porc rend le riz riche et brillant.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

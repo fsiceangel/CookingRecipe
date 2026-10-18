@@ -15,6 +15,11 @@
         "cn": "面条",
         "en": "Noodles",
         "fr": "Nouilles"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "肉丝",
         "en": "Shredded pork",
         "fr": "Porc émincé"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "青红椒、小米辣",
         "en": "Green & red chilies, bird's-eye chili",
         "fr": "Piments verts et rouges, piment oiseau"
+      },
+      "amount": {
+        "cn": "尖椒 150 g；青红椒、小米辣 30 g",
+        "en": "150 g long peppers; 30 g green/red and bird’s-eye chilies",
+        "fr": "150 g de piments longs ; 30 g de piments verts, rouges et petits piments"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜蓉",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "辣酱",
         "en": "Chili sauce",
         "fr": "Sauce piquante"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -87,6 +127,15 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "scallion-endcard",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -105,7 +154,8 @@
       ],
       "notes": [
         "出锅前锅底要有微微'巴锅'的状态，香气才出得来；锅太干净反而炒不香。",
-        "可随意加鸡蛋、火腿肠等配料。具体用量见视频片尾。"
+        "可随意加鸡蛋、火腿肠等配料。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -122,7 +172,8 @@
       ],
       "notes": [
         "Just before serving, the wok bottom should be lightly searing ('ba guo') — that is what brings out the aroma; too clean a wok won't develop it.",
-        "Feel free to add egg, ham sausage, or any vegetables you like. Exact amounts are shown on the video's end screen."
+        "Feel free to add egg, ham sausage, or any vegetables you like.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -139,7 +190,8 @@
       ],
       "notes": [
         "Juste avant de servir, le fond du wok doit légèrement accrocher ('ba guo') — c'est ce qui développe l'arôme ; un wok trop propre ne le donnera pas.",
-        "On peut ajouter œuf, saucisse ou les légumes de son choix. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "On peut ajouter œuf, saucisse ou les légumes de son choix.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

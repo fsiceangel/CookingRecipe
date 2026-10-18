@@ -15,6 +15,11 @@
         "cn": "草鱼",
         "en": "Grass carp",
         "fr": "Carpe herbivore"
+      },
+      "amount": {
+        "cn": "1.2 kg",
+        "en": "1.2 kg",
+        "fr": "1.2 kg"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -78,6 +93,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -87,6 +107,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -96,6 +121,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "130 g",
+        "en": "130 g",
+        "fr": "130 g"
       }
     },
     {
@@ -114,6 +144,15 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     }
   ],
@@ -136,7 +175,8 @@
       ],
       "notes": [
         "鱼肉裹粉只用淀粉水加干淀粉，不加蛋液，炸出来才够酥脆。",
-        "草鱼细刺多，花刀切断并炸酥后即可放心食用。具体调味比例见视频片尾。"
+        "草鱼细刺多，花刀切断并炸酥后即可放心食用。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -157,7 +197,8 @@
       ],
       "notes": [
         "Coat the fish only with cornstarch slurry plus dry cornstarch — no egg — so it fries up genuinely crisp.",
-        "Grass carp has many fine bones; the scoring severs them and frying crisps them so they are safe to eat. Exact seasoning ratios are shown on the video's end screen."
+        "Grass carp has many fine bones; the scoring severs them and frying crisps them so they are safe to eat.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -178,7 +219,8 @@
       ],
       "notes": [
         "N'enrober le poisson que de liaison de fécule et de fécule sèche — sans œuf — pour qu'il soit vraiment croustillant.",
-        "La carpe herbivore a beaucoup d'arêtes fines ; les incisions les sectionnent et la friture les rend croustillantes, donc sans danger. Les proportions exactes sont indiquées à la fin de la vidéo."
+        "La carpe herbivore a beaucoup d'arêtes fines ; les incisions les sectionnent et la friture les rend croustillantes, donc sans danger.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

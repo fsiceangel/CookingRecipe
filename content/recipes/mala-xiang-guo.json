@@ -15,6 +15,11 @@
         "cn": "花椒和麻椒",
         "en": "Sichuan & numbing peppercorns",
         "fr": "Poivre du Sichuan et poivre engourdissant"
+      },
+      "amount": {
+        "cn": "制油：花椒、麻椒各 20 g；制酱：两种椒粉共 15 g",
+        "en": "Oil: 20 g each red/green Sichuan peppercorns; sauce: 15 g combined peppercorn powder",
+        "fr": "Huile : 20 g de chaque poivre du Sichuan ; sauce : 15 g de poudres mélangées"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "辣椒面",
         "en": "Chili powder",
         "fr": "Poudre de piment"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "火锅底料",
         "en": "Hotpot base",
         "fr": "Base de fondue chinoise"
+      },
+      "amount": {
+        "cn": "120 g",
+        "en": "120 g",
+        "fr": "120 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "海鲜酱",
         "en": "Hoisin sauce",
         "fr": "Sauce hoisin"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "制料油 80 g；炒制 60 g",
+        "en": "80 g for aromatic oil; 60 g for stir-frying",
+        "fr": "80 g pour l’huile aromatique ; 60 g pour faire sauter"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "制酱蒜末 20 g；炒制蒜 80 g；出锅蒜末 20 g",
+        "en": "20 g minced garlic for sauce; 80 g for frying; 20 g to finish",
+        "fr": "20 g d’ail haché pour la sauce ; 80 g pour faire revenir ; 20 g en finition"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "制酱料油 200 g；炒制 200 g",
+        "en": "200 g aromatic oil for sauce; 200 g for stir-frying",
+        "fr": "200 g d’huile aromatique pour la sauce ; 200 g pour faire sauter"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -214,6 +264,32 @@
         "en": "Cilantro",
         "fr": "Coriandre"
       }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "chili-pepper-endcard",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "灯笼干辣椒 15 个；青红椒圈 50 g",
+        "en": "15 dried lantern chilies; 50 g green/red chili rings",
+        "fr": "15 piments lanternes séchés ; 50 g de rondelles de piments verts et rouges"
+      }
+    },
+    {
+      "id": "yuba-endcard",
+      "ingredient": "yuba"
+    },
+    {
+      "id": "broccoli-endcard",
+      "ingredient": "broccoli"
     }
   ],
   "translations": {
@@ -234,7 +310,8 @@
       ],
       "notes": [
         "食材先焯水再炒，炒去水分后更能吸味，吃着重而不薄。",
-        "辣度取决于所选辣椒面的品种。调味只放了点酱油，辣椒本身的香味就足够。"
+        "辣度取决于所选辣椒面的品种。调味只放了点酱油，辣椒本身的香味就足够。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -254,7 +331,8 @@
       ],
       "notes": [
         "Blanch the ingredients first, then stir-fry; cooking off the moisture lets them absorb more flavor for a richer taste.",
-        "The spiciness depends on the type of chili powder you choose. Only a bit of soy sauce was added — the chilies provide plenty of aroma on their own."
+        "The spiciness depends on the type of chili powder you choose. Only a bit of soy sauce was added — the chilies provide plenty of aroma on their own.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -274,7 +352,8 @@
       ],
       "notes": [
         "Blanchir d'abord les ingrédients, puis les faire revenir ; évaporer l'humidité leur permet d'absorber plus de saveur pour un goût plus riche.",
-        "Le piquant dépend du type de poudre de piment choisi. Seul un peu de sauce soja a été ajouté — les piments apportent assez d'arôme à eux seuls."
+        "Le piquant dépend du type de poudre de piment choisi. Seul un peu de sauce soja a été ajouté — les piments apportent assez d'arôme à eux seuls.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "肥牛",
         "en": "Fatty beef slices",
         "fr": "Tranches de boeuf gras"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "黄灯笼辣椒酱",
         "en": "Yellow chili sauce",
         "fr": "Sauce de piment jaune"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "金针菇",
         "en": "Enoki mushrooms",
         "fr": "Champignons enoki"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "笋丝",
         "en": "Shredded bamboo shoots",
         "fr": "Pousses de bambou émincées"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "南瓜",
         "en": "Pumpkin",
         "fr": "Potiron"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "高汤",
         "en": "Stock",
         "fr": "Bouillon"
+      },
+      "amount": {
+        "cn": "650 g",
+        "en": "650 g",
+        "fr": "650 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "小辣椒",
         "en": "Small chili peppers",
         "fr": "Petits piments"
+      },
+      "amount": {
+        "cn": "炝锅青红椒各 50 g；出锅各 30 g（按步骤）",
+        "en": "50 g each green/red pepper for frying; 30 g each to finish (per the steps)",
+        "fr": "50 g de piments verts et 50 g de rouges pour faire revenir ; 30 g de chaque en finition (selon les étapes)"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -141,6 +206,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -159,7 +229,7 @@
       ],
       "notes": [
         "这是少油清爽版，金针菇最入味。",
-        "具体克数请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -176,7 +246,7 @@
       ],
       "notes": [
         "This is a light, low-oil version; the enoki mushrooms absorb the most flavor.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -193,7 +263,7 @@
       ],
       "notes": [
         "C'est une version légère et peu grasse ; les champignons enoki absorbent le plus de saveur.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

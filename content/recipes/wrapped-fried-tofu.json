@@ -15,6 +15,11 @@
         "cn": "北豆腐",
         "en": "Firm tofu",
         "fr": "Tofu ferme"
+      },
+      "amount": {
+        "cn": "1 块",
+        "en": "1 block",
+        "fr": "1 bloc"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "肉馅",
         "en": "Minced meat",
         "fr": "Viande hachée"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "虾仁",
         "en": "Shrimp",
         "fr": "Crevettes"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 20 g",
+        "en": "20 g combined with ginger",
+        "fr": "20 g au total avec le gingembre"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 20 g",
+        "en": "20 g combined with scallion",
+        "fr": "20 g au total avec la ciboule"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "淀粉",
         "en": "Starch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 eggs",
+        "fr": "2 œufs"
       }
     },
     {
@@ -123,6 +178,24 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "mixed-vegetables-endcard",
+      "ingredient": "mixed-vegetables",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "scallion-pepper-salt-endcard",
+      "ingredient": "scallion-pepper-salt",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     }
   ],
@@ -143,7 +216,7 @@
       ],
       "notes": [
         "豆腐蒸完只要能定型即可，不需要太强的劲；蛋糊里加点油炸出来更起酥好看。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -162,7 +235,7 @@
       ],
       "notes": [
         "The steamed tofu only needs to hold its shape, not be especially springy; adding a bit of oil to the batter makes it crisper and prettier.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -181,7 +254,7 @@
       ],
       "notes": [
         "Le tofu cuit doit seulement tenir sa forme, pas être très élastique ; un peu d'huile dans la pâte le rend plus croustillant.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

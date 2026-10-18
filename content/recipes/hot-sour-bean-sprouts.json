@@ -15,6 +15,11 @@
         "cn": "豆芽",
         "en": "Bean sprouts",
         "fr": "Germes de soja"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "15 粒",
+        "en": "15 peppercorns",
+        "fr": "15 grains"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "6 个（6 g）",
+        "en": "6 chilies (6 g)",
+        "fr": "6 piments (6 g)"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "淀粉",
         "en": "Starch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "1.5 g",
+        "en": "1.5 g",
+        "fr": "1.5 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -96,6 +141,20 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
+      }
+    },
+    {
+      "id": "garlic-endcard",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "14 g",
+        "en": "14 g",
+        "fr": "14 g"
       }
     }
   ],
@@ -114,7 +173,7 @@
       "notes": [
         "炒豆芽不出汤的关键：锅要够热、旺火爆炒；豆芽一次别放太多，否则锅温下降太快。",
         "淀粉量要掌控好，旺火下淀粉失水，烹汁后能锁住水分，半天不出汤。",
-        "具体配料和比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -131,7 +190,7 @@
       "notes": [
         "Keys to liquid-free sprouts: the wok must be very hot with high-heat flash-frying, and don't add too many sprouts at once or the temperature drops too fast.",
         "Control the amount of starch; under high heat it loses water, and once the sauce is added it locks in moisture so no liquid weeps out.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -148,7 +207,7 @@
       "notes": [
         "Clés pour des germes sans jus : le wok doit être brûlant avec une cuisson éclair à feu vif, et ne pas mettre trop de germes à la fois sinon la température chute trop vite.",
         "Doser la fécule; à feu vif elle perd son eau, et une fois la sauce ajoutée elle retient l'humidité pour qu'aucun jus ne s'échappe.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

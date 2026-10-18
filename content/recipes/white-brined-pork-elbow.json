@@ -33,6 +33,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -42,6 +47,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +61,11 @@
         "cn": "白酒",
         "en": "White liquor",
         "fr": "Alcool blanc"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -60,6 +75,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌制 60 g；煮制 50 g",
+        "en": "60 g for marinating; 50 g for boiling",
+        "fr": "60 g pour mariner ; 50 g pour cuire"
       }
     },
     {
@@ -69,6 +89,11 @@
         "cn": "白胡椒",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,6 +103,91 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      }
+    },
+    {
+      "id": "star-anise-endcard",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "fennel-seeds-endcard",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "angelica-dahurica-endcard",
+      "ingredient": "angelica-dahurica",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "cinnamon-bark-endcard",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-endcard",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "bay-leaf-endcard",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "garlic-endcard",
+      "ingredient": "garlic"
+    },
+    {
+      "id": "vinegar-endcard",
+      "ingredient": "vinegar",
+      "amount": {
+        "cn": "蘸料 50 g",
+        "en": "50 g for dipping sauce",
+        "fr": "50 g pour la sauce à tremper"
+      }
+    },
+    {
+      "id": "light-soy-sauce-endcard",
+      "ingredient": "light-soy-sauce",
+      "amount": {
+        "cn": "蘸料 10 g",
+        "en": "10 g for dipping sauce",
+        "fr": "10 g pour la sauce à tremper"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "蘸料 5 g",
+        "en": "5 g for dipping sauce",
+        "fr": "5 g pour la sauce à tremper"
       }
     }
   ],
@@ -96,7 +206,8 @@
       "notes": [
         "肘子顺骨剌开、瘦肉处也划几刀，能让卤味更快渗透入味。",
         "白卤所用香料都是家里常备的，腌肘子的香料可一并入锅炖。",
-        "煮好放凉后味道更浓，蘸料同食更佳；精确香料种类和克数见视频片尾。"
+        "煮好放凉后味道更浓，蘸料同食更佳",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -113,7 +224,8 @@
       "notes": [
         "Scoring the elbow along the bone and into the lean meat lets the brine penetrate and flavor it faster.",
         "The white-brine spices are all common household ones, and the marinade spices can go straight into the braising pot.",
-        "The flavor is richer after cooling; serving with a dipping sauce is even better. Exact spice types and amounts are shown on the video's end screen."
+        "The flavor is richer after cooling; serving with a dipping sauce is even better.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -130,7 +242,8 @@
       "notes": [
         "Inciser le jarret le long de l'os et dans la viande maigre permet à la saumure de pénétrer et de l'aromatiser plus vite.",
         "Les épices de la saumure blanche sont toutes courantes à la maison, et les épices de la marinade peuvent aller directement dans la marmite.",
-        "La saveur est plus riche après refroidissement ; servir avec une sauce à tremper est encore meilleur. Les types et quantités exacts d'épices sont indiqués à la fin de la vidéo."
+        "La saveur est plus riche après refroidissement ; servir avec une sauce à tremper est encore meilleur.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

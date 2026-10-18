@@ -15,6 +15,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "1300 g",
+        "en": "1300 g",
+        "fr": "1300 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "梅干菜",
         "en": "Preserved mustard greens",
         "fr": "Légumes moutarde confits"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 stars",
+        "fr": "4 étoiles"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "海鲜酱",
         "en": "Hoisin sauce",
         "fr": "Sauce hoisin"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "花雕酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "南乳汁",
         "en": "Fermented bean curd (sauce)",
         "fr": "Fromage de soja fermenté (sauce)"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "蒜末",
         "en": "Minced garlic",
         "fr": "Ail haché"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -105,6 +150,29 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "scallion-endcard",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "与姜合计 100 g",
+        "en": "100 g combined with ginger",
+        "fr": "100 g au total avec le gingembre"
+      }
+    },
+    {
+      "id": "ginger-endcard",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "与葱合计 100 g",
+        "en": "100 g combined with scallion",
+        "fr": "100 g au total avec la ciboule"
       }
     }
   ],
@@ -124,7 +192,8 @@
       ],
       "notes": [
         "全程不加水，用更长的蒸制时间代替油炸和勾芡，更简单也照样好吃。",
-        "保鲜膜一定缠严实，蒸时进水会很难吃。"
+        "保鲜膜一定缠严实，蒸时进水会很难吃。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -143,7 +212,7 @@
       "notes": [
         "Adding no water and steaming longer replaces the usual deep-frying and thickening step — simpler but just as tasty.",
         "Wrap the plastic film tightly; if steam water gets in, the dish turns out poorly.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -162,7 +231,7 @@
       "notes": [
         "Ne pas ajouter d'eau et cuire plus longtemps à la vapeur remplace la friture et la liaison habituelles — plus simple mais tout aussi savoureux.",
         "Filmez bien hermétiquement ; si l'eau de vapeur s'infiltre, le plat est raté.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "面粉",
         "en": "Flour",
         "fr": "Farine"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "面团 2 g；馅料 5 g",
+        "en": "2 g for the dough; 5 g for the filling",
+        "fr": "2 g pour la pâte ; 5 g pour la farce"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "260 g",
+        "en": "260 g",
+        "fr": "260 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "韭菜",
         "en": "Chinese chives",
         "fr": "Ciboulette chinoise"
+      },
+      "amount": {
+        "cn": "320 g",
+        "en": "320 g",
+        "fr": "320 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Œuf"
+      },
+      "amount": {
+        "cn": "8 个",
+        "en": "8 eggs",
+        "fr": "8 œufs"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "胡萝卜",
         "en": "Carrot",
         "fr": "Carotte"
+      },
+      "amount": {
+        "cn": "160 g",
+        "en": "160 g",
+        "fr": "160 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "粉条",
         "en": "Glass noodles",
         "fr": "Vermicelles de patate douce"
+      },
+      "amount": {
+        "cn": "230 g",
+        "en": "230 g",
+        "fr": "230 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "尖椒",
         "en": "Green chili pepper",
         "fr": "Piment vert"
+      },
+      "amount": {
+        "cn": "75 g",
+        "en": "75 g",
+        "fr": "75 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "24 g",
+        "en": "24 g",
+        "fr": "24 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "葱油",
         "en": "Scallion oil",
         "fr": "Huile de ciboule"
+      },
+      "amount": {
+        "cn": "150 g（炒蛋 80 g，炒配菜 50 g，韭菜馅 20 g）",
+        "en": "150 g (80 g for eggs, 50 g for vegetables, 20 g in the chive filling)",
+        "fr": "150 g (80 g pour les œufs, 50 g pour les légumes, 20 g dans la farce aux ciboulettes)"
       }
     }
   ],
@@ -116,7 +166,7 @@
       "notes": [
         "葱油的加入很关键，能把各种馅料的复合层次都勾连起来。",
         "拌韭菜馅前先用油把韭菜裹一层油膜，可防止出水；这个馅用来包包子也很好吃。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -135,7 +185,7 @@
       "notes": [
         "Adding scallion oil is key, tying together the layered flavors of the various filling ingredients.",
         "Coating the chives in an oil film before mixing keeps them from releasing water too soon; this filling is also great for steamed buns.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +204,7 @@
       "notes": [
         "L'ajout d'huile de ciboule est essentiel, il relie les saveurs en couches des différents ingrédients de la garniture.",
         "Enrober la ciboulette d'un film d'huile avant de mélanger l'empêche de rendre son eau trop tôt ; cette garniture est aussi excellente pour les petits pains vapeur.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "1 kg",
+        "en": "1 kg",
+        "fr": "1 kg"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "180 g",
+        "en": "180 g",
+        "fr": "180 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "火腿肠",
         "en": "Ham sausage",
         "fr": "Saucisse de jambon"
+      },
+      "amount": {
+        "cn": "2 根",
+        "en": "2 sausages",
+        "fr": "2 saucisses"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "泡椒酱",
         "en": "Pickled chili paste",
         "fr": "Pâte de piment mariné"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "辣椒（美人椒、小米辣）",
         "en": "Chili peppers (beauty chili, bird's eye chili)",
         "fr": "Piments (piment beauté, piment oeil-d'oiseau)"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "青蒜",
         "en": "Garlic sprouts",
         "fr": "Pousses d'ail"
+      },
+      "amount": {
+        "cn": "130 g",
+        "en": "130 g",
+        "fr": "130 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "土豆淀粉",
         "en": "Potato starch",
         "fr": "Fécule de pomme de terre"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -105,6 +155,47 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "celery-endcard",
+      "ingredient": "celery",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "onion-endcard",
+      "ingredient": "onion",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "chili-dipping-mix-endcard",
+      "ingredient": "chili-dipping-mix",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "oil-endcard",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "炸制 3000 ml；炒肉 100 g",
+        "en": "3000 ml for frying; 100 g for stir-frying pork",
+        "fr": "3000 ml pour la friture ; 100 g pour faire revenir le porc"
       }
     }
   ],
@@ -124,7 +215,8 @@
       ],
       "notes": [
         "土豆焯水后拍淀粉再炸，颜色和酥脆感都比直接炸更好。",
-        "用五花肉的猪油炒土豆更香；剁椒酱、小米辣加干辣椒，三种辣层层叠加。"
+        "用五花肉的猪油炒土豆更香；剁椒酱、小米辣加干辣椒，三种辣层层叠加。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -142,7 +234,8 @@
       ],
       "notes": [
         "Blanching the potatoes then coating with starch before frying gives better color and crispness than frying them straight.",
-        "Pork-belly lard makes the potatoes more fragrant; pickled chili paste, bird's eye chili, and dried chili layer three kinds of heat."
+        "Pork-belly lard makes the potatoes more fragrant; pickled chili paste, bird's eye chili, and dried chili layer three kinds of heat.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -160,7 +253,8 @@
       ],
       "notes": [
         "Blanchir les pommes de terre puis les enrober de fécule avant la friture donne une meilleure couleur et un meilleur croustillant que de les frire directement.",
-        "Le saindoux de poitrine de porc parfume davantage les pommes de terre ; la pâte de piment mariné, le piment oeil-d'oiseau et le piment séché superposent trois sortes de piquant."
+        "Le saindoux de poitrine de porc parfume davantage les pommes de terre ; la pâte de piment mariné, le piment oeil-d'oiseau et le piment séché superposent trois sortes de piquant.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

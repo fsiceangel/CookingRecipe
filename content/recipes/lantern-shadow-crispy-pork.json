@@ -15,6 +15,11 @@
         "cn": "猪通脊",
         "en": "Pork loin",
         "fr": "Longe de porc"
+      },
+      "amount": {
+        "cn": "1 块",
+        "en": "1 piece",
+        "fr": "1 morceau"
       }
     },
     {
@@ -78,6 +83,11 @@
         "cn": "番茄酱",
         "en": "Ketchup",
         "fr": "Ketchup"
+      },
+      "amount": {
+        "cn": "120 g",
+        "en": "120 g",
+        "fr": "120 g"
       }
     },
     {
@@ -87,6 +97,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -96,6 +111,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -105,6 +125,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     }
   ],
@@ -129,7 +154,7 @@
         "淀粉要蘸匀，否则肉会粘在砧板上；砸到湿透就补干淀粉。",
         "全程中小火炸，火大薄片会发皮、易炸过火。",
         "葱姜蒜炒香后滤掉，取其味不留其物，不影响薄肉片口感。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -152,7 +177,7 @@
         "Coat the starch evenly or the meat sticks to the board; re-coat with dry starch whenever it gets wet.",
         "Fry over medium-low throughout; high heat makes the thin slices leathery and easy to overcook.",
         "Fry the aromatics then strain them out, keeping their flavor without the bits, so they don't affect the crisp texture.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -175,7 +200,7 @@
         "Enrober la fécule uniformément, sinon la viande colle à la planche ; ré-enrober de fécule sèche dès qu'elle s'humidifie.",
         "Frire à feu moyen-doux tout du long ; un feu vif rend les tranches fines coriaces et faciles à brûler.",
         "Faire revenir les aromates puis les filtrer, pour garder leur goût sans les morceaux et ne pas altérer le croustillant.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

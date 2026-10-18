@@ -15,6 +15,11 @@
         "cn": "贵州红酸汤",
         "en": "Guizhou red sour soup",
         "fr": "Soupe aigre rouge du Guizhou"
+      },
+      "amount": {
+        "cn": "汤底用 2 勺（视频备 500 g 一瓶）",
+        "en": "2 ladlefuls for the broth (a 500 g bottle is shown)",
+        "fr": "2 louches pour le bouillon (bouteille de 500 g dans la vidéo)"
       }
     },
     {
@@ -69,6 +74,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "6 勺，与酸汤比例 3:1",
+        "en": "6 ladlefuls, 3 parts water to 1 part sour soup",
+        "fr": "6 louches, 3 parts d’eau pour 1 part de soupe aigre"
       }
     },
     {
@@ -78,6 +88,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌猪板筋 0.5 g；汤底另调味",
+        "en": "0.5 g for marinating pork tendon; season the broth separately",
+        "fr": "0,5 g pour mariner les tendons ; assaisonner le bouillon séparément"
       }
     },
     {
@@ -87,6 +102,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌猪板筋 1 g；汤底另调味",
+        "en": "1 g for marinating pork tendon; season the broth separately",
+        "fr": "1 g pour mariner les tendons ; assaisonner le bouillon séparément"
       }
     },
     {
@@ -214,6 +234,15 @@
         "en": "Instant noodles",
         "fr": "Nouilles instantanées"
       }
+    },
+    {
+      "id": "cornstarch-endcard",
+      "ingredient": "cornstarch",
+      "amount": {
+        "cn": "腌猪板筋 5 g",
+        "en": "5 g for marinating pork tendon",
+        "fr": "5 g pour mariner les tendons"
+      }
     }
   ],
   "translations": {
@@ -232,7 +261,7 @@
       ],
       "notes": [
         "酸汤和水约1:3；木姜子油是关键风味但要少放，多了味道太冲。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -250,7 +279,7 @@
       ],
       "notes": [
         "Sour soup to water is about 1:3; litsea oil is the key flavor but use only a little, as too much is overpowering.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -268,7 +297,7 @@
       ],
       "notes": [
         "Le rapport soupe aigre/eau est d'environ 1:3 ; l'huile de litsée est la saveur clé mais à doser, car trop est envahissant.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

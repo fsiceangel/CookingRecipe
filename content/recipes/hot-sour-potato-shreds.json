@@ -15,6 +15,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -60,6 +65,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "陈醋",
         "en": "Aged vinegar",
         "fr": "Vinaigre vieilli"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -97,6 +112,15 @@
         "en": "Oil",
         "fr": "Huile"
       }
+    },
+    {
+      "id": "chili-sauce-endcard",
+      "ingredient": "chili-sauce",
+      "amount": {
+        "cn": "适量",
+        "en": "to taste",
+        "fr": "selon le goût"
+      }
     }
   ],
   "translations": {
@@ -112,7 +136,8 @@
       ],
       "notes": [
         "用米醋打底再加一点陈醋，增加复合的酸味；陈醋色重不要放太多，否则菜不好看。",
-        "全程大火快炒，咸、鲜、酸要平衡，没有哪一味突出。"
+        "全程大火快炒，咸、鲜、酸要平衡，没有哪一味突出。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -127,7 +152,8 @@
       ],
       "notes": [
         "Base the sourness on rice vinegar with a little aged vinegar for a more complex tang; aged vinegar is dark, so don't add too much or the dish looks muddy.",
-        "Stir-fry hot and fast throughout; salt, umami and sourness should be balanced with no single note dominating."
+        "Stir-fry hot and fast throughout; salt, umami and sourness should be balanced with no single note dominating.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -142,7 +168,8 @@
       ],
       "notes": [
         "Baser l'acidité sur le vinaigre de riz avec un peu de vinaigre vieilli pour un goût acidulé plus complexe ; le vinaigre vieilli étant foncé, ne pas trop en mettre sinon le plat paraît terne.",
-        "Faire sauter chaud et vite tout du long ; sel, umami et acidité doivent être équilibrés, sans note dominante."
+        "Faire sauter chaud et vite tout du long ; sel, umami et acidité doivent être équilibrés, sans note dominante.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

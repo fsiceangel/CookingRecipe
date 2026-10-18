@@ -15,6 +15,11 @@
         "cn": "羊腿肉",
         "en": "Lamb leg",
         "fr": "Gigot d'agneau"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "辣椒",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "芝麻",
         "en": "Sesame seeds",
         "fr": "Graines de sésame"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "现炸花椒油 60 g；炸辣椒另备油",
+        "en": "60 g freshly made peppercorn oil; extra oil for frying chilies",
+        "fr": "60 g d’huile de poivre du Sichuan préparée sur place ; supplément pour les piments"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "35 g",
+        "en": "35 g",
+        "fr": "35 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "65 g",
+        "en": "65 g",
+        "fr": "65 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "白胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -141,6 +206,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -170,7 +240,7 @@
       "notes": [
         "面条不过水，能带一点黏糊，更好地挂住羊肉的汤汁。",
         "花椒油和辣椒油是这道面的关键，辣椒油还能解掉多余的油腻。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -189,7 +259,7 @@
       "notes": [
         "Skipping the cold rinse leaves the noodles slightly starchy so they cling to the lamb's sauce better.",
         "The peppercorn oil and chili oil are the keys to this dish; the chili oil also cuts the excess grease.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -208,7 +278,7 @@
       "notes": [
         "Ne pas rincer les nouilles les laisse légèrement amidonnées pour mieux accrocher la sauce de l'agneau.",
         "L'huile de poivre du Sichuan et l'huile pimentée sont les clés du plat ; l'huile pimentée coupe aussi l'excès de gras.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

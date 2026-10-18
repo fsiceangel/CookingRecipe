@@ -15,6 +15,11 @@
         "cn": "猪肉",
         "en": "Pork",
         "fr": "Porc"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -42,6 +47,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -51,6 +61,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1（片尾未标单位）",
+        "en": "1 (unit not shown)",
+        "fr": "1 (unité non indiquée)"
       }
     },
     {
@@ -60,6 +75,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1（片尾未标单位）",
+        "en": "1 (unit not shown)",
+        "fr": "1 (unité non indiquée)"
       }
     },
     {
@@ -96,6 +116,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -105,6 +130,20 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Œuf"
+      },
+      "amount": {
+        "cn": "1 个",
+        "en": "1 egg",
+        "fr": "1 œuf"
+      }
+    },
+    {
+      "id": "scallion-ginger-water-endcard",
+      "ingredient": "scallion-ginger-water",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     }
   ],
@@ -125,7 +164,7 @@
       "notes": [
         "肉一定要手工剁，纤维拉得紧实才好成型，比直接买的肉馅口感好得多。",
         "咸蛋黄的品质是关键，要选沙沙起油的，否则没有沙沙的口感。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -144,7 +183,7 @@
       "notes": [
         "The meat must be hand-chopped - the tightly pulled fibers hold their shape and taste far better than store-bought ground meat.",
         "The quality of the salted egg yolk is key; choose ones that turn sandy and oily, or the signature grainy texture will be missing.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -163,7 +202,7 @@
       "notes": [
         "La viande doit être hachée à la main - les fibres bien serrées gardent la forme et le goût bien mieux que la viande hachée du commerce.",
         "La qualité du jaune d'œuf salé est essentielle ; choisissez ceux qui deviennent sableux et huileux, sinon la texture granuleuse caractéristique manquera.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

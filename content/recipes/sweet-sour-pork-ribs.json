@@ -15,6 +15,11 @@
         "cn": "排骨",
         "en": "Pork ribs",
         "fr": "Côtes de porc"
+      },
+      "amount": {
+        "cn": "1 kg",
+        "en": "1 kg",
+        "fr": "1 kg"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "花雕酒",
         "en": "Shaoxing wine",
         "fr": "Vin de Shaoxing"
+      },
+      "amount": {
+        "cn": "200 g（腌制 50 g；炖煮 150 g）",
+        "en": "200 g (50 g for marinating; 150 g for braising)",
+        "fr": "200 g (50 g pour mariner ; 150 g pour braiser)"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "560 g（炸排骨 500 g；炒香料 60 g）",
+        "en": "560 g (500 g for frying ribs; 60 g for aromatics)",
+        "fr": "560 g (500 g pour frire les côtes ; 60 g pour les aromates)"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 stars",
+        "fr": "2 étoiles"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "桂皮",
         "en": "Cinnamon bark",
         "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "190 g（炖煮 160 g；出锅前 30 g）",
+        "en": "190 g (160 g for braising; 30 g to finish)",
+        "fr": "190 g (160 g pour braiser ; 30 g en finition)"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "160 g",
+        "en": "160 g",
+        "fr": "160 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "6 g",
+        "en": "6 g",
+        "fr": "6 g"
       }
     },
     {
@@ -123,6 +183,29 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "颜色浅时补 5 g；也可代替糖色",
+        "en": "5 g if more color is needed; also an alternative to caramel coloring",
+        "fr": "5 g si la couleur est trop claire ; peut aussi remplacer le caramel colorant"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "450 g",
+        "en": "450 g",
+        "fr": "450 g"
+      }
+    },
+    {
+      "id": "sugar-coloring-endcard",
+      "ingredient": "sugar-coloring",
+      "amount": {
+        "cn": "16 g（可用老抽代替）",
+        "en": "16 g (dark soy sauce may be substituted)",
+        "fr": "16 g (peut être remplacé par de la sauce soja foncée)"
       }
     }
   ],
@@ -142,7 +225,7 @@
       ],
       "notes": [
         "糖醋排骨一定要先炸，表面炸透才好吃，水煮或太软的口感会差。",
-        "具体份量请参考视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -160,7 +243,7 @@
       ],
       "notes": [
         "The ribs must be fried first — a well-fried surface is key; boiled or overly soft ribs taste worse.",
-        "See the video's end screen for exact amounts."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -178,7 +261,7 @@
       ],
       "notes": [
         "Les côtes doivent d'abord être frites — une surface bien frite est essentielle; des côtes bouillies ou trop molles sont moins bonnes.",
-        "Voir l'écran de fin de la vidéo pour les quantités exactes."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

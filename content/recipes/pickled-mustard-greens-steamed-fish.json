@@ -15,6 +15,11 @@
         "cn": "鲈鱼",
         "en": "Sea bass",
         "fr": "Bar"
+      },
+      "amount": {
+        "cn": "700 g",
+        "en": "700 g",
+        "fr": "700 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "雪菜",
         "en": "Pickled potherb mustard (xuecai)",
         "fr": "Moutarde marinée (xuecai)"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与蒜合计 5 g（片尾写“姜蒜 5 g”）",
+        "en": "5 g combined with garlic (as written on the card)",
+        "fr": "5 g au total avec l’ail (selon la fiche)"
       }
     },
     {
@@ -69,6 +89,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -78,6 +103,15 @@
         "cn": "蒸鱼酱油",
         "en": "Steamed-fish soy sauce",
         "fr": "Sauce soja pour poisson vapeur"
+      }
+    },
+    {
+      "id": "garlic-endcard",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "与姜合计 5 g",
+        "en": "5 g combined with ginger",
+        "fr": "5 g au total avec le gingembre"
       }
     }
   ],
@@ -98,7 +132,8 @@
       ],
       "notes": [
         "用开水烫鱼代替油炸去黏液腥味，做法简单、容错高，怎么做都好吃。",
-        "炒雪菜一定要放肥五花肉出猪油增香。爱吃辣可加点辣椒。"
+        "炒雪菜一定要放肥五花肉出猪油增香。爱吃辣可加点辣椒。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -117,7 +152,8 @@
       ],
       "notes": [
         "Blanching the fish in boiling water instead of deep-frying removes the slime and fishiness; this method is simple and forgiving — hard to get wrong.",
-        "Use fatty pork belly when frying the xuecai so the rendered fat adds aroma. Add chili if you like heat."
+        "Use fatty pork belly when frying the xuecai so the rendered fat adds aroma. Add chili if you like heat.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -136,7 +172,8 @@
       ],
       "notes": [
         "Blanchir le poisson à l'eau bouillante au lieu de le frire élimine le mucus et le goût de poisson ; méthode simple et tolérante, difficile à rater.",
-        "Utiliser une poitrine de porc grasse pour faire revenir le xuecai afin que le gras fondu apporte l'arôme. Ajouter du piment selon le goût."
+        "Utiliser une poitrine de porc grasse pour faire revenir le xuecai afin que le gras fondu apporte l'arôme. Ajouter du piment selon le goût.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

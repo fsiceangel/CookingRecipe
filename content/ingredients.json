@@ -23,6 +23,14 @@
       "fr": "Amome (Poudre)"
     }
   },
+  "angelica-dahurica": {
+    "category": "seasoning",
+    "names": {
+      "cn": "白芷",
+      "en": "Bai zhi (Angelica dahurica)",
+      "fr": "Bai zhi (Angelica dahurica)"
+    }
+  },
   "angelica-root": {
     "category": "seasoning",
     "names": {
@@ -199,6 +207,14 @@
       "fr": "Bok Choy"
     }
   },
+  "broccoli": {
+    "category": "veggie",
+    "names": {
+      "cn": "西兰花",
+      "en": "Broccoli",
+      "fr": "Brocoli"
+    }
+  },
   "broomcorn-millet": {
     "category": "pantry",
     "names": {
@@ -237,6 +253,14 @@
       "cn": "低筋面粉",
       "en": "Cake Flour",
       "fr": "Farine à Gâteau"
+    }
+  },
+  "caokou": {
+    "category": "seasoning",
+    "names": {
+      "cn": "草豆蔻",
+      "en": "Cao kou",
+      "fr": "Cao kou"
     }
   },
   "carp": {
@@ -335,6 +359,14 @@
       "fr": "Gésier de Poulet"
     }
   },
+  "chicken-heart": {
+    "category": "meat",
+    "names": {
+      "cn": "鸡心",
+      "en": "Chicken hearts",
+      "fr": "Cœurs de poulet"
+    }
+  },
   "chicken-stock": {
     "category": "pantry",
     "names": {
@@ -357,6 +389,14 @@
       "cn": "辣椒酥",
       "en": "Chili Crisp",
       "fr": "Chili Croustillant"
+    }
+  },
+  "chili-dipping-mix": {
+    "category": "seasoning",
+    "names": {
+      "cn": "干碟辣椒料",
+      "en": "Dry chili dipping mix",
+      "fr": "Mélange sec de piment à tremper"
     }
   },
   "chili-oil": {
@@ -437,6 +477,14 @@
       "cn": "柑橘皮",
       "en": "Citrus Zest",
       "fr": "Zeste d'Agrumes"
+    }
+  },
+  "cloves": {
+    "category": "seasoning",
+    "names": {
+      "cn": "丁香",
+      "en": "Cloves",
+      "fr": "Clous de girofle"
     }
   },
   "cola": {
@@ -607,6 +655,14 @@
       "fr": "Crevettes Séchées"
     }
   },
+  "dried-tangerine-peel": {
+    "category": "seasoning",
+    "names": {
+      "cn": "陈皮",
+      "en": "Dried tangerine peel",
+      "fr": "Écorce de mandarine séchée"
+    }
+  },
   "dried-yellow-bean-paste": {
     "category": "seasoning",
     "names": {
@@ -621,6 +677,14 @@
       "cn": "鸭",
       "en": "Duck",
       "fr": "Canard"
+    }
+  },
+  "duck-gizzard": {
+    "category": "meat",
+    "names": {
+      "cn": "鸭胗",
+      "en": "Duck gizzards",
+      "fr": "Gésiers de canard"
     }
   },
   "duck-head": {
@@ -799,6 +863,14 @@
       "fr": "Gingembre"
     }
   },
+  "ginger-garlic-water": {
+    "category": "seasoning",
+    "names": {
+      "cn": "姜蒜水",
+      "en": "Ginger-garlic water",
+      "fr": "Eau infusée au gingembre et à l’ail"
+    }
+  },
   "glass-noodles": {
     "category": "pantry",
     "names": {
@@ -853,6 +925,14 @@
       "cn": "豌豆",
       "en": "Green Peas",
       "fr": "Petits Pois"
+    }
+  },
+  "green-sichuan-peppercorn": {
+    "category": "seasoning",
+    "names": {
+      "cn": "麻椒",
+      "en": "Green Sichuan peppercorns",
+      "fr": "Poivre du Sichuan vert"
     }
   },
   "guanciale-pancetta": {
@@ -1039,6 +1119,22 @@
       "fr": "Jus de Citron"
     }
   },
+  "lemongrass": {
+    "category": "seasoning",
+    "names": {
+      "cn": "香茅",
+      "en": "Lemongrass",
+      "fr": "Citronnelle"
+    }
+  },
+  "licorice": {
+    "category": "seasoning",
+    "names": {
+      "cn": "甘草",
+      "en": "Licorice root",
+      "fr": "Racine de réglisse"
+    }
+  },
   "light-cream": {
     "category": "dairy",
     "names": {
@@ -1135,12 +1231,28 @@
       "fr": "Viande Hachée"
     }
   },
+  "mint": {
+    "category": "veggie",
+    "names": {
+      "cn": "薄荷叶",
+      "en": "Mint leaves",
+      "fr": "Feuilles de menthe"
+    }
+  },
   "mixed-spices": {
     "category": "seasoning",
     "names": {
       "cn": "香料",
       "en": "Mixed Spices",
       "fr": "Épices Mélangées"
+    }
+  },
+  "mixed-vegetables": {
+    "category": "veggie",
+    "names": {
+      "cn": "蔬菜粒",
+      "en": "Diced mixed vegetables",
+      "fr": "Légumes mélangés en dés"
     }
   },
   "mozzarella": {
@@ -1189,6 +1301,14 @@
       "cn": "面条",
       "en": "Noodles",
       "fr": "Nouilles"
+    }
+  },
+  "nutmeg": {
+    "category": "seasoning",
+    "names": {
+      "cn": "肉豆蔻",
+      "en": "Nutmeg",
+      "fr": "Noix de muscade"
     }
   },
   "oil": {
@@ -1407,6 +1527,14 @@
       "fr": "Pomme de Terre"
     }
   },
+  "potato-starch": {
+    "category": "pantry",
+    "names": {
+      "cn": "土豆淀粉",
+      "en": "Potato starch",
+      "fr": "Fécule de pomme de terre"
+    }
+  },
   "prawns": {
     "category": "meat",
     "names": {
@@ -1429,6 +1557,14 @@
       "cn": "南瓜",
       "en": "Pumpkin",
       "fr": "Potiron"
+    }
+  },
+  "quail-egg": {
+    "category": "meat",
+    "names": {
+      "cn": "鹌鹑蛋",
+      "en": "Quail eggs",
+      "fr": "Œufs de caille"
     }
   },
   "radish": {
@@ -1549,6 +1685,14 @@
       "cn": "葱姜水",
       "en": "Scallion Ginger Water",
       "fr": "Eau de Ciboule et Gingembre"
+    }
+  },
+  "scallion-pepper-salt": {
+    "category": "seasoning",
+    "names": {
+      "cn": "葱椒盐",
+      "en": "Scallion and Sichuan pepper salt",
+      "fr": "Sel à la ciboule et au poivre du Sichuan"
     }
   },
   "sea-bass": {
@@ -1695,6 +1839,14 @@
       "fr": "Sucre"
     }
   },
+  "sugar-coloring": {
+    "category": "seasoning",
+    "names": {
+      "cn": "糖色",
+      "en": "Caramel coloring",
+      "fr": "Caramel colorant"
+    }
+  },
   "sweet-bean-sauce": {
     "category": "seasoning",
     "names": {
@@ -1775,6 +1927,14 @@
       "fr": "Tomate"
     }
   },
+  "tsaoko": {
+    "category": "seasoning",
+    "names": {
+      "cn": "草果",
+      "en": "Tsaoko",
+      "fr": "Tsaoko"
+    }
+  },
   "vanilla-extract": {
     "category": "seasoning",
     "names": {
@@ -1813,6 +1973,14 @@
       "cn": "马蹄",
       "en": "Water Chestnut",
       "fr": "Châtaigne d'Eau"
+    }
+  },
+  "white-cardamom": {
+    "category": "seasoning",
+    "names": {
+      "cn": "白豆蔻",
+      "en": "White cardamom",
+      "fr": "Cardamome blanche"
     }
   },
   "white-kidney-bean": {
@@ -1909,6 +2077,14 @@
       "cn": "柚子汁",
       "en": "Yuzu Juice",
       "fr": "Jus de Yuzu"
+    }
+  },
+  "zha-guang-jiao": {
+    "category": "seasoning",
+    "names": {
+      "cn": "榨广椒",
+      "en": "Zha guang jiao",
+      "fr": "Zha guang jiao"
     }
   }
 }

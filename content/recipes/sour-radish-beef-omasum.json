@@ -15,6 +15,11 @@
         "cn": "水发百叶",
         "en": "Soaked beef omasum",
         "fr": "Feuillet de boeuf réhydraté"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "酸萝卜",
         "en": "Pickled radish",
         "fr": "Radis mariné"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "辣椒",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "食材表 80 g；炒制步骤 50 g",
+        "en": "80 g in the list; 50 g in the stir-frying step",
+        "fr": "80 g dans la liste ; 50 g à l’étape de cuisson"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "葱姜蒜共 60 g：焯水葱姜 30 g，炒制葱姜蒜 30 g",
+        "en": "60 g aromatics combined: 30 g scallion/ginger for blanching, 30 g scallion/ginger/garlic for frying",
+        "fr": "60 g d’aromates au total : 30 g ciboule/gingembre pour blanchir, 30 g ciboule/gingembre/ail pour faire revenir"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱蒜共享上述 60 g",
+        "en": "included in the combined 60 g aromatics",
+        "fr": "compris dans les 60 g d’aromates"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "与葱姜共享上述 60 g",
+        "en": "included in the combined 60 g aromatics",
+        "fr": "compris dans les 60 g d’aromates"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "焯水酱油 20 g；炒制生抽 20 g",
+        "en": "20 g soy sauce for blanching; 20 g light soy sauce for frying",
+        "fr": "20 g de sauce soja pour blanchir ; 20 g de sauce soja claire pour faire revenir"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -105,6 +150,20 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "焯水 3 g；炒制 2 g",
+        "en": "3 g for blanching; 2 g for frying",
+        "fr": "3 g pour blanchir ; 2 g pour faire revenir"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     }
   ],
@@ -123,7 +182,8 @@
       "notes": [
         "重点是处理水发百叶：先用加了葱姜、酱油、盐、料酒的水焯煮去腥出水。",
         "猪油用得多吃着香；百叶会把油吸进去，所以炒完锅底几乎没油。",
-        "同样的焯水方法适用于水煮、盐爆、葱爆、黑椒等各种炒百叶的做法。"
+        "同样的焯水方法适用于水煮、盐爆、葱爆、黑椒等各种炒百叶的做法。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -140,7 +200,8 @@
       "notes": [
         "The key is prepping the soaked beef omasum: parboil it first in water with scallion, ginger, soy sauce, salt, and cooking wine to remove odor and excess water.",
         "Generous lard makes it fragrant; the omasum absorbs the oil, so the wok is nearly dry by the end.",
-        "The same parboiling method works for boiling, salt-fried, scallion-fried, or black-pepper versions of omasum."
+        "The same parboiling method works for boiling, salt-fried, scallion-fried, or black-pepper versions of omasum.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -157,7 +218,8 @@
       "notes": [
         "L'essentiel est de préparer le feuillet de boeuf réhydraté : le précuire d'abord dans une eau avec ciboule, gingembre, sauce soja, sel et vin de cuisine pour ôter l'odeur et l'eau en excès.",
         "Un saindoux généreux le rend parfumé ; le feuillet absorbe l'huile, le wok est donc presque sec à la fin.",
-        "La même méthode de précuisson convient aux versions bouillie, sautée au sel, sautée à la ciboule ou au poivre noir."
+        "La même méthode de précuisson convient aux versions bouillie, sautée au sel, sautée à la ciboule ou au poivre noir.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

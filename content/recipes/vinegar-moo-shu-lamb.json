@@ -15,6 +15,11 @@
         "cn": "羊外脊",
         "en": "Lamb loin",
         "fr": "Longe d'agneau"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "碗芡 60 g；炒制 10 g",
+        "en": "60 g for the sauce; 10 g for stir-frying",
+        "fr": "60 g pour la sauce ; 10 g pour faire sauter"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "腌肉 15 g；碗芡 40 g",
+        "en": "15 g for marinating; 40 g for the sauce",
+        "fr": "15 g pour mariner ; 40 g pour la sauce"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；碗芡 1 g",
+        "en": "1 g for marinating; 1 g for the sauce",
+        "fr": "1 g pour mariner ; 1 g pour la sauce"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；碗芡 2 g",
+        "en": "1 g for marinating; 2 g for the sauce",
+        "fr": "1 g pour mariner ; 2 g pour la sauce"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；碗芡 1 g",
+        "en": "1 g for marinating; 1 g for the sauce",
+        "fr": "1 g pour mariner ; 1 g pour la sauce"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "腌肉 15 g；碗芡 10 g",
+        "en": "15 g for marinating; 10 g for the sauce",
+        "fr": "15 g pour mariner ; 10 g pour la sauce"
       }
     },
     {
@@ -105,6 +145,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "碗芡 20 g；炒制 30 g",
+        "en": "20 g for the sauce; 30 g for stir-frying",
+        "fr": "20 g pour la sauce ; 30 g pour faire sauter"
       }
     },
     {
@@ -114,6 +159,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -123,6 +173,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -132,6 +187,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "腌肉 30 g；炒制 80 g",
+        "en": "30 g for marinating; 80 g for stir-frying",
+        "fr": "30 g pour mariner ; 80 g pour faire sauter"
       }
     },
     {
@@ -141,6 +201,20 @@
         "cn": "小苏打",
         "en": "Baking soda",
         "fr": "Bicarbonate de soude"
+      },
+      "amount": {
+        "cn": "可选：每 500 g 肉用 2 g",
+        "en": "optional: 2 g per 500 g meat",
+        "fr": "facultatif : 2 g pour 500 g de viande"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "腌肉 50 g；碗芡 50 g",
+        "en": "50 g for marinating; 50 g for the sauce",
+        "fr": "50 g pour mariner ; 50 g pour la sauce"
       }
     }
   ],
@@ -159,7 +233,8 @@
       ],
       "notes": [
         "先用葱姜炸出料油再炒肉，配合烹醋这一步，能很好地去掉羊膻味。",
-        "鸡蛋炒到断生即可，太老不好吃。具体用量见视频片尾。"
+        "鸡蛋炒到断生即可，太老不好吃。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -176,7 +251,8 @@
       ],
       "notes": [
         "Frying scallion and ginger first to make aromatic oil, plus the splash of vinegar, effectively removes the lamb's gamy smell.",
-        "Scramble the eggs only until just set; overcooked eggs taste worse. Exact amounts are shown on the video's end screen."
+        "Scramble the eggs only until just set; overcooked eggs taste worse.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -193,7 +269,8 @@
       ],
       "notes": [
         "Faire d'abord une huile aromatique avec ciboule et gingembre, plus le trait de vinaigre, élimine efficacement l'odeur forte de l'agneau.",
-        "Brouiller les oeufs juste jusqu'à prise ; trop cuits ils sont moins bons. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Brouiller les oeufs juste jusqu'à prise ; trop cuits ils sont moins bons.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

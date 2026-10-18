@@ -96,6 +96,11 @@
         "cn": "鸡粉",
         "en": "Chicken bouillon",
         "fr": "Bouillon de poulet en poudre"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -114,6 +119,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -123,6 +133,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -153,7 +168,8 @@
       ],
       "notes": [
         "一定要选小鸡的鸡翅，连骨都能炸酥。",
-        "花椒油是入底味的关键，下锅前拌入鸡块。具体比例见视频片尾。"
+        "花椒油是入底味的关键，下锅前拌入鸡块。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -173,7 +189,8 @@
       ],
       "notes": [
         "Use wings from a small chicken so even the bones fry up crisp.",
-        "The Sichuan peppercorn oil is the key to the base flavor; mix it into the chicken before frying. Exact amounts are shown on the video's end screen."
+        "The Sichuan peppercorn oil is the key to the base flavor; mix it into the chicken before frying.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -193,7 +210,8 @@
       ],
       "notes": [
         "Utiliser des ailes de jeune poulet pour que même les os deviennent croustillants.",
-        "L'huile de poivre du Sichuan est la clé du goût de base ; l'incorporer au poulet avant la friture. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "L'huile de poivre du Sichuan est la clé du goût de base ; l'incorporer au poulet avant la friture.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

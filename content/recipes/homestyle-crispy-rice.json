@@ -15,6 +15,11 @@
         "cn": "米饭",
         "en": "Cooked rice",
         "fr": "Riz cuit"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "560 g（炸辣椒芝麻 60 g；炸锅巴 500 g）",
+        "en": "560 g (60 g for chilies and sesame; 500 g for rice crisps)",
+        "fr": "560 g (60 g pour les piments et le sésame ; 500 g pour le riz croustillant)"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "辣椒",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "干辣椒 50 g；小米辣 10 g",
+        "en": "50 g dried chilies; 10 g bird’s-eye chilies",
+        "fr": "50 g de piments séchés ; 10 g de petits piments frais"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "芝麻",
         "en": "Sesame seeds",
         "fr": "Graines de sésame"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "五花肉",
         "en": "Pork belly",
         "fr": "Poitrine de porc"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "16 g",
+        "en": "16 g",
+        "fr": "16 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "香菇",
         "en": "Shiitake mushroom",
         "fr": "Champignon shiitake"
+      },
+      "amount": {
+        "cn": "5 个",
+        "en": "5 mushrooms",
+        "fr": "5 champignons"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -132,6 +197,11 @@
         "cn": "虾仁",
         "en": "Shrimp",
         "fr": "Crevettes"
+      },
+      "amount": {
+        "cn": "15 个",
+        "en": "15 shrimp",
+        "fr": "15 crevettes"
       }
     },
     {
@@ -141,6 +211,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 10 g，加水调开",
+        "en": "10 g starch, mixed with water",
+        "fr": "10 g de fécule, délayée dans de l’eau"
       }
     },
     {
@@ -150,6 +225,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "700 g",
+        "en": "700 g",
+        "fr": "700 g"
       }
     }
   ],
@@ -171,7 +251,8 @@
       ],
       "notes": [
         "烘锅巴时要勤掀盖放热气，把湿气排掉锅巴才能酥脆。",
-        "辣椒最后放，炸得跟锅巴一样酥；趁锅巴最酥脆时浇汁吸味最香。具体用量见视频片尾。"
+        "辣椒最后放，炸得跟锅巴一样酥；趁锅巴最酥脆时浇汁吸味最香。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -191,7 +272,8 @@
       ],
       "notes": [
         "While baking the crust, lift the lid often to vent moisture so it turns crisp.",
-        "Add the chilies last so they fry as crisp as the rice; pour the sauce when the crust is at its crispest for the best flavor absorption. Exact amounts are shown on the video's end screen."
+        "Add the chilies last so they fry as crisp as the rice; pour the sauce when the crust is at its crispest for the best flavor absorption.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -211,7 +293,8 @@
       ],
       "notes": [
         "Pendant la cuisson de la croûte, soulever souvent le couvercle pour évacuer l'humidité afin qu'elle devienne croustillante.",
-        "Ajouter les piments en dernier pour qu'ils soient aussi croustillants que le riz ; verser la sauce quand la croûte est au plus croustillant pour la meilleure absorption. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Ajouter les piments en dernier pour qu'ils soient aussi croustillants que le riz ; verser la sauce quand la croûte est au plus croustillant pour la meilleure absorption.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

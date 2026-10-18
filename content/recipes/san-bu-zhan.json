@@ -15,6 +15,11 @@
         "cn": "鸡蛋黄",
         "en": "Egg yolks",
         "fr": "Jaunes d'œuf"
+      },
+      "amount": {
+        "cn": "5 个蛋黄",
+        "en": "5 egg yolks",
+        "fr": "5 jaunes d’œufs"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -33,15 +43,25 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
       "id": "sweet-potato-starch-4",
-      "ingredient": "sweet-potato-starch",
+      "ingredient": "potato-starch",
       "name": {
         "cn": "土豆淀粉",
         "en": "Potato starch",
         "fr": "Fécule de pomme de terre"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "油（色拉油或猪油）",
         "en": "Oil (salad oil or lard)",
         "fr": "Huile (huile de table ou saindoux)"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     }
   ],
@@ -72,7 +97,7 @@
         "蛋清一定要过滤干净，否则炒完会有白点。",
         "锅一定要厚底；家里有不粘锅最好用不粘锅，会简单很多。",
         "核心手法是不停地“锤”，把油锤进蛋团里，吸足油就不粘了。",
-        "确切比例请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -92,7 +117,7 @@
         "Strain out the egg white thoroughly, or the finished dish will have white specks.",
         "The wok must be heavy-bottomed; if you have a non-stick pan at home, use it, as it's much easier.",
         "The core technique is constant 'pounding' to drive oil into the egg mass; once saturated it won't stick.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -112,7 +137,7 @@
         "Bien filtrer le blanc d'œuf, sinon le plat fini aura des points blancs.",
         "Le wok doit avoir un fond épais ; si vous avez une poêle antiadhésive, utilisez-la, c'est bien plus simple.",
         "La technique centrale est le « martèlement » constant pour faire pénétrer l'huile dans la masse ; une fois saturée, elle ne colle plus.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "羊肉",
         "en": "Lamb",
         "fr": "Agneau"
+      },
+      "amount": {
+        "cn": "800 g",
+        "en": "800 g",
+        "fr": "800 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -42,20 +57,30 @@
         "cn": "淀粉",
         "en": "Starch",
         "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
       "id": "oil-5",
-      "ingredient": "oil",
+      "ingredient": "cumin",
       "name": {
-        "cn": "孜然",
-        "en": "Cumin",
-        "fr": "Cumin"
+        "cn": "孜然碎",
+        "en": "Crushed cumin",
+        "fr": "Cumin concassé"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
       "id": "cumin-6",
-      "ingredient": "cumin",
+      "ingredient": "oil",
       "name": {
         "cn": "油",
         "en": "Oil",
@@ -69,6 +94,11 @@
         "cn": "辣椒面",
         "en": "Chili powder",
         "fr": "Poudre de piment"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "芝麻",
         "en": "Sesame seeds",
         "fr": "Graines de sésame"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     }
   ],
@@ -96,7 +131,7 @@
       ],
       "notes": [
         "淀粉一定少放，肉才能外脆里嫩；孜然和辣椒面新买的水气大，先煸一下更香。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -113,7 +148,7 @@
       ],
       "notes": [
         "Use only a little starch so the lamb stays crisp outside and tender inside; toasting fresh cumin and chili powder first drives off moisture for more aroma.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -130,7 +165,7 @@
       ],
       "notes": [
         "Mettre peu de fécule pour un agneau croustillant dehors et tendre dedans ; griller d'abord le cumin et le piment frais en chasse l'humidité et révèle l'arôme.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

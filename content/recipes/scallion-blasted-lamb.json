@@ -33,6 +33,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；炒制 1 g",
+        "en": "1 g for marinating; 1 g for stir-frying",
+        "fr": "1 g pour mariner ; 1 g pour faire sauter"
       }
     },
     {
@@ -42,6 +47,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -51,6 +61,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "腌肉 1 g；炒制 1 g",
+        "en": "1 g for marinating; 1 g for stir-frying",
+        "fr": "1 g pour mariner ; 1 g pour faire sauter"
       }
     },
     {
@@ -60,6 +75,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "腌肉 5 g；炒制 10 g",
+        "en": "5 g for marinating; 10 g for stir-frying",
+        "fr": "5 g pour mariner ; 10 g pour faire sauter"
       }
     },
     {
@@ -69,6 +89,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -78,6 +103,11 @@
         "cn": "葱姜花椒水",
         "en": "Scallion-ginger-peppercorn water",
         "fr": "Eau de ciboule, gingembre et poivre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -96,6 +126,11 @@
         "cn": "玉米淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -105,6 +140,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -123,6 +163,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -142,7 +187,8 @@
       ],
       "notes": [
         "羊肉上浆那薄薄一层淀粉，使成菜表面挂一层汁，黏糊不出汤，适合拌饭拌面。",
-        "锅要烧得够热再下肉，形成热膜才不粘锅。"
+        "锅要烧得够热再下肉，形成热膜才不粘锅。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -160,7 +206,8 @@
       ],
       "notes": [
         "The thin starch coating leaves a glaze on the lamb so it clings without soup, great over rice or noodles.",
-        "Get the wok really hot before adding the meat so a heat film forms and keeps it from sticking."
+        "Get the wok really hot before adding the meat so a heat film forms and keeps it from sticking.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -178,7 +225,8 @@
       ],
       "notes": [
         "La fine couche de fécule laisse un glaçage sur l'agneau qui adhère sans bouillon, idéal sur du riz ou des nouilles.",
-        "Bien chauffer le wok avant d'y mettre la viande pour former un film thermique antiadhésif."
+        "Bien chauffer le wok avant d'y mettre la viande pour former un film thermique antiadhésif.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

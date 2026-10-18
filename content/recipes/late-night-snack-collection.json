@@ -24,6 +24,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Oeuf"
+      },
+      "amount": {
+        "cn": "鸡腿排 2 个",
+        "en": "2 eggs for chicken cutlets",
+        "fr": "2 œufs pour les escalopes de poulet"
       }
     },
     {
@@ -96,6 +101,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "鸡腿排 2 g；盐水豌豆 10 g",
+        "en": "2 g for chicken; 10 g for boiled peas",
+        "fr": "2 g pour le poulet ; 10 g pour les petits pois"
       }
     },
     {
@@ -186,6 +196,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "芝麻花生 80 g",
+        "en": "80 g for sesame peanuts",
+        "fr": "80 g pour les cacahuètes au sésame"
       }
     },
     {
@@ -195,6 +210,15 @@
         "cn": "芝麻",
         "en": "Sesame seeds",
         "fr": "Graines de sésame"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "盐水豌豆 2 L；糖浆另备",
+        "en": "2 L for peas; extra for sugar syrup",
+        "fr": "2 L pour les petits pois ; supplément pour le sirop"
       }
     }
   ],
@@ -220,7 +244,8 @@
         "鸡排用的是鲜鸡腿，鲜味足，只需少许盐和蔬菜水调味即可。",
         "炒薯条用鸡粉而非味精，因鸡粉是粉状更易融化。",
         "盐水豌豆想快速入味就把盐量放足、泡的时间短；盐少则需泡较长时间。",
-        "做芝麻花生时天凉手快，凉透才会脆。详细用量见视频片尾。"
+        "做芝麻花生时天凉手快，凉透才会脆。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -244,7 +269,8 @@
         "The cutlet uses fresh chicken thigh, which is naturally savory, so only a little salt and the vegetable water are needed to season it.",
         "Use chicken bouillon powder rather than MSG for the fries because the powder melts more easily.",
         "For the peas, use plenty of salt and a short steep for fast flavor; with less salt they need a longer soak.",
-        "Make the sesame peanuts on a cool day and work fast; they only turn crisp once fully cooled. Exact amounts are shown on the video's end screen."
+        "Make the sesame peanuts on a cool day and work fast; they only turn crisp once fully cooled.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -268,7 +294,8 @@
         "L'escalope utilise de la cuisse de poulet fraîche, naturellement savoureuse ; il suffit donc d'un peu de sel et de l'eau de légumes pour l'assaisonner.",
         "Utiliser du bouillon de poulet en poudre plutôt que du glutamate pour les frites, car la poudre fond plus facilement.",
         "Pour les pois, mettre beaucoup de sel et une infusion courte pour une saveur rapide ; avec moins de sel il faut un trempage plus long.",
-        "Préparer les cacahuètes au sésame par temps frais et travailler vite ; elles ne deviennent croustillantes qu'une fois complètement refroidies. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Préparer les cacahuètes au sésame par temps frais et travailler vite ; elles ne deviennent croustillantes qu'une fois complètement refroidies.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

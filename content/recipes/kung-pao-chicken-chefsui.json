@@ -15,6 +15,11 @@
         "cn": "鸡腿肉",
         "en": "Chicken leg meat",
         "fr": "Chair de cuisse de poulet"
+      },
+      "amount": {
+        "cn": "500 g（腌料基准）",
+        "en": "500 g (marinade basis)",
+        "fr": "500 g (base de la marinade)"
       }
     },
     {
@@ -78,6 +83,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -87,6 +97,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -96,6 +111,11 @@
         "cn": "葱姜水",
         "en": "Scallion ginger water",
         "fr": "Eau de ciboule et gingembre"
+      },
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
       }
     },
     {
@@ -105,6 +125,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "腌鸡肉 15 g",
+        "en": "15 g for marinating chicken",
+        "fr": "15 g pour mariner le poulet"
       }
     },
     {
@@ -114,6 +139,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -123,6 +153,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -132,6 +167,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -141,6 +181,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -150,6 +195,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -168,6 +218,24 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      }
+    },
+    {
+      "id": "cornstarch-slurry-endcard",
+      "ingredient": "cornstarch-slurry",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "腌鸡肉 1 g；碗芡 1 g",
+        "en": "1 g for marinating; 1 g for the sauce",
+        "fr": "1 g pour mariner ; 1 g pour la sauce"
       }
     }
   ],
@@ -189,7 +257,7 @@
       "notes": [
         "腌肉一定要先加盐再加葱姜水，盐能帮助肉吸住水分。",
         "干辣椒最后放，吃起来才脆；碗芡入锅后要大火快炒锁住醋香。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -209,7 +277,7 @@
       "notes": [
         "Always salt the meat before adding scallion-ginger water - salt helps the meat hold the water.",
         "Add dried chilies at the very end so they stay crisp; once the sauce hits the wok, stir-fry fast over high heat to lock in the vinegar aroma.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -229,7 +297,7 @@
       "notes": [
         "Salez toujours la viande avant d'ajouter l'eau de ciboule-gingembre - le sel aide la viande à retenir l'eau.",
         "Ajoutez les piments séchés à la toute fin pour qu'ils restent croustillants ; dès que la sauce entre dans le wok, faites sauter vite à feu vif pour fixer l'arôme du vinaigre.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

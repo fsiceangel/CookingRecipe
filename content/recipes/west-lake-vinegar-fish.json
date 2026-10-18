@@ -51,6 +51,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -60,6 +65,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -69,6 +79,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +102,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -96,6 +116,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -114,6 +139,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     }
   ],
@@ -132,8 +162,9 @@
         "把浸熟的鱼捞出装盘，浇上调好的醋汁即可。"
       ],
       "notes": [
-        "这道菜最大的秘密在于汁的调口——咸甜要适中、酸味复合，比例见视频片尾。",
-        "鱼用低温浸熟而非大火煮，肉质才嫩；全程反复用葱姜黄酒去腥。"
+        "这道菜最大的秘密在于汁的调口——咸甜要适中、酸味复合",
+        "鱼用低温浸熟而非大火煮，肉质才嫩；全程反复用葱姜黄酒去腥。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -150,8 +181,9 @@
         "Lift the poached fish onto a plate and pour the vinegar sauce over it."
       ],
       "notes": [
-        "The whole secret of this dish is the balance of the sauce — sweet and sour evenly matched with a complex sourness; ratios are on the video's end screen.",
-        "Poach the fish gently at low temperature rather than boiling hard, so the flesh stays tender; de-fish repeatedly with scallion, ginger and wine."
+        "The whole secret of this dish is the balance of the sauce — sweet and sour evenly matched with a complex sourness",
+        "Poach the fish gently at low temperature rather than boiling hard, so the flesh stays tender; de-fish repeatedly with scallion, ginger and wine.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -168,8 +200,9 @@
         "Déposer le poisson poché sur une assiette et le napper de sauce au vinaigre."
       ],
       "notes": [
-        "Tout le secret de ce plat tient à l'équilibre de la sauce — aigre et doux bien dosés avec une acidité complexe ; proportions à la fin de la vidéo.",
-        "Pocher le poisson à basse température plutôt qu'à gros bouillons, pour garder la chair tendre ; désodoriser à plusieurs reprises avec ciboule, gingembre et vin."
+        "Tout le secret de ce plat tient à l'équilibre de la sauce — aigre et doux bien dosés avec une acidité complexe",
+        "Pocher le poisson à basse température plutôt qu'à gros bouillons, pour garder la chair tendre ; désodoriser à plusieurs reprises avec ciboule, gingembre et vin.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

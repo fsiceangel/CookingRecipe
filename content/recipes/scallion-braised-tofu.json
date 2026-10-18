@@ -15,6 +15,11 @@
         "cn": "豆腐",
         "en": "Tofu",
         "fr": "Tofu"
+      },
+      "amount": {
+        "cn": "700 g",
+        "en": "700 g",
+        "fr": "700 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "大葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "食用油 100 g；葱油 10 g",
+        "en": "100 g cooking oil; 10 g scallion oil",
+        "fr": "100 g d’huile de cuisson ; 10 g d’huile de ciboule"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -69,6 +89,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -78,6 +103,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +117,20 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "star-anise-endcard",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "2 个",
+        "en": "2 stars",
+        "fr": "2 étoiles"
       }
     }
   ],
@@ -105,7 +149,8 @@
       ],
       "notes": [
         "豆腐切得厚口感更好；先煎后烧、先酱油后水，豆腐才吸味足。",
-        "两次下葱：煸黄的浓葱香 + 后下的清香葱味，层次更丰富。"
+        "两次下葱：煸黄的浓葱香 + 后下的清香葱味，层次更丰富。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -123,7 +168,7 @@
       "notes": [
         "Cut the tofu thick for a better bite; pan-fry then braise, and add soy sauce before water so the tofu absorbs plenty of flavor.",
         "Add scallion twice: the fried golden scallion for deep aroma and the later raw scallion for fresh fragrance, giving more layers.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -141,7 +186,7 @@
       "notes": [
         "Coupez le tofu épais pour une meilleure mâche ; poêlez puis braisez, et ajoutez la sauce soja avant l'eau pour qu'il s'imprègne.",
         "Ajoutez la ciboule en deux fois : la ciboule dorée pour l'arôme profond et la ciboule crue tardive pour la fraîcheur.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

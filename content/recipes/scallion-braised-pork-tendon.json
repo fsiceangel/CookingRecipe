@@ -15,6 +15,11 @@
         "cn": "猪蹄筋（干发或鲜）",
         "en": "Pork tendon (rehydrated dried or fresh)",
         "fr": "Tendons de porc (séchés réhydratés ou frais)"
+      },
+      "amount": {
+        "cn": "370 g（发好后）",
+        "en": "370 g rehydrated",
+        "fr": "370 g après réhydratation"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "猪皮",
         "en": "Pork skin",
         "fr": "Couenne de porc"
+      },
+      "amount": {
+        "cn": "80 g（熬好的猪皮连汤）",
+        "en": "80 g cooked pork skin with its broth",
+        "fr": "80 g de couenne cuite avec son bouillon"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "大葱（葱白）",
         "en": "Scallion (white part)",
         "fr": "Ciboule (partie blanche)"
+      },
+      "amount": {
+        "cn": "葱段 100 g；眉毛葱 120 g；焯水另加 50 g",
+        "en": "100 g scallion sections; 120 g finely cut scallion; 50 g extra for blanching",
+        "fr": "100 g de tronçons de ciboule ; 120 g de ciboule émincée ; 50 g pour blanchir"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "炒制 1 g；焯水 10 g",
+        "en": "1 g for stir-frying; 10 g for blanching",
+        "fr": "1 g pour faire revenir ; 10 g pour blanchir"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 stars",
+        "fr": "2 étoiles"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "料酒",
         "en": "Cooking wine",
         "fr": "Vin de cuisine"
+      },
+      "amount": {
+        "cn": "焯水 80 g",
+        "en": "80 g for blanching",
+        "fr": "80 g pour blanchir"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,6 +169,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "0.1 g",
+        "en": "0.1 g",
+        "fr": "0.1 g"
       }
     },
     {
@@ -123,6 +183,11 @@
         "cn": "葱油",
         "en": "Scallion oil",
         "fr": "Huile de ciboule"
+      },
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
       }
     },
     {
@@ -132,6 +197,29 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "chicken-stock-endcard",
+      "ingredient": "chicken-stock",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "焯水 600 g",
+        "en": "600 g for blanching",
+        "fr": "600 g pour blanchir"
       }
     }
   ],
@@ -153,7 +241,8 @@
       "notes": [
         "用破壁机把煮好的猪皮直接打碎，是快速获得高汤胶质感、增加汤汁粘稠度的捷径。",
         "葱只用纯葱白，去掉葱芯（葱绿），否则带葱粘液会发苦。",
-        "确切用量请见视频片尾。"
+        "这里的主料用量按已发好的蹄筋计算。若用干蹄筋，片尾另给出发制用水 2500 g、黄酒 100 g、葱 50 g、姜 20 g。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -173,7 +262,8 @@
       "notes": [
         "Blending cooked pork skin straight in a high-speed blender is the fastest way to get a rich, gelatinous body and thicken the sauce.",
         "Use only the pure white part of the scallion and discard the green core, which contains sap that turns bitter.",
-        "Exact amounts are shown on the video's end screen."
+        "The main quantities use rehydrated tendon. For dried tendon, the card separately lists 2500 g water, 100 g yellow rice wine, 50 g scallion and 20 g ginger for preparation.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -193,7 +283,8 @@
       "notes": [
         "Mixer la couenne de porc cuite directement au blender est le moyen le plus rapide d'obtenir un corps gélatineux riche et d'épaissir la sauce.",
         "N'utiliser que la partie blanche de la ciboule et jeter le cœur vert, dont la sève devient amère.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Les quantités principales concernent des tendons réhydratés. Pour des tendons secs, la fiche donne séparément 2500 g d’eau, 100 g de vin de riz jaune, 50 g de ciboule et 20 g de gingembre pour la préparation.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

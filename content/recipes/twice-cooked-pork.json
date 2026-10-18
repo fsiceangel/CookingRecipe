@@ -15,6 +15,11 @@
         "cn": "厚五花肉",
         "en": "Thick pork belly",
         "fr": "Poitrine de porc épaisse"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 100 g",
+        "en": "100 g combined with ginger",
+        "fr": "100 g au total avec le gingembre"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 100 g",
+        "en": "100 g combined with scallion",
+        "fr": "100 g au total avec la ciboule"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "10 粒",
+        "en": "10 peppercorns",
+        "fr": "10 grains"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "大料",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "2 个",
+        "en": "2 stars",
+        "fr": "2 étoiles"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "豆瓣酱",
         "en": "Doubanjiang",
         "fr": "Doubanjiang"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "豆豉",
         "en": "Fermented black soybeans",
         "fr": "Soja noir fermenté"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "甜面酱",
         "en": "Sweet bean sauce",
         "fr": "Pâte de soja sucrée"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "青蒜",
         "en": "Green garlic",
         "fr": "Ail vert"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -105,6 +155,20 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "chili-pepper-endcard",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "5 个小米辣",
+        "en": "5 bird’s-eye chilies",
+        "fr": "5 petits piments forts"
       }
     }
   ],
@@ -122,7 +186,8 @@
       ],
       "notes": [
         "回锅肉的关键是肉要新鲜，新鲜的肉煮一下就很香。",
-        "肉片煸干出油后表面微焦，更容易吸收豆豉和豆瓣酱的味道。"
+        "肉片煸干出油后表面微焦，更容易吸收豆豉和豆瓣酱的味道。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -138,7 +203,8 @@
       ],
       "notes": [
         "The key to twice-cooked pork is fresh meat; fresh pork is already aromatic after just a simmer.",
-        "Frying the slices until dry and lightly browned helps them absorb the flavor of the black beans and doubanjiang."
+        "Frying the slices until dry and lightly browned helps them absorb the flavor of the black beans and doubanjiang.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +220,8 @@
       ],
       "notes": [
         "La clé du porc cuit deux fois est la fraîcheur de la viande ; un porc frais est déjà parfumé après un simple pochage.",
-        "Faire frire les tranches jusqu'à ce qu'elles soient sèches et légèrement dorées les aide à absorber la saveur des haricots noirs et du doubanjiang."
+        "Faire frire les tranches jusqu'à ce qu'elles soient sèches et légèrement dorées les aide à absorber la saveur des haricots noirs et du doubanjiang.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 potatoes",
+        "fr": "4 pommes de terre"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "葱（葱油）",
         "en": "Scallion (scallion oil)",
         "fr": "Ciboule (huile de ciboule)"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "泡椒酱",
         "en": "Pickled chili paste",
         "fr": "Pâte de piment mariné"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -87,15 +127,25 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
       "id": "cornstarch-10",
-      "ingredient": "cornstarch",
+      "ingredient": "cornstarch-slurry",
       "name": {
-        "cn": "淀粉",
-        "en": "Cornstarch",
-        "fr": "Fécule"
+        "cn": "水淀粉",
+        "en": "Starch slurry",
+        "fr": "Fécule délayée"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -105,6 +155,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "葱油 10 g",
+        "en": "10 g scallion oil",
+        "fr": "10 g d’huile de ciboule"
       }
     }
   ],
@@ -123,7 +178,7 @@
       ],
       "notes": [
         "土豆泥表面留些坑洼不要抹光，更容易挂住鱼香汁。",
-        "葱油做法和具体比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -140,7 +195,7 @@
       ],
       "notes": [
         "Leave the mash surface bumpy rather than smooth so it holds the yu xiang sauce better.",
-        "The scallion-oil method and exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -157,7 +212,7 @@
       ],
       "notes": [
         "Laisser la surface de la purée bosselée plutôt que lisse pour qu'elle retienne mieux la sauce yu xiang.",
-        "La méthode de l'huile de ciboule et les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

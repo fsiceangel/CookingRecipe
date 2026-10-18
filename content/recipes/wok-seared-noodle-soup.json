@@ -60,6 +60,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -89,7 +94,7 @@
         "葱一定要放足量并煸到发黄，才能出浓郁的炝锅香味。",
         "全靠葱、蛋、西红柿的本味，不放味精、鸡精、胡椒粉。",
         "喜欢喝汤汤面比例约3:1，喜欢干一点约2:1。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -108,7 +113,7 @@
         "Use plenty of scallion and fry it until golden to get the deep wok-seared aroma.",
         "It relies entirely on the natural flavor of scallion, egg, and tomato; no MSG, chicken bouillon, or pepper.",
         "For a soupier bowl use about 3:1 broth to noodles; for drier, about 2:1.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -127,7 +132,7 @@
         "Utiliser beaucoup de ciboule et la faire revenir jusqu'à doré pour obtenir l'arôme profond du saisi au wok.",
         "Le plat repose entièrement sur le goût naturel de la ciboule, de l'œuf et de la tomate ; ni glutamate, ni bouillon, ni poivre.",
         "Pour un bol plus liquide, environ 3:1 de bouillon pour nouilles ; pour plus sec, environ 2:1.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

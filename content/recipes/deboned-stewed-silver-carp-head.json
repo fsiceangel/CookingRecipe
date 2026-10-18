@@ -151,6 +151,14 @@
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
       }
+    },
+    {
+      "id": "star-anise-endcard",
+      "ingredient": "star-anise"
+    },
+    {
+      "id": "sugar-endcard",
+      "ingredient": "sugar"
     }
   ],
   "translations": {
@@ -173,7 +181,7 @@
       "notes": [
         "拆是技巧、煮的火候是技巧、原锅打芡也是技巧——这道淮扬名菜三大技巧缺一不可。",
         "正宗拆烩是原锅烩、原锅打芡、整锅出，不分两步，味道远胜先装盘再浇芡的做法。",
-        "确切用量请见视频片尾。"
+        "已核对视频片尾，未给出明确用量。"
       ]
     },
     "en": {
@@ -195,7 +203,7 @@
       "notes": [
         "Deboning, controlling the boil, and thickening in the original pot are the three signature techniques of this Huaiyang classic - none can be skipped.",
         "Authentic chai hui means stewing and thickening in the original pot and plating the whole pot at once - never in two steps - and tastes far better than plating first then ladling on the sauce.",
-        "Exact amounts are shown on the video's end screen."
+        "The video end cards were checked; no precise quantities are given."
       ]
     },
     "fr": {
@@ -217,7 +225,7 @@
       "notes": [
         "Le désossage, la maîtrise de l'ébullition et la liaison dans la casserole d'origine sont les trois techniques emblématiques de ce classique Huaiyang - aucune ne peut être omise.",
         "Le véritable chai hui consiste à mijoter et lier dans la casserole d'origine et à dresser toute la casserole d'un coup - jamais en deux étapes - et a bien meilleur goût que de dresser puis napper de sauce.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Les fiches de fin de vidéo ont été vérifiées ; aucune quantité précise n’y figure."
       ]
     }
   }

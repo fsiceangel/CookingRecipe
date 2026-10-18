@@ -51,6 +51,11 @@
         "cn": "花雕酒",
         "en": "Huadiao cooking wine",
         "fr": "Vin de cuisine Huadiao"
+      },
+      "amount": {
+        "cn": "调汤 200 g；焯煮另备少量",
+        "en": "200 g for the broth; a little extra for parboiling",
+        "fr": "200 g pour le bouillon ; un peu plus pour précuire"
       }
     },
     {
@@ -87,6 +92,11 @@
         "cn": "老抽",
         "en": "Dark soy sauce",
         "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "调汤 35 g；勾芡 10 g",
+        "en": "35 g for the broth; 10 g for the finishing sauce",
+        "fr": "35 g pour le bouillon ; 10 g pour la sauce finale"
       }
     },
     {
@@ -96,6 +106,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -105,6 +120,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -114,6 +134,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "350 g",
+        "en": "350 g",
+        "fr": "350 g"
       }
     },
     {
@@ -146,7 +171,7 @@
         "炒糖色一定要先用油润锅、旁边备热水，炒到枣红色立刻加热水。",
         "用冰糖比白糖甜味更柔和。",
         "想更接近名店口感：炖好后关火不动，泡一夜，凉后第二天重新加热即可。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -168,7 +193,7 @@
         "When making caramel, oil the wok first and keep hot water ready; the moment it turns date-red, add the hot water.",
         "Rock sugar gives a gentler sweetness than white sugar.",
         "For a result closer to the famous restaurant: turn off the heat, leave it undisturbed and soak overnight, then reheat the next day after it cools.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -190,7 +215,7 @@
         "Pour le caramel, huiler d'abord le wok et garder de l'eau chaude prête ; dès qu'il vire au rouge datte, ajouter l'eau chaude.",
         "Le sucre candi donne une douceur plus suave que le sucre blanc.",
         "Pour un résultat proche du restaurant réputé : éteindre le feu, laisser reposer une nuit, puis réchauffer le lendemain après refroidissement.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

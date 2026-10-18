@@ -24,6 +24,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "每 500 g 鱼茸用 9 g；汤另调味",
+        "en": "9 g per 500 g fish paste; season the broth separately",
+        "fr": "9 g pour 500 g de chair de poisson ; assaisonner le bouillon séparément"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "煮汤时与高汤等量",
+        "en": "equal parts water and stock for the soup",
+        "fr": "autant d’eau que de bouillon pour la soupe"
       }
     },
     {
@@ -78,6 +88,11 @@
         "cn": "葱姜水",
         "en": "Scallion-ginger water",
         "fr": "Eau de ciboule et gingembre"
+      },
+      "amount": {
+        "cn": "每 500 g 鱼茸用 150 g",
+        "en": "150 g per 500 g fish paste",
+        "fr": "150 g pour 500 g de chair de poisson"
       }
     },
     {
@@ -87,6 +102,11 @@
         "cn": "鸡汤",
         "en": "Chicken stock",
         "fr": "Bouillon de poulet"
+      },
+      "amount": {
+        "cn": "煮汤时与开水等量",
+        "en": "equal parts stock and boiling water",
+        "fr": "autant de bouillon que d’eau bouillante"
       }
     },
     {
@@ -134,7 +154,7 @@
       "notes": [
         "想要更滑嫩的鱼丸，可加一个鸡蛋清并把水量再增加20%。",
         "鱼骨煎透是熬出奶白汤的关键。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -153,7 +173,7 @@
       "notes": [
         "For softer, smoother balls, add one egg white and increase the water by 20%.",
         "Frying the bones thoroughly is the key to a milky-white broth.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -172,7 +192,7 @@
       "notes": [
         "Pour des boulettes plus tendres et lisses, ajouter un blanc d'œuf et augmenter l'eau de 20 %.",
         "Bien faire revenir les arêtes est la clé d'un bouillon blanc laiteux.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

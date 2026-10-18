@@ -15,6 +15,11 @@
         "cn": "猪肚头",
         "en": "Pork stomach (tip)",
         "fr": "Estomac de porc (pointe)"
+      },
+      "amount": {
+        "cn": "3 个猪肚的肚头",
+        "en": "thick ends from 3 pig stomachs",
+        "fr": "parties épaisses de 3 estomacs de porc"
       }
     },
     {
@@ -42,6 +47,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "碗芡 1 g；腌制另备",
+        "en": "1 g for the sauce; extra for marinating",
+        "fr": "1 g pour la sauce ; supplément pour mariner"
       }
     },
     {
@@ -51,6 +61,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "碗芡 0.5 g；腌制另备",
+        "en": "0.5 g for the sauce; extra for marinating",
+        "fr": "0,5 g pour la sauce ; supplément pour mariner"
       }
     },
     {
@@ -87,7 +102,60 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "0.5 g",
+        "en": "0.5 g",
+        "fr": "0.5 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "碗芡 10 g",
+        "en": "10 g for the sauce",
+        "fr": "10 g pour la sauce"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "与花椒油共 1 g",
+        "en": "1 g combined with Sichuan pepper oil",
+        "fr": "1 g au total avec l’huile de poivre du Sichuan"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-oil-endcard",
+      "ingredient": "sichuan-peppercorn-oil",
+      "amount": {
+        "cn": "与香油共 1 g",
+        "en": "1 g combined with sesame oil",
+        "fr": "1 g au total avec l’huile de sésame"
+      }
+    },
+    {
+      "id": "scallion-endcard",
+      "ingredient": "scallion"
+    },
+    {
+      "id": "ginger-endcard",
+      "ingredient": "ginger"
+    },
+    {
+      "id": "garlic-endcard",
+      "ingredient": "garlic"
     }
   ],
   "translations": {
@@ -110,7 +178,7 @@
         "这是火候菜：油温掌握最难，原料变白就要立刻出锅，下锅到起锅约一分钟。",
         "肚头和鸡胗要分碗、分先后下锅，因为成熟时间不同。",
         "趁热紧吃，菜温不能低于80度，凉了就失去脆爽口感。",
-        "具体用量见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -132,7 +200,7 @@
         "This is a heat-control dish: the oil temperature is the hardest part. Remove the instant the ingredients turn white; the whole stir-fry takes about a minute.",
         "Keep stomach and gizzard in separate bowls and add them at different times, since they cook at different rates.",
         "Eat right away while hot, no cooler than 80°C; once cold it loses its crisp bite.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -154,7 +222,7 @@
         "C'est un plat de maîtrise du feu : la température de l'huile est le plus délicat. Retirer dès que les ingrédients blanchissent ; tout le sauté prend une minute environ.",
         "Garder estomac et gésier dans des bols séparés et les ajouter à des moments différents, car ils cuisent à des vitesses différentes.",
         "Manger aussitôt, bien chaud, pas en dessous de 80 °C ; froid, il perd son croquant.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

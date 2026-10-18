@@ -15,6 +15,11 @@
         "cn": "鲈鱼",
         "en": "Sea bass",
         "fr": "Bar"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "白胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "白醋",
         "en": "White vinegar",
         "fr": "Vinaigre blanc"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -106,6 +146,15 @@
         "en": "Oil",
         "fr": "Huile"
       }
+    },
+    {
+      "id": "cilantro-endcard",
+      "ingredient": "cilantro",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
     }
   ],
   "translations": {
@@ -124,7 +173,9 @@
       ],
       "notes": [
         "调味关键在白胡椒粉和醋的比例：醋多了尝不出胡椒味，胡椒多了发苦，要平衡。",
-        "底汤要选好，鸡汤加鱼汤的混合香味让汤更醇厚。具体比例见视频片尾。"
+        "底汤要选好，鸡汤加鱼汤的混合香味让汤更醇厚。",
+        "片尾高汤配方：整鸡 1000 g、猪腔骨 500 g、水 4 kg，高压锅上汽 50 分钟；本菜取用的高汤量未标明。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -142,7 +193,9 @@
       ],
       "notes": [
         "The seasoning hinges on the white pepper-to-vinegar ratio: too much vinegar hides the pepper, too much pepper turns bitter — balance them.",
-        "Choose a good base broth; the blend of chicken and fish stock gives the soup a rich, full body. Exact ratios are shown on the video's end screen."
+        "Choose a good base broth; the blend of chicken and fish stock gives the soup a rich, full body.",
+        "End-card stock recipe: 1000 g whole chicken, 500 g pork bones and 4 kg water, pressure-cooked for 50 minutes. The amount of stock used in this dish is unspecified.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -160,7 +213,9 @@
       ],
       "notes": [
         "L'assaisonnement repose sur le rapport poivre blanc/vinaigre : trop de vinaigre masque le poivre, trop de poivre devient amer — équilibrer.",
-        "Choisir un bon bouillon de base ; le mélange de bouillon de poulet et de poisson donne une soupe riche et corsée. Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Choisir un bon bouillon de base ; le mélange de bouillon de poulet et de poisson donne une soupe riche et corsée.",
+        "Bouillon de la fiche : 1000 g de poulet entier, 500 g d’os de porc et 4 kg d’eau, 50 minutes à l’autocuiseur. La quantité de bouillon utilisée dans ce plat n’est pas indiquée.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

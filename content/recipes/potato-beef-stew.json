@@ -15,6 +15,11 @@
         "cn": "牛肋条肉",
         "en": "Beef rib finger",
         "fr": "Tendron de boeuf"
+      },
+      "amount": {
+        "cn": "2000 g",
+        "en": "2000 g",
+        "fr": "2000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "香叶",
         "en": "Bay leaf",
         "fr": "Feuille de laurier"
+      },
+      "amount": {
+        "cn": "2 片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "八角",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "桂皮",
         "en": "Cinnamon bark",
         "fr": "Écorce de cannelle"
+      },
+      "amount": {
+        "cn": "2 片",
+        "en": "2 pieces",
+        "fr": "2 morceaux"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "豆瓣酱",
         "en": "Doubanjiang",
         "fr": "Doubanjiang"
+      },
+      "amount": {
+        "cn": "55 g",
+        "en": "55 g",
+        "fr": "55 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "黄豆酱",
         "en": "Dried yellow bean paste",
         "fr": "Pâte de haricots jaunes"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "黑胡椒",
         "en": "Black pepper",
         "fr": "Poivre noir"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -132,6 +192,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -141,6 +206,29 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-endcard",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     }
   ],
@@ -160,7 +248,8 @@
       ],
       "notes": [
         "选带肉、带筋、带油的牛肋条，炖出来软烂不柴、汤汁厚重。",
-        "黑胡椒一定要放；建议用高压锅，炖出来形状饱满、口感更好。"
+        "黑胡椒一定要放；建议用高压锅，炖出来形状饱满、口感更好。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -178,7 +267,8 @@
       ],
       "notes": [
         "Choose beef rib finger with meat, tendon, and fat so it stews tender, never tough, with a rich, thick sauce.",
-        "Be sure to add black pepper; a pressure cooker is recommended for plumper pieces and better texture."
+        "Be sure to add black pepper; a pressure cooker is recommended for plumper pieces and better texture.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -196,7 +286,8 @@
       ],
       "notes": [
         "Choisir un tendron de boeuf avec viande, tendon et gras pour qu'il mijote tendre, jamais sec, avec une sauce riche et épaisse.",
-        "Veiller à ajouter du poivre noir ; un autocuiseur est recommandé pour des morceaux plus dodus et une meilleure texture."
+        "Veiller à ajouter du poivre noir ; un autocuiseur est recommandé pour des morceaux plus dodus et une meilleure texture.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

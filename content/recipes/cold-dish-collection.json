@@ -15,6 +15,11 @@
         "cn": "松花蛋",
         "en": "Century egg",
         "fr": "Œuf de cent ans"
+      },
+      "amount": {
+        "cn": "4 个",
+        "en": "4 eggs",
+        "fr": "4 œufs"
       }
     },
     {
@@ -51,6 +56,11 @@
         "cn": "姜末",
         "en": "Minced ginger",
         "fr": "Gingembre haché"
+      },
+      "amount": {
+        "cn": "松花蛋 8 g；秋葵汁 50 g",
+        "en": "8 g for century eggs; 50 g for okra dressing",
+        "fr": "8 g pour les œufs de cent ans ; 50 g pour les gombos"
       }
     },
     {
@@ -60,6 +70,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "黄瓜 20 g；秋葵汁 60 g",
+        "en": "20 g for cucumber; 60 g for okra dressing",
+        "fr": "20 g pour le concombre ; 60 g pour les gombos"
       }
     },
     {
@@ -69,6 +84,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "秋葵汁 60 g；花生米 20 g",
+        "en": "60 g for okra dressing; 20 g for peanuts",
+        "fr": "60 g pour les gombos ; 20 g pour les cacahuètes"
       }
     },
     {
@@ -78,6 +98,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "松花蛋 5 g；秋葵汁 20 g；花生米 15 g",
+        "en": "5 g for century eggs; 20 g for okra; 15 g for peanuts",
+        "fr": "5 g pour les œufs ; 20 g pour les gombos ; 15 g pour les cacahuètes"
       }
     },
     {
@@ -87,6 +112,11 @@
         "cn": "辣椒（小米辣）",
         "en": "Chili pepper",
         "fr": "Piment"
+      },
+      "amount": {
+        "cn": "小米辣：松花蛋 3 g、秋葵 25 g、花生米 2 个；尖椒：花生米 20 g",
+        "en": "Bird’s-eye chilies: 3 g for eggs, 25 g for okra, 2 for peanuts; long pepper: 20 g for peanuts",
+        "fr": "Petits piments : 3 g pour les œufs, 25 g pour les gombos, 2 pour les cacahuètes ; piment long : 20 g pour les cacahuètes"
       }
     },
     {
@@ -105,6 +135,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "松花蛋 60 g；黄瓜 40 g；秋葵 130 g；花生米 40 g",
+        "en": "Eggs 60 g; cucumber 40 g; okra 130 g; peanuts 40 g",
+        "fr": "Œufs 60 g ; concombre 40 g ; gombos 130 g ; cacahuètes 40 g"
       }
     },
     {
@@ -114,6 +149,11 @@
         "cn": "米醋",
         "en": "Rice vinegar",
         "fr": "Vinaigre de riz"
+      },
+      "amount": {
+        "cn": "松花蛋 35 g；黄瓜 15 g；秋葵 100 g；花生米 130 g",
+        "en": "Eggs 35 g; cucumber 15 g; okra 100 g; peanuts 130 g",
+        "fr": "Œufs 35 g ; concombre 15 g ; gombos 100 g ; cacahuètes 130 g"
       }
     },
     {
@@ -123,6 +163,11 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "松花蛋 8 g；黄瓜 5 g；花生米未标用量",
+        "en": "8 g for eggs; 5 g for cucumber; peanut dressing amount unspecified",
+        "fr": "8 g pour les œufs ; 5 g pour le concombre ; quantité non précisée pour les cacahuètes"
       }
     },
     {
@@ -132,6 +177,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "秋葵 20 g；花生米 35 g",
+        "en": "20 g for okra; 35 g for peanuts",
+        "fr": "20 g pour les gombos ; 35 g pour les cacahuètes"
       }
     },
     {
@@ -141,6 +191,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "秋葵汁 20 g",
+        "en": "20 g for okra dressing",
+        "fr": "20 g pour la sauce des gombos"
       }
     },
     {
@@ -150,6 +205,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "花生米 100 g",
+        "en": "100 g for peanuts",
+        "fr": "100 g pour les cacahuètes"
       }
     },
     {
@@ -159,6 +219,11 @@
         "cn": "麻酱",
         "en": "Sesame paste",
         "fr": "Pâte de sésame"
+      },
+      "amount": {
+        "cn": "黄瓜 30 g（可不放）",
+        "en": "30 g for cucumber (optional)",
+        "fr": "30 g pour le concombre (facultatif)"
       }
     },
     {
@@ -168,6 +233,11 @@
         "cn": "大料（八角）",
         "en": "Star anise",
         "fr": "Anis étoilé"
+      },
+      "amount": {
+        "cn": "花生米 1 个",
+        "en": "1 star for peanuts",
+        "fr": "1 étoile pour les cacahuètes"
       }
     },
     {
@@ -177,6 +247,11 @@
         "cn": "香叶",
         "en": "Bay leaf",
         "fr": "Feuille de laurier"
+      },
+      "amount": {
+        "cn": "花生米：食材表 1 片，步骤 2 片",
+        "en": "Peanuts: 1 leaf in the list, 2 in the steps",
+        "fr": "Cacahuètes : 1 feuille dans la liste, 2 dans les étapes"
       }
     },
     {
@@ -186,6 +261,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "花生米 0.5 g",
+        "en": "0.5 g for peanuts",
+        "fr": "0,5 g pour les cacahuètes"
       }
     },
     {
@@ -195,6 +275,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "焯秋葵 1 勺",
+        "en": "1 spoonful for blanching okra",
+        "fr": "1 cuillerée pour blanchir les gombos"
       }
     },
     {
@@ -204,6 +289,20 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "焯秋葵 20 g；炸花生另备油",
+        "en": "20 g for blanching okra; extra for frying peanuts",
+        "fr": "20 g pour blanchir les gombos ; huile supplémentaire pour les cacahuètes"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "秋葵汁 100 g",
+        "en": "100 g for okra dressing",
+        "fr": "100 g pour la sauce des gombos"
       }
     }
   ],
@@ -229,7 +328,7 @@
       "notes": [
         "凉菜的灵魂在于这个调汁，捞汁秋葵的汁是通用的，可拌一切凉菜。",
         "老醋花生一定要等醋汁和花生都凉透再拌，否则花生不脆；香油最后放。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -253,7 +352,7 @@
       "notes": [
         "The soul of cold dishes is the dressing; the okra dressing is universal and works on any cold dish.",
         "For the vinegar peanuts, both the sauce and peanuts must be fully cool before mixing, or the peanuts lose their crunch; add sesame oil last.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -277,7 +376,7 @@
       "notes": [
         "L'âme des plats froids est l'assaisonnement ; celui de l'okra est universel et convient à tout plat froid.",
         "Pour les cacahuètes au vinaigre, sauce et cacahuètes doivent être bien froides avant de mélanger, sinon les cacahuètes perdent leur croquant ; ajouter l'huile de sésame en dernier.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

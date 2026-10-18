@@ -24,6 +24,11 @@
         "cn": "鸡蛋清",
         "en": "Egg white",
         "fr": "Blanc d'œuf"
+      },
+      "amount": {
+        "cn": "1 个",
+        "en": "1 egg white",
+        "fr": "1 blanc d’œuf"
       }
     },
     {
@@ -33,6 +38,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "上浆 2 g；碗芡约 2 g",
+        "en": "2 g for coating; about 2 g for the sauce",
+        "fr": "2 g pour enrober ; environ 2 g pour la sauce"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "上浆 0.5 g；碗芡约 15 粒（原片单位）",
+        "en": "0.5 g for coating; about 15 granules for the sauce (source unit)",
+        "fr": "0,5 g pour enrober ; environ 15 grains pour la sauce (unité de la source)"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "上浆 1 g；碗芡约 1 g",
+        "en": "1 g for coating; about 1 g for the sauce",
+        "fr": "1 g pour enrober ; environ 1 g pour la sauce"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "葱姜水",
         "en": "Scallion ginger water",
         "fr": "Eau de ciboule et gingembre"
+      },
+      "amount": {
+        "cn": "80 g（片尾另注一般按肉重的 30%）",
+        "en": "80 g (the card also suggests 30% of meat weight in general)",
+        "fr": "80 g (la fiche conseille aussi en général 30 % du poids de viande)"
       }
     },
     {
@@ -114,7 +139,33 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "上浆 15 g；碗芡另备少量",
+        "en": "15 g for coating; a little extra for the sauce",
+        "fr": "15 g pour enrober ; un peu plus pour la sauce"
       }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "碗芡约 150 g",
+        "en": "about 150 g for the sauce",
+        "fr": "environ 150 g pour la sauce"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil"
+    },
+    {
+      "id": "bamboo-shoot-endcard",
+      "ingredient": "bamboo-shoot"
+    },
+    {
+      "id": "baking-soda-endcard",
+      "ingredient": "baking-soda"
     }
   ],
   "translations": {
@@ -134,7 +185,7 @@
       "notes": [
         "这道菜最关键是上浆，浆要打得饱满，否则一下锅肉片会打卷抽缩。",
         "滑油油温一定不能高，出硬壳就毁了；最后翻炒时不要在锅里调味再勾芡，原料在锅里待的时间越短越好，汁才亮、肉才饱满。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -153,7 +204,7 @@
       "notes": [
         "The key to this dish is the velveting - coat it plump and full, or the slices will curl and shrink the moment they hit the oil.",
         "The oil for velveting must not be too hot - a hard crust ruins it; at the final stir-fry, don't season and thicken in the wok - keep the meat in the pan as briefly as possible so the sauce stays glossy and the slices plump.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -172,7 +223,7 @@
       "notes": [
         "La clé de ce plat est le velouté - enrobez-le bien plein, sinon les lamelles vont se recroqueviller et rétrécir dès qu'elles touchent l'huile.",
         "L'huile pour le velouté ne doit pas être trop chaude - une croûte dure gâche tout ; au sauté final, n'assaisonnez et ne liez pas dans le wok - gardez la viande dans la poêle le moins longtemps possible pour que la sauce reste brillante et les lamelles charnues.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

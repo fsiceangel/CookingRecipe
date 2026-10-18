@@ -15,6 +15,11 @@
         "cn": "白菜",
         "en": "Napa cabbage",
         "fr": "Chou chinois"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "木耳",
         "en": "Wood ear mushroom",
         "fr": "Champignon noir"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "炝锅 20 g；碗汁 10 g",
+        "en": "20 g for frying; 10 g for the sauce",
+        "fr": "20 g pour faire revenir ; 10 g pour la sauce"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -69,15 +99,25 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
       "id": "light-soy-sauce-8",
-      "ingredient": "light-soy-sauce",
+      "ingredient": "dark-soy-sauce",
       "name": {
-        "cn": "生抽",
-        "en": "Light soy sauce",
-        "fr": "Sauce soja claire"
+        "cn": "老抽",
+        "en": "Dark soy sauce",
+        "fr": "Sauce soja foncée"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -87,6 +127,38 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "chili-pepper-endcard",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "sesame-oil-endcard",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -99,12 +171,12 @@
         "木耳提前焯水备用。",
         "锅里放底油，下蒜煸黄，再放入白菜。",
         "炒白菜的油要稍微多放一点，全程用油煸，千万不要焯水，才能保持爽脆。",
-        "白菜炒到变软、呈半透明状时，倒入提前调好的碗汁（醋、糖、盐、生抽、淀粉）。",
+        "白菜炒到变软、呈半透明状时，倒入提前调好的碗汁（醋、糖、盐、老抽、淀粉）。",
         "不用急着出锅，等芡汁变浓后让汁把白菜泡一下更入味，即可出锅。"
       ],
       "notes": [
         "白菜千万不能焯水，全程用油煸才爽脆。",
-        "碗汁的具体比例见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -115,12 +187,12 @@
         "Blanch the wood ear mushroom ahead of time and set aside.",
         "Add oil to the wok, fry the garlic until golden, then add the cabbage.",
         "Be generous with the oil and stir-fry throughout — never blanch the cabbage in water, so it stays crisp.",
-        "When the cabbage turns soft and translucent, pour in the pre-mixed bowl sauce (vinegar, sugar, salt, light soy sauce, cornstarch).",
+        "When the cabbage turns soft and translucent, pour in the pre-mixed bowl sauce (vinegar, sugar, salt, dark soy sauce, cornstarch).",
         "Don't rush to plate — let the glaze thicken and soak the cabbage briefly for more flavor, then serve."
       ],
       "notes": [
         "Never blanch the cabbage — stir-frying it only in oil keeps it crisp.",
-        "See the video end screen for the exact bowl-sauce ratios."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -131,12 +203,12 @@
         "Blanchir le champignon noir à l'avance et réserver.",
         "Mettre de l'huile dans le wok, faire revenir l'ail jusqu'à ce qu'il soit doré, puis ajouter le chou.",
         "Être généreux avec l'huile et faire sauter tout du long — ne jamais blanchir le chou à l'eau, afin qu'il reste croquant.",
-        "Quand le chou devient tendre et translucide, verser la sauce préparée (vinaigre, sucre, sel, sauce soja claire, fécule).",
+        "Quand le chou devient tendre et translucide, verser la sauce préparée (vinaigre, sucre, sel, sauce soja foncée, fécule).",
         "Ne pas se précipiter pour dresser — laisser le glaçage épaissir et imprégner le chou un instant, puis servir."
       ],
       "notes": [
         "Ne jamais blanchir le chou — le faire sauter uniquement à l'huile le garde croquant.",
-        "Voir l'écran de fin de la vidéo pour les proportions exactes de la sauce."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

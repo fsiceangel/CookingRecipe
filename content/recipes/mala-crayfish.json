@@ -15,6 +15,11 @@
         "cn": "小龙虾",
         "en": "Crayfish",
         "fr": "Écrevisses"
+      },
+      "amount": {
+        "cn": "1100 g",
+        "en": "1100 g",
+        "fr": "1100 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "花椒、麻椒",
         "en": "Sichuan peppercorn (red and green)",
         "fr": "Poivre du Sichuan (rouge et vert)"
+      },
+      "amount": {
+        "cn": "花椒 80 g；麻椒 40 g",
+        "en": "80 g Sichuan peppercorns; 40 g green Sichuan peppercorns",
+        "fr": "80 g de poivre du Sichuan ; 40 g de poivre du Sichuan vert"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "干辣椒",
         "en": "Dried chili pepper",
         "fr": "Piment séché"
+      },
+      "amount": {
+        "cn": "180 g",
+        "en": "180 g",
+        "fr": "180 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "与姜合计 250 g",
+        "en": "250 g combined with ginger",
+        "fr": "250 g au total avec le gingembre"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与葱合计 250 g",
+        "en": "250 g combined with scallion",
+        "fr": "250 g au total avec la ciboule"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "大蒜 180 g；出锅蒜蓉 50 g",
+        "en": "180 g garlic; 50 g minced garlic to finish",
+        "fr": "180 g d’ail ; 50 g d’ail haché en finition"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "豆瓣酱",
         "en": "Doubanjiang (chili bean paste)",
         "fr": "Doubanjiang (pâte de fèves pimentée)"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "火锅底料",
         "en": "Hotpot base",
         "fr": "Base de fondue chinoise"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -96,6 +141,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -123,6 +178,11 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      },
+      "amount": {
+        "cn": "2 kg",
+        "en": "2 kg",
+        "fr": "2 kg"
       }
     },
     {
@@ -132,6 +192,20 @@
         "cn": "香油",
         "en": "Sesame oil",
         "fr": "Huile de sésame"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "salt-endcard",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -152,7 +226,7 @@
       "notes": [
         "麻椒和花椒一定要混着用，纯放麻椒会麻得发苦；用糖折一下煮过辣椒花椒的苦味。",
         "在虾背划一刀既方便入味，又方便食用时取虾头虾脑；这种做法很万能，做大虾或牛蛙都可以。",
-        "确切用量请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -171,7 +245,7 @@
       "notes": [
         "Always mix red and green Sichuan peppercorns; using only green peppercorns turns it bitterly numbing; sugar offsets the bitterness from the cooked chilies and peppercorns.",
         "The slit along the back both helps the flavor get in and makes it easy to reach the head fat when eating; this method is versatile and works for large prawns or bullfrog too.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -190,7 +264,7 @@
       "notes": [
         "Toujours mélanger les poivres du Sichuan rouge et vert ; n'utiliser que le vert rend le plat amèrement engourdissant ; le sucre compense l'amertume des piments et poivres cuits.",
         "L'incision dans le dos favorise la pénétration des saveurs et facilite l'accès au corail de la tête à la dégustation ; cette méthode est polyvalente et convient aussi aux grosses crevettes ou à la grenouille taureau.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

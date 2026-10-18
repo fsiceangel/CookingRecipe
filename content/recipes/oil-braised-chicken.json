@@ -15,6 +15,11 @@
         "cn": "鸡腿（琵琶腿）",
         "en": "Chicken thighs (drumstick portion)",
         "fr": "Cuisses de poulet (pilon)"
+      },
+      "amount": {
+        "cn": "2 个（200 g）",
+        "en": "2 drumsticks (200 g)",
+        "fr": "2 pilons (200 g)"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "土豆",
         "en": "Potato",
         "fr": "Pomme de terre"
+      },
+      "amount": {
+        "cn": "2 个（600 g）",
+        "en": "2 potatoes (600 g)",
+        "fr": "2 pommes de terre (600 g)"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "西红柿",
         "en": "Tomato",
         "fr": "Tomate"
+      },
+      "amount": {
+        "cn": "半个（120 g）",
+        "en": "½ tomato (120 g)",
+        "fr": "½ tomate (120 g)"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "大蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "90 g",
+        "en": "90 g",
+        "fr": "90 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "小米辣",
         "en": "Bird's-eye chili",
         "fr": "Piment oiseau"
+      },
+      "amount": {
+        "cn": "微辣 40 g；中辣 60 g；特辣 80 g",
+        "en": "40 g mild; 60 g medium; 80 g very hot",
+        "fr": "40 g peu piquant ; 60 g moyen ; 80 g très piquant"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -87,6 +117,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -96,6 +131,11 @@
         "cn": "番茄酱",
         "en": "Ketchup (tomato paste)",
         "fr": "Ketchup (concentré de tomate)"
+      },
+      "amount": {
+        "cn": "20 g（可不放）",
+        "en": "20 g (optional)",
+        "fr": "20 g (facultatif)"
       }
     },
     {
@@ -105,6 +145,11 @@
         "cn": "蚝油",
         "en": "Oyster sauce",
         "fr": "Sauce d'huître"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -114,6 +159,11 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -123,6 +173,24 @@
         "cn": "水",
         "en": "Water",
         "fr": "Eau"
+      }
+    },
+    {
+      "id": "lemongrass-endcard",
+      "ingredient": "lemongrass",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     }
   ],
@@ -144,7 +212,8 @@
       ],
       "notes": [
         "辣椒蒜蓉一定要中火炒，火太小不容易出香味。",
-        "把土豆压碎让淀粉融入汤汁是这道菜好吃的关键。详细用量见视频片尾。"
+        "把土豆压碎让淀粉融入汤汁是这道菜好吃的关键。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -164,7 +233,8 @@
       ],
       "notes": [
         "Stir-fry the chili and garlic over medium heat; too low a flame won't bring out the aroma.",
-        "Mashing the potatoes so their starch melts into the sauce is the key to this dish. Exact amounts are shown on the video's end screen."
+        "Mashing the potatoes so their starch melts into the sauce is the key to this dish.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -184,7 +254,8 @@
       ],
       "notes": [
         "Faire revenir le piment et l'ail à feu moyen ; un feu trop doux ne fait pas ressortir l'arôme.",
-        "Écraser les pommes de terre pour que leur amidon fonde dans la sauce est la clé de ce plat. Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Écraser les pommes de terre pour que leur amidon fonde dans la sauce est la clé de ce plat.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

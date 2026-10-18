@@ -15,6 +15,11 @@
         "cn": "长茄子",
         "en": "Long eggplant",
         "fr": "Aubergine longue"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
       }
     },
     {
@@ -42,6 +52,11 @@
         "cn": "干辣椒",
         "en": "Dried chili peppers",
         "fr": "Piments séchés"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
       }
     },
     {
@@ -51,6 +66,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
       }
     },
     {
@@ -60,6 +80,11 @@
         "cn": "花椒",
         "en": "Sichuan peppercorns",
         "fr": "Poivre du Sichuan"
+      },
+      "amount": {
+        "cn": "15 粒",
+        "en": "15 peppercorns",
+        "fr": "15 grains"
       }
     },
     {
@@ -69,6 +94,11 @@
         "cn": "香菜",
         "en": "Cilantro",
         "fr": "Coriandre"
+      },
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
       }
     },
     {
@@ -78,6 +108,11 @@
         "cn": "生抽",
         "en": "Light soy sauce",
         "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "醋",
         "en": "Vinegar",
         "fr": "Vinaigre"
+      },
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "白糖",
         "en": "Sugar",
         "fr": "Sucre"
+      },
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
       }
     },
     {
@@ -105,6 +150,33 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      }
+    },
+    {
+      "id": "sesame-seeds-endcard",
+      "ingredient": "sesame-seeds",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "msg-endcard",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "cooking-wine-endcard",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     }
   ],
@@ -123,7 +195,7 @@
       "notes": [
         "茄子表面必须裹足淀粉，否则炸不出酥脆硬壳。",
         "炒干辣椒时若油温过高需加凉油降温，否则辣椒会发苦。",
-        "精确配比见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -140,7 +212,7 @@
       "notes": [
         "The eggplant must be fully coated in starch, or it won't fry into a crisp hard shell.",
         "When frying the dried chilies, add cool oil if the temperature is too high, otherwise the chilies will taste bitter.",
-        "Exact ratios are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -157,7 +229,7 @@
       "notes": [
         "L'aubergine doit être entièrement enrobée de fécule, sinon elle ne formera pas de croûte croustillante.",
         "Lors de la friture des piments séchés, ajouter de l'huile froide si la température est trop élevée, sinon les piments deviendront amers.",
-        "Les proportions exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

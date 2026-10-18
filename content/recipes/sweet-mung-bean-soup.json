@@ -15,6 +15,11 @@
         "cn": "绿豆",
         "en": "Mung beans",
         "fr": "Haricots mungo"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "糯米",
         "en": "Glutinous rice",
         "fr": "Riz gluant"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "柠檬片",
         "en": "Lemon slices",
         "fr": "Tranches de citron"
+      },
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "冰糖",
         "en": "Rock sugar",
         "fr": "Sucre candi"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -51,6 +71,20 @@
         "cn": "小布丁（牛奶雪糕）",
         "en": "Milk popsicle (milk ice cream bar)",
         "fr": "Bâtonnet glacé au lait"
+      },
+      "amount": {
+        "cn": "8 根",
+        "en": "8 popsicles",
+        "fr": "8 bâtonnets glacés"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "2000 g",
+        "en": "2000 g",
+        "fr": "2000 g"
       }
     }
   ],
@@ -68,7 +102,7 @@
       "notes": [
         "煮绿豆要用玻璃锅，避免铁锅、铝锅使其发黑；加柠檬片可防氧化变黄。",
         "用牛奶雪糕代替奶油增加奶香，方便又不腻；糯米和糖的用量可按个人口味增减。",
-        "确切克数请见视频片尾。"
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -84,7 +118,7 @@
       "notes": [
         "Cook mung beans in a glass pot to avoid the blackening caused by iron or aluminum; lemon slices prevent oxidation and yellowing.",
         "Using a milk ice cream bar instead of cream adds a creamy aroma conveniently without being heavy; adjust the glutinous rice and sugar to taste.",
-        "Exact grams are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -100,7 +134,7 @@
       "notes": [
         "Cuire les haricots mungo dans une casserole en verre pour éviter le noircissement dû au fer ou à l'aluminium ; les tranches de citron empêchent l'oxydation et le jaunissement.",
         "Utiliser un bâtonnet glacé au lait à la place de la crème apporte commodément un arôme crémeux sans être lourd ; ajuster le riz gluant et le sucre selon le goût.",
-        "Les grammages exacts sont indiqués à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

@@ -15,6 +15,11 @@
         "cn": "鸡",
         "en": "Chicken",
         "fr": "Poulet"
+      },
+      "amount": {
+        "cn": "1000 g",
+        "en": "1000 g",
+        "fr": "1000 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "火腿",
         "en": "Ham",
         "fr": "Jambon"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "干香菇",
         "en": "Dried shiitake mushroom",
         "fr": "Champignon shiitake séché"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "笋",
         "en": "Bamboo shoot",
         "fr": "Pousse de bambou"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "胡萝卜",
         "en": "Carrot",
         "fr": "Carotte"
+      },
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "小葱叶 80 g；大葱与姜共 100 g",
+        "en": "80 g scallion greens; 100 g large scallion and ginger combined",
+        "fr": "80 g de feuilles de ciboule ; 100 g de ciboule et gingembre au total"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "姜",
         "en": "Ginger",
         "fr": "Gingembre"
+      },
+      "amount": {
+        "cn": "与大葱合计 100 g",
+        "en": "100 g combined with large scallion",
+        "fr": "100 g au total avec la ciboule"
       }
     },
     {
@@ -87,6 +122,11 @@
         "cn": "盐",
         "en": "Salt",
         "fr": "Sel"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -96,6 +136,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -105,6 +150,11 @@
         "cn": "胡椒粉",
         "en": "White pepper",
         "fr": "Poivre blanc"
+      },
+      "amount": {
+        "cn": "0.5 g",
+        "en": "0.5 g",
+        "fr": "0.5 g"
       }
     },
     {
@@ -114,6 +164,11 @@
         "cn": "水淀粉",
         "en": "Cornstarch slurry",
         "fr": "Liaison à la fécule"
+      },
+      "amount": {
+        "cn": "淀粉 5 g，加水调开",
+        "en": "5 g starch, mixed with water",
+        "fr": "5 g de fécule, délayée dans de l’eau"
       }
     }
   ],
@@ -134,7 +189,8 @@
       ],
       "notes": [
         "捆扎时把笋、胡萝卜、香菇放下面，火腿本身有咸香放上面，蒸出的汁水往下流，味道更融合。",
-        "干香菇务必先蒸过再用，口感更润、香味更足。"
+        "干香菇务必先蒸过再用，口感更润、香味更足。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -154,7 +210,7 @@
       "notes": [
         "When bundling, put bamboo shoot, carrot and shiitake at the bottom and the salty, savory ham on top so its juices run down as it steams, blending the flavors.",
         "Always steam the dried shiitake before using them for a more tender bite and fuller aroma.",
-        "Exact amounts are shown on the video's end screen."
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -174,7 +230,7 @@
       "notes": [
         "En liant les fagots, placez bambou, carotte et shiitake en bas et le jambon salé en haut pour que son jus s'écoule à la vapeur et fonde les saveurs.",
         "Faites toujours cuire les shiitakes séchés à la vapeur avant usage pour une texture plus moelleuse et un arôme plus riche.",
-        "Les quantités exactes sont indiquées à la fin de la vidéo."
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }

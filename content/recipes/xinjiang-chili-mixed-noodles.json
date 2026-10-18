@@ -15,6 +15,11 @@
         "cn": "面",
         "en": "Noodle dough",
         "fr": "Pâte à nouilles"
+      },
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
       }
     },
     {
@@ -24,6 +29,11 @@
         "cn": "牛肉",
         "en": "Beef",
         "fr": "Boeuf"
+      },
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
       }
     },
     {
@@ -33,6 +43,11 @@
         "cn": "辣皮子",
         "en": "Xinjiang dried chili (lapizi)",
         "fr": "Piment séché du Xinjiang (lapizi)"
+      },
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
       }
     },
     {
@@ -42,6 +57,11 @@
         "cn": "洋葱",
         "en": "Onion",
         "fr": "Oignon"
+      },
+      "amount": {
+        "cn": "120 g",
+        "en": "120 g",
+        "fr": "120 g"
       }
     },
     {
@@ -51,6 +71,11 @@
         "cn": "蒜",
         "en": "Garlic",
         "fr": "Ail"
+      },
+      "amount": {
+        "cn": "80 g（分两次各加 40 g）",
+        "en": "80 g (two additions of 40 g)",
+        "fr": "80 g (deux ajouts de 40 g)"
       }
     },
     {
@@ -60,6 +85,11 @@
         "cn": "韭菜",
         "en": "Chinese chives",
         "fr": "Ciboulette chinoise"
+      },
+      "amount": {
+        "cn": "80 g（可不加）",
+        "en": "80 g (optional)",
+        "fr": "80 g (facultatif)"
       }
     },
     {
@@ -69,6 +99,11 @@
         "cn": "酱油",
         "en": "Soy sauce",
         "fr": "Sauce soja"
+      },
+      "amount": {
+        "cn": "腌肉 20 g；调味 50 g",
+        "en": "20 g for marinating; 50 g for seasoning",
+        "fr": "20 g pour mariner ; 50 g pour assaisonner"
       }
     },
     {
@@ -78,6 +113,11 @@
         "cn": "味精",
         "en": "MSG",
         "fr": "Glutamate"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
       }
     },
     {
@@ -87,6 +127,11 @@
         "cn": "淀粉",
         "en": "Cornstarch",
         "fr": "Fécule de maïs"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
       }
     },
     {
@@ -105,6 +150,29 @@
         "cn": "油",
         "en": "Oil",
         "fr": "Huile"
+      },
+      "amount": {
+        "cn": "炸洋葱 120 g；做面另备适量",
+        "en": "120 g for frying onion; extra as needed for noodles",
+        "fr": "120 g pour faire revenir l’oignon ; supplément pour les nouilles"
+      }
+    },
+    {
+      "id": "water-endcard",
+      "ingredient": "water",
+      "amount": {
+        "cn": "面团 225 g；炒料 500 g",
+        "en": "225 g for dough; 500 g for the sauce",
+        "fr": "225 g pour la pâte ; 500 g pour la sauce"
+      }
+    },
+    {
+      "id": "salt-endcard",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "面团 2 g；调味 5 g",
+        "en": "2 g for dough; 5 g for seasoning",
+        "fr": "2 g pour la pâte ; 5 g pour assaisonner"
       }
     }
   ],
@@ -126,7 +194,8 @@
       ],
       "notes": [
         "用洋葱煸出来的油带甜味，是这碗面好吃的关键。",
-        "面条不过水，让酱汁完全挂在每根面上。"
+        "面条不过水，让酱汁完全挂在每根面上。",
+        "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
@@ -146,7 +215,8 @@
       ],
       "notes": [
         "The oil rendered from frying the onion carries a sweetness that makes this dish.",
-        "Don't rinse the noodles, so the sauce coats every strand."
+        "Don't rinse the noodles, so the sauce coats every strand.",
+        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
@@ -166,7 +236,8 @@
       ],
       "notes": [
         "L'huile issue de la cuisson de l'oignon apporte une douceur qui fait tout le plat.",
-        "Ne pas rincer les nouilles, pour que la sauce enrobe chaque brin."
+        "Ne pas rincer les nouilles, pour que la sauce enrobe chaque brin.",
+        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }
   }
