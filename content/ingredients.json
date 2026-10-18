@@ -1215,6 +1215,14 @@
       "fr": "Oignon"
     }
   },
+  "oxtail": {
+    "category": "meat",
+    "names": {
+      "cn": "牛尾",
+      "en": "Oxtail",
+      "fr": "Queue de bœuf"
+    }
+  },
   "oyster-sauce": {
     "category": "seasoning",
     "names": {
@@ -1733,6 +1741,14 @@
       "cn": "十三香",
       "en": "Thirteen-Spice Powder",
       "fr": "Poudre Treize-Épices"
+    }
+  },
+  "thyme": {
+    "category": "seasoning",
+    "names": {
+      "cn": "百里香",
+      "en": "Thyme",
+      "fr": "Thym"
     }
   },
   "tofu": {

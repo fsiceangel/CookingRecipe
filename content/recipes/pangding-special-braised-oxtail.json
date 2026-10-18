@@ -1,0 +1,296 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "pangding-special-braised-oxtail",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "oxtail",
+      "ingredient": "oxtail",
+      "name": {
+        "cn": "牛尾",
+        "en": "Oxtail",
+        "fr": "Queue de bœuf"
+      },
+      "amount": {
+        "cn": "1 袋",
+        "en": "1 bag",
+        "fr": "1 sachet"
+      }
+    },
+    {
+      "id": "carrot",
+      "ingredient": "carrot",
+      "name": {
+        "cn": "胡萝卜（选粗大的）",
+        "en": "Large carrots",
+        "fr": "Grosses carottes"
+      },
+      "amount": {
+        "cn": "1–2 根，约 1 斤",
+        "en": "1–2, about 500 g",
+        "fr": "1 à 2, environ 500 g"
+      }
+    },
+    {
+      "id": "onion",
+      "ingredient": "onion",
+      "name": {
+        "cn": "洋葱或红葱头（Shallot）",
+        "en": "Onion or shallots",
+        "fr": "Oignon ou échalotes"
+      },
+      "amount": {
+        "cn": "洋葱 1 个，或等量红葱头",
+        "en": "1 onion, or an equivalent amount of shallots",
+        "fr": "1 oignon, ou une quantité équivalente d’échalotes"
+      }
+    },
+    {
+      "id": "tomato",
+      "ingredient": "tomato",
+      "name": {
+        "cn": "西红柿",
+        "en": "Tomatoes",
+        "fr": "Tomates"
+      },
+      "amount": {
+        "cn": "4 个大的，或 6 个小的",
+        "en": "4 large or 6 small",
+        "fr": "4 grosses ou 6 petites"
+      }
+    },
+    {
+      "id": "potato",
+      "ingredient": "potato",
+      "name": {
+        "cn": "小土豆（可选）",
+        "en": "Small potatoes (optional)",
+        "fr": "Petites pommes de terre (facultatif)"
+      },
+      "amount": {
+        "cn": "7–8 个",
+        "en": "7–8",
+        "fr": "7 à 8"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "name": {
+        "cn": "盐（腌肉）",
+        "en": "Salt, for marinating",
+        "fr": "Sel, pour la marinade"
+      },
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "msg",
+      "ingredient": "msg",
+      "name": {
+        "cn": "味精（腌肉）",
+        "en": "MSG, for marinating",
+        "fr": "Glutamate, pour la marinade"
+      },
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "baking-soda",
+      "ingredient": "baking-soda",
+      "name": {
+        "cn": "小苏打（腌肉）",
+        "en": "Baking soda, for marinating",
+        "fr": "Bicarbonate de soude, pour la marinade"
+      },
+      "amount": {
+        "cn": "0.5 g",
+        "en": "0.5 g",
+        "fr": "0,5 g"
+      }
+    },
+    {
+      "id": "cornstarch",
+      "ingredient": "cornstarch",
+      "name": {
+        "cn": "淀粉",
+        "en": "Starch",
+        "fr": "Fécule"
+      },
+      "amount": {
+        "cn": "适量，表面裹薄粉",
+        "en": "Enough to lightly coat the meat",
+        "fr": "Juste assez pour enrober légèrement la viande"
+      }
+    },
+    {
+      "id": "brown-sugar",
+      "ingredient": "brown-sugar",
+      "name": {
+        "cn": "红糖（炒糖色）",
+        "en": "Brown sugar, for caramelizing",
+        "fr": "Sucre roux, pour le caramel"
+      },
+      "amount": {
+        "cn": "10–15 g",
+        "en": "10–15 g",
+        "fr": "10 à 15 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "name": {
+        "cn": "糖（炖煮调味）",
+        "en": "Sugar, for seasoning the stew",
+        "fr": "Sucre, pour assaisonner le ragoût"
+      },
+      "amount": {
+        "cn": "5–10 g",
+        "en": "5–10 g",
+        "fr": "5 à 10 g"
+      }
+    },
+    {
+      "id": "light-soy-sauce",
+      "ingredient": "light-soy-sauce",
+      "name": {
+        "cn": "生抽",
+        "en": "Light soy sauce",
+        "fr": "Sauce soja claire"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "ketchup",
+      "ingredient": "ketchup",
+      "name": {
+        "cn": "番茄酱（Ketchup，推荐亨氏 Heinz）",
+        "en": "Ketchup (Heinz recommended)",
+        "fr": "Ketchup (Heinz conseillé)"
+      },
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "thyme",
+      "ingredient": "thyme",
+      "name": {
+        "cn": "百里香（Thyme）",
+        "en": "Thyme",
+        "fr": "Thym"
+      },
+      "amount": {
+        "cn": "适量",
+        "en": "To taste",
+        "fr": "Selon le goût"
+      }
+    },
+    {
+      "id": "chili-pepper",
+      "ingredient": "chili-pepper",
+      "name": {
+        "cn": "小辣椒（吃辣时加）",
+        "en": "Small chilies (for a spicy version)",
+        "fr": "Petits piments (pour une version pimentée)"
+      },
+      "amount": {
+        "cn": "1–2 个",
+        "en": "1–2",
+        "fr": "1 à 2"
+      }
+    },
+    {
+      "id": "black-pepper",
+      "ingredient": "black-pepper",
+      "name": {
+        "cn": "黑胡椒（不吃辣时可多加）",
+        "en": "Black pepper (use more if omitting chilies)",
+        "fr": "Poivre noir (en mettre davantage sans piment)"
+      },
+      "amount": {
+        "cn": "按口味添加",
+        "en": "To taste",
+        "fr": "Selon le goût"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "name": {
+        "cn": "水",
+        "en": "Water",
+        "fr": "Eau"
+      },
+      "amount": {
+        "cn": "没过所有原料",
+        "en": "Enough to cover all the ingredients",
+        "fr": "De quoi couvrir tous les ingrédients"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "胖丁特制炖牛尾",
+      "steps": [
+        "胡萝卜切块或滚刀块，洋葱（或红葱头）切条，西红柿切块。如果加小土豆，也一并洗净备好。",
+        "牛尾加入 5 g 盐、2 g 味精和 0.5 g 小苏打，抓匀腌制，再在表面均匀裹上一层薄薄的淀粉。",
+        "锅中放入 10–15 g 红糖，简单炒出糖色后放入牛尾翻炒，让肉块均匀裹上糖色。",
+        "加入胡萝卜、洋葱、西红柿及可选的小土豆，再加入 5–10 g 糖、10 g 生抽和 10 g 番茄酱，翻拌均匀。",
+        "加水至没过所有原料，放入适量百里香。吃辣可加 1–2 个小辣椒；不吃辣可多加黑胡椒。大火煮开后转小火，慢炖 3 小时。"
+      ],
+      "notes": [
+        "牛尾可换成其他带油脂的猪肉或牛肉。",
+        "牛尾用量按 1 袋保留，原文未注明重量。",
+        "洋葱可用等量红葱头替代，小土豆按喜好添加。"
+      ]
+    },
+    "en": {
+      "title": "Pangding’s Special Oxtail Stew",
+      "steps": [
+        "Cut the carrots into chunks, slice the onion or shallots into strips, and cut the tomatoes into pieces. Wash the small potatoes if using them.",
+        "Mix the oxtail with 5 g salt, 2 g MSG and 0.5 g baking soda and leave to marinate. Coat the surface evenly with a thin layer of starch.",
+        "Heat 10–15 g brown sugar in the pot until it caramelizes, then add the oxtail and stir to coat the meat evenly.",
+        "Add the carrots, onion, tomatoes and optional potatoes. Add 5–10 g sugar, 10 g light soy sauce and 10 g ketchup, and mix well.",
+        "Add enough water to cover all the ingredients and add thyme to taste. For heat, add 1–2 small chilies; otherwise, use more black pepper. Bring to a boil over high heat, then reduce to low and simmer for 3 hours."
+      ],
+      "notes": [
+        "Other fatty cuts of pork or beef can replace the oxtail.",
+        "The oxtail quantity is kept as 1 bag; no weight was specified in the original.",
+        "An equivalent amount of shallots can replace the onion. The small potatoes are optional."
+      ]
+    },
+    "fr": {
+      "title": "Ragoût de queue de bœuf spécial Pangding",
+      "steps": [
+        "Couper les carottes en morceaux, émincer l’oignon ou les échalotes en lanières et couper les tomates. Laver les petites pommes de terre si vous en utilisez.",
+        "Mélanger la queue de bœuf avec 5 g de sel, 2 g de glutamate et 0,5 g de bicarbonate, puis laisser mariner. Enrober uniformément la surface d’une fine couche de fécule.",
+        "Faire caraméliser 10 à 15 g de sucre roux dans la cocotte. Ajouter la queue de bœuf et remuer pour bien enrober les morceaux.",
+        "Ajouter les carottes, l’oignon, les tomates et, éventuellement, les pommes de terre. Incorporer 5 à 10 g de sucre, 10 g de sauce soja claire et 10 g de ketchup, puis mélanger.",
+        "Verser de l’eau à hauteur de tous les ingrédients et ajouter du thym selon le goût. Pour une version pimentée, ajouter 1 à 2 petits piments ; sinon, mettre davantage de poivre noir. Porter à ébullition à feu vif, puis laisser mijoter à feu doux pendant 3 heures."
+      ],
+      "notes": [
+        "La queue de bœuf peut être remplacée par un autre morceau de porc ou de bœuf contenant du gras.",
+        "La quantité de queue de bœuf reste indiquée comme 1 sachet ; son poids n’était pas précisé dans le texte d’origine.",
+        "L’oignon peut être remplacé par une quantité équivalente d’échalotes. Les petites pommes de terre sont facultatives."
+      ]
+    }
+  }
+}
