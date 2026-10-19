@@ -153,12 +153,12 @@
     "cn": {
       "title": "疙瘩汤",
       "steps": [
-        "取一个全蛋加少许水打散。用全蛋调的疙瘩煮完不会泡发变大。",
+        "取1个全蛋加20g水打散，用来调面疙瘩。",
         "把蛋液一点点倒入面粉中，边搅边倒，拨成小面疙瘩。",
         "晃一晃，若还有干粉，再少量加点蛋液，直到面疙瘩裹匀。想吃大疙瘩就多加蛋液。",
         "锅中加油，把葱花大火煸至金黄炝锅。",
         "倒入西红柿略炒，加酱油炒出酱香味。",
-        "加入开水烧开。",
+        "加入1500g开水烧开；这是煮汤用水，不包含调蛋液的20g水。",
         "下入面疙瘩，用勺子迅速搅开，大块的用勺子磕散。",
         "加盐调味（只放盐）。",
         "放入青菜。",
@@ -169,18 +169,18 @@
         "最后甩鸡蛋这一步很关键，能让汤更浑厚、更鲜。",
         "全程只放盐调味即可。",
         "片尾食材表把烹煮用水写为 30 g，步骤写为 1500 g；这里按步骤记录。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
       "title": "Geda (Flour-Drop) Soup",
       "steps": [
-        "Beat one whole egg with a little water. Using whole egg keeps the dough bits from swelling after cooking.",
+        "Beat 1 whole egg with 20g water for mixing the dough crumbs.",
         "Slowly drizzle the egg into the flour while stirring, breaking it into small dough lumps.",
         "Shake the bowl; if dry flour remains, add a little more egg until the lumps are coated. Add more egg for bigger lumps.",
         "Heat oil in a pot and fry chopped scallion over high heat until golden and fragrant.",
         "Add the tomato and stir-fry briefly, then add soy sauce and fry until it smells savory.",
-        "Add boiling water and bring to a boil.",
+        "Add 1500g boiling water and bring back to a boil. This soup water is separate from the 20g mixed with the egg.",
         "Drop in the dough lumps and stir quickly with a spoon, breaking up any large clumps.",
         "Season with salt (salt only).",
         "Add the leafy greens.",
@@ -191,18 +191,18 @@
         "Swirling in the eggs at the very end is the key step that makes the soup richer and more savory.",
         "Salt is the only seasoning needed.",
         "The end-card list says 30 g cooking water, but its instructions say 1500 g; the quantity here follows the instructions.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
       "title": "Soupe Geda (aux Grumeaux de Farine)",
       "steps": [
-        "Battre un oeuf entier avec un peu d'eau. L'oeuf entier empêche les grumeaux de gonfler après cuisson.",
+        "Battre 1 œuf entier avec 20g d’eau pour former les petites miettes de pâte.",
         "Verser lentement l'oeuf sur la farine en remuant, pour former de petits grumeaux de pâte.",
         "Secouer le bol ; s'il reste de la farine sèche, ajouter un peu d'oeuf jusqu'à ce que les grumeaux soient enrobés. Mettre plus d'oeuf pour de plus gros grumeaux.",
         "Chauffer l'huile dans une casserole et faire revenir la ciboule hachée à feu vif jusqu'à ce qu'elle soit dorée et parfumée.",
         "Ajouter la tomate et faire revenir brièvement, puis ajouter la sauce soja et faire revenir jusqu'à ce que ce soit savoureux.",
-        "Ajouter de l'eau bouillante et porter à ébullition.",
+        "Ajouter 1500g d’eau bouillante et porter à nouveau à ébullition. Cette eau de cuisson est distincte des 20g mélangés à l’œuf.",
         "Verser les grumeaux de pâte et remuer rapidement à la cuillère en cassant les gros morceaux.",
         "Assaisonner avec du sel (sel uniquement).",
         "Ajouter les légumes verts.",
@@ -213,7 +213,7 @@
         "Verser les oeufs tout à la fin est l'étape clé qui rend la soupe plus riche et plus savoureuse.",
         "Le sel est le seul assaisonnement nécessaire.",
         "La liste finale indique 30 g d’eau de cuisson, mais les étapes indiquent 1500 g ; la quantité retenue suit les étapes.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

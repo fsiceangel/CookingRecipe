@@ -17,9 +17,9 @@
         "fr": "Chou chinois nain"
       },
       "amount": {
-        "cn": "食材表 260 g；步骤写 570 g",
-        "en": "Ingredient list: 260 g; method says 570 g",
-        "fr": "Liste : 260 g ; méthode : 570 g"
+        "cn": "260 g",
+        "en": "260 g",
+        "fr": "260 g"
       }
     },
     {
@@ -145,7 +145,8 @@
       "notes": [
         "焯白菜一定要开水下锅，否则会有捂过的臭味。",
         "火候关键是把白菜煮到软烂为止，各地白菜品质不同，时间灵活掌握。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "娃娃菜按食材表用260g，鸡汤570g；步骤中重复写成570g的娃娃菜用量已按笔误修订。",
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -162,7 +163,8 @@
       "notes": [
         "Always blanch napa cabbage in boiling water, or it develops a stewed, off smell.",
         "The key is cooking the cabbage until truly soft; cabbage quality varies by region, so adjust the time.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Use 260g baby napa cabbage and 570g chicken stock. The repeated 570g cabbage figure in the source method is treated as a copying error.",
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -179,7 +181,8 @@
       "notes": [
         "Toujours blanchir le chou chinois dans l'eau bouillante, sinon il développe une odeur d'étouffé.",
         "L'essentiel est de cuire le chou jusqu'à ce qu'il soit vraiment tendre ; la qualité du chou varie selon les régions, ajuster le temps.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Utiliser 260g de chou chinois miniature et 570g de bouillon de poulet. Les 570g de chou répétés dans la méthode sont traités comme une erreur de copie.",
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

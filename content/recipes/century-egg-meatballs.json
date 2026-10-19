@@ -63,9 +63,9 @@
         "fr": "Poivre blanc"
       },
       "amount": {
-        "cn": "1（片尾未标单位）",
-        "en": "1 (unit not shown)",
-        "fr": "1 (unité non indiquée)"
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -77,9 +77,9 @@
         "fr": "Glutamate"
       },
       "amount": {
-        "cn": "1（片尾未标单位）",
-        "en": "1 (unit not shown)",
-        "fr": "1 (unité non indiquée)"
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
       }
     },
     {
@@ -152,7 +152,7 @@
       "title": "皮蛋肉丸（湖南）",
       "steps": [
         "选一块猪肉，先切片再切碎，然后剁成有大有小、带颗粒感的肉糜，不要直接买肉馅（黏度不够）。",
-        "500g肉糜加入3g盐、胡椒粉、味精和100g葱姜水拌匀；胡椒粉、味精片尾均写“1”但未标单位。",
+        "500g肉糜加入3g盐、1g胡椒粉、1g味精和100g葱姜水，拌至吸收。",
         "打入1个鸡蛋，淋香油，混合均匀并摔打上劲。",
         "加入30g淀粉，继续搅拌均匀。",
         "皮蛋切成小粒，放入大盘扒开备用。",
@@ -164,14 +164,14 @@
       "notes": [
         "肉一定要手工剁，纤维拉得紧实才好成型，比直接买的肉馅口感好得多。",
         "咸蛋黄的品质是关键，要选沙沙起油的，否则没有沙沙的口感。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
       "title": "Century-Egg Meatballs (Hunan Style)",
       "steps": [
         "Take a piece of pork, slice then chop it into an uneven, coarse mince with some texture - do not use pre-ground meat, which lacks stickiness.",
-        "Mix 500g minced pork with 3g salt, white pepper, MSG, and 100g scallion-ginger water. The source gives “1” for both pepper and MSG without units.",
+        "Mix 500g minced pork with 3g salt, 1g pepper, 1g MSG, and 100g scallion-ginger water until absorbed.",
         "Add 1 egg and sesame oil, mix thoroughly, and beat until sticky.",
         "Mix in 30g starch.",
         "Dice the century eggs small and spread them out on a large plate.",
@@ -183,14 +183,14 @@
       "notes": [
         "The meat must be hand-chopped - the tightly pulled fibers hold their shape and taste far better than store-bought ground meat.",
         "The quality of the salted egg yolk is key; choose ones that turn sandy and oily, or the signature grainy texture will be missing.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
       "title": "Boulettes de Viande aux Œufs de Cent Ans (Style Hunan)",
       "steps": [
         "Prenez un morceau de porc, tranchez-le puis hachez-le en une mince grossière et irrégulière avec du grain - n'utilisez pas de viande déjà hachée, qui manque de liant.",
-        "Mélanger 500g de porc haché avec 3g de sel, le poivre blanc, le glutamate et 100g d’eau de ciboule et gingembre. La source indique « 1 » pour le poivre et le glutamate sans préciser l’unité.",
+        "Mélanger 500g de porc haché avec 3g de sel, 1g de poivre, 1g de glutamate et 100g d’eau de ciboule et gingembre jusqu’à absorption.",
         "Ajouter 1 œuf et l’huile de sésame, mélanger puis travailler jusqu’à obtenir une farce collante.",
         "Incorporer 30g de fécule.",
         "Coupez les œufs de cent ans en petits dés et étalez-les sur une grande assiette.",
@@ -202,7 +202,7 @@
       "notes": [
         "La viande doit être hachée à la main - les fibres bien serrées gardent la forme et le goût bien mieux que la viande hachée du commerce.",
         "La qualité du jaune d'œuf salé est essentielle ; choisissez ceux qui deviennent sableux et huileux, sinon la texture granuleuse caractéristique manquera.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

@@ -45,9 +45,9 @@
         "fr": "Anis étoilé"
       },
       "amount": {
-        "cn": "食材表 2 个；步骤用 2 瓣",
-        "en": "Ingredient list: 2 whole stars; method: 2 points",
-        "fr": "Liste : 2 étoiles entières ; méthode : 2 pointes"
+        "cn": "2 瓣（掰开的八角）",
+        "en": "2 points of a star anise",
+        "fr": "2 pointes de badiane"
       }
     },
     {
@@ -164,7 +164,7 @@
       "notes": [
         "用五花肉的猪油和八角是这锅汤鲜香的关键，香料要适量。",
         "同样方法可做香菇汤等各种菌汤，也可当作菌汤火锅汤底。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -182,7 +182,7 @@
       "notes": [
         "The rendered pork-belly lard and star anise are the key to this rich, fragrant soup; use spices in moderation.",
         "The same method works for shiitake or other mushroom soups, and makes a great mushroom hotpot broth.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -200,7 +200,7 @@
       "notes": [
         "Le saindoux issu de la poitrine de porc et l'anis étoilé sont la clé de cette soupe riche et parfumée ; doser les épices avec modération.",
         "La même méthode convient aux soupes de shiitake ou autres champignons, et fait un excellent bouillon de fondue aux champignons.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

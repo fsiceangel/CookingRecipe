@@ -59,9 +59,9 @@
         "fr": "Sel"
       },
       "amount": {
-        "cn": "食材表 20 g；肉馅步骤用 6 g",
-        "en": "20 g in the list; 6 g used in the filling step",
-        "fr": "20 g dans la liste ; 6 g à l’étape de la farce"
+        "cn": "肉馅 6 g；炖汤另按咸淡添加",
+        "en": "6 g for the filling; season broth separately to taste",
+        "fr": "6 g pour la farce ; saler le bouillon séparément selon le goût"
       }
     },
     {
@@ -73,9 +73,9 @@
         "fr": "Glutamate"
       },
       "amount": {
-        "cn": "2 g",
-        "en": "2 g",
-        "fr": "2 g"
+        "cn": "肉馅 2 g；炖汤另按口味添加",
+        "en": "2 g for the filling; additional broth seasoning to taste",
+        "fr": "2 g pour la farce ; complément pour le bouillon selon le goût"
       }
     },
     {
@@ -87,9 +87,9 @@
         "fr": "Poivre blanc"
       },
       "amount": {
-        "cn": "食材表 2 g；肉馅步骤用 1 g",
-        "en": "2 g in the list; 1 g used in the filling step",
-        "fr": "2 g dans la liste ; 1 g à l’étape de la farce"
+        "cn": "肉馅 1 g；炖汤另加少许",
+        "en": "1 g for the filling; a little extra for the broth",
+        "fr": "1 g pour la farce ; un peu plus pour le bouillon"
       }
     },
     {
@@ -101,9 +101,9 @@
         "fr": "Fécule"
       },
       "amount": {
-        "cn": "食材表 120 g；肉馅步骤用 80 g",
-        "en": "120 g in the list; 80 g used in the filling step",
-        "fr": "120 g dans la liste ; 80 g à l’étape de la farce"
+        "cn": "肉馅 80 g",
+        "en": "80 g for the filling",
+        "fr": "80 g pour la farce"
       }
     },
     {
@@ -124,9 +124,9 @@
         "fr": "Ciboule"
       },
       "amount": {
-        "cn": "食材表 300 g；调汤步骤用 80 g",
-        "en": "300 g in the list; 80 g used for the broth step",
-        "fr": "300 g dans la liste ; 80 g à l’étape du bouillon"
+        "cn": "炖汤 80 g；葱姜水另备",
+        "en": "80 g for the broth; extra for scallion-ginger water",
+        "fr": "80 g pour le bouillon ; supplément pour l’eau de ciboule et gingembre"
       }
     },
     {
@@ -138,9 +138,9 @@
         "fr": "Gingembre"
       },
       "amount": {
-        "cn": "食材表 100 g；调汤步骤用 20 g",
-        "en": "100 g in the list; 20 g used for the broth step",
-        "fr": "100 g dans la liste ; 20 g à l’étape du bouillon"
+        "cn": "炖汤 20 g；葱姜水另备",
+        "en": "20 g for the broth; extra for scallion-ginger water",
+        "fr": "20 g pour le bouillon ; supplément pour l’eau de ciboule et gingembre"
       }
     },
     {
@@ -243,18 +243,18 @@
       "steps": [
         "五花肉去皮，切成石榴粒大小的肉粒。",
         "切完后再斩几下，所谓细切粗斩，让肉能粘在一块。",
-        "肉馅里加盐、味精、胡椒粉调味，再分次少量加入葱姜水增加含水量，使丸子更软嫩。",
+        "肉馅加入6g盐、2g味精和1g胡椒粉，再将300g葱姜水分次少量加入，搅拌至吸收。",
         "顺一个方向摔打肉馅至上劲，团成圆球能微微塌下而不散即可。",
-        "加入淀粉，再放入切好的马蹄拌匀，团成略带颗粒感的丸子。",
-        "调汤：锅里放油，下葱姜大料桂皮煸香，加鲜味酱油，再加水、黄酒、盐、味精、胡椒粉、白糖，用冰糖老抽调色，烧开后倒入砂锅。",
+        "肉馅加入80g淀粉，再拌入60g马蹄粒，团成略带颗粒感的丸子。",
+        "调汤：锅里放油，下80g葱、20g姜、八角和桂皮煸香，加鲜味酱油、水、黄酒、白糖，用冰糖老抽调色；盐、味精和胡椒粉另按汤的咸淡调味，烧开后倒入砂锅。",
         "油温烧到六成热，把丸子下锅炸定型上色，这步只为定型不为炸熟，捞出。",
         "把丸子放入砂锅汤中，烧开后转中小火炖约100分钟至软烂入味。",
         "炖好后丸子软烂而不失其形，把汤汁用水淀粉勾薄芡，浇在丸子上挂汁即可。"
       ],
       "notes": [
         "葱姜水一定要少量多次加入，丸子才软嫩；石头讲究里面是颗粒感，与全圆的四喜丸子口感不同。",
-        "片尾食材表与步骤的盐、胡椒、淀粉及葱姜用量不同，已分别保留；“冰糖老抽”是一种老抽，不是另外加冰糖。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "配料按操作阶段列出：肉馅调味、炖汤调味与最后勾芡分开。原表总量没有完整分配依据，不能把整份盐或淀粉重复加入各阶段。“冰糖老抽”是老抽的品种。",
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -262,18 +262,18 @@
       "steps": [
         "Remove the pork skin and dice the meat into pieces the size of pomegranate seeds.",
         "Chop a few more times after dicing — finely cut, coarsely chopped — so the meat sticks together.",
-        "Season the meat with salt, MSG, and white pepper, then add scallion ginger water a little at a time to raise the moisture so the balls turn out tender.",
+        "Season the filling with 6g salt, 2g MSG, and 1g pepper. Work in the 300g scallion-ginger water a little at a time until absorbed.",
         "Throw and beat the meat in one direction until springy; a shaped ball should slump slightly but not collapse.",
-        "Add starch, then mix in the diced water chestnut and form into slightly textured balls.",
-        "Make the sauce: heat oil, fry scallion, ginger, star anise, and cinnamon bark until fragrant, add fresh soy sauce, then water, yellow rice wine, salt, MSG, white pepper, and sugar; adjust color with rock-sugar dark soy sauce, bring to a boil, and pour into a clay pot.",
+        "Mix 80g starch and 60g diced water chestnuts into the filling and shape into meatballs with a coarse texture.",
+        "For the broth, fry 80g scallion, 20g ginger, star anise, and cinnamon in oil. Add soy sauce, water, rice wine, and sugar, and color with dark soy sauce. Season the broth separately with salt, MSG, and pepper to taste, bring to a boil, and transfer to a clay pot.",
         "Heat oil to medium-high, fry the meatballs just to set their shape and color — not to cook through — then remove.",
         "Place the meatballs in the clay pot of sauce, bring to a boil, then braise over medium-low heat for about 100 minutes until tender and infused.",
         "When done the balls are tender but hold their shape; thicken the sauce with cornstarch slurry, pour it over the meatballs to glaze, and serve."
       ],
       "notes": [
         "Add the scallion ginger water in small amounts over several additions so the meatballs stay tender; this 'stone' style keeps a coarse texture inside, unlike the perfectly round Four-Happiness meatballs.",
-        "The list and steps give different salt, pepper, starch and scallion/ginger quantities; both are retained. Rock-sugar dark soy sauce is one condiment, not a separate addition of rock sugar.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts are listed by stage: filling, broth, and final thickening. The summary totals are not fully allocated, so do not repeat the full salt or starch quantity at every stage. Rock-sugar dark soy sauce is a type of soy sauce.",
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -281,18 +281,18 @@
       "steps": [
         "Retirer la couenne et couper le porc en morceaux de la taille de grains de grenade.",
         "Hacher quelques fois de plus après le découpage — coupé fin, haché grossier — pour que la viande tienne ensemble.",
-        "Assaisonner la viande de sel, glutamate et poivre blanc, puis ajouter l'eau de ciboule et gingembre peu à peu pour augmenter l'humidité et obtenir des boulettes tendres.",
+        "Assaisonner la farce avec 6g de sel, 2g de glutamate et 1g de poivre. Incorporer progressivement les 300g d’eau de ciboule et gingembre jusqu’à absorption.",
         "Battre la viande dans un seul sens jusqu'à élasticité ; une boulette formée doit s'affaisser légèrement sans se défaire.",
-        "Ajouter la fécule, puis incorporer les dés de châtaigne d'eau et former des boulettes légèrement texturées.",
-        "Préparer la sauce : chauffer l'huile, faire revenir ciboule, gingembre, anis étoilé et cannelle, ajouter la sauce soja umami, puis l'eau, le vin de riz jaune, le sel, le glutamate, le poivre blanc et le sucre ; ajuster la couleur à la sauce soja foncée au sucre candi, porter à ébullition et verser dans un poêlon en terre.",
+        "Incorporer 80g de fécule et 60g de châtaignes d’eau en dés à la farce, puis former des boulettes à texture légèrement granuleuse.",
+        "Pour le bouillon, faire revenir 80g de ciboule, 20g de gingembre, la badiane et la cannelle dans l’huile. Ajouter sauce soja, eau, vin de riz et sucre, puis colorer avec la sauce soja foncée. Assaisonner séparément de sel, glutamate et poivre, porter à ébullition et transférer dans une cocotte.",
         "Chauffer l'huile à feu moyen-vif, frire les boulettes juste pour fixer leur forme et leur couleur — pas pour les cuire à coeur — puis les retirer.",
         "Mettre les boulettes dans le poêlon de sauce, porter à ébullition, puis braiser à feu moyen-doux environ 100 minutes jusqu'à tendreté.",
         "Une fois cuites, les boulettes sont fondantes mais gardent leur forme ; lier la sauce à la fécule, la verser sur les boulettes pour les glacer et servir."
       ],
       "notes": [
         "Ajouter l'eau de ciboule et gingembre en petites quantités successives pour des boulettes tendres ; ce style « pierre » garde une texture grossière à l'intérieur.",
-        "La liste et les étapes donnent des quantités différentes de sel, poivre, fécule, ciboule et gingembre ; les deux sont conservées. La sauce soja au sucre candi est un seul condiment, sans ajout séparé de sucre candi.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Les quantités sont réparties par étape : farce, bouillon et liaison finale. Les totaux de la fiche ne sont pas entièrement répartis ; ne pas répéter la totalité du sel ou de la fécule à chaque étape. La sauce soja foncée au sucre candi est une variété de sauce soja.",
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

@@ -87,9 +87,9 @@
         "fr": "Anis étoilé"
       },
       "amount": {
-        "cn": "食材表 4 个；步骤用 4 瓣",
-        "en": "Ingredient list: 4 whole stars; method: 4 points",
-        "fr": "Liste : 4 étoiles entières ; méthode : 4 pointes"
+        "cn": "4 瓣（掰开的八角）",
+        "en": "4 points of a star anise",
+        "fr": "4 pointes de badiane"
       }
     },
     {
@@ -152,7 +152,7 @@
         "焯水时加入红麴米，把水煮成枣红色，下肉丁煮上一层底色，然后把红麴米捞出不要，肉捞出。",
         "锅里倒干净油润锅，加入白糖、少烹一点水，全程中小火炒糖色，快到枣红色时立刻关小火（一秒就会变）。",
         "下肉丁煸炒上色，同时煸出一部分油脂。",
-        "放入葱姜和四个大料瓣，烹入料酒，转大火。",
+        "放入葱姜和4瓣八角，烹入料酒，转大火。",
         "第二遍加糖（去掉炒糖色的微苦，并带出酸甜味），加盐、放点醋调味。",
         "加热水至与肉齐平，看肉已上色即可转入高压锅。",
         "高压锅上气压十分钟；没有高压锅则小火炖三十到三十五分钟。",
@@ -162,7 +162,7 @@
         "红麴米只用来上色，煮出枣红色后即捞出弃掉。",
         "炒糖色没经验时全程中小火，接近枣红色时立刻关小火，否则一秒就糊。",
         "盐和糖的比例较重要",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -172,7 +172,7 @@
         "When blanching, add red yeast rice and simmer the water to a deep jujube-red, add the pork cubes to take on a base color, then scoop out and discard the red yeast rice and lift out the pork.",
         "Wipe the wok with clean oil, add sugar and a splash of water, and cook the caramel over medium-low heat throughout; the moment it approaches jujube-red, immediately turn the heat low (it changes in a second).",
         "Add the pork cubes and stir-fry to color them while rendering out some of the fat.",
-        "Add scallion, ginger, and four pieces of star anise, splash in cooking wine, and turn the heat to high.",
+        "Add scallion, ginger, and 4 points of star anise, pour in cooking wine, and raise the heat.",
         "Add sugar a second time (to remove the slight bitterness from the caramel and bring out a sweet-sour note), then season with salt and a little vinegar.",
         "Add hot water to the level of the pork; once the meat is colored, transfer to a pressure cooker.",
         "Pressure cook for ten minutes once it builds steam; without a pressure cooker, simmer over low heat for thirty to thirty-five minutes.",
@@ -182,7 +182,7 @@
         "The red yeast rice is only for color; scoop it out and discard once the water turns jujube-red.",
         "If inexperienced with caramel, keep it on medium-low heat the whole time and cut the heat the instant it nears jujube-red, or it burns within a second.",
         "The salt-to-sugar ratio matters",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -192,7 +192,7 @@
         "Au blanchiment, ajouter le riz à levure rouge et faire mijoter l'eau jusqu'à un rouge jujube profond, ajouter les dés de porc pour qu'ils prennent une couleur de base, puis retirer et jeter le riz rouge et sortir le porc.",
         "Culotter le wok à l'huile propre, ajouter le sucre et un filet d'eau, et cuire le caramel à feu moyen-doux tout du long ; dès qu'il approche du rouge jujube, baisser aussitôt le feu (cela change en une seconde).",
         "Ajouter les dés de porc et les faire sauter pour les colorer tout en faisant fondre une partie du gras.",
-        "Ajouter ciboule, gingembre et quatre morceaux d'anis étoilé, verser le vin de cuisine et monter à feu vif.",
+        "Ajouter la ciboule, le gingembre et 4 pointes de badiane, verser le vin de cuisine et augmenter le feu.",
         "Ajouter du sucre une seconde fois (pour ôter la légère amertume du caramel et faire ressortir une note aigre-douce), puis assaisonner de sel et d'un peu de vinaigre.",
         "Ajouter de l'eau chaude au niveau du porc ; une fois la viande colorée, transférer dans un autocuiseur.",
         "Cuire sous pression dix minutes une fois la vapeur montée ; sans autocuiseur, mijoter à feu doux trente à trente-cinq minutes.",
@@ -202,7 +202,7 @@
         "Le riz à levure rouge ne sert qu'à la couleur ; le retirer et le jeter une fois l'eau devenue rouge jujube.",
         "Si l'on manque d'expérience avec le caramel, le garder à feu moyen-doux tout le temps et couper le feu dès qu'il approche du rouge jujube, sinon il brûle en une seconde.",
         "Le rapport sel-sucre est important",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

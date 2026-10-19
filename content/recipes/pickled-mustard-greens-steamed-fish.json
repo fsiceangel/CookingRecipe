@@ -57,6 +57,11 @@
         "cn": "葱",
         "en": "Scallion",
         "fr": "Ciboule"
+      },
+      "amount": {
+        "cn": "适量",
+        "en": "As needed",
+        "fr": "Selon le besoin"
       }
     },
     {
@@ -68,9 +73,9 @@
         "fr": "Gingembre"
       },
       "amount": {
-        "cn": "与蒜合计 5 g（片尾写“姜蒜 5 g”）",
-        "en": "5 g combined with garlic (as written on the card)",
-        "fr": "5 g au total avec l’ail (selon la fiche)"
+        "cn": "适量",
+        "en": "As needed",
+        "fr": "Selon le besoin"
       }
     },
     {
@@ -104,15 +109,6 @@
         "en": "Steamed-fish soy sauce",
         "fr": "Sauce soja pour poisson vapeur"
       }
-    },
-    {
-      "id": "garlic-endcard",
-      "ingredient": "garlic",
-      "amount": {
-        "cn": "与姜合计 5 g",
-        "en": "5 g combined with ginger",
-        "fr": "5 g au total avec le gingembre"
-      }
     }
   ],
   "translations": {
@@ -124,7 +120,7 @@
         "把鱼腹劈开，斩断脊骨和头骨摊平，淋点花雕酒。",
         "五花肉选肥一点的，去皮切成肉末肉丁（炒雪菜要用猪油才香）。",
         "雪菜去掉根部（易藏泥沙），顺切成黄豆粒大小，叶子部分劈一下。",
-        "热油下五花肉丁煸出油脂，放入葱末和蒜末炒香。",
+        "热油下五花肉丁煸出油脂，放入葱末和姜末炒香。",
         "倒入雪菜翻炒，加点水促进味道融合，加味精调味。",
         "把炒好的雪菜浇到鱼上，完全盖住鱼身。",
         "水烧开，上锅大火上汽蒸十分钟（鱼眼凸出即熟）。",
@@ -133,8 +129,8 @@
       "notes": [
         "用开水烫鱼代替油炸去黏液腥味，做法简单、容错高，怎么做都好吃。",
         "炒雪菜一定要放肥五花肉出猪油增香。爱吃辣可加点辣椒。",
-        "片尾食材表写“姜蒜5g”，操作步骤写“葱蒜末”；保留原文差异，葱的用量未标。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "炒雪菜的小料按实拍字幕用葱姜；片尾“姜蒜5g”和“葱蒜末”互相不符，不据此编造葱姜克数。",
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -145,7 +141,7 @@
         "Split the belly open, chop through the spine and head bone so it lies flat, and splash on a little Huadiao wine.",
         "Use fattier pork belly, remove the skin and chop into mince/small dice (the xuecai needs rendered pork fat for aroma).",
         "Trim the roots off the pickled mustard greens (they hide grit), cut lengthwise into soybean-sized bits, and chop the leafy parts.",
-        "Render the diced pork in hot oil, then fry minced scallion and garlic.",
+        "Render the diced pork belly in hot oil, then fry minced scallion and ginger until fragrant.",
         "Add the pickled mustard greens and stir-fry, add a little water to meld the flavors, and season with MSG.",
         "Spoon the cooked greens over the fish, covering it completely.",
         "Bring the steamer water to a boil and steam over high heat for 10 minutes (the fish is done when the eyes bulge out).",
@@ -154,8 +150,8 @@
       "notes": [
         "Blanching the fish in boiling water instead of deep-frying removes the slime and fishiness; this method is simple and forgiving — hard to get wrong.",
         "Use fatty pork belly when frying the xuecai so the rendered fat adds aroma. Add chili if you like heat.",
-        "The ingredient card says “ginger and garlic, 5g,” while the method says scallion and garlic. Scallion quantity is unspecified.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Use scallion and ginger for frying, as identified in the cooking footage. The conflicting end-card labels do not establish reliable weights for them.",
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -166,7 +162,7 @@
         "Fendre le ventre, trancher la colonne et l'os de la tête pour aplatir, puis arroser d'un peu de vin Huadiao.",
         "Utiliser une poitrine de porc grasse, retirer la couenne et hacher en mince/petits dés (le xuecai a besoin de gras de porc fondu pour l'arôme).",
         "Retirer les racines des légumes moutarde marinés (qui cachent du sable), couper dans la longueur en morceaux de la taille d'un soja, et hacher les feuilles.",
-        "Faire fondre la graisse du porc en dés dans l’huile chaude, puis ajouter la ciboule et l’ail hachés.",
+        "Faire fondre la graisse des dés de poitrine dans l’huile chaude, puis faire revenir la ciboule et le gingembre hachés.",
         "Ajouter les légumes moutarde et faire sauter, ajouter un peu d'eau pour fondre les saveurs, et assaisonner de glutamate.",
         "Répartir les légumes cuits sur le poisson en le recouvrant entièrement.",
         "Porter l'eau du cuiseur vapeur à ébullition et cuire à feu vif 10 minutes (le poisson est cuit quand les yeux ressortent).",
@@ -175,8 +171,8 @@
       "notes": [
         "Blanchir le poisson à l'eau bouillante au lieu de le frire élimine le mucus et le goût de poisson ; méthode simple et tolérante, difficile à rater.",
         "Utiliser une poitrine de porc grasse pour faire revenir le xuecai afin que le gras fondu apporte l'arôme. Ajouter du piment selon le goût.",
-        "La liste indique « gingembre et ail, 5g », mais la méthode mentionne ciboule et ail. La quantité de ciboule n’est pas précisée.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Utiliser la ciboule et le gingembre indiqués dans la séquence de cuisson. Les mentions contradictoires de la fiche ne permettent pas d’en établir les poids.",
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

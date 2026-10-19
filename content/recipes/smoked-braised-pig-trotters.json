@@ -326,7 +326,7 @@
         "将炒香的料倒入清水和糖色中，加入配料表中的香料与4kg鸡汤，加热煮开。",
         "加盐调味，搅匀尝味，调到够咸够味。",
         "把焯过水的原料——鸡、猪尾巴、猪蹄、猪耳朵放入卤汤中。",
-        "大火烧开煮2分钟后转小火。片尾写慢炖约30分钟，并以筷子能扎透、猪蹄软烂为准；不同原料需按实际熟软程度调整。",
+        "大火烧开煮2分钟后转小火，慢炖约90分钟。以筷子能扎透、猪蹄软烂为准，其他原料按实际熟软程度取出。",
         "捞出沥干。准备一口锅，锅底铺锡纸，撒上白糖，再放上茶叶（茉莉花茶最佳，用于增香）。",
         "趁热把肉放进锅里（凉了熏不上色），盖上盖点火。",
         "开始冒烟后注意看烟色，烟变黄的一瞬间盖紧盖子，用手按住别让烟跑出。",
@@ -337,8 +337,8 @@
         "趁热熏才能上色；茉莉花茶配白糖熏出的茶香最浓。",
         "卤汤调好后可反复使用。",
         "片尾给出的鸡汤做法：鸡 1800 g、水 5 kg，高压锅 50 分钟；卤汤取鸡汤 4 kg。",
-        "片尾“慢炖半小时”与旧步骤“一个半小时”不一致，现按片尾保留30分钟的参考值，不把它当作所有原料的固定熟制时间。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "炖煮时间按操作画面的“一个半小时”采用90分钟；片尾“半小时”为漏字，不再作为参考时间。",
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -350,7 +350,7 @@
         "Add the fried aromatics to the water and caramel coloring, then add the listed spices and 4kg chicken stock and bring to a boil.",
         "Season with salt, stir, taste, and adjust until well salted and flavorful.",
         "Add the blanched ingredients — chicken, pig tail, pig trotters and pig ears — to the braising liquid.",
-        "Boil for 2 minutes, then reduce the heat. The end card says about 30 minutes of simmering and requires the trotters to be tender enough to pierce. Adjust for the actual ingredients and tenderness.",
+        "Boil over high heat for 2 minutes, then simmer gently for about 90 minutes. The trotters should be tender enough to pierce with chopsticks; remove other cuts as they become tender.",
         "Remove and drain. Line a pot with foil, sprinkle sugar over the bottom, then add tea leaves (jasmine tea is best, for aroma).",
         "Place the meat in the pot while still hot (it won't take color if cold), cover, and light the heat.",
         "Once it smokes, watch the smoke color; the instant it turns yellow, press the lid down tightly so no smoke escapes.",
@@ -361,8 +361,8 @@
         "Smoke the meat while hot so it takes color; jasmine tea with sugar gives the strongest tea aroma.",
         "The braising liquid can be reused.",
         "The end card makes stock with 1800 g chicken and 5 kg water, pressure-cooked for 50 minutes; use 4 kg of stock in the braising broth.",
-        "The end card’s 30-minute simmer differs from the previous 90-minute text. The source value is retained as a reference, not a fixed cooking time for every ingredient.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Use 90 minutes, matching the cooking footage’s one and a half hours. The end card’s half hour omits part of that duration and is not used.",
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -374,7 +374,7 @@
         "Ajouter les aromates revenus à l’eau et au caramel colorant, puis les épices indiquées et 4kg de bouillon de poulet. Porter à ébullition.",
         "Assaisonner de sel, remuer, goûter et ajuster jusqu'à ce que ce soit bien salé et savoureux.",
         "Ajouter les ingrédients blanchis — poulet, queue de porc, pieds de porc et oreilles de porc — au liquide de braisage.",
-        "Faire bouillir 2 minutes puis réduire le feu. La fiche indique environ 30 minutes de mijotage et exige que les pieds soient tendres et faciles à percer. Adapter selon les ingrédients et leur tendreté réelle.",
+        "Faire bouillir à feu vif 2 minutes, puis laisser mijoter doucement environ 90 minutes. Les pieds doivent être assez tendres pour être transpercés avec des baguettes ; retirer les autres morceaux selon leur cuisson.",
         "Retirer et égoutter. Tapisser une casserole de papier alu, saupoudrer le fond de sucre, puis ajouter les feuilles de thé (le thé au jasmin est idéal, pour l'arôme).",
         "Placer la viande encore chaude dans la casserole (elle ne se colore pas si froide), couvrir et allumer le feu.",
         "Dès que ça fume, surveiller la couleur de la fumée ; à l'instant où elle jaunit, presser fermement le couvercle pour qu'aucune fumée ne s'échappe.",
@@ -385,8 +385,8 @@
         "Fumer la viande à chaud pour qu'elle se colore ; le thé au jasmin avec du sucre donne l'arôme de thé le plus prononcé.",
         "Le liquide de braisage est réutilisable.",
         "La fiche prépare le bouillon avec 1800 g de poulet et 5 kg d’eau, 50 minutes à l’autocuiseur ; en utiliser 4 kg pour braiser.",
-        "Les 30 minutes de la fiche diffèrent des 90 minutes de l’ancien texte. La valeur de la source est conservée à titre indicatif, pas comme durée fixe pour tous les ingrédients.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Retenir 90 minutes, conformément à l’heure et demie indiquée dans la séquence de cuisson. La demi-heure de la fiche omet une partie de cette durée et n’est pas retenue.",
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

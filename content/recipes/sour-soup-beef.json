@@ -129,9 +129,9 @@
         "fr": "Petits piments"
       },
       "amount": {
-        "cn": "炝锅青红椒各 50 g；出锅：食材表 30 g，步骤各 30 g",
-        "en": "50 g each red and green chili for frying; finishing: list says 30 g, method 30 g each",
-        "fr": "50 g de chaque piment rouge et vert pour faire revenir ; finition : liste 30 g, méthode 30 g chacun"
+        "cn": "青、红椒各 80 g：各 50 g 炝锅，各 30 g 出锅前加",
+        "en": "80 g each red and green chili: 50 g each for frying, 30 g each to finish",
+        "fr": "80 g de chaque piment rouge et vert : 50 g chacun pour faire revenir, 30 g chacun à la fin"
       }
     },
     {
@@ -218,52 +218,52 @@
     "cn": {
       "title": "酸汤肥牛",
       "steps": [
-        "锅里放底油，下蒜、姜、小辣椒煸炒，炝锅出香味。",
+        "锅里放底油，下蒜、姜以及青红椒各50g煸炒出香味。",
         "放入黄灯笼辣椒酱炒香，能吃辣就多放一些。",
         "倒入高汤（鸡蛋高汤或鸡汤均可）烧开。",
         "调味：加白醋、白糖、味精；根据辣椒酱的咸度决定是否加盐。",
         "放入焯过水的笋丝和金针菇。",
         "肥牛焯水时可加点白醋煮一下，让酸味进入肥牛，再放入汤中。",
         "加入熟南瓜蓉搅拌，汤即变成金黄色。",
-        "淋入香油，撒香菜，把留出的小辣椒放进去，煮约两分钟出锅。"
+        "淋入10g香油，撒20g香菜，再加入青红椒各30g，煮约2分钟出锅。"
       ],
       "notes": [
         "这是少油清爽版，金针菇最入味。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
       "title": "Sour Soup Fatty Beef",
       "steps": [
-        "Heat oil in the wok, add garlic, ginger and chili peppers, and stir-fry until fragrant.",
+        "Fry the garlic, ginger, and 50g each red and green chili in a little oil until fragrant.",
         "Add the yellow chili sauce and stir-fry until aromatic; add more if you like it spicy.",
         "Pour in the stock (egg stock or chicken stock both work) and bring to a boil.",
         "Season: add white vinegar, sugar and MSG; add salt only if needed, depending on how salty the chili sauce is.",
         "Add the blanched shredded bamboo shoots and enoki mushrooms.",
         "Blanch the fatty beef with a little white vinegar so the sour flavor soaks in, then add it to the soup.",
         "Stir in cooked pureed pumpkin; the soup turns a golden color.",
-        "Drizzle in sesame oil, add cilantro and the reserved chili peppers, simmer about 2 minutes, and serve."
+        "Add 10g sesame oil, 20g cilantro, and 30g each red and green chili. Cook for about 2 minutes and serve."
       ],
       "notes": [
         "This is a light, low-oil version; the enoki mushrooms absorb the most flavor.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
       "title": "Boeuf en Soupe Aigre",
       "steps": [
-        "Chauffer l'huile dans le wok, ajouter l'ail, le gingembre et les piments, et faire revenir jusqu'à ce que ce soit parfumé.",
+        "Faire revenir l’ail, le gingembre et 50g de chaque piment rouge et vert dans un peu d’huile.",
         "Ajouter la sauce de piment jaune et faire revenir jusqu'à ce qu'elle embaume ; en mettre plus si vous aimez relevé.",
         "Verser le bouillon (bouillon d'oeuf ou de poulet) et porter à ébullition.",
         "Assaisonner : ajouter le vinaigre blanc, le sucre et le glutamate ; ajouter du sel seulement si nécessaire selon la salinité de la sauce.",
         "Ajouter les pousses de bambou et les champignons enoki blanchis.",
         "Blanchir le boeuf gras avec un peu de vinaigre blanc pour que l'acidité l'imprègne, puis l'ajouter à la soupe.",
         "Incorporer la purée de potiron cuit ; la soupe prend une couleur dorée.",
-        "Arroser d'huile de sésame, ajouter la coriandre et les piments réservés, laisser mijoter environ 2 minutes et servir."
+        "Ajouter 10g d’huile de sésame, 20g de coriandre et 30g de chaque piment rouge et vert. Cuire environ 2 minutes puis servir."
       ],
       "notes": [
         "C'est une version légère et peu grasse ; les champignons enoki absorbent le plus de saveur.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

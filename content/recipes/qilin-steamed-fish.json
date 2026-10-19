@@ -148,13 +148,13 @@
       "ingredient": "cornstarch-slurry",
       "name": {
         "cn": "水淀粉",
-        "en": "Cornstarch slurry",
-        "fr": "Liaison à la fécule"
+        "en": "Starch slurry",
+        "fr": "Fécule délayée"
       },
       "amount": {
-        "cn": "食材表：淀粉 5 g；步骤：水淀粉 5 g",
-        "en": "Ingredient list: 5 g starch; method: 5 g starch slurry",
-        "fr": "Liste : 5 g de fécule ; méthode : 5 g de fécule délayée"
+        "cn": "5 g（调好的水淀粉）",
+        "en": "5 g prepared slurry",
+        "fr": "5 g de fécule déjà délayée"
       }
     }
   ],
@@ -169,13 +169,13 @@
         "鱼肉打花刀（约每片五刀），在刀口中依次夹入火腿、笋片、香菇，摆成麒麟鳞片状。",
         "盘底垫鱼头鱼尾，铺上两片姜和葱，倒入一点鸡汤，撒胡椒粉。",
         "上锅大火蒸约五分钟（视鱼大小），蒸到鱼眼凸出即熟，出锅。",
-        "把蒸鱼盘里的汤汁倒入锅中烧开，加盐、味精调味，用水淀粉勾成米汤芡。",
+        "把蒸鱼盘里的汤汁倒入锅中烧开，加2g盐和1g味精调味，再少量加入5g调好的水淀粉，小火勾成米汤芡。",
         "拣去鱼身上的葱姜，把芡汁浇在鱼上，点缀红绿即可。"
       ],
       "notes": [
         "桂鱼背鳍尖刺有毒，处理时务必从下方切掉，小心扎手。",
         "火腿、鸡汤、笋、香菇是经典的提鲜组合，鲜味会随蒸汽渗入鱼肉。",
-        "用量据视频片尾整理，片尾未标出的用量留空。"
+        "用量结合视频操作与片尾核对；无法确认的数值已注明。"
       ]
     },
     "en": {
@@ -188,13 +188,13 @@
         "Score the fillets (about five cuts each) and tuck ham, bamboo, and shiitake into the slits, arranging them like overlapping qilin scales.",
         "Lay the head and tail on the plate, top with two slices of ginger and scallion, pour in a little chicken stock, and sprinkle with white pepper.",
         "Steam over high heat for about five minutes (depending on size), until the fish's eyes bulge out, then remove.",
-        "Pour the steaming juices into a wok and bring to a boil, season with salt and MSG, and thicken into a light rice-soup glaze with cornstarch slurry.",
+        "Bring the steaming juices to a boil, season with 2g salt and 1g MSG, then gradually add 5g prepared starch slurry over low heat to form a light sauce.",
         "Remove the scallion and ginger from the fish, pour the glaze over it, and garnish with red and green."
       ],
       "notes": [
         "The dorsal-fin spines of mandarin fish are venomous; always cut them off from below and handle with care.",
         "Ham, chicken stock, bamboo, and shiitake are a classic flavor-boosting combination whose umami steams into the fish.",
-        "Amounts transcribed from the video end cards; unspecified amounts are left blank."
+        "Amounts checked against cooking footage and end cards; unconfirmed values are identified."
       ]
     },
     "fr": {
@@ -207,13 +207,13 @@
         "Inciser les filets (environ cinq entailles chacun) et glisser jambon, bambou et shiitake dans les fentes, en les disposant comme des écailles de qilin superposées.",
         "Poser la tête et la queue sur le plat, garnir de deux tranches de gingembre et de ciboule, verser un peu de bouillon de poulet et saupoudrer de poivre blanc.",
         "Cuire à la vapeur à feu vif environ cinq minutes (selon la taille), jusqu'à ce que les yeux du poisson ressortent, puis retirer.",
-        "Verser le jus de cuisson dans un wok et porter à ébullition, assaisonner de sel et de glutamate, puis lier en un glaçage léger à la fécule.",
+        "Porter le jus de cuisson à ébullition, assaisonner avec 2g de sel et 1g de glutamate, puis ajouter progressivement 5g de fécule déjà délayée à feu doux pour obtenir une sauce légère.",
         "Retirer la ciboule et le gingembre du poisson, napper du glaçage et décorer de rouge et de vert."
       ],
       "notes": [
         "Les épines dorsales du poisson mandarin sont venimeuses ; toujours les couper par en dessous et manipuler avec précaution.",
         "Jambon, bouillon de poulet, bambou et shiitake forment une combinaison classique dont l'umami imprègne le poisson à la vapeur.",
-        "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
+        "Quantités vérifiées avec les séquences de cuisson et les fiches finales ; les valeurs non confirmées sont signalées."
       ]
     }
   }

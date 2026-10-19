@@ -1,0 +1,235 @@
+{
+  "reviewedOn": "2026-10-18",
+  "supersedes": "For the listed fields, this review supersedes chef-sui-endcards.json and chef-sui-second-review.json.",
+  "method": "Compared end-card ingredient tables, detailed methods, saved speech transcripts, and selected original cooking footage. Explicit on-screen corrections override earlier spoken instructions. Editorial choices are labeled separately from direct confirmations.",
+  "changes": [
+    {
+      "recipe": "button-mushroom-soup",
+      "path": "content/recipes/button-mushroom-soup.json",
+      "video": "https://www.youtube.com/watch?v=xyXL5b38D08",
+      "originalSha256": "50660365e248732ccfa51d09aee4bb9e017de88ee247cf7811cab71781eaf180",
+      "resolution": "八角统一为2瓣，不是2整颗。",
+      "basis": "confirmed-caption-and-method",
+      "evidence": [
+        "xyXL5b38D08-124.jpg",
+        "xyXL5b38D08-0.jpg"
+      ]
+    },
+    {
+      "recipe": "cherry-pork",
+      "path": "content/recipes/cherry-pork.json",
+      "video": "https://www.youtube.com/watch?v=Fc9om6UDErg",
+      "originalSha256": "00f41fb73a5d626ffa8edb5d04ec7bb53f8991629889c12fa89f0c06987be987",
+      "resolution": "八角统一为4瓣，不是4整颗。缺失的克数单位仍不猜测。",
+      "basis": "confirmed-caption-and-method",
+      "evidence": [
+        "Fc9om6UDErg-109.jpg",
+        "Fc9om6UDErg-0.jpg"
+      ]
+    },
+    {
+      "recipe": "chopped-chili-scrambled-eggs",
+      "path": "content/recipes/chopped-chili-scrambled-eggs.json",
+      "video": "https://www.youtube.com/watch?v=WwjDEU-EHCM",
+      "originalSha256": "77c99ccc11a3182d2fc3e74850bb48f36ec357e4a278fbb0439d296ae356232b",
+      "resolution": "糖统一为1g，操作字幕、口述和片尾步骤一致。",
+      "basis": "confirmed-caption-and-method",
+      "evidence": [
+        "WwjDEU-EHCM-95.jpg",
+        "WwjDEU-EHCM-0.jpg"
+      ]
+    },
+    {
+      "recipe": "chestnut-braised-napa-cabbage",
+      "path": "content/recipes/chestnut-braised-napa-cabbage.json",
+      "video": "https://www.youtube.com/watch?v=qFEa6jzP18w",
+      "originalSha256": "1eed0b453e21d40a7acf6d5cd8475a7b18873ce3093aae0277eb3a6ab8beef38",
+      "resolution": "娃娃菜采用食材表260g；步骤570g与鸡汤量重复，判断为抄写错误。",
+      "basis": "editorial-inference-duplicate-stock-weight",
+      "evidence": [
+        "qFEa6jzP18w-0.jpg"
+      ]
+    },
+    {
+      "recipe": "cold-dish-collection",
+      "path": "content/recipes/cold-dish-collection.json",
+      "video": "https://www.youtube.com/watch?v=FkR9Jya6gBg",
+      "originalSha256": "305dd353a17a93c5d0cdf7c84fc78f69a5882996ca34d3fa3b0d4927de455834",
+      "resolution": "老醋花生的香叶采用实拍标注和具体兑汁步骤2片，配料和步骤统一。",
+      "basis": "confirmed-caption-and-method",
+      "evidence": [
+        "FkR9Jya6gBg-196.jpg",
+        "FkR9Jya6gBg-0.jpg"
+      ]
+    },
+    {
+      "recipe": "geda-soup",
+      "path": "content/recipes/geda-soup.json",
+      "video": "https://www.youtube.com/watch?v=J8cKp90Cy74",
+      "originalSha256": "d03428a664f75c127c7fab84e720e2e9f3d3f84eefe1148916fcdc04ad30cf3b",
+      "resolution": "煮汤水量1500g同步到步骤，和面水20g另算，避免把原表30g误用于煮汤。",
+      "basis": "adopt-explicit-method-over-summary",
+      "evidence": [
+        "J8cKp90Cy74-0.jpg"
+      ]
+    },
+    {
+      "recipe": "mala-crayfish",
+      "path": "content/recipes/mala-crayfish.json",
+      "video": "https://www.youtube.com/watch?v=OmCKlKaxq3U",
+      "originalSha256": "076aa8bbe79d44325a95db2208c1dfd5a652fec0883844a4d78bcaac2caf9ba3",
+      "resolution": "“两勺”没有勺容量，不与5g构成可换算的冲突，统一用可称量的5g；花椒酒为花雕酒误写。",
+      "basis": "prefer-measured-amount-over-unsized-spoon",
+      "evidence": [
+        "OmCKlKaxq3U-0.jpg",
+        "_pilot/transcripts/OmCKlKaxq3U.txt"
+      ]
+    },
+    {
+      "recipe": "oil-braised-prawns",
+      "path": "content/recipes/oil-braised-prawns.json",
+      "video": "https://www.youtube.com/watch?v=4Tdee1QPf9g",
+      "originalSha256": "d92c14a9d5ee4de879e3d76e89e01fb0c662b1e1584737fc0cc01e6e362c5778",
+      "resolution": "移除不可靠的整份虾100g数值；原视频没有可确认的总重量，不擅改成1000g。",
+      "basis": "withdraw-unreliable-total-weight",
+      "evidence": [
+        "4Tdee1QPf9g-0.jpg",
+        "_pilot/transcripts/4Tdee1QPf9g.txt"
+      ]
+    },
+    {
+      "recipe": "pan-fried-pork-elbow",
+      "path": "content/recipes/pan-fried-pork-elbow.json",
+      "video": "https://www.youtube.com/watch?v=kHzz4N840_I",
+      "originalSha256": "aa3dc6facfb104d69a9bcdeb7fa21f3f1ad530ecb6d00e3cd6c1b65b84b192ca",
+      "resolution": "肘子改为1只整肘，不猜测155g的漏字；50分钟有画面纠错说明，保留50分钟。",
+      "basis": "confirmed-on-screen-correction",
+      "evidence": [
+        "kHzz4N840_I-122.jpg",
+        "kHzz4N840_I-3.17.jpg"
+      ]
+    },
+    {
+      "recipe": "smoked-braised-pig-trotters",
+      "path": "content/recipes/smoked-braised-pig-trotters.json",
+      "video": "https://www.youtube.com/watch?v=SrVp5d9HSo8",
+      "originalSha256": "6d575ccbe2f36a0562d9596c8fdd40434ee3ae09f6f2a8e7fe1876b32657da67",
+      "resolution": "操作画面字幕明确慢炖一个半小时，片尾半小时漏字；恢复90分钟并保留熟软判断。",
+      "basis": "confirmed-caption-over-end-card-typo",
+      "evidence": [
+        "SrVp5d9HSo8-136.jpg",
+        "SrVp5d9HSo8-0.jpg"
+      ]
+    },
+    {
+      "recipe": "pickled-mustard-greens-steamed-fish",
+      "path": "content/recipes/pickled-mustard-greens-steamed-fish.json",
+      "video": "https://www.youtube.com/watch?v=RFr2S_6qSQY",
+      "originalSha256": "32528ef44d0b7a4b4f4bec3d80d093e5402fc3a935deddf3f895259a21b29762",
+      "resolution": "实拍字幕写葱姜，纠正上次按片尾改成葱蒜；移除无法可靠分配的姜蒜5g和蒜项。",
+      "basis": "confirmed-caption-over-conflicting-end-card",
+      "evidence": [
+        "RFr2S_6qSQY-152.jpg",
+        "RFr2S_6qSQY-6.23.jpg",
+        "RFr2S_6qSQY-2.73.jpg"
+      ]
+    },
+    {
+      "recipe": "qilin-steamed-fish",
+      "path": "content/recipes/qilin-steamed-fish.json",
+      "video": "https://www.youtube.com/watch?v=ksJfkvNDrC4",
+      "originalSha256": "bfbd74c1ab92829e175ed7c8ae0861cf47efca48cc6d2ea692bc3081b0670c03",
+      "resolution": "5g对应成品水淀粉，不能等同于干淀粉5g；配料名称及步骤统一。",
+      "basis": "adopt-explicit-method-and-distinguish-slurry",
+      "evidence": [
+        "ksJfkvNDrC4-0.jpg"
+      ]
+    },
+    {
+      "recipe": "red-braised-lions-head",
+      "path": "content/recipes/red-braised-lions-head.json",
+      "video": "https://www.youtube.com/watch?v=ZT_Y7suw7Oc",
+      "originalSha256": "8be2943404b38df3cc1739bb930e1679a45ed1cc5ce88a283b0a205a32bd8c0c",
+      "resolution": "分清肉馅、炖汤、勾芡阶段：优先明确的阶段用量，不把食材表总量重复倒入每一步。",
+      "basis": "stage-specific-method-with-unallocated-totals",
+      "evidence": [
+        "ZT_Y7suw7Oc-3.03.jpg",
+        "ZT_Y7suw7Oc-2.03.jpg",
+        "ZT_Y7suw7Oc-4.53.jpg"
+      ]
+    },
+    {
+      "recipe": "red-date-meatball-soup",
+      "path": "content/recipes/red-date-meatball-soup.json",
+      "video": "https://www.youtube.com/watch?v=D7kHwLYeNDs",
+      "originalSha256": "03b1eace3b9b2ca1a03c65a458e6c992e51659359144f587764a36b987bfa520",
+      "resolution": "淀粉执行具体拌馅步骤5g，配料表不再并列2g和5g。",
+      "basis": "adopt-explicit-method-over-summary",
+      "evidence": [
+        "D7kHwLYeNDs-0.jpg"
+      ]
+    },
+    {
+      "recipe": "sour-radish-beef-omasum",
+      "path": "content/recipes/sour-radish-beef-omasum.json",
+      "video": "https://www.youtube.com/watch?v=cKwi7YMsJiQ",
+      "originalSha256": "679cf070f4055d067d72abbded29c8940adb62869433fc80363213b0e579b72f",
+      "resolution": "辣椒以实际入锅步骤50g为执行量，80g准备量不作为额外添加。",
+      "basis": "adopt-explicit-cooking-quantity",
+      "evidence": [
+        "cKwi7YMsJiQ-0.jpg"
+      ]
+    },
+    {
+      "recipe": "sour-soup-beef",
+      "path": "content/recipes/sour-soup-beef.json",
+      "video": "https://www.youtube.com/watch?v=M3rglZ22Rdw",
+      "originalSha256": "42d58b2852067714912892036680e9fa5994eec010427fffc32ea7d9244daf89",
+      "resolution": "出锅辣椒按具体步骤青红各30g；炝锅用量仍为各50g。",
+      "basis": "adopt-explicit-method-over-summary",
+      "evidence": [
+        "M3rglZ22Rdw-0.63.jpg"
+      ]
+    },
+    {
+      "recipe": "century-egg-meatballs",
+      "path": "content/recipes/century-egg-meatballs.json",
+      "video": "https://www.youtube.com/watch?v=Oj43_6bzvgs",
+      "originalSha256": "bd0640fd5979f7cc450f89b494b352ccd7c505bc88f6d4989029a909ad3021c1",
+      "resolution": "胡椒粉和味精缺失的单位由口述明确为克；保留最终片尾修订的盐3g、淀粉30g和鸡蛋。",
+      "basis": "spoken-unit-with-final-recipe-revision",
+      "evidence": [
+        "_pilot/transcripts/Oj43_6bzvgs.txt 67.95-88.06 and 227.68-245.06",
+        "Oj43_6bzvgs-2.5.jpg"
+      ]
+    },
+    {
+      "recipe": "west-lake-vinegar-fish",
+      "path": "content/recipes/west-lake-vinegar-fish.json",
+      "video": "https://www.youtube.com/watch?v=uMlDjiAttXI",
+      "originalSha256": "b483248514d888b1f83cf069124546a984de563be3353518ba9bbe061a6a981c",
+      "resolution": "浸泡20分钟的对象是鱼，不是仅浸泡葱姜调料。",
+      "basis": "restore-missing-object-from-method",
+      "evidence": [
+        "uMlDjiAttXI-3.3.jpg"
+      ]
+    },
+    {
+      "recipe": "wrapped-fried-tofu",
+      "path": "content/recipes/wrapped-fried-tofu.json",
+      "video": "https://www.youtube.com/watch?v=ZVZzHzLuMLw",
+      "originalSha256": "615fd6edef793827f1c393327bb49bbc3ff80d5c288d5c5992d5dcfdd461203d",
+      "resolution": "拍粉遗漏另一面，明确两面都拍粉，仅一面放葱椒盐；80g淀粉的阶段分配未确认，继续不猜。",
+      "basis": "restore-explicit-method",
+      "evidence": [
+        "ZVZzHzLuMLw-0.jpg"
+      ]
+    }
+  ],
+  "remainingUncertainty": [
+    "Unconfirmed prawn total weight and whole-hock weight are not reconstructed by guessing missing zeroes.",
+    "Missing units in cherry pork, red-braised carp, and ten-treasure braise remain unresolved.",
+    "Unspecified starch or seasoning allocations in wrapped fried tofu and West Lake vinegar fish remain unspecified.",
+    "Choosing the detailed method over an inconsistent summary is an editorial resolution, not independent confirmation of an exact weight."
+  ]
+}
