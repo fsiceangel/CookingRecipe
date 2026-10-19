@@ -38,11 +38,11 @@
     },
     {
       "id": "ketchup-3",
-      "ingredient": "ketchup",
+      "ingredient": "tomato-paste",
       "name": {
-        "cn": "番茄酱",
-        "en": "Ketchup",
-        "fr": "Ketchup"
+        "cn": "番茄酱（非番茄沙司）",
+        "en": "Tomato paste, not ketchup",
+        "fr": "Concentré de tomate, pas ketchup"
       },
       "amount": {
         "cn": "50 g",
@@ -156,6 +156,10 @@
         "en": "Cilantro",
         "fr": "Coriandre"
       }
+    },
+    {
+      "id": "garlic-audit",
+      "ingredient": "garlic"
     }
   ],
   "translations": {
@@ -165,8 +169,8 @@
         "选带筋带肉带油的牛肋腩，直接切块，块可以切大一点，煮后会缩水。",
         "西红柿去皮切大丁，便于一会儿炒化。",
         "牛腩冷水下锅，烧开后撇净血沫，因为煮肉的汤后面还要用。",
-        "把焯好的牛腩捞入高压锅，加水、葱姜和两颗大料，上汽后压30分钟至软烂。",
-        "另起锅下少量底油，下葱片煸黄增香。",
+        "另备高压锅加水、葱姜和4个八角，放入焯净的牛腩，上汽压30分钟。",
+        "底油加入葱和少量蒜，煸至葱发黄。",
         "倒入西红柿丁炒软，再加番茄酱炒香（注意是番茄酱不是番茄沙司）。",
         "倒入压好的牛腩，并把煮牛肉的汤一起加入，全程不加清水。",
         "加盐、味精、糖调味，糖可以柔和番茄的酸味。",
@@ -183,8 +187,8 @@
         "Choose beef brisket with tendon, meat, and fat. Cut into chunks, a bit large since they shrink when cooked.",
         "Peel the tomatoes and cut into large dice so they break down later.",
         "Put the brisket in a pot of cold water, bring to a boil, and skim off the foam thoroughly, since the cooking liquid will be used later.",
-        "Transfer the blanched brisket to a pressure cooker, add water, scallion, ginger, and two pieces of star anise, and pressure-cook for 30 minutes until tender.",
-        "In another wok, add a little oil and fry the scallion until golden and fragrant.",
+        "Prepare a pressure cooker with water, scallion, ginger, and 4 star anise. Add the blanched beef and cook for 30 minutes after reaching pressure.",
+        "Fry scallion and a little garlic in oil until the scallion turns golden.",
         "Add the diced tomatoes and cook until soft, then add ketchup and fry until fragrant (note: ketchup, not tomato sauce).",
         "Add the pressure-cooked brisket along with the beef cooking broth; do not add any plain water at any point.",
         "Season with salt, MSG, and sugar; the sugar mellows the tartness of the tomato.",
@@ -201,8 +205,8 @@
         "Choisir du tendron de boeuf avec tendon, viande et gras. Couper en gros morceaux, car ils rétrécissent à la cuisson.",
         "Peler les tomates et les couper en gros dés pour qu'elles fondent ensuite.",
         "Mettre le tendron dans une casserole d'eau froide, porter à ébullition et bien écumer, car le bouillon de cuisson servira plus tard.",
-        "Transférer le tendron blanchi dans un autocuiseur, ajouter eau, ciboule, gingembre et deux anis étoilés, et cuire 30 minutes sous pression jusqu'à tendreté.",
-        "Dans un wok, ajouter un peu d'huile et faire revenir la ciboule jusqu'à ce qu'elle soit dorée et parfumée.",
+        "Préparer l’autocuiseur avec de l’eau, de la ciboule, du gingembre et 4 étoiles de badiane. Ajouter le bœuf blanchi et cuire 30 minutes sous pression.",
+        "Faire revenir la ciboule et un peu d’ail dans l’huile jusqu’à ce que la ciboule dore.",
         "Ajouter les dés de tomate et cuire jusqu'à ce qu'ils ramollissent, puis ajouter le ketchup et faire revenir (du ketchup, pas du coulis).",
         "Ajouter le tendron cuit avec le bouillon de cuisson du boeuf ; ne jamais ajouter d'eau claire.",
         "Assaisonner de sel, glutamate et sucre ; le sucre adoucit l'acidité de la tomate.",

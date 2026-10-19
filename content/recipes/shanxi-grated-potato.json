@@ -82,14 +82,14 @@
       "id": "chili-pepper-6",
       "ingredient": "chili-pepper",
       "name": {
-        "cn": "尖椒",
-        "en": "Green chili pepper",
-        "fr": "Piment vert"
+        "cn": "尖椒和小米辣",
+        "en": "Green chilies and small hot chilies",
+        "fr": "Piments verts et petits piments forts"
       },
       "amount": {
-        "cn": "小米辣 10 g",
-        "en": "10 g bird’s-eye chilies",
-        "fr": "10 g de petits piments forts"
+        "cn": "小米辣 10 g；尖椒未标用量",
+        "en": "10 g small hot chilies; green chili quantity unspecified",
+        "fr": "10 g de petits piments forts ; quantité de piment vert non précisée"
       }
     },
     {
@@ -150,7 +150,7 @@
       "steps": [
         "土豆去皮，用粗孔擦子擦成约三四毫米宽的粗丝，注意安全。",
         "擦好的土豆丝拌入普通面粉，让每一根都裹满面粉、互不粘连，无需用高筋粉。",
-        "上锅蒸熟，蒸到一扒就软糊、带点弹性即可，盛出备用。",
+        "裹粉的土豆丝上锅，上汽后蒸3分钟，取出备用。",
         "锅烧热放油润锅后倒出，换小火下一勺猪油（热锅凉油）。",
         "油热后下肉丝滑散，再下大葱段炒出葱香。",
         "全程大火，下蒜末煸至微黄，再下尖椒、洋葱炒出辣味和洋葱香（喜辣可加炒米辣）。",
@@ -168,7 +168,7 @@
       "steps": [
         "Peel the potatoes and grate them into coarse strands about 3-4 mm wide on a coarse grater; mind your fingers.",
         "Toss the grated potato with all-purpose flour so every strand is coated and won't stick together; no high-gluten flour needed.",
-        "Steam until soft and slightly springy (it should mash easily when poked). Set aside.",
+        "Steam the flour-coated potato shreds for 3 minutes after steam rises, then set aside.",
         "Heat oil in the wok to season it, pour it off, then add a spoon of lard over low heat (hot wok, cool oil).",
         "Once hot, add the shredded pork and stir to separate, then add scallion and fry until fragrant.",
         "Over high heat, add minced garlic and fry until lightly golden, then add the green chili and onion and fry out their heat and aroma (add bird's-eye chili if you like it spicier).",
@@ -186,7 +186,7 @@
       "steps": [
         "Épluchez les pommes de terre et râpez-les en filaments épais d'environ 3-4 mm avec une râpe à gros trous ; attention aux doigts.",
         "Mélangez les filaments râpés avec de la farine ordinaire pour que chacun soit enrobé et ne colle pas ; pas besoin de farine à forte teneur en gluten.",
-        "Faites cuire à la vapeur jusqu'à ce qu'ils soient tendres et légèrement élastiques. Réservez.",
+        "Cuire les filaments de pomme de terre farinés à la vapeur 3 minutes à partir de la montée de vapeur, puis réserver.",
         "Chauffez de l'huile dans le wok pour le culotter, retirez-la, puis ajoutez une cuillère de saindoux à feu doux (wok chaud, huile froide).",
         "Une fois chaud, ajoutez le porc émincé et séparez-le, puis ajoutez la ciboule et faites revenir jusqu'à ce que ce soit parfumé.",
         "À feu vif, ajoutez l'ail haché et faites-le dorer légèrement, puis ajoutez le piment vert et l'oignon et faites ressortir leur piquant et leur arôme.",

@@ -116,6 +116,14 @@
         "en": "1 part to 3 parts sweet potato starch",
         "fr": "1 part pour 3 parts de fécule de patate douce"
       }
+    },
+    {
+      "id": "cornstarch-slurry-audit",
+      "ingredient": "cornstarch-slurry"
+    },
+    {
+      "id": "water-audit",
+      "ingredient": "water"
     }
   ],
   "translations": {
@@ -126,7 +134,7 @@
         "五花肉对着横截面平刀片成约一毫米的薄片（鲜肉不好切可先冻一下）。",
         "把肉片用刀抹平，从一头卷起包住芝士球，再用手转一下团成圆球。",
         "调糖醋汁：锅里底油下蒜片炒香，加番茄酱、白醋、白糖、水和盐烧匀，捞出蒜片备用。",
-        "锅里倒入干净油，肉球表面薄薄挂一层干淀粉（不要太多否则挂不住糊）。",
+        "红薯淀粉与低筋面粉按3:1混合，加水搅匀，再加入约为加水后面糊量30%的油。肉球先薄拍干淀粉，再均匀挂糊。",
         "五成油温下锅、关小火慢炸浸炸，把五花肉炸透、外壳酥脆，肉球浮起基本就熟了，捞出。",
         "大火升温复炸一次（时间别太长）使外壳更脆，捞出。",
         "锅里放底油，倒入糖醋汁，水淀粉勾芡，淋点热油，倒入炸好的肉球翻匀裹汁出锅。",
@@ -146,7 +154,7 @@
         "Slice the pork belly across the grain into thin slices about 1 mm thick (freeze the meat briefly if fresh pork is hard to slice).",
         "Flatten each slice with the knife, roll it from one end around a cheese ball, then roll it in your hand into a round ball.",
         "Make the sweet-and-sour sauce: fry garlic slices in a little oil until fragrant, add ketchup, white vinegar, sugar, water, and salt, mix well, then remove the garlic slices.",
-        "Pour clean oil into the wok, dust the pork balls with a thin layer of dry cornstarch (not too much or the coating won't stick).",
+        "Mix sweet potato starch and cake flour in a 3:1 ratio. Add water to make a batter, then oil equal to about 30% of the hydrated batter. Dust the meatballs lightly with dry starch and coat with batter.",
         "Fry at 50% oil temperature over low heat, slow-frying so the pork cooks through and the shell turns crisp; the balls float when basically done, then remove.",
         "Raise the heat and flash-fry once more (not too long) to make the shell crisper, then remove.",
         "Add a little oil to the wok, pour in the sweet-and-sour sauce, thicken with a cornstarch slurry, drizzle in some hot oil, then add the fried pork balls and toss to coat.",
@@ -166,7 +174,7 @@
         "Trancher la poitrine de porc dans le sens contraire des fibres en fines tranches d'environ 1 mm (congeler brièvement la viande fraîche si elle est difficile à trancher).",
         "Aplatir chaque tranche au couteau, l'enrouler depuis une extrémité autour d'une boule de fromage, puis la rouler à la main en boule.",
         "Préparer la sauce aigre-douce : faire revenir des lamelles d'ail dans un peu d'huile, ajouter le ketchup, le vinaigre blanc, le sucre, l'eau et le sel, bien mélanger, puis retirer l'ail.",
-        "Verser de l'huile propre dans le wok, saupoudrer les boules de porc d'une fine couche de fécule sèche (pas trop, sinon l'enrobage ne tient pas).",
+        "Mélanger la fécule de patate douce et la farine à pâtisserie dans un rapport de 3:1. Ajouter de l’eau, puis de l’huile à hauteur d’environ 30% de la pâte hydratée. Fariner légèrement les boulettes de fécule avant de les enrober de pâte.",
         "Frire à 50 % de température à feu doux, en friture lente pour que le porc cuise à cœur et que la croûte devienne croustillante ; les boules remontent quand elles sont cuites, puis les retirer.",
         "Monter le feu et refrire rapidement une fois (pas trop longtemps) pour rendre la croûte plus croustillante, puis retirer.",
         "Ajouter un peu d'huile au wok, verser la sauce aigre-douce, lier avec une liaison à la fécule, arroser d'huile chaude, puis ajouter les boules de porc frites et enrober.",

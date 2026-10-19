@@ -172,6 +172,10 @@
         "en": "95 g",
         "fr": "95 g"
       }
+    },
+    {
+      "id": "ginger-audit",
+      "ingredient": "ginger"
     }
   ],
   "translations": {
@@ -180,7 +184,7 @@
       "steps": [
         "鸡腿顺着骨头划两刀使其熟得快，下锅煮。",
         "锅里烧水，加大料、花椒、葱姜，放入鸡腿加盖大火烧开煮熟。",
-        "调汁：纯麻酱里分次加入酱油（鲜味酱油即可），慢慢搅至像小料一样润滑不干。",
+        "250g纯麻酱加入95g米醋和130g酱油，慢慢搅至润滑。",
         "加白糖、花椒面、蒜汁、葱花，再加花椒油补麻味、加辣椒油提色提香，调成酸甜麻辣咸鲜香平衡的味汁。",
         "另起一锅宽水煮面，下面后用筷子拨开防粘，煮到断生、中间略留一点白芯即可。",
         "把面迅速过凉水捞出，不要久泡，拌点香油防粘，摊开晾凉。",
@@ -200,7 +204,7 @@
       "steps": [
         "Score the chicken drumsticks twice along the bone so they cook faster, then put them on to boil.",
         "Bring water to a boil with star anise, Sichuan peppercorns, scallion, and ginger, add the drumsticks, cover, and boil over high heat until cooked.",
-        "Make the sauce: into pure sesame paste, add soy sauce (a savory soy sauce is fine) a little at a time, stirring until smooth and loose like a dipping sauce, not dry.",
+        "Gradually mix 95g rice vinegar and 130g soy sauce into 250g pure sesame paste until smooth.",
         "Add sugar, ground Sichuan pepper, garlic juice, and chopped scallion, then add Sichuan pepper oil for the numbing note and chili oil for color and aroma, balancing sour, sweet, numbing, spicy, salty, and savory.",
         "In another pot, boil the noodles in plenty of water, stirring with chopsticks to prevent sticking, until just done with a tiny white core remaining.",
         "Quickly rinse the noodles in cold water and drain without soaking, toss with a little sesame oil to prevent sticking, and spread out to cool.",
@@ -220,7 +224,7 @@
       "steps": [
         "Inciser les pilons de poulet deux fois le long de l'os pour qu'ils cuisent plus vite, puis les mettre à bouillir.",
         "Porter l'eau à ébullition avec l'anis étoilé, le poivre du Sichuan, la ciboule et le gingembre, ajouter les pilons, couvrir et cuire à feu vif jusqu'à cuisson complète.",
-        "Préparer la sauce : dans de la pâte de sésame pure, ajouter la sauce soja (une sauce soja savoureuse convient) petit à petit, en remuant jusqu'à une texture lisse et souple, pas sèche.",
+        "Incorporer progressivement 95g de vinaigre de riz et 130g de sauce soja à 250g de pur sésame en pâte, jusqu’à consistance lisse.",
         "Ajouter le sucre, le poivre du Sichuan moulu, le jus d'ail et la ciboule hachée, puis l'huile de poivre du Sichuan pour la note engourdissante et l'huile pimentée pour la couleur et l'arôme, en équilibrant l'aigre, le sucré, l'engourdissant, le piquant, le salé et l'umami.",
         "Dans une autre casserole, cuire les nouilles dans beaucoup d'eau, en remuant avec des baguettes pour éviter qu'elles collent, jusqu'à ce qu'elles soient juste cuites avec un petit cœur blanc.",
         "Rincer rapidement les nouilles à l'eau froide et les égoutter sans les laisser tremper, les mélanger à un peu d'huile de sésame pour éviter qu'elles collent et les étaler pour refroidir.",

@@ -54,9 +54,9 @@
       "id": "scallion-4",
       "ingredient": "scallion",
       "name": {
-        "cn": "葱（葱油）",
-        "en": "Scallion (scallion oil)",
-        "fr": "Ciboule (huile de ciboule)"
+        "cn": "葱",
+        "en": "Scallion",
+        "fr": "Ciboule"
       },
       "amount": {
         "cn": "5 g",
@@ -168,7 +168,7 @@
       "title": "鱼香土豆泥",
       "steps": [
         "土豆选黄瓤面的，切成厚度均匀的厚片，上蒸锅蒸约15分钟，筷子能按断即熟。",
-        "把蒸好的土豆倒进水里，攥一攥压成土豆泥（不用很细），稍微晾一下。",
+        "蒸好的土豆稍晾凉，直接捣成土豆泥，不另加水。",
         "给土豆泥调味：加盐、味精，再淋点葱油增香，拌匀。",
         "把土豆泥铺到盘里，表面不要弄得太光滑，留点坑洼像沙土地，这样一会儿好挂汁。",
         "炒鱼香汁：起锅烧油，下泡椒酱炒香，加葱姜蒜炒出香味。",
@@ -185,7 +185,7 @@
       "title": "Yu Xiang Mashed Potato",
       "steps": [
         "Use yellow, starchy potatoes; cut into evenly thick slices and steam for about 15 minutes, until a chopstick presses through.",
-        "Tip the steamed potato into water, squeeze and mash it (it needn't be very fine), then let it cool slightly.",
+        "Let the steamed potatoes cool slightly, then mash directly without adding water.",
         "Season the mash: add salt and MSG, drizzle in some scallion oil for aroma, and mix well.",
         "Spread the mash on a plate, leaving the surface uneven and bumpy like sandy ground rather than smooth, so it catches the sauce later.",
         "Make the yu xiang sauce: heat oil, stir-fry the pickled chili paste until fragrant, then add scallion, ginger, and garlic and stir until aromatic.",
@@ -202,7 +202,7 @@
       "title": "Purée de Pommes de Terre Yu Xiang",
       "steps": [
         "Utiliser des pommes de terre jaunes et farineuses ; les couper en tranches d'épaisseur régulière et les cuire à la vapeur environ 15 minutes, jusqu'à ce qu'une baguette les transperce.",
-        "Verser les pommes de terre cuites dans l'eau, les presser et les écraser (pas besoin que ce soit très fin), puis laisser refroidir un peu.",
+        "Laisser tiédir les pommes de terre vapeur, puis les écraser directement sans ajouter d’eau.",
         "Assaisonner la purée : ajouter sel et glutamate, verser un peu d'huile de ciboule pour l'arôme, et bien mélanger.",
         "Étaler la purée sur une assiette, en laissant la surface irrégulière et bosselée comme un sol sableux plutôt que lisse, pour qu'elle retienne la sauce ensuite.",
         "Préparer la sauce yu xiang : chauffer l'huile, faire revenir la pâte de piment mariné jusqu'à ce qu'elle soit parfumée, puis ajouter ciboule, gingembre et ail et faire revenir jusqu'à ce que ce soit aromatique.",

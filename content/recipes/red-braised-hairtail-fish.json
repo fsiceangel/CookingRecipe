@@ -33,11 +33,11 @@
     },
     {
       "id": "flour-3",
-      "ingredient": "flour",
+      "ingredient": "cornstarch",
       "name": {
-        "cn": "面粉",
-        "en": "Flour",
-        "fr": "Farine"
+        "cn": "淀粉",
+        "en": "Starch",
+        "fr": "Fécule"
       }
     },
     {
@@ -270,7 +270,7 @@
         "处理带鱼：去头、去背鳍、去鱼尾尖，剪开腹腔去净内脏和黑膜，表面发涩的鳞用钢丝球擦掉，洗净。",
         "带鱼切段，两面各划几刀深至骨，便于入味。",
         "把鱼段放入葱姜花椒水中浸泡至少一两个小时去腥，泡得越久腥味去得越干净。",
-        "捞出带鱼轻轻攥干水分，表面薄薄拍一层面粉。",
+        "捞出带鱼沥干水分，表面薄薄拍一层淀粉。",
         "锅里放三四勺油，加大料和葱姜先煸出香味，做成香料油。",
         "下带鱼大火煎，使鱼皮迅速结壳定型，煎到表面有硬壳、上色即可。",
         "另起锅放干净油烧热，下葱姜蒜和大料大火煸香煸黄。",
@@ -290,7 +290,7 @@
         "Prep the hairtail: remove the head, dorsal fin, and tail tip, cut open the belly to clean out the innards and black membrane, scrub off the rough surface film with a steel scrubber, and rinse.",
         "Cut the fish into sections and score both sides down to the bone for flavor penetration.",
         "Soak the fish sections in scallion-ginger-peppercorn water for at least one to two hours to remove the fishy smell; the longer the better.",
-        "Lift out the fish, gently squeeze off excess water, and dust both sides with a thin layer of flour.",
+        "Drain the hairtail and coat the surface lightly with starch.",
         "Add three or four spoons of oil to the wok with star anise, scallion, and ginger, and fry until fragrant to make an aromatic oil.",
         "Add the fish and pan-fry over high heat so the skin quickly sets into a crust; fry until the surface is firm and colored.",
         "In another wok, heat fresh oil and fry scallion, ginger, garlic, and star anise over high heat until golden and fragrant.",
@@ -310,7 +310,7 @@
         "Préparer le poisson-sabre : retirer la tête, la nageoire dorsale et le bout de la queue, ouvrir le ventre pour ôter les viscères et la membrane noire, frotter le film rugueux à l'éponge métallique et rincer.",
         "Couper le poisson en tronçons et inciser les deux côtés jusqu'à l'arête.",
         "Faire tremper les tronçons dans l'eau de ciboule, gingembre et poivre au moins une à deux heures pour ôter l'odeur ; plus c'est long, mieux c'est.",
-        "Égoutter le poisson, presser doucement pour ôter l'excès d'eau et fariner légèrement les deux faces.",
+        "Égoutter le poisson sabre et couvrir sa surface d’une fine couche de fécule.",
         "Mettre trois ou quatre cuillères d'huile dans le wok avec l'anis étoilé, la ciboule et le gingembre, et faire revenir jusqu'à obtenir une huile parfumée.",
         "Ajouter le poisson et le faire frire à feu vif pour que la peau forme vite une croûte ; frire jusqu'à ce que la surface soit ferme et colorée.",
         "Dans un autre wok, chauffer de l'huile propre et faire revenir ciboule, gingembre, ail et anis étoilé à feu vif jusqu'à coloration et parfum.",

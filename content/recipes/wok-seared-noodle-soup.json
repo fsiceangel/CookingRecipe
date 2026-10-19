@@ -24,6 +24,11 @@
         "cn": "鸡蛋",
         "en": "Egg",
         "fr": "Œuf"
+      },
+      "amount": {
+        "cn": "3 个",
+        "en": "3 eggs",
+        "fr": "3 œufs"
       }
     },
     {
@@ -75,6 +80,24 @@
         "en": "Salt",
         "fr": "Sel"
       }
+    },
+    {
+      "id": "star-anise-audit",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "1 个",
+        "en": "1 whole star",
+        "fr": "1 étoile entière"
+      }
+    },
+    {
+      "id": "water-audit",
+      "ingredient": "water",
+      "amount": {
+        "cn": "水与面 3:1；偏稀 4:1；偏稠 2:1",
+        "en": "Water:noodles 3:1; thinner 4:1; thicker 2:1",
+        "fr": "Eau:nouilles 3:1 ; plus liquide 4:1 ; plus épais 2:1"
+      }
     }
   ],
   "translations": {
@@ -87,13 +110,13 @@
         "开火放油，油稍多，油温高一些下蛋液，起泡后用勺扒散，炒得稍老一点更出香味，盛出。",
         "再加干净油，温油下大葱，要放大量葱，煸到发黄出浓郁的炝锅香味。",
         "倒入西红柿，再倒入酱油烹一下。",
-        "加水，把炒好的鸡蛋倒进去，大火滚开，让蛋香和葱香融进汤里。",
+        "加开水和炒好的鸡蛋，大火滚煮3分钟。",
         "加盐调味，下面条，大火煮到面条熟即可出锅。"
       ],
       "notes": [
         "葱一定要放足量并煸到发黄，才能出浓郁的炝锅香味。",
         "全靠葱、蛋、西红柿的本味，不放味精、鸡精、胡椒粉。",
-        "喜欢喝汤汤面比例约3:1，喜欢干一点约2:1。",
+        "片尾水与面正常比例3:1，偏稀4:1，偏稠2:1；八角列在食材表，但片尾步骤未说明加入时机。",
         "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
@@ -106,13 +129,13 @@
         "Heat a fairly generous amount of oil; add the eggs while the oil is hot so they puff up, break them apart with the ladle, fry slightly well-done for more aroma, then remove.",
         "Add fresh oil and add a large amount of scallion to warm oil; fry until golden to release the deep wok-seared aroma.",
         "Add the tomato, then add soy sauce and let it sizzle.",
-        "Add water, return the fried egg, and bring to a hard boil over high heat so the egg and scallion aromas blend into the broth.",
+        "Add boiling water and the cooked eggs and boil for 3 minutes.",
         "Season with salt, add the noodles, and boil over high heat just until the noodles are cooked, then serve."
       ],
       "notes": [
         "Use plenty of scallion and fry it until golden to get the deep wok-seared aroma.",
         "It relies entirely on the natural flavor of scallion, egg, and tomato; no MSG, chicken bouillon, or pepper.",
-        "For a soupier bowl use about 3:1 broth to noodles; for drier, about 2:1.",
+        "The source gives water-to-noodle ratios of 3:1 normally, 4:1 for a thinner soup, or 2:1 for a thicker one. Star anise is listed, but its addition is not described.",
         "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
@@ -125,13 +148,13 @@
         "Chauffer une bonne quantité d'huile ; verser les œufs dans l'huile chaude pour qu'ils gonflent, les défaire à la louche, les frire un peu fermes pour plus d'arôme, puis réserver.",
         "Ajouter de l'huile fraîche et beaucoup de ciboule dans l'huile tiède ; faire revenir jusqu'à coloration dorée pour libérer l'arôme profond du saisi au wok.",
         "Ajouter la tomate, puis la sauce soja et la laisser grésiller.",
-        "Ajouter de l'eau, remettre les œufs frits et porter à forte ébullition à feu vif pour que les arômes d'œuf et de ciboule se fondent dans le bouillon.",
+        "Ajouter l’eau bouillante et les œufs cuits et faire bouillir 3 minutes.",
         "Saler, ajouter les nouilles et cuire à feu vif juste jusqu'à ce qu'elles soient cuites, puis servir."
       ],
       "notes": [
         "Utiliser beaucoup de ciboule et la faire revenir jusqu'à doré pour obtenir l'arôme profond du saisi au wok.",
         "Le plat repose entièrement sur le goût naturel de la ciboule, de l'œuf et de la tomate ; ni glutamate, ni bouillon, ni poivre.",
-        "Pour un bol plus liquide, environ 3:1 de bouillon pour nouilles ; pour plus sec, environ 2:1.",
+        "La source donne des rapports eau:nouilles de 3:1 normalement, 4:1 pour une soupe plus liquide et 2:1 pour une plus épaisse. La badiane figure dans la liste, mais son ajout n’est pas décrit.",
         "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }

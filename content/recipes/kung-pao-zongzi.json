@@ -24,11 +24,11 @@
     },
     {
       "id": "chicken-2",
-      "ingredient": "chicken",
+      "ingredient": "chicken-drumstick",
       "name": {
-        "cn": "鸡肉",
-        "en": "Chicken",
-        "fr": "Poulet"
+        "cn": "鸡腿肉",
+        "en": "Chicken thigh meat",
+        "fr": "Chair de cuisse de poulet"
       },
       "amount": {
         "cn": "700 g",
@@ -217,17 +217,14 @@
     "cn": {
       "title": "宫保鸡丁豆沙粽",
       "steps": [
-        "鸡肉切片，煮熟备用（煮的鸡肉特别嫩）。",
-        "准备两种辣椒：一种是炒过弄碎的二荆条，一种是市场买的辣椒面（颜色偏红、香气足），两者搭配炒出香味。",
-        "调宫保汁：按比例兑好酱油、醋、白糖等，大火烧开后用水淀粉勾芡成酱状，稍微晾凉。",
-        "把炒好的辣椒倒进晾凉的芡汁里拌匀，撒入花椒面，再加进勾好的汁。",
-        "加入炒好的花生米，并用果丹皮补一点酸味（煮过后汁里的醋会挥发）。",
-        "把煮熟的鸡肉拌进宫保馅中，宫保鸡丁馅完成。",
-        "糯米提前泡半天，沥干水分。",
-        "包粽：粽叶分层对折成斗形，先装一半糯米，放入宫保鸡丁咸馅；另一个放糯米加豆沙做甜馅，盖上糯米封口。",
-        "对折压实，用绳五花大绑捆好。",
-        "高压锅加水，水没过粽子的一半（泡过的米吸水少）；大火上汽后转小火25分钟。",
-        "关火后不要急着开盖，让它自然焖泡，更加软糯拉丝，再开盖食用。"
+        "鸡腿肉去骨后用刀背略斩，切丁。",
+        "按配料表将白糖、生抽、米醋、味精和花雕酒混成腌鸡汁，用于腌鸡丁。",
+        "二荆条和辣椒面煸香，盛出晾凉。腌鸡汁倒入锅中大火烧开，转小火加水淀粉勾至酱状，盛出晾凉。",
+        "鸡丁拌入煸好的辣椒、花椒面和晾凉的酱汁，再加果丹皮与炒好的花生米。",
+        "糯米提前泡半天，充分沥水后与鸡丁馅混合。",
+        "粽叶折成斗状，装入一半混合馅，每个加入3g豆沙，再用混合馅封层。",
+        "折好粽叶并用绳捆紧，放入高压锅，加水量参考原视频及锅具要求。",
+        "大火上汽后转小火压25分钟，完成后按锅具要求泄压开盖。"
       ],
       "notes": [
         "两种辣椒搭配，香味更足；中间的豆沙能把辣味揉柔一些。",
@@ -238,17 +235,14 @@
     "en": {
       "title": "Kung Pao Chicken & Red-Bean Zongzi",
       "steps": [
-        "Slice the chicken and boil until cooked (boiled chicken stays very tender); set aside.",
-        "Prepare two kinds of chili: stir-fried, crushed erjingtiao chilies, and store-bought chili powder (redder and very fragrant); fry them together to bring out the aroma.",
-        "Mix the kung pao sauce: combine soy sauce, vinegar, sugar, and so on to ratio, bring to a boil over high heat, thicken with starch slurry to a paste, and let cool slightly.",
-        "Stir the fried chili into the cooled thickened sauce, sprinkle in ground Sichuan peppercorn, then add the thickened sauce.",
-        "Add the fried peanuts and use haw flakes to restore some sourness (the vinegar evaporates during boiling).",
-        "Mix the cooked chicken into the kung pao filling; the kung pao chicken filling is done.",
-        "Soak the glutinous rice for half a day in advance, then drain.",
-        "Wrap the zongzi: fold the bamboo leaves into a cone, add half the rice, then the savory kung pao chicken filling; for another, fill with rice plus red bean paste for a sweet one, then cap with rice to seal.",
-        "Fold over, press firmly, and tie tightly with string.",
-        "Add water to a pressure cooker, halfway up the zongzi (soaked rice absorbs less); once steaming on high heat, reduce to low for 25 minutes.",
-        "After turning off the heat, don't rush to open it; let it rest and steam naturally for an even stickier, stretchier texture, then open and serve."
+        "Debone the chicken thighs, lightly pound with the back of a knife, and dice.",
+        "Mix the listed sugar, soy sauce, rice vinegar, MSG, and cooking wine into a marinade for the chicken.",
+        "Toast the chilies and chili powder, then cool. Bring the chicken marinade to a full boil, reduce the heat, thicken with starch slurry, and cool.",
+        "Mix the chicken with the toasted chilies, Sichuan pepper powder, cooled sauce, hawthorn fruit leather, and toasted peanuts.",
+        "Soak the glutinous rice for half a day, drain thoroughly, and mix with the chicken filling.",
+        "Fold the leaves into a cone, half-fill with the rice-chicken mixture, add 3g red bean paste per dumpling, and cover with more mixture.",
+        "Fold and tie the leaves securely, then place the dumplings in a pressure cooker. Refer to the video and your cooker requirements for water level.",
+        "Bring to pressure over high heat, then cook over low heat for 25 minutes. Release pressure and open according to the cooker instructions."
       ],
       "notes": [
         "Combining two kinds of chili gives a fuller aroma; the red bean paste in the middle softens the heat.",
@@ -259,17 +253,14 @@
     "fr": {
       "title": "Zongzi Poulet Kung Pao & Pâte de Haricots Rouges",
       "steps": [
-        "Trancher le poulet et le faire bouillir jusqu'à cuisson (le poulet bouilli reste très tendre) ; réserver.",
-        "Préparer deux sortes de piment : des piments erjingtiao sautés et écrasés, et de la poudre de piment du commerce (plus rouge et très parfumée) ; les faire revenir ensemble pour libérer l'arôme.",
-        "Préparer la sauce kung pao : mélanger sauce soja, vinaigre, sucre, etc. selon les proportions, porter à ébullition à feu vif, lier à la fécule jusqu'à une pâte et laisser tiédir.",
-        "Incorporer le piment frit dans la sauce épaissie refroidie, saupoudrer de poivre du Sichuan moulu, puis ajouter la sauce épaissie.",
-        "Ajouter les cacahuètes frites et utiliser les pastilles d'aubépine pour rétablir un peu d'acidité (le vinaigre s'évapore à la cuisson).",
-        "Mélanger le poulet cuit dans la garniture kung pao ; la garniture poulet kung pao est prête.",
-        "Faire tremper le riz gluant une demi-journée à l'avance, puis égoutter.",
-        "Confectionner les zongzi : plier les feuilles de bambou en cône, ajouter la moitié du riz puis la garniture salée au poulet kung pao ; pour un autre, garnir de riz et de pâte de haricots rouges pour une version sucrée, puis recouvrir de riz pour sceller.",
-        "Replier, tasser fermement et ficeler bien serré.",
-        "Verser de l'eau dans une cocotte-minute, à mi-hauteur des zongzi (le riz trempé absorbe moins) ; une fois sous pression à feu vif, réduire à feu doux 25 minutes.",
-        "Après avoir éteint le feu, ne pas se précipiter pour ouvrir ; laisser reposer et cuire à la vapeur naturellement pour une texture encore plus collante et filante, puis ouvrir et servir."
+        "Désosser les cuisses de poulet, les attendrir légèrement avec le dos du couteau et les couper en dés.",
+        "Mélanger le sucre, la sauce soja, le vinaigre de riz, le glutamate et le vin de cuisine indiqués pour faire mariner le poulet.",
+        "Faire revenir les piments et le piment moulu, puis refroidir. Porter la marinade du poulet à franche ébullition, réduire le feu, épaissir avec la fécule délayée et refroidir.",
+        "Mélanger le poulet avec les piments revenus, le poivre du Sichuan moulu, la sauce refroidie, la pâte d’aubépine et les cacahuètes grillées.",
+        "Faire tremper le riz gluant une demi-journée, bien l’égoutter et le mélanger à la farce au poulet.",
+        "Plier les feuilles en cône, les remplir à moitié du mélange riz-poulet, ajouter 3g de pâte de haricots rouges par pièce et recouvrir de mélange.",
+        "Replier et attacher solidement les feuilles, puis placer les zongzi dans l’autocuiseur. Pour le niveau d’eau, se référer à la vidéo et aux exigences de l’appareil.",
+        "Mettre sous pression à feu vif puis cuire à feu doux 25 minutes. Dépressuriser et ouvrir selon les instructions de l’appareil."
       ],
       "notes": [
         "Combiner deux sortes de piment donne un arôme plus complet ; la pâte de haricots rouges au centre adoucit le piquant.",

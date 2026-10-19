@@ -26,9 +26,9 @@
       "id": "cilantro-2",
       "ingredient": "cilantro",
       "name": {
-        "cn": "香菜",
-        "en": "Cilantro",
-        "fr": "Coriandre"
+        "cn": "香菜杆",
+        "en": "Cilantro stems",
+        "fr": "Tiges de coriandre"
       },
       "amount": {
         "cn": "100 g",
@@ -192,6 +192,11 @@
         "cn": "10 g",
         "en": "10 g",
         "fr": "10 g"
+      },
+      "name": {
+        "cn": "红尖椒丝",
+        "en": "Shredded red chili",
+        "fr": "Piment rouge émincé"
       }
     }
   ],
@@ -204,8 +209,8 @@
         "片好飘过水的海蜇头加点老抽上色，拌成酱油蜇头备用。",
         "锅里放清水烧到约六七十度（不用开锅）转小火，把海蜇片倒进去，开火稍微一打卷就立刻捞出。",
         "兑碗汁：盐、胡椒粉、味精、醋、香油、料酒搅匀。",
-        "另起锅开大火加干净油，烧到六成热冒烟，下葱姜蒜炒香。",
-        "倒入焯好的海蜇头，快速烹入碗汁，旺火爆炒十几秒即出锅，撒上香菜。"
+        "锅中油烧至六成热，下葱姜丝、蒜和红尖椒丝，大火炒香。",
+        "倒入香菜杆、焯好的蜇头和碗汁，大火快速翻炒约14秒，出锅。"
       ],
       "notes": [
         "蜇头含水多，火候是关键——旺火爆炒十几秒，既要炒入味又要保持脆嫩、少出水。",
@@ -221,8 +226,8 @@
         "Toss the sliced, rinsed jellyfish with a little dark soy for color and set aside.",
         "Heat water in the wok to about 60-70°C (don't let it boil) and lower the heat, add the jellyfish slices, turn the heat on, and the moment they curl, scoop them out immediately.",
         "Mix a bowl sauce: salt, white pepper, MSG, vinegar, sesame oil and cooking wine.",
-        "In a fresh wok over high heat, add clean oil, heat to about 60% (just smoking), and fry the scallion, ginger and garlic until fragrant.",
-        "Add the blanched jellyfish, quickly splash in the bowl sauce, stir-fry hard for about ten seconds, then plate and scatter cilantro on top."
+        "Heat the oil and stir-fry the scallion, ginger, garlic, and shredded red chili over high heat until fragrant.",
+        "Add the cilantro stems, blanched jellyfish, and prepared sauce. Stir-fry over high heat for about 14 seconds, then serve."
       ],
       "notes": [
         "Jellyfish holds a lot of water, so timing is everything: a hard ten-second blast over high heat to season it while keeping it crisp and tender without weeping water.",
@@ -238,8 +243,8 @@
         "Mélangez la méduse tranchée et rincée avec un peu de sauce soja foncée pour la colorer et réservez.",
         "Chauffez de l'eau dans le wok à environ 60-70 °C (sans la faire bouillir), baissez le feu, ajoutez les tranches de méduse, allumez le feu et, dès qu'elles s'enroulent, retirez-les aussitôt.",
         "Préparez une sauce en bol : sel, poivre blanc, glutamate, vinaigre, huile de sésame et vin de cuisine.",
-        "Dans un wok propre à feu vif, ajoutez de l'huile propre, chauffez à environ 60 % (légère fumée) et faites revenir ciboule, gingembre et ail.",
-        "Ajoutez la méduse blanchie, versez vivement la sauce en bol, faites sauter à feu vif une dizaine de secondes, dressez et parsemez de coriandre."
+        "Chauffer l’huile et faire revenir à feu vif la ciboule, le gingembre, l’ail et le piment rouge émincé.",
+        "Ajouter les tiges de coriandre, la méduse blanchie et la sauce. Faire sauter à feu vif environ 14 secondes, puis servir."
       ],
       "notes": [
         "La méduse retient beaucoup d'eau ; le minutage est essentiel : un saut vif d'une dizaine de secondes à feu vif pour l'assaisonner tout en la gardant croquante.",

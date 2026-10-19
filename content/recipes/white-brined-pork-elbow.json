@@ -86,9 +86,9 @@
       "id": "white-pepper-7",
       "ingredient": "white-pepper",
       "name": {
-        "cn": "白胡椒",
-        "en": "White pepper",
-        "fr": "Poivre blanc"
+        "cn": "白胡椒粒",
+        "en": "Whole white peppercorns",
+        "fr": "Grains de poivre blanc"
       },
       "amount": {
         "cn": "20 g",
@@ -199,7 +199,7 @@
         "取一个盆放入香料，加姜、一根葱、白酒、盐和温水（不冰手即可），用手搅匀。",
         "把肘子皮朝下放入腌料中，腌一天一宿，腌透味足。",
         "把腌好的肘子焯一下水；腌肘子的香料别扔，留着炖肘子用，泡过的血水汤倒掉不要。",
-        "高压锅里的水调味：放盐、几粒白胡椒，再放入腌料里的香料，开火烧开，让香料味在水里滚出来，撇去血沫，这就是简单的白卤水。",
+        "高压锅烧水，加入50g盐、20g白胡椒粒和捞出的腌制香料，烧开。",
         "把焯过水的肘子放入白卤水中，上汽压二十分钟（没有高压锅就汤宽一点小火慢炖至少一个小时）。",
         "关火后最好放凉，味道更透更浓；改刀装盘即可。"
       ],
@@ -207,6 +207,7 @@
         "肘子顺骨剌开、瘦肉处也划几刀，能让卤味更快渗透入味。",
         "白卤所用香料都是家里常备的，腌肘子的香料可一并入锅炖。",
         "煮好放凉后味道更浓，蘸料同食更佳",
+        "蘸料：蒜泥、50g米醋、10g生抽和5g香油拌匀，蒜泥用量未标。",
         "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
@@ -217,7 +218,7 @@
         "In a basin, combine the spices with ginger, one scallion, white liquor, salt, and warm water (warm enough not to chill the hand), and mix by hand.",
         "Place the elbow skin-side down in the marinade and marinate for a full day and night until thoroughly flavored.",
         "Blanch the marinated elbow; keep the marinade spices for braising and discard the bloody soaking liquid.",
-        "Season the water in a pressure cooker with salt and a few white peppercorns, add the reserved spices, bring to a boil to draw out the aromas, and skim the foam — this is a simple white brine.",
+        "Bring water to a boil in the pressure cooker with 50g salt, 20g whole white peppercorns, and the reserved marinade spices.",
         "Add the blanched elbow to the white brine and pressure cook for twenty minutes (without a pressure cooker, use a more generous amount of liquid and simmer gently for at least an hour).",
         "After turning off the heat, ideally let it cool so the flavor penetrates deeper and richer; slice and plate to serve."
       ],
@@ -225,6 +226,7 @@
         "Scoring the elbow along the bone and into the lean meat lets the brine penetrate and flavor it faster.",
         "The white-brine spices are all common household ones, and the marinade spices can go straight into the braising pot.",
         "The flavor is richer after cooling; serving with a dipping sauce is even better.",
+        "Dipping sauce: mix mashed garlic, 50g rice vinegar, 10g light soy sauce, and 5g sesame oil. Garlic quantity is unspecified.",
         "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
@@ -235,7 +237,7 @@
         "Dans une bassine, mélanger les épices avec du gingembre, une ciboule, de l'alcool blanc, du sel et de l'eau tiède (assez chaude pour ne pas glacer la main), et mélanger à la main.",
         "Placer le jarret couenne vers le bas dans la marinade et laisser mariner un jour et une nuit entiers jusqu'à imprégnation complète.",
         "Blanchir le jarret mariné ; conserver les épices de la marinade pour le braisage et jeter le liquide de trempage sanguinolent.",
-        "Assaisonner l'eau d'un autocuiseur avec du sel et quelques grains de poivre blanc, ajouter les épices réservées, porter à ébullition pour libérer les arômes et écumer la mousse — c'est une saumure blanche simple.",
+        "Porter de l’eau à ébullition dans l’autocuiseur avec 50g de sel, 20g de grains de poivre blanc et les épices récupérées de la marinade.",
         "Ajouter le jarret blanchi à la saumure blanche et cuire sous pression vingt minutes (sans autocuiseur, prévoir plus de liquide et mijoter doucement au moins une heure).",
         "Après avoir éteint le feu, idéalement laisser refroidir pour que la saveur pénètre plus profondément et richement ; trancher et dresser pour servir."
       ],
@@ -243,6 +245,7 @@
         "Inciser le jarret le long de l'os et dans la viande maigre permet à la saumure de pénétrer et de l'aromatiser plus vite.",
         "Les épices de la saumure blanche sont toutes courantes à la maison, et les épices de la marinade peuvent aller directement dans la marmite.",
         "La saveur est plus riche après refroidissement ; servir avec une sauce à tremper est encore meilleur.",
+        "Sauce : mélanger l’ail pilé, 50g de vinaigre de riz, 10g de sauce soja claire et 5g d’huile de sésame. La quantité d’ail n’est pas indiquée.",
         "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }

@@ -130,15 +130,6 @@
       }
     },
     {
-      "id": "sesame-oil-10",
-      "ingredient": "sesame-oil",
-      "name": {
-        "cn": "香油",
-        "en": "Sesame oil",
-        "fr": "Huile de sésame"
-      }
-    },
-    {
       "id": "scallion-11",
       "ingredient": "scallion",
       "name": {
@@ -225,9 +216,9 @@
         "羊外脊（前腿、后腿等筋少的部位均可）切薄片，便于快熟。",
         "羊肉片加酱油、胡椒粉、味精、盐腌一下，酱油可去腥增香并入底味；加少许水抓匀，再加淀粉锁水，最后加点油防止下锅炒时粘连。",
         "若肉质偏老，可每斤肉加约两克小苏打腌半小时使其更嫩。",
-        "调碗芡：米醋、酱油、盐、味精、胡椒粉、少许水、老抽、淀粉、香油，再放入蒜和葱拌匀。",
+        "将米醋、酱油、盐、味精、胡椒粉、水、老抽、淀粉、蒜和葱按配料表的碗芡用量混合。",
         "锅中倒干净油烧热，倒入打散的鸡蛋炒到刚断生即盛出，鸡蛋不要炒太老。",
-        "锅烧热加凉油，下葱姜炸香，用炸过葱姜的油炒羊肉片去腥增香，然后把葱姜捞出，倒入腌好的肉片全程中火。",
+        "热锅凉油，加入炒制用的30g葱和15g姜炸香，先捞出葱姜，再倒入腌好的肉片，中火炒制。",
         "肉片炒到约八成变色，烹入一点醋去腥增香。",
         "倒入炒好的鸡蛋，再倒入调好的碗芡，开大火翻炒至淀粉凝结、汤汁包裹住所有食材即可出锅。"
       ],
@@ -243,9 +234,9 @@
         "Thinly slice the lamb loin (front or hind leg, or any cut with little sinew works) so it cooks quickly.",
         "Marinate the lamb with soy sauce, white pepper, MSG, and salt; the soy sauce removes gaminess, adds aroma, and gives base flavor. Add a little water and mix in, then add cornstarch to lock in moisture, and finally a little oil to keep the slices from sticking when fried.",
         "If the meat is tough, add about 2 g of baking soda per 500 g and marinate for half an hour to tenderize.",
-        "Mix the sauce: rice vinegar, soy sauce, salt, MSG, white pepper, a little water, dark soy sauce, cornstarch, and sesame oil; stir in the garlic and scallion.",
+        "Combine the listed sauce amounts of vinegar, soy sauce, salt, MSG, pepper, water, dark soy sauce, starch, garlic, and scallion.",
         "Heat clean oil in the wok, pour in the beaten eggs, and scramble just until set, then remove. Do not overcook the eggs.",
-        "Reheat the wok, add cool oil, fry the scallion and ginger until fragrant, and use that aromatic oil to cook the lamb (this removes gaminess and adds aroma). Fish out the scallion and ginger, add the marinated lamb, and cook over medium heat throughout.",
+        "Heat the wok with cooler oil, fry 30g scallion and 15g ginger until fragrant, remove them, then add the marinated lamb and cook over medium heat.",
         "When the lamb is about 80% cooked, splash in a little vinegar to remove gaminess and boost aroma.",
         "Add the scrambled eggs back, pour in the mixed sauce, and stir-fry over high heat until the starch thickens and the sauce coats everything, then serve."
       ],
@@ -261,9 +252,9 @@
         "Trancher finement la longe d'agneau (cuisseau avant ou arrière, ou tout morceau peu nerveux) pour une cuisson rapide.",
         "Mariner l'agneau avec la sauce soja, le poivre blanc, le glutamate et le sel ; la sauce soja enlève le goût fort, ajoute de l'arôme et un goût de fond. Ajouter un peu d'eau et incorporer, puis la fécule pour retenir l'humidité, et enfin un peu d'huile pour éviter que les tranches collent.",
         "Si la viande est dure, ajouter environ 2 g de bicarbonate par 500 g et mariner une demi-heure pour l'attendrir.",
-        "Mélanger la sauce : vinaigre de riz, sauce soja, sel, glutamate, poivre blanc, un peu d'eau, sauce soja foncée, fécule et huile de sésame ; incorporer l'ail et la ciboule.",
+        "Mélanger les quantités indiquées pour la sauce : vinaigre, sauce soja, sel, glutamate, poivre, eau, sauce soja foncée, fécule, ail et ciboule.",
         "Chauffer de l'huile propre dans le wok, verser les oeufs battus et brouiller juste jusqu'à prise, puis retirer. Ne pas trop cuire les oeufs.",
-        "Réchauffer le wok, ajouter de l'huile froide, faire revenir la ciboule et le gingembre jusqu'à parfum, et utiliser cette huile aromatique pour cuire l'agneau (cela enlève le goût fort et ajoute de l'arôme). Retirer la ciboule et le gingembre, ajouter l'agneau mariné et cuire à feu moyen.",
+        "Chauffer le wok avec une huile moins chaude, y faire revenir 30g de ciboule et 15g de gingembre, les retirer puis ajouter l’agneau mariné et cuire à feu moyen.",
         "Quand l'agneau est cuit à environ 80%, ajouter un trait de vinaigre pour enlever le goût fort et rehausser l'arôme.",
         "Remettre les oeufs brouillés, verser la sauce mélangée et faire sauter à feu vif jusqu'à ce que la fécule épaississe et enrobe tout, puis servir."
       ],

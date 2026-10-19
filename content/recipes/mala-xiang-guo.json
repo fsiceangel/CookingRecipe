@@ -167,15 +167,6 @@
       }
     },
     {
-      "id": "bell-pepper-13",
-      "ingredient": "bell-pepper",
-      "name": {
-        "cn": "彩椒",
-        "en": "Bell pepper",
-        "fr": "Poivron"
-      }
-    },
-    {
       "id": "corn-14",
       "ingredient": "corn",
       "name": {
@@ -302,11 +293,11 @@
         "加入麻椒花椒打的粉再补一点麻味，加少量水让味道融合。",
         "加点海鲜酱增加复合味，香锅酱即熬好出锅备用。",
         "另起大锅，下油，放洋葱、大蒜、两片姜，全程大火，把葱蒜洋葱煸黄。",
-        "依次放入焯过水的食材：土豆、藕片、彩椒，把土豆煎到一面焦黄。",
-        "放入毛肚、肥肠、牛肉丸、海带、午餐肉、木耳、豆皮、虾仁、玉米，翻炒让食材失去一些水分。",
+        "依次放入焯过水的土豆、藕片和15个干灯笼椒，把土豆煎至表面焦黄。",
+        "加入毛肚、肥肠、牛肉丸、午餐肉、腐竹和木耳等配料，炒掉部分水分，再加入青红椒圈和玉米。",
         "关小火，加入熬好的香锅酱，拌匀。",
         "加酱油炒出香味，翻炒均匀。",
-        "出锅前撒入香菜点缀，再来点蒜，盛在铺底的食材上即可。"
+        "临出锅加入西兰花和20g蒜末，翻匀装盘。"
       ],
       "notes": [
         "食材先焯水再炒，炒去水分后更能吸味，吃着重而不薄。",
@@ -323,11 +314,11 @@
         "Add ground numbing and Sichuan peppercorns for extra numbing aroma, plus a little water to blend the flavors.",
         "Add some hoisin sauce for a more complex taste; the sauce is now done — set aside.",
         "In a large pot, heat oil and fry onion, garlic and two slices of ginger over high heat throughout until golden.",
-        "Add the blanched ingredients in order: potato, lotus root and bell pepper, pan-frying the potato until one side is golden-brown.",
-        "Add beef tripe, pork intestine, beef balls, kelp, luncheon meat, wood ear, tofu skin, shrimp and corn, and stir-fry to cook off some moisture.",
+        "Add the blanched potatoes and lotus root, then 15 dried lantern chilies. Fry until the potatoes are golden.",
+        "Add tripe, intestines, beef balls, luncheon meat, yuba, and wood ear mushrooms. Cook off some moisture, then add the chili rings and corn.",
         "Lower the heat, add the prepared xiang guo sauce, and toss to coat.",
         "Add soy sauce and stir-fry until fragrant, mixing evenly.",
-        "Before serving, sprinkle with cilantro and a little garlic, then pile onto a bed of base ingredients."
+        "Just before serving, add broccoli and 20g minced garlic and toss together."
       ],
       "notes": [
         "Blanch the ingredients first, then stir-fry; cooking off the moisture lets them absorb more flavor for a richer taste.",
@@ -344,11 +335,11 @@
         "Ajouter des poivres engourdissant et du Sichuan moulus pour plus d'arôme engourdissant, plus un peu d'eau pour fondre les saveurs.",
         "Ajouter un peu de sauce hoisin pour un goût plus complexe ; la sauce est prête — réserver.",
         "Dans une grande marmite, chauffer l'huile et faire revenir l'oignon, l'ail et deux tranches de gingembre à feu vif jusqu'à coloration dorée.",
-        "Ajouter les ingrédients blanchis dans l'ordre : pomme de terre, racine de lotus et poivron, en faisant dorer une face de la pomme de terre.",
-        "Ajouter les tripes de boeuf, l'intestin de porc, les boulettes de boeuf, l'algue, le pâté de jambon, le champignon noir, la feuille de tofu, les crevettes et le maïs, et faire revenir pour évaporer un peu d'humidité.",
+        "Ajouter les pommes de terre et le lotus blanchis, puis 15 piments secs en forme de lanterne. Faire dorer les pommes de terre.",
+        "Ajouter les tripes, les intestins, les boulettes de bœuf, le luncheon meat, le yuba et les champignons noirs. Faire évaporer un peu d’eau, puis ajouter les rondelles de piment et le maïs.",
         "Baisser le feu, ajouter la sauce xiang guo préparée et mélanger pour enrober.",
         "Ajouter la sauce soja et faire revenir jusqu'à ce que ce soit parfumé, en mélangeant uniformément.",
-        "Avant de servir, parsemer de coriandre et d'un peu d'ail, puis dresser sur un lit d'ingrédients de base."
+        "Juste avant de servir, ajouter le brocoli et 20g d’ail haché, puis mélanger."
       ],
       "notes": [
         "Blanchir d'abord les ingrédients, puis les faire revenir ; évaporer l'humidité leur permet d'absorber plus de saveur pour un goût plus riche.",

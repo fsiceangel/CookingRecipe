@@ -174,11 +174,11 @@
     },
     {
       "id": "beef-balls-17",
-      "ingredient": "beef-balls",
+      "ingredient": "pork-meatballs",
       "name": {
-        "cn": "肉丸子",
-        "en": "Meatballs",
-        "fr": "Boulettes de viande"
+        "cn": "猪肉丸",
+        "en": "Pork meatballs",
+        "fr": "Boulettes de porc"
       }
     },
     {
@@ -249,7 +249,7 @@
     "cn": {
       "title": "贵州酸汤火锅",
       "steps": [
-        "把美人椒（怕辣可换小米辣，喜辣可用小米辣）加点红酸汤打碎，倒出备用。",
+        "辣椒切丁，和少量红酸汤一起打碎，再与剩余红酸汤混合；辣椒用量按口味调整。",
         "锅洗净倒油，下姜蒜炒香。",
         "下西红柿炒出味（生倒酸汤味道不够复合），再倒入红酸汤，酸汤和水比例约1:3（一勺酸汤三勺水）。",
         "加水至合适量，调味放味精、盐，没有鸡汤可放点鸡汁，再加少许糖融合味道（在家可把水换成鸡汤或骨头汤更浓）。",
@@ -261,13 +261,15 @@
       ],
       "notes": [
         "酸汤和水约1:3；木姜子油是关键风味但要少放，多了味道太冲。",
+        "片尾另给猪肉丸做法：猪肉馅加半个鸡蛋、盐2g、味精1g、胡椒粉1g、淀粉5g、香油2g拌匀；未注明肉馅重量，不能据此推算比例。",
+        "猪板筋切好后，用1g盐、0.5g味精和5g淀粉拌匀再下锅。",
         "用量据视频片尾整理，片尾未标出的用量留空。"
       ]
     },
     "en": {
       "title": "Guizhou Sour-Soup Hotpot",
       "steps": [
-        "Blend red chili peppers (use mild ones if you prefer, or bird's-eye chili for more heat) with a little red sour soup, then pour out and set aside.",
+        "Dice and blend the chilies with a little red sour soup base, then mix with the remaining base. Adjust the chilies to taste.",
         "Wash the wok, add oil, and fry the ginger and garlic until fragrant.",
         "Add the tomato and cook until flavorful (raw sour soup alone is not complex enough), then add the red sour soup at about a 1:3 ratio with water (one spoon sour soup to three spoons water).",
         "Add water to the desired amount, season with MSG and salt, add a little chicken bouillon if you have no stock, and a touch of sugar to round out the flavor (using chicken or bone stock at home makes it richer).",
@@ -279,13 +281,15 @@
       ],
       "notes": [
         "Sour soup to water is about 1:3; litsea oil is the key flavor but use only a little, as too much is overpowering.",
+        "Optional pork meatballs on the end card: mix minced pork with half an egg, 2g salt, 1g MSG, 1g pepper, 5g starch, and 2g sesame oil. The pork weight is unspecified, so a meat-to-seasoning ratio cannot be derived.",
+        "Before cooking, coat the sliced pork tendon with 1g salt, 0.5g MSG, and 5g starch.",
         "Amounts transcribed from the video end cards; unspecified amounts are left blank."
       ]
     },
     "fr": {
       "title": "Fondue à la Soupe Aigre du Guizhou",
       "steps": [
-        "Mixer des piments rouges (doux si vous préférez, ou piments oiseau pour plus de feu) avec un peu de soupe aigre rouge, puis réserver.",
+        "Couper et mixer les piments avec un peu de base de soupe aigre rouge, puis incorporer au reste de la base. Adapter les piments au goût.",
         "Laver le wok, ajouter l'huile et faire revenir le gingembre et l'ail jusqu'à parfum.",
         "Ajouter la tomate et cuire jusqu'à ce qu'elle parfume (la soupe aigre crue seule manque de complexité), puis ajouter la soupe aigre rouge dans un rapport d'environ 1:3 avec l'eau (une cuillère de soupe aigre pour trois d'eau).",
         "Ajouter l'eau à la quantité voulue, assaisonner de glutamate et de sel, ajouter un peu de bouillon de poulet si vous n'avez pas de fond, et un soupçon de sucre pour arrondir (un fond de poulet ou d'os le rend plus riche).",
@@ -297,6 +301,8 @@
       ],
       "notes": [
         "Le rapport soupe aigre/eau est d'environ 1:3 ; l'huile de litsée est la saveur clé mais à doser, car trop est envahissant.",
+        "Boulettes facultatives de la fiche : mélanger du porc haché avec un demi-œuf, 2g de sel, 1g de glutamate, 1g de poivre, 5g de fécule et 2g d’huile de sésame. Le poids de porc n’est pas indiqué ; aucun rapport viande-assaisonnement ne peut en être déduit.",
+        "Avant cuisson, mélanger le tendon de porc coupé avec 1g de sel, 0,5g de glutamate et 5g de fécule.",
         "Quantités transcrites des fiches de fin de vidéo ; celles non indiquées restent vides."
       ]
     }

@@ -152,9 +152,9 @@
         "fr": "Liaison à la fécule"
       },
       "amount": {
-        "cn": "淀粉 5 g，加水调开",
-        "en": "5 g starch, mixed with water",
-        "fr": "5 g de fécule, délayée dans de l’eau"
+        "cn": "食材表：淀粉 5 g；步骤：水淀粉 5 g",
+        "en": "Ingredient list: 5 g starch; method: 5 g starch slurry",
+        "fr": "Liste : 5 g de fécule ; méthode : 5 g de fécule délayée"
       }
     }
   ],

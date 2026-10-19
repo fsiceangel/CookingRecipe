@@ -244,6 +244,10 @@
         "en": "10 g",
         "fr": "10 g"
       }
+    },
+    {
+      "id": "sichuan-peppercorn-oil-audit",
+      "ingredient": "sichuan-peppercorn-oil"
     }
   ],
   "translations": {
@@ -258,7 +262,7 @@
         "放花椒面，加点水，加味精、白糖、胡椒粉调味。",
         "把泡好的豆腐放进去，水量与豆腐齐平，关中火咕嘟两分钟，让味道全进到豆腐里。",
         "勾芡：分次勾，不要一次勾太多。",
-        "出锅前再淋点花椒油、放点辣椒，盛盘后撒青蒜、再撒点花椒面。"
+        "加入花椒油和10g辣椒油拌匀，出锅撒青蒜和花椒粉。"
       ],
       "notes": [
         "用韧豆腐比老豆腐更滑嫩；先用酱油盐水给豆腐入底味是关键，越吃越有回味。",
@@ -277,7 +281,7 @@
         "Add ground Sichuan peppercorn, a little water, then MSG, sugar, and white pepper to season.",
         "Add the soaked tofu, with water level even with the tofu, and simmer over medium heat for two minutes so the flavor fully penetrates.",
         "Thicken with cornstarch slurry, added in stages — not all at once.",
-        "Just before serving, drizzle Sichuan peppercorn oil and add chili; plate, then top with green garlic and a final sprinkle of ground Sichuan peppercorn."
+        "Mix in Sichuan pepper oil and 10g chili oil, then finish with green garlic and Sichuan pepper powder."
       ],
       "notes": [
         "Firm (silken-firm) tofu is more tender than old tofu; pre-seasoning the tofu in salted soy water is the key for lingering flavor.",
@@ -296,7 +300,7 @@
         "Ajouter le poivre du Sichuan moulu, un peu d'eau, puis glutamate, sucre et poivre blanc pour assaisonner.",
         "Ajouter le tofu trempé, le niveau d'eau à hauteur du tofu, et laisser mijoter à feu moyen deux minutes pour que la saveur pénètre bien.",
         "Lier avec la liaison à la fécule, ajoutée en plusieurs fois — pas d'un coup.",
-        "Juste avant de servir, verser un filet d'huile de poivre du Sichuan et ajouter du piment ; dresser, puis parsemer d'ail vert et d'une dernière pincée de poivre du Sichuan moulu."
+        "Incorporer l’huile de poivre du Sichuan et 10g d’huile pimentée, puis terminer par l’ail vert et le poivre du Sichuan moulu."
       ],
       "notes": [
         "Le tofu ferme (soyeux-ferme) est plus tendre que le tofu vieux ; pré-assaisonner le tofu dans l'eau soja salée est la clé d'une saveur persistante.",

@@ -45,9 +45,9 @@
         "fr": "Anis étoilé"
       },
       "amount": {
-        "cn": "2 瓣（步骤所示）",
-        "en": "2 points (as shown in the steps)",
-        "fr": "2 pointes (selon les étapes)"
+        "cn": "食材表 2 个；步骤用 2 瓣",
+        "en": "Ingredient list: 2 whole stars; method: 2 points",
+        "fr": "Liste : 2 étoiles entières ; méthode : 2 pointes"
       }
     },
     {
@@ -142,6 +142,10 @@
         "en": "about 2000 g mushroom soaking water",
         "fr": "environ 2000 g d’eau de trempage des shiitakés"
       }
+    },
+    {
+      "id": "oil-audit",
+      "ingredient": "oil"
     }
   ],
   "translations": {
@@ -154,8 +158,8 @@
         "放入两瓣八角和姜，一起煸炒去腥增香，不停翻动让肉片均匀受热。",
         "把葱倒进去一起煸香。",
         "倒入泡好的蘑菇，用勺子翻拌均匀。",
-        "把泡蘑菇的水加热后倒进去，烧开。",
-        "烧开后调味：加盐、味精、白胡椒粉，搅拌均匀，可再点少许酱油，稍煮入味即可。"
+        "倒入烧开的泡香菇水，煮开后小火慢炖约20分钟，撇去浮沫。",
+        "加入10g盐、3g味精、2g白胡椒粉和30g酱油，搅匀定味，撒10g香葱出锅。"
       ],
       "notes": [
         "用五花肉的猪油和八角是这锅汤鲜香的关键，香料要适量。",
@@ -172,8 +176,8 @@
         "Add two star anise points and the ginger, frying together to remove off-odors and add aroma, stirring constantly so the pork heats evenly.",
         "Add the scallion and fry until fragrant.",
         "Add the soaked mushrooms and stir to combine with a ladle.",
-        "Heat the mushroom soaking water and pour it in, then bring to a boil.",
-        "Once boiling, season with salt, MSG, and white pepper, stir well, add a touch of soy sauce if needed, and simmer briefly to let the flavor develop."
+        "Add the heated mushroom-soaking water, bring to a boil, then simmer for about 20 minutes and skim the foam.",
+        "Season with 10g salt, 3g MSG, 2g white pepper, and 30g soy sauce. Finish with 10g chopped scallion."
       ],
       "notes": [
         "The rendered pork-belly lard and star anise are the key to this rich, fragrant soup; use spices in moderation.",
@@ -190,8 +194,8 @@
         "Ajouter deux pointes d’anis étoilé et le gingembre, faire revenir ensemble pour ôter les mauvaises odeurs et parfumer, en remuant sans cesse pour que le porc chauffe uniformément.",
         "Ajouter la ciboule et faire revenir jusqu'à ce que ce soit parfumé.",
         "Ajouter les champignons réhydratés et mélanger à la louche.",
-        "Chauffer l'eau de trempage des champignons et la verser, puis porter à ébullition.",
-        "À ébullition, assaisonner de sel, glutamate et poivre blanc, bien mélanger, ajouter une touche de sauce soja si besoin, et laisser mijoter brièvement pour développer la saveur."
+        "Verser l’eau de trempage des champignons préalablement portée à ébullition, puis laisser mijoter environ 20 minutes en écumant.",
+        "Assaisonner avec 10g de sel, 3g de glutamate, 2g de poivre blanc et 30g de sauce soja. Terminer par 10g de ciboule hachée."
       ],
       "notes": [
         "Le saindoux issu de la poitrine de porc et l'anis étoilé sont la clé de cette soupe riche et parfumée ; doser les épices avec modération.",

@@ -170,6 +170,10 @@
         "en": "15 g",
         "fr": "15 g"
       }
+    },
+    {
+      "id": "oil-audit",
+      "ingredient": "oil"
     }
   ],
   "translations": {
@@ -177,9 +181,9 @@
       "title": "醋炒蛋",
       "steps": [
         "调一个万能醋溜汁：酱油、醋、白糖、味精、水混合均匀。",
-        "鸡蛋打入碗中，不用搅，放入一半剁椒、一半鲜辣椒。",
+        "8个鸡蛋打入碗中，加入8g剁椒和8g鲜辣椒，不用预先搅散。",
         "平底锅放底油，把蛋液直接倒进去，用铲子把蛋黄戳破，像煎太阳蛋一样单面煎，让辣椒在蛋里均匀分布。",
-        "先大火，底部成壳开始飘动后转小火慢慢成熟，表面蛋黄保持半流状态即可，盛入盘中。",
+        "底部形成薄壳后转小火，继续煎熟，再盛入砂锅。",
         "另起锅烧油，下蒜末、葱花炒香，倒入调好的醋溜汁烧开。",
         "稍微熬一会儿，让葱蒜的味道融进汁里。",
         "转小火，用勺子勾芡，勾到像稠米粥的状态，淋点香油。",
@@ -195,9 +199,9 @@
       "title": "Vinegar Scrambled Eggs",
       "steps": [
         "Make an all-purpose sweet-and-sour vinegar sauce: mix soy sauce, vinegar, sugar, MSG, and water.",
-        "Crack the eggs into a bowl without beating them, then add half chopped salted chili and half fresh chili.",
+        "Crack 8 eggs into a bowl and add 8g chopped salted chilies and 8g fresh chilies without beating first.",
         "Add a little oil to a flat pan, pour in the eggs, break the yolks with a spatula, and fry on one side like a sunny-side-up so the chilies spread evenly through the eggs.",
-        "Start on high heat; once the bottom sets into a crust and begins to slide, lower to low heat and cook gently until the top yolks are still half-runny, then transfer to a plate.",
+        "Once a thin crust forms underneath, reduce the heat and continue cooking, then transfer to a clay pot.",
         "In a separate pan, heat oil, fry the minced garlic and scallion until fragrant, then pour in the vinegar sauce and bring to a boil.",
         "Simmer briefly so the scallion and garlic flavors blend into the sauce.",
         "Lower the heat and thicken with cornstarch slurry, stirring with a ladle until it reaches a thick rice-porridge consistency, then drizzle in sesame oil.",
@@ -213,9 +217,9 @@
       "title": "Oeufs Sautés au Vinaigre",
       "steps": [
         "Préparer une sauce aigre-douce au vinaigre tout usage : mélanger la sauce soja, le vinaigre, le sucre, le glutamate et l'eau.",
-        "Casser les oeufs dans un bol sans les battre, puis ajouter moitié piment haché salé, moitié piment frais.",
+        "Casser 8 œufs dans un bol et ajouter 8g de piments salés hachés et 8g de piments frais sans battre au préalable.",
         "Mettre un peu d'huile dans une poêle plate, y verser les oeufs, percer les jaunes avec une spatule et faire cuire d'un seul côté comme un oeuf au plat, pour que les piments se répartissent uniformément.",
-        "Commencer à feu vif ; une fois que le fond a pris en croûte et commence à glisser, baisser à feu doux et cuire doucement jusqu'à ce que les jaunes du dessus soient encore mi-coulants, puis transférer dans une assiette.",
+        "Lorsqu’une fine croûte se forme dessous, réduire le feu, poursuivre la cuisson puis transférer dans une cocotte.",
         "Dans une autre poêle, chauffer de l'huile, faire revenir l'ail et la ciboule jusqu'à ce qu'ils soient parfumés, puis verser la sauce au vinaigre et porter à ébullition.",
         "Laisser mijoter brièvement pour que les saveurs de ciboule et d'ail se fondent dans la sauce.",
         "Baisser le feu et lier avec la liaison à la fécule, en remuant à la louche jusqu'à une consistance de bouillie de riz épaisse, puis arroser d'huile de sésame.",

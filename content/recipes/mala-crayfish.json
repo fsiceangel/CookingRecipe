@@ -143,9 +143,9 @@
         "fr": "Glutamate"
       },
       "amount": {
-        "cn": "5 g",
-        "en": "5 g",
-        "fr": "5 g"
+        "cn": "食材表 5 g；步骤写“两勺”",
+        "en": "Ingredient list: 5 g; method says two spoonfuls",
+        "fr": "Liste : 5 g ; méthode : deux cuillerées"
       }
     },
     {
@@ -219,7 +219,7 @@
         "起锅烧油，油烧到七成多冒烟，倒入小龙虾，全程大火半煎半炸到全部变红，倒入漏勺把油逼出。",
         "锅里加水，放花椒、麻椒、干辣椒过一下火水（焯过水的辣椒花椒更容易炒出味）。",
         "锅里重新加油，下焯过的辣椒、花椒炒香，全程大火，再放葱姜蒜一块炒，要煸得狠一点，蒜煸黄煸香。",
-        "加入一勺豆瓣酱出色，再加火锅底料炒香，加水，放味精、白糖（糖用来折一下麻椒花椒的苦味）。",
+        "加入豆瓣酱、火锅底料炒香，加水，再加入盐、白糖和味精调味；味精的原片用量有差异，见配料表。",
         "把炸过虾的虾油倒进去，再把小龙虾倒进去；如果虾品质一般，这一步加点啤酒或花椒酒。",
         "开锅之后盖上盖子焖5分钟，出锅时撒上蒜末、淋上香油即可。"
       ],
@@ -238,7 +238,7 @@
         "Heat oil in a wok until it is hot and smoking (about 70%), add the crayfish, and shallow-fry over high heat the whole time until all turn red, then drain off the oil in a colander.",
         "Add water to the wok and briefly blanch the red and green Sichuan peppercorns and dried chilies (blanched chilies and peppercorns release flavor more easily when stir-fried).",
         "Add fresh oil to the wok, stir-fry the blanched chilies and peppercorns until fragrant over high heat, then add scallion, ginger, and garlic, frying hard until the garlic is golden and aromatic.",
-        "Add a spoon of doubanjiang for color, then add hotpot base and stir-fry until fragrant, add water, and season with MSG and sugar (the sugar counters the bitterness of the peppercorns).",
+        "Fry the bean paste and hotpot base, add water, then season with salt, sugar, and MSG. See the ingredient list for the conflicting source amounts of MSG.",
         "Pour in the crayfish-flavored oil from frying, then add the crayfish; if the crayfish quality is only average, add some beer or Sichuan peppercorn wine at this point.",
         "Once it boils, cover and braise for 5 minutes; to finish, sprinkle with minced garlic and drizzle with sesame oil."
       ],
@@ -257,7 +257,7 @@
         "Chauffer l'huile dans un wok jusqu'à ce qu'elle fume (environ 70 %), ajouter les écrevisses et les faire frire à mi-hauteur à feu vif jusqu'à ce qu'elles soient toutes rouges, puis égoutter l'huile dans une passoire.",
         "Ajouter de l'eau dans le wok et blanchir brièvement les poivres du Sichuan rouge et vert et les piments séchés (les piments et poivres blanchis libèrent plus facilement leur saveur à la cuisson).",
         "Ajouter de l'huile fraîche dans le wok, faire revenir les piments et poivres blanchis jusqu'à ce qu'ils soient parfumés à feu vif, puis ajouter ciboule, gingembre et ail, en faisant bien revenir jusqu'à ce que l'ail soit doré et parfumé.",
-        "Ajouter une cuillère de doubanjiang pour la couleur, puis la base de fondue et faire revenir jusqu'à ce que ce soit parfumé, ajouter de l'eau et assaisonner de glutamate et de sucre (le sucre contre l'amertume des poivres).",
+        "Faire revenir la pâte de fèves et la base de fondue, ajouter l’eau puis le sel, le sucre et le glutamate. Voir la liste des ingrédients pour les quantités contradictoires de glutamate dans la source.",
         "Verser l'huile parfumée aux écrevisses issue de la friture, puis ajouter les écrevisses ; si leur qualité est moyenne, ajouter à ce stade un peu de bière ou de vin au poivre du Sichuan.",
         "Une fois à ébullition, couvrir et braiser 5 minutes ; pour finir, parsemer d'ail haché et arroser d'huile de sésame."
       ],

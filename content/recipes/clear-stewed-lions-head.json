@@ -160,6 +160,10 @@
         "en": "Water",
         "fr": "Eau"
       }
+    },
+    {
+      "id": "cornstarch-slurry-audit",
+      "ingredient": "cornstarch-slurry"
     }
   ],
   "translations": {
@@ -167,7 +171,7 @@
       "title": "清炖狮子头",
       "steps": [
         "选硬五花，取整块五花三分之二以上、靠近通脊的部分，肥肉结白、瘦肉颜色不太深为佳，肥瘦比四六或三七均可。",
-        "五花肉去皮，先切片（厚薄一致，刀工差可先冷冻冻硬），再切粗丝，转过来切成约十六粒大小的肉粒，这叫细切粗斩。",
+        "五花肉去皮，先切片、再切丝，切成石榴粒大小的肉粒，再略斩几下，即“细切粗斩”。",
         "切少量马蹄成粒（与肉粒差不多大），马蹄不能放太多，否则易出水影响成型。",
         "开始摔打肉馅：加盐、味精、胡椒粉，分四次逐步打入葱姜水（约一斤肉三两水），越抓越粘，往一个方向摔打，再换方向摔打。",
         "用手揉压肉馅，再用拳头锤打，使肉粒变扁、抱得更紧，打到表面光滑、没有明显颗粒感。",
@@ -188,7 +192,7 @@
       "title": "Clear-Stewed Lion's Head Meatball",
       "steps": [
         "Choose firm pork belly, the upper two-thirds of a whole block near the loin, ideally with firm white fat and lean meat that isn't too dark; a fat-to-lean ratio of 4:6 or 3:7 both work.",
-        "Skin the pork belly, slice it evenly (if your knife skills are weak, freeze it firm first), cut into thick strips, then turn and cut into roughly 16 dice. This is 'finely sliced, coarsely chopped.'",
+        "Remove the skin, slice and shred the pork, then cut into pieces the size of pomegranate seeds and chop briefly.",
         "Dice a small amount of water chestnut (about the size of the meat dice); don't add too much or it releases water and ruins the shape.",
         "Beat the filling: add salt, MSG, and white pepper, and gradually work in the scallion-ginger water in four additions (about 150 g water per 500 g meat). It gets stickier as you grab it; throw it against the bowl in one direction, then switch directions.",
         "Knead and press the filling by hand, then pound it with your fist so the meat dice flatten and bind tightly, until the surface is smooth with no obvious graininess.",
@@ -209,7 +213,7 @@
       "title": "Boulette Tête de Lion en Bouillon Clair",
       "steps": [
         "Choisir une poitrine de porc ferme, les deux tiers supérieurs d'un bloc entier près de la longe, idéalement avec du gras blanc ferme et une viande maigre pas trop foncée ; un rapport gras-maigre de 4:6 ou 3:7 convient.",
-        "Retirer la couenne, trancher régulièrement (si le travail du couteau est difficile, congeler d'abord la viande), couper en grosses lanières, puis retourner et couper en environ 16 dés. C'est la technique « tranché fin, haché grossier ».",
+        "Retirer la couenne, couper le porc en tranches puis en lanières et enfin en morceaux de la taille de grains de grenade ; hacher brièvement.",
         "Couper en dés une petite quantité de châtaignes d'eau (de la taille des dés de viande) ; ne pas en mettre trop, sinon elles rendent de l'eau et gâchent la forme.",
         "Travailler la farce : ajouter sel, glutamate et poivre blanc, et incorporer progressivement l'eau de ciboule et gingembre en quatre fois (environ 150 g d'eau pour 500 g de viande). Elle devient plus collante ; la jeter contre le bol dans un sens, puis changer de sens.",
         "Pétrir et presser la farce à la main, puis la marteler du poing pour que les dés de viande s'aplatissent et se lient bien, jusqu'à ce que la surface soit lisse et sans grain apparent.",

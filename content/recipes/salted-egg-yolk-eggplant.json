@@ -98,6 +98,10 @@
         "en": "Oil",
         "fr": "Huile"
       }
+    },
+    {
+      "id": "ginger-audit",
+      "ingredient": "ginger"
     }
   ],
   "translations": {
@@ -108,7 +112,7 @@
         "剥几个咸鸭蛋取咸蛋黄碾碎，蒜、小米辣、葱花备好。",
         "锅里倒油烧到六成以上高油温（油面不超过锅体一半，防止翻花溢出）。",
         "下茄条高油温炸，让表面迅速结痂不吸油，炸到茄条变软即捞出控油。",
-        "倒出炸油，锅里放少许猪油，下蒜和小米辣炒香。",
+        "倒出炸油，放猪油，加入葱、姜、蒜和小米辣，中火炒香。",
         "加入碾碎的咸蛋黄，小火炒散（不要大火）。",
         "倒入炸好的茄子，用勺背轻轻翻拌让茄子吸足味，避免把茄子杵烂。",
         "加盐、味精小火慢炒入味，最后撒葱花翻匀出锅。"
@@ -126,7 +130,7 @@
         "Peel a few salted duck eggs, take the salted yolks and crush them; have the garlic, bird's eye chili, and chopped scallion ready.",
         "Pour oil into the wok and heat to over 60% hot (keep the oil below half the wok to prevent it from boiling over).",
         "Deep-fry the eggplant strips in hot oil so the surface quickly seals and won't absorb oil; fry until the strips soften, then remove and drain.",
-        "Pour off the frying oil, add a little lard to the wok, and fry the garlic and bird's eye chili until fragrant.",
+        "Pour off the frying oil, add lard, and fry scallion, ginger, garlic, and small chilies over medium heat.",
         "Add the crushed salted egg yolk and stir over low heat until it breaks up and foams (not high heat).",
         "Add the fried eggplant and gently fold with the back of a spoon so it soaks up the flavor, being careful not to mash it.",
         "Season with salt and MSG, stir-fry slowly over low heat to season, then sprinkle with chopped scallion, toss, and serve."
@@ -144,7 +148,7 @@
         "Écaler quelques œufs de cane salés, prélever et écraser les jaunes salés ; préparer l'ail, le piment oiseau et la ciboule hachée.",
         "Verser l'huile dans le wok et la chauffer à plus de 60 % (garder l'huile sous la moitié du wok pour éviter qu'elle ne déborde).",
         "Frire les bâtonnets d'aubergine dans l'huile chaude pour que la surface se scelle vite et n'absorbe pas l'huile ; frire jusqu'à ce qu'ils soient tendres, puis égoutter.",
-        "Vider l'huile de friture, ajouter un peu de saindoux dans le wok et faire revenir l'ail et le piment oiseau.",
+        "Vider l’huile de friture, ajouter du saindoux et faire revenir ciboule, gingembre, ail et petits piments à feu moyen.",
         "Ajouter le jaune d'œuf salé écrasé et remuer à feu doux jusqu'à ce qu'il se défasse et mousse (pas à feu vif).",
         "Ajouter l'aubergine frite et la mélanger délicatement avec le dos d'une cuillère pour qu'elle s'imprègne, sans l'écraser.",
         "Assaisonner de sel et de glutamate, faire sauter doucement à feu doux, puis parsemer de ciboule hachée, mélanger et servir."

@@ -124,6 +124,10 @@
         "en": "Oil",
         "fr": "Huile"
       }
+    },
+    {
+      "id": "green-sichuan-peppercorn-audit",
+      "ingredient": "green-sichuan-peppercorn"
     }
   ],
   "translations": {

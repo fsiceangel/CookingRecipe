@@ -2086,5 +2086,21 @@
       "en": "Zha guang jiao",
       "fr": "Zha guang jiao"
     }
+  },
+  "pork-meatballs": {
+    "category": "meat",
+    "names": {
+      "cn": "猪肉丸",
+      "en": "Pork meatballs",
+      "fr": "Boulettes de porc"
+    }
+  },
+  "tomato-paste": {
+    "category": "seasoning",
+    "names": {
+      "cn": "番茄酱（番茄浓缩酱）",
+      "en": "Tomato paste",
+      "fr": "Concentré de tomate"
+    }
   }
 }

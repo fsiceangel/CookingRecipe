@@ -1,0 +1,3443 @@
+{
+  "reviewedOn": "2026-10-18",
+  "scope": "126 Chef Sui recipes from the preceding ingredient import",
+  "method": "Compared every Chinese ingredient list and cooking method against saved video end-card OCR; visually checked selected critical discrepancies against original frames. Corrected passages translated into English and French. This is a source-consistency audit, not a cooking trial or a verification of every statement in full-length videos.",
+  "reviewedRecipes": [
+    "aged-vinegar-braised-pork",
+    "all-purpose-spicy-brine",
+    "bean-greens-puree-soup",
+    "black-powder-fried-chicken",
+    "bok-choy-braised-tofu",
+    "braised-hairtail-fish",
+    "bundled-chicken",
+    "button-mushroom-soup",
+    "century-egg-meatballs",
+    "charred-chili-pan-fish",
+    "cheese-pineapple-sweet-sour-pork",
+    "cherry-pork",
+    "chestnut-braised-napa-cabbage",
+    "chili-pork-soup-rice",
+    "chili-red-braised-pork",
+    "chopped-chili-scrambled-eggs",
+    "cilantro-blasted-jellyfish",
+    "clay-pot-tofu",
+    "clear-stewed-lamb",
+    "clear-stewed-lions-head",
+    "cola-chicken-wings",
+    "cola-roast-lamb-chops",
+    "cold-dish-collection",
+    "cold-noodles-shredded-chicken",
+    "crispy-fermented-bean-curd-pork",
+    "cross-bridge-spare-ribs",
+    "cui-zhu-fish-flowers",
+    "cumin-lamb",
+    "deboned-stewed-silver-carp-head",
+    "dongpo-pork-elbow",
+    "double-crisp-stir-fry",
+    "dry-pot-potato-slices",
+    "eight-treasure-gourd-duck",
+    "fish-bone-broth-fish-balls",
+    "flavorful-eggplant",
+    "fried-crispy-pork",
+    "fried-radish-balls",
+    "geda-soup",
+    "glutinous-braised-pig-trotter",
+    "golden-coin-eggs",
+    "golden-egg-fried-rice",
+    "guizhou-sour-soup-hotpot",
+    "guizhou-steamed-pork-tai-gezi",
+    "guo-bao-rou",
+    "henan-cai-mang-steamed-roll",
+    "homestyle-crispy-rice",
+    "homestyle-fried-noodles",
+    "hot-and-sour-egg-soup",
+    "hot-sour-bean-sprouts",
+    "hot-sour-potato-shreds",
+    "imperial-shifang-pork",
+    "jade-shrimp-balls",
+    "jujube-red-braised-pork-chefsui",
+    "kung-pao-chicken-chefsui",
+    "kung-pao-zongzi",
+    "lamb-lo-mein",
+    "lantern-shadow-crispy-pork",
+    "late-night-snack-collection",
+    "laziji-chili-chicken",
+    "mala-crayfish",
+    "mala-xiang-guo",
+    "mapo-tofu",
+    "mei-cai-kou-rou",
+    "milky-crucian-carp-soup",
+    "mock-crab",
+    "nine-turn-braised-intestines",
+    "oil-braised-chicken",
+    "oil-braised-prawns",
+    "pagoda-pork",
+    "pan-fried-pork-elbow",
+    "pickled-mustard-greens-steamed-fish",
+    "potato-beef-stew",
+    "prawns-napa-cabbage",
+    "qilin-steamed-fish",
+    "qiu-gao-sweet-millet-porridge",
+    "red-braised-carp",
+    "red-braised-hairtail-fish",
+    "red-braised-lions-head",
+    "red-braised-pork-elbow",
+    "red-date-meatball-soup",
+    "salted-egg-yolk-eggplant",
+    "san-bu-zhan",
+    "scallion-blasted-lamb",
+    "scallion-braised-pork-tendon",
+    "scallion-braised-tofu",
+    "scallion-braised-yuba",
+    "shanxi-grated-potato",
+    "sichuan-boiled-beef",
+    "sichuan-stir-fried-pork-kidney",
+    "silky-pork-tenderloin",
+    "sizzling-oil-eel",
+    "smoked-braised-pig-trotters",
+    "sour-radish-beef-omasum",
+    "sour-soup-beef",
+    "soy-braised-beef-shank",
+    "spicy-potato-shreds",
+    "squirrel-mandarin-fish",
+    "steamed-chicken-chopped-chili",
+    "steamed-shredded-vegetables",
+    "stewed-chicken-soup",
+    "stir-fried-round-cabbage",
+    "stir-roasted-lamb",
+    "sweet-mung-bean-soup",
+    "sweet-potato-balls",
+    "sweet-sour-fish-slices",
+    "sweet-sour-fried-eggs",
+    "sweet-sour-pork-ribs",
+    "sweet-sour-pork-tenderloin",
+    "ten-treasure-braise",
+    "tomato-beef-brisket",
+    "twice-cooked-pork",
+    "vinegar-moo-shu-lamb",
+    "vinegar-pepper-fish",
+    "vinegar-scrambled-eggs",
+    "vinegar-stir-fried-cabbage",
+    "wensi-tofu-soup",
+    "west-lake-vinegar-fish",
+    "white-brined-pork-elbow",
+    "winter-melon-barley-duck-soup",
+    "wok-seared-noodle-soup",
+    "wrapped-fried-tofu",
+    "xinjiang-chili-mixed-noodles",
+    "yunnan-dried-beef",
+    "yuxiang-eggplant",
+    "yuxiang-potato",
+    "yuxiang-shredded-pork"
+  ],
+  "correctedRecipes": [
+    {
+      "recipe": "aged-vinegar-braised-pork",
+      "video": "https://www.youtube.com/watch?v=xdHN-O3zp6Q",
+      "issues": [
+        "步骤漏掉第二次加入的 250 g 陈醋。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "xdHN-O3zp6Q-0.jpg",
+          "videoTime": 329.0
+        },
+        {
+          "frame": "xdHN-O3zp6Q-3.03.jpg",
+          "videoTime": 325.97
+        },
+        {
+          "frame": "xdHN-O3zp6Q-6.03.jpg",
+          "videoTime": 322.97
+        },
+        {
+          "frame": "xdHN-O3zp6Q-9.03.jpg",
+          "videoTime": 319.97
+        }
+      ],
+      "originalSha256": "f751d3abdc3fa854113b5c621070445219699f52703ad092c7bcfe43cf84d07a",
+      "path": "content/recipes/aged-vinegar-braised-pork.json"
+    },
+    {
+      "recipe": "all-purpose-spicy-brine",
+      "video": "https://www.youtube.com/watch?v=MzWkdkY0V68",
+      "issues": [
+        "把煮好后隔夜食用误写成原料提前泡一夜；辣椒品种未明确。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "MzWkdkY0V68-0.jpg",
+          "videoTime": 347.0
+        },
+        {
+          "frame": "MzWkdkY0V68-1.6.jpg",
+          "videoTime": 345.4
+        },
+        {
+          "frame": "MzWkdkY0V68-2.6.jpg",
+          "videoTime": 344.4
+        },
+        {
+          "frame": "MzWkdkY0V68-3.6.jpg",
+          "videoTime": 343.4
+        },
+        {
+          "frame": "MzWkdkY0V68-4.6.jpg",
+          "videoTime": 342.4
+        },
+        {
+          "frame": "MzWkdkY0V68-5.6.jpg",
+          "videoTime": 341.4
+        },
+        {
+          "frame": "MzWkdkY0V68-6.6.jpg",
+          "videoTime": 340.4
+        },
+        {
+          "frame": "MzWkdkY0V68-7.6.jpg",
+          "videoTime": 339.4
+        },
+        {
+          "frame": "MzWkdkY0V68-8.6.jpg",
+          "videoTime": 338.4
+        },
+        {
+          "frame": "MzWkdkY0V68-9.6.jpg",
+          "videoTime": 337.4
+        },
+        {
+          "frame": "MzWkdkY0V68-10.6.jpg",
+          "videoTime": 336.4
+        }
+      ],
+      "originalSha256": "012e34b534feb224c8b2e80dcc693e355586396e861b588ca75c91febb1ecf04",
+      "path": "content/recipes/all-purpose-spicy-brine.json"
+    },
+    {
+      "recipe": "bean-greens-puree-soup",
+      "video": "https://www.youtube.com/watch?v=rrcsXg12bCE",
+      "issues": [
+        "步骤重复炸葱，且加入葱酥与最终调味的顺序和片尾不符。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "rrcsXg12bCE-0.jpg",
+          "videoTime": 813.0
+        },
+        {
+          "frame": "rrcsXg12bCE-2.67.jpg",
+          "videoTime": 810.33
+        },
+        {
+          "frame": "rrcsXg12bCE-3.67.jpg",
+          "videoTime": 809.33
+        },
+        {
+          "frame": "rrcsXg12bCE-4.67.jpg",
+          "videoTime": 808.33
+        },
+        {
+          "frame": "rrcsXg12bCE-5.67.jpg",
+          "videoTime": 807.33
+        },
+        {
+          "frame": "rrcsXg12bCE-6.67.jpg",
+          "videoTime": 806.33
+        },
+        {
+          "frame": "rrcsXg12bCE-7.67.jpg",
+          "videoTime": 805.33
+        },
+        {
+          "frame": "rrcsXg12bCE-8.67.jpg",
+          "videoTime": 804.33
+        },
+        {
+          "frame": "rrcsXg12bCE-9.67.jpg",
+          "videoTime": 803.33
+        },
+        {
+          "frame": "rrcsXg12bCE-10.67.jpg",
+          "videoTime": 802.33
+        }
+      ],
+      "originalSha256": "0c43c8ef6251bace0f4062a35fca7a490570617e168735cbbc16ec5678a7aafd",
+      "path": "content/recipes/bean-greens-puree-soup.json"
+    },
+    {
+      "recipe": "black-powder-fried-chicken",
+      "video": "https://www.youtube.com/watch?v=rK0mQ34sIWU",
+      "issues": [
+        "把腌制 1 天误写成 1 小时；100 g 辣椒属于腌料，浇汁辣椒用量未标。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "rK0mQ34sIWU-0.jpg",
+          "videoTime": 320.0
+        },
+        {
+          "frame": "rK0mQ34sIWU-2.03.jpg",
+          "videoTime": 317.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-3.03.jpg",
+          "videoTime": 316.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-4.03.jpg",
+          "videoTime": 315.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-6.03.jpg",
+          "videoTime": 313.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-7.03.jpg",
+          "videoTime": 312.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-8.03.jpg",
+          "videoTime": 311.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-9.03.jpg",
+          "videoTime": 310.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-10.03.jpg",
+          "videoTime": 309.97
+        },
+        {
+          "frame": "rK0mQ34sIWU-11.03.jpg",
+          "videoTime": 308.97
+        }
+      ],
+      "originalSha256": "cde443411828f457e6493d17e94fe3a1ccb2664455853d3da5b2ddda37190e45",
+      "path": "content/recipes/black-powder-fried-chicken.json"
+    },
+    {
+      "recipe": "bok-choy-braised-tofu",
+      "video": "https://www.youtube.com/watch?v=2qpmOrG0vo8",
+      "issues": [
+        "炒白菜步骤写“不用放油”，与片尾“油锅炒菜帮”矛盾。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "2qpmOrG0vo8-0.75.jpg",
+          "videoTime": 278.25
+        },
+        {
+          "frame": "2qpmOrG0vo8-1.75.jpg",
+          "videoTime": 277.25
+        },
+        {
+          "frame": "2qpmOrG0vo8-2.75.jpg",
+          "videoTime": 276.25
+        }
+      ],
+      "originalSha256": "1a0bf8d81ad50d9080349c6bfb88b8cdf5111bb1f00b04461517f9aff469be96",
+      "path": "content/recipes/bok-choy-braised-tofu.json"
+    },
+    {
+      "recipe": "braised-hairtail-fish",
+      "video": "https://www.youtube.com/watch?v=lLbxe6pOyt8",
+      "issues": [
+        "料汁未写出组成，新增用量在步骤中无法对应。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "lLbxe6pOyt8-0.jpg",
+          "videoTime": 258.0
+        }
+      ],
+      "originalSha256": "71350044f6e3c03bad58749f65feb24df03e5b01f3d7e87ad5f8e8da86024abb",
+      "path": "content/recipes/braised-hairtail-fish.json"
+    },
+    {
+      "recipe": "bundled-chicken",
+      "video": "https://www.youtube.com/watch?v=ZOprmHYjBAE",
+      "issues": [
+        "把捆扎用的小葱叶写成“火腿和小串”，鸡汤一勺应为两勺。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ZOprmHYjBAE-0.jpg",
+          "videoTime": 402.0
+        },
+        {
+          "frame": "ZOprmHYjBAE-2.67.jpg",
+          "videoTime": 399.33
+        }
+      ],
+      "originalSha256": "d066675811735b78c8ce573029d188050f8fda7fcdab1f06520ec95aa8893863",
+      "path": "content/recipes/bundled-chicken.json"
+    },
+    {
+      "recipe": "button-mushroom-soup",
+      "video": "https://www.youtube.com/watch?v=xyXL5b38D08",
+      "issues": [
+        "漏掉小火炖约 20 分钟及出锅香葱；八角食材表与步骤单位不同。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "xyXL5b38D08-0.jpg",
+          "videoTime": 349.0
+        }
+      ],
+      "originalSha256": "9538c28658847566711081811a73b47fc6727fb8a834a71ded001c5082052665",
+      "path": "content/recipes/button-mushroom-soup.json"
+    },
+    {
+      "recipe": "century-egg-meatballs",
+      "video": "https://www.youtube.com/watch?v=Oj43_6bzvgs",
+      "issues": [
+        "淀粉 25 g 应为 30 g；葱姜水及鸡蛋漏入步骤，鸡蛋误写成可选。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "Oj43_6bzvgs-0.jpg",
+          "videoTime": 353.0
+        },
+        {
+          "frame": "Oj43_6bzvgs-1.5.jpg",
+          "videoTime": 351.5
+        },
+        {
+          "frame": "Oj43_6bzvgs-2.5.jpg",
+          "videoTime": 350.5
+        },
+        {
+          "frame": "Oj43_6bzvgs-3.5.jpg",
+          "videoTime": 349.5
+        }
+      ],
+      "originalSha256": "c1298637beaec3b615217cdde4a0e7f8b1794a357ad987ccb15afb7c7de7ab2a",
+      "path": "content/recipes/century-egg-meatballs.json"
+    },
+    {
+      "recipe": "charred-chili-pan-fish",
+      "video": "https://www.youtube.com/watch?v=lbW2wwd5T-I",
+      "issues": [
+        "步骤使用麻椒，配料表漏项。"
+      ],
+      "changedFields": [
+        "ingredients"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "lbW2wwd5T-I-0.jpg",
+          "videoTime": 484.0
+        },
+        {
+          "frame": "lbW2wwd5T-I-0.5.jpg",
+          "videoTime": 483.5
+        },
+        {
+          "frame": "lbW2wwd5T-I-1.jpg",
+          "videoTime": 483.0
+        },
+        {
+          "frame": "lbW2wwd5T-I-2.jpg",
+          "videoTime": 482.0
+        },
+        {
+          "frame": "lbW2wwd5T-I-2.5.jpg",
+          "videoTime": 481.5
+        },
+        {
+          "frame": "lbW2wwd5T-I-3.5.jpg",
+          "videoTime": 480.5
+        },
+        {
+          "frame": "lbW2wwd5T-I-4.jpg",
+          "videoTime": 480.0
+        },
+        {
+          "frame": "lbW2wwd5T-I-4.5.jpg",
+          "videoTime": 479.5
+        },
+        {
+          "frame": "lbW2wwd5T-I-5.5.jpg",
+          "videoTime": 478.5
+        }
+      ],
+      "originalSha256": "6b16f0134a8679f7cb745db36d65d4816a415febd7cb7a44bdbbd8e26a53c084",
+      "path": "content/recipes/charred-chili-pan-fish.json"
+    },
+    {
+      "recipe": "cheese-pineapple-sweet-sour-pork",
+      "video": "https://www.youtube.com/watch?v=sg3_Fgq3F3Q",
+      "issues": [
+        "只有干粉步骤，漏掉 3:1 淀粉面粉糊与挂糊。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "sg3_Fgq3F3Q-0.12.jpg",
+          "videoTime": 293.88
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-0.6.jpg",
+          "videoTime": 293.4
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-1.08.jpg",
+          "videoTime": 292.92
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-1.56.jpg",
+          "videoTime": 292.44
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-2.04.jpg",
+          "videoTime": 291.96
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-19.32.jpg",
+          "videoTime": 274.68
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-19.8.jpg",
+          "videoTime": 274.2
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-20.28.jpg",
+          "videoTime": 273.72
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-20.76.jpg",
+          "videoTime": 273.24
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-21.24.jpg",
+          "videoTime": 272.76
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-21.72.jpg",
+          "videoTime": 272.28
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-22.2.jpg",
+          "videoTime": 271.8
+        },
+        {
+          "frame": "sg3_Fgq3F3Q-22.68.jpg",
+          "videoTime": 271.32
+        }
+      ],
+      "originalSha256": "05b073316ca9b64bfde800b5541aaa490b4467167673153bba39b8c4f1287d9b",
+      "path": "content/recipes/cheese-pineapple-sweet-sour-pork.json"
+    },
+    {
+      "recipe": "cherry-pork",
+      "video": "https://www.youtube.com/watch?v=Fc9om6UDErg",
+      "issues": [
+        "八角食材表“4个”与步骤“4瓣”不同，先前只记录前者。"
+      ],
+      "changedFields": [
+        "ingredients"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "Fc9om6UDErg-0.jpg",
+          "videoTime": 239.0
+        }
+      ],
+      "originalSha256": "432f8f11b833341572d5539b209e91e6de9d230eb5283a075d72316271086a7a",
+      "path": "content/recipes/cherry-pork.json"
+    },
+    {
+      "recipe": "chestnut-braised-napa-cabbage",
+      "video": "https://www.youtube.com/watch?v=qFEa6jzP18w",
+      "issues": [
+        "板栗需要敲碎，旧步骤却写不要敲碎；白菜食材表 260 g 与步骤 570 g 矛盾。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "qFEa6jzP18w-0.jpg",
+          "videoTime": 247.0
+        }
+      ],
+      "originalSha256": "501dba9de6ce5d85d576ebd5dac729bb3730bc5829e2574e84d8f593f05dd595",
+      "path": "content/recipes/chestnut-braised-napa-cabbage.json"
+    },
+    {
+      "recipe": "chili-pork-soup-rice",
+      "video": "https://www.youtube.com/watch?v=FPNf3QeLxPc",
+      "issues": [
+        "新增的可选笋丁没有进入步骤。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "FPNf3QeLxPc-0.jpg",
+          "videoTime": 213.0
+        }
+      ],
+      "originalSha256": "f57b3263f24295c1c92ea58fa3524a1020f4b98e59afe490da7548b2ea525152",
+      "path": "content/recipes/chili-pork-soup-rice.json"
+    },
+    {
+      "recipe": "chili-red-braised-pork",
+      "video": "https://www.youtube.com/watch?v=mCuP5paYfeU",
+      "issues": [
+        "误把五香鹌鹑蛋录成板栗；漏糖和 15 分钟高压时间；糖色错误关联到白糖。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "mCuP5paYfeU-0.jpg",
+          "videoTime": 234.0
+        }
+      ],
+      "originalSha256": "ff43b84aa412e716cb338786310de15ad3d7ff0c20833640ac3f54244fd7e28c",
+      "path": "content/recipes/chili-red-braised-pork.json"
+    },
+    {
+      "recipe": "cilantro-blasted-jellyfish",
+      "video": "https://www.youtube.com/watch?v=g9fqWQEdECs",
+      "issues": [
+        "香菜杆应与蜇头一起爆炒；漏掉红尖椒丝。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "g9fqWQEdECs-0.jpg",
+          "videoTime": 232.0
+        }
+      ],
+      "originalSha256": "3bd3ed8e9eb72d8a4e01642d19ce9cc52c897715584cbe0b7c8256bf3af54a07",
+      "path": "content/recipes/cilantro-blasted-jellyfish.json"
+    },
+    {
+      "recipe": "clay-pot-tofu",
+      "video": "https://www.youtube.com/watch?v=vUduz3jKL2s",
+      "issues": [
+        "片尾要求倒出炸油后下高汤；旧步骤多加了炸葱姜与油。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "vUduz3jKL2s-0.jpg",
+          "videoTime": 268.0
+        },
+        {
+          "frame": "vUduz3jKL2s-2.03.jpg",
+          "videoTime": 265.97
+        }
+      ],
+      "originalSha256": "591d45bf33ecbef749cdf1852287d9304d675bfde739372b7722892b55e2dd99",
+      "path": "content/recipes/clay-pot-tofu.json"
+    },
+    {
+      "recipe": "clear-stewed-lions-head",
+      "video": "https://www.youtube.com/watch?v=AVS8bLuQDaM",
+      "issues": [
+        "“石榴粒大小”误录成“十六粒大小”；另需裹丸子的水淀粉。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "AVS8bLuQDaM-0.jpg",
+          "videoTime": 386.0
+        },
+        {
+          "frame": "AVS8bLuQDaM-3.jpg",
+          "videoTime": 383.0
+        },
+        {
+          "frame": "AVS8bLuQDaM-6.jpg",
+          "videoTime": 380.0
+        },
+        {
+          "frame": "AVS8bLuQDaM-9.jpg",
+          "videoTime": 377.0
+        },
+        {
+          "frame": "AVS8bLuQDaM-12.jpg",
+          "videoTime": 374.0
+        },
+        {
+          "frame": "AVS8bLuQDaM-15.jpg",
+          "videoTime": 371.0
+        },
+        {
+          "frame": "AVS8bLuQDaM-18.jpg",
+          "videoTime": 368.0
+        }
+      ],
+      "originalSha256": "77430a6db8c7e515b6a5e20ddbe597aa6d107fd48e5fcf1f4ab665589dd42ecc",
+      "path": "content/recipes/clear-stewed-lions-head.json"
+    },
+    {
+      "recipe": "cola-chicken-wings",
+      "video": "https://www.youtube.com/watch?v=jTQL3vo4AEA",
+      "issues": [
+        "“姜水”误录为“浆水”，去掉把浸泡用于判断食材新鲜度的表述。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "jTQL3vo4AEA-0.jpg",
+          "videoTime": 268.0
+        }
+      ],
+      "originalSha256": "e7a0109cc39916123830107baff317282464f27d69804577285f73c1cc444a3f",
+      "path": "content/recipes/cola-chicken-wings.json"
+    },
+    {
+      "recipe": "cola-roast-lamb-chops",
+      "video": "https://www.youtube.com/watch?v=ykKjcfrP5wg",
+      "issues": [
+        "第二次烤制应为 220°C、3 分钟，旧记录为 5 分钟。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ykKjcfrP5wg-1.45.jpg",
+          "videoTime": 393.55
+        },
+        {
+          "frame": "ykKjcfrP5wg-2.45.jpg",
+          "videoTime": 392.55
+        },
+        {
+          "frame": "ykKjcfrP5wg-3.45.jpg",
+          "videoTime": 391.55
+        }
+      ],
+      "originalSha256": "1b69c8e93b9fb7109ed2417273ca344b8cd561cb104575ed20c1f6a195e1d661",
+      "path": "content/recipes/cola-roast-lamb-chops.json"
+    },
+    {
+      "recipe": "cold-dish-collection",
+      "video": "https://www.youtube.com/watch?v=FkR9Jya6gBg",
+      "issues": [
+        "捞汁秋葵步骤漏姜和小米辣；老醋花生熬汁写入无来源的蒜。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "FkR9Jya6gBg-0.jpg",
+          "videoTime": 381.0
+        },
+        {
+          "frame": "FkR9Jya6gBg-3.8.jpg",
+          "videoTime": 377.2
+        },
+        {
+          "frame": "FkR9Jya6gBg-5.8.jpg",
+          "videoTime": 375.2
+        }
+      ],
+      "originalSha256": "dae29ac5c94f2f97fafd4d8b4f7cb6f5217ef2db0a37801c46fd8c242ee748a4",
+      "path": "content/recipes/cold-dish-collection.json"
+    },
+    {
+      "recipe": "cold-noodles-shredded-chicken",
+      "video": "https://www.youtube.com/watch?v=xbvBb9hkw-U",
+      "issues": [
+        "怪味汁步骤漏掉 95 g 米醋，煮鸡腿用姜漏列。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "xbvBb9hkw-U-0.jpg",
+          "videoTime": 438.0
+        },
+        {
+          "frame": "xbvBb9hkw-U-2.02.jpg",
+          "videoTime": 435.98
+        },
+        {
+          "frame": "xbvBb9hkw-U-3.02.jpg",
+          "videoTime": 434.98
+        },
+        {
+          "frame": "xbvBb9hkw-U-5.02.jpg",
+          "videoTime": 432.98
+        },
+        {
+          "frame": "xbvBb9hkw-U-6.02.jpg",
+          "videoTime": 431.98
+        },
+        {
+          "frame": "xbvBb9hkw-U-8.02.jpg",
+          "videoTime": 429.98
+        },
+        {
+          "frame": "xbvBb9hkw-U-9.02.jpg",
+          "videoTime": 428.98
+        },
+        {
+          "frame": "xbvBb9hkw-U-10.02.jpg",
+          "videoTime": 427.98
+        }
+      ],
+      "originalSha256": "05538e983f099b04fd31450aa735a8f16df38e38b202b94be085f69caa424ba9",
+      "path": "content/recipes/cold-noodles-shredded-chicken.json"
+    },
+    {
+      "recipe": "cross-bridge-spare-ribs",
+      "video": "https://www.youtube.com/watch?v=Z71U7UWyzX0",
+      "issues": [
+        "炖排骨时间按片尾改为约 90 分钟。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "Z71U7UWyzX0-0.jpg",
+          "videoTime": 346.0
+        },
+        {
+          "frame": "Z71U7UWyzX0-1.55.jpg",
+          "videoTime": 344.45
+        },
+        {
+          "frame": "Z71U7UWyzX0-2.55.jpg",
+          "videoTime": 343.45
+        },
+        {
+          "frame": "Z71U7UWyzX0-3.55.jpg",
+          "videoTime": 342.45
+        }
+      ],
+      "originalSha256": "2aaa68f225c52e78c4323ea93ccbebb041e8e2b3126aa2582ebb17d49f829a89",
+      "path": "content/recipes/cross-bridge-spare-ribs.json"
+    },
+    {
+      "recipe": "cui-zhu-fish-flowers",
+      "video": "https://www.youtube.com/watch?v=nCT0vT8Eo9w",
+      "issues": [
+        "复炸误写成回糖醋汁中煮；腌鱼为葱姜花椒盐水。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "nCT0vT8Eo9w-0.jpg",
+          "videoTime": 622.0
+        },
+        {
+          "frame": "nCT0vT8Eo9w-2.03.jpg",
+          "videoTime": 619.97
+        },
+        {
+          "frame": "nCT0vT8Eo9w-4.03.jpg",
+          "videoTime": 617.97
+        },
+        {
+          "frame": "nCT0vT8Eo9w-6.03.jpg",
+          "videoTime": 615.97
+        },
+        {
+          "frame": "nCT0vT8Eo9w-8.03.jpg",
+          "videoTime": 613.97
+        },
+        {
+          "frame": "nCT0vT8Eo9w-10.03.jpg",
+          "videoTime": 611.97
+        },
+        {
+          "frame": "nCT0vT8Eo9w-11.03.jpg",
+          "videoTime": 610.97
+        }
+      ],
+      "originalSha256": "b92c6a001645afae156bfe086180698ab36acdef23839e0a9a3535da32e4bfa5",
+      "path": "content/recipes/cui-zhu-fish-flowers.json"
+    },
+    {
+      "recipe": "deboned-stewed-silver-carp-head",
+      "video": "https://www.youtube.com/watch?v=HWBGiE-cEwo",
+      "issues": [
+        "煮鱼头的八角漏入步骤。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "HWBGiE-cEwo-0.jpg",
+          "videoTime": 536.0
+        },
+        {
+          "frame": "HWBGiE-cEwo-0.87.jpg",
+          "videoTime": 535.13
+        },
+        {
+          "frame": "HWBGiE-cEwo-1.87.jpg",
+          "videoTime": 534.13
+        },
+        {
+          "frame": "HWBGiE-cEwo-2.87.jpg",
+          "videoTime": 533.13
+        },
+        {
+          "frame": "HWBGiE-cEwo-3.87.jpg",
+          "videoTime": 532.13
+        }
+      ],
+      "originalSha256": "4344f60854f4a29c8d0ab7faa35ed5f068418e894167349a7585245d39ca776e",
+      "path": "content/recipes/deboned-stewed-silver-carp-head.json"
+    },
+    {
+      "recipe": "dongpo-pork-elbow",
+      "video": "https://www.youtube.com/watch?v=X0AjpQN636Q",
+      "issues": [
+        "漏掉砂锅约 100 分钟、味精及蘸汁酱油和葱末。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "X0AjpQN636Q-0.36.jpg",
+          "videoTime": 388.64
+        },
+        {
+          "frame": "X0AjpQN636Q-0.84.jpg",
+          "videoTime": 388.16
+        },
+        {
+          "frame": "X0AjpQN636Q-1.32.jpg",
+          "videoTime": 387.68
+        },
+        {
+          "frame": "X0AjpQN636Q-1.8.jpg",
+          "videoTime": 387.2
+        },
+        {
+          "frame": "X0AjpQN636Q-2.28.jpg",
+          "videoTime": 386.72
+        },
+        {
+          "frame": "X0AjpQN636Q-3.24.jpg",
+          "videoTime": 385.76
+        },
+        {
+          "frame": "X0AjpQN636Q-3.72.jpg",
+          "videoTime": 385.28
+        },
+        {
+          "frame": "X0AjpQN636Q-4.2.jpg",
+          "videoTime": 384.8
+        },
+        {
+          "frame": "X0AjpQN636Q-4.68.jpg",
+          "videoTime": 384.32
+        }
+      ],
+      "originalSha256": "66be98209017a2a2c10d8631112d9418f10a81fd4a9df793f4409e7aadaa959a",
+      "path": "content/recipes/dongpo-pork-elbow.json"
+    },
+    {
+      "recipe": "double-crisp-stir-fry",
+      "video": "https://www.youtube.com/watch?v=NudS5psPlTE",
+      "issues": [
+        "碗芡仅写“另调一碗”，未说明新增配料和用量。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "NudS5psPlTE-0.jpg",
+          "videoTime": 517.0
+        },
+        {
+          "frame": "NudS5psPlTE-1.02.jpg",
+          "videoTime": 515.98
+        },
+        {
+          "frame": "NudS5psPlTE-3.02.jpg",
+          "videoTime": 513.98
+        },
+        {
+          "frame": "NudS5psPlTE-4.02.jpg",
+          "videoTime": 512.98
+        },
+        {
+          "frame": "NudS5psPlTE-5.02.jpg",
+          "videoTime": 511.98
+        },
+        {
+          "frame": "NudS5psPlTE-7.02.jpg",
+          "videoTime": 509.98
+        }
+      ],
+      "originalSha256": "2b19aec2d7cfcac610feb70f002dab55f503df8b707ebac0944e343178e19ce8",
+      "path": "content/recipes/double-crisp-stir-fry.json"
+    },
+    {
+      "recipe": "dry-pot-potato-slices",
+      "video": "https://www.youtube.com/watch?v=WY8OyAH4fgo",
+      "issues": [
+        "土豆淀粉错误关联玉米淀粉；步骤漏火腿肠、洋葱垫底，干碟料误写成干辣椒。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "WY8OyAH4fgo-0.jpg",
+          "videoTime": 316.0
+        },
+        {
+          "frame": "WY8OyAH4fgo-2.9.jpg",
+          "videoTime": 313.1
+        },
+        {
+          "frame": "WY8OyAH4fgo-3.9.jpg",
+          "videoTime": 312.1
+        },
+        {
+          "frame": "WY8OyAH4fgo-4.9.jpg",
+          "videoTime": 311.1
+        },
+        {
+          "frame": "WY8OyAH4fgo-5.9.jpg",
+          "videoTime": 310.1
+        },
+        {
+          "frame": "WY8OyAH4fgo-6.9.jpg",
+          "videoTime": 309.1
+        },
+        {
+          "frame": "WY8OyAH4fgo-7.9.jpg",
+          "videoTime": 308.1
+        },
+        {
+          "frame": "WY8OyAH4fgo-8.9.jpg",
+          "videoTime": 307.1
+        }
+      ],
+      "originalSha256": "312f1bc4d2418d09aa090ed6a3754dcc73b0045c70cb6e82f22d85271708e7a8",
+      "path": "content/recipes/dry-pot-potato-slices.json"
+    },
+    {
+      "recipe": "eight-treasure-gourd-duck",
+      "video": "https://www.youtube.com/watch?v=s6-0OPNpqUg",
+      "issues": [
+        "原始画面明确为蒸 66 分钟，旧步骤误写成六分钟。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "s6-0OPNpqUg-0.jpg",
+          "videoTime": 463.0
+        },
+        {
+          "frame": "s6-0OPNpqUg-0.8.jpg",
+          "videoTime": 462.2
+        },
+        {
+          "frame": "s6-0OPNpqUg-1.8.jpg",
+          "videoTime": 461.2
+        },
+        {
+          "frame": "s6-0OPNpqUg-2.8.jpg",
+          "videoTime": 460.2
+        },
+        {
+          "frame": "s6-0OPNpqUg-3.8.jpg",
+          "videoTime": 459.2
+        },
+        {
+          "frame": "s6-0OPNpqUg-4.8.jpg",
+          "videoTime": 458.2
+        },
+        {
+          "frame": "s6-0OPNpqUg-5.8.jpg",
+          "videoTime": 457.2
+        }
+      ],
+      "originalSha256": "2e6c75840cdaff487205ae0ce430e14ad91d749efa9c7093a841089956192d57",
+      "path": "content/recipes/eight-treasure-gourd-duck.json"
+    },
+    {
+      "recipe": "fish-bone-broth-fish-balls",
+      "video": "https://www.youtube.com/watch?v=7MFpSvzWAeI",
+      "issues": [
+        "鱼茸用的是葱姜水，旧步骤写清水。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "7MFpSvzWAeI-0.jpg",
+          "videoTime": 443.0
+        },
+        {
+          "frame": "7MFpSvzWAeI-0.73.jpg",
+          "videoTime": 442.27
+        },
+        {
+          "frame": "7MFpSvzWAeI-1.23.jpg",
+          "videoTime": 441.77
+        },
+        {
+          "frame": "7MFpSvzWAeI-1.73.jpg",
+          "videoTime": 441.27
+        }
+      ],
+      "originalSha256": "408f67d4fe95a5cddf4bb70fa07ee81e851f91b82172d8fc8444e7402397a9eb",
+      "path": "content/recipes/fish-bone-broth-fish-balls.json"
+    },
+    {
+      "recipe": "flavorful-eggplant",
+      "video": "https://www.youtube.com/watch?v=rc5kh7lYkSM",
+      "issues": [
+        "料汁错列盐，漏味精及花雕酒；出锅漏芝麻。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "rc5kh7lYkSM-0.jpg",
+          "videoTime": 273.0
+        }
+      ],
+      "originalSha256": "6e9c1d0354916a583c0cf84c3c6802bd3931ef13d604689b67bca0b6cf4e3f05",
+      "path": "content/recipes/flavorful-eggplant.json"
+    },
+    {
+      "recipe": "fried-crispy-pork",
+      "video": "https://www.youtube.com/watch?v=HuReR9Xt5dk",
+      "issues": [
+        "腌肉香料水的实际取用量 50 g 只在笔记里，补入操作步骤。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "HuReR9Xt5dk-0.jpg",
+          "videoTime": 253.0
+        }
+      ],
+      "originalSha256": "3c9fd2e08835a95f32bafa309f96ccceec2be5076b34f820d065676abcbe9917",
+      "path": "content/recipes/fried-crispy-pork.json"
+    },
+    {
+      "recipe": "glutinous-braised-pig-trotter",
+      "video": "https://www.youtube.com/watch?v=N2ukHf2n5kg",
+      "issues": [
+        "高压时间 25 分钟与片尾 30–35 分钟不符，焯水应为热水下锅。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "N2ukHf2n5kg-0.03.jpg",
+          "videoTime": 312.97
+        },
+        {
+          "frame": "N2ukHf2n5kg-3.03.jpg",
+          "videoTime": 309.97
+        },
+        {
+          "frame": "N2ukHf2n5kg-6.03.jpg",
+          "videoTime": 306.97
+        },
+        {
+          "frame": "N2ukHf2n5kg-9.03.jpg",
+          "videoTime": 303.97
+        },
+        {
+          "frame": "N2ukHf2n5kg-12.03.jpg",
+          "videoTime": 300.97
+        },
+        {
+          "frame": "N2ukHf2n5kg-15.03.jpg",
+          "videoTime": 297.97
+        }
+      ],
+      "originalSha256": "c838cc67935648b90a5350140b986bc252de71bb3d883d33779e0df6f82b5421",
+      "path": "content/recipes/glutinous-braised-pig-trotter.json"
+    },
+    {
+      "recipe": "guizhou-sour-soup-hotpot",
+      "video": "https://www.youtube.com/watch?v=-naczd9okkQ",
+      "issues": [
+        "怕辣与小米辣的说明自相矛盾；肉丸错误关联牛肉丸；漏掉片尾自制猪肉丸配方。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "-naczd9okkQ-0.jpg",
+          "videoTime": 257.0
+        },
+        {
+          "frame": "-naczd9okkQ-0.53.jpg",
+          "videoTime": 256.47
+        },
+        {
+          "frame": "-naczd9okkQ-1.03.jpg",
+          "videoTime": 255.97
+        },
+        {
+          "frame": "-naczd9okkQ-1.53.jpg",
+          "videoTime": 255.47
+        },
+        {
+          "frame": "-naczd9okkQ-2.03.jpg",
+          "videoTime": 254.97
+        },
+        {
+          "frame": "-naczd9okkQ-2.53.jpg",
+          "videoTime": 254.47
+        },
+        {
+          "frame": "-naczd9okkQ-3.03.jpg",
+          "videoTime": 253.97
+        }
+      ],
+      "originalSha256": "b8d8ff3e435fcf162c0372e16295f253c6ab4e14d5cd864413161031ef293913",
+      "path": "content/recipes/guizhou-sour-soup-hotpot.json"
+    },
+    {
+      "recipe": "guo-bao-rou",
+      "video": "https://www.youtube.com/watch?v=hfQjcvgdTSs",
+      "issues": [
+        "复炸两三次与片尾五六次不符；调汁多写了水。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "hfQjcvgdTSs-0.jpg",
+          "videoTime": 573.0
+        }
+      ],
+      "originalSha256": "a621858aac0cb32b34021e4185b8e260a6f6ba0f4f05a18562a6785c2b7498c8",
+      "path": "content/recipes/guo-bao-rou.json"
+    },
+    {
+      "recipe": "henan-cai-mang-steamed-roll",
+      "video": "https://www.youtube.com/watch?v=LRb5c3-b9GI",
+      "issues": [
+        "韭菜馅用油应为 20 g，蒸制时间应按大小为 5–10 分钟。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "LRb5c3-b9GI-0.jpg",
+          "videoTime": 289.0
+        }
+      ],
+      "originalSha256": "f48a6b1ee8e41e020f15a3f0322dd71d4986750b7def2de7fdca582b7f064e1e",
+      "path": "content/recipes/henan-cai-mang-steamed-roll.json"
+    },
+    {
+      "recipe": "homestyle-crispy-rice",
+      "video": "https://www.youtube.com/watch?v=2GFRgzSjafA",
+      "issues": [
+        "米饭 200 g 是制作量，片尾实际炸制取成品锅巴 150 g；出锅漏小米辣。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "2GFRgzSjafA-0.jpg",
+          "videoTime": 241.0
+        }
+      ],
+      "originalSha256": "ab9890708dbe52655fe05ee57cd778bd35d5c7a450de1a2698d594e996f7e77a",
+      "path": "content/recipes/homestyle-crispy-rice.json"
+    },
+    {
+      "recipe": "homestyle-fried-noodles",
+      "video": "https://www.youtube.com/watch?v=rP_S9BNdWu0",
+      "issues": [
+        "炒面的葱漏入步骤。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "rP_S9BNdWu0-0.jpg",
+          "videoTime": 271.0
+        },
+        {
+          "frame": "rP_S9BNdWu0-1.33.jpg",
+          "videoTime": 269.67
+        },
+        {
+          "frame": "rP_S9BNdWu0-2.33.jpg",
+          "videoTime": 268.67
+        },
+        {
+          "frame": "rP_S9BNdWu0-3.83.jpg",
+          "videoTime": 267.17
+        },
+        {
+          "frame": "rP_S9BNdWu0-4.33.jpg",
+          "videoTime": 266.67
+        },
+        {
+          "frame": "rP_S9BNdWu0-4.83.jpg",
+          "videoTime": 266.17
+        },
+        {
+          "frame": "rP_S9BNdWu0-5.33.jpg",
+          "videoTime": 265.67
+        },
+        {
+          "frame": "rP_S9BNdWu0-5.83.jpg",
+          "videoTime": 265.17
+        },
+        {
+          "frame": "rP_S9BNdWu0-6.33.jpg",
+          "videoTime": 264.67
+        },
+        {
+          "frame": "rP_S9BNdWu0-6.83.jpg",
+          "videoTime": 264.17
+        },
+        {
+          "frame": "rP_S9BNdWu0-7.33.jpg",
+          "videoTime": 263.67
+        },
+        {
+          "frame": "rP_S9BNdWu0-7.83.jpg",
+          "videoTime": 263.17
+        },
+        {
+          "frame": "rP_S9BNdWu0-8.33.jpg",
+          "videoTime": 262.67
+        }
+      ],
+      "originalSha256": "365c953958d21c02a8650304ccd9ab3153395308ed4c222a49dc11997e199205",
+      "path": "content/recipes/homestyle-fried-noodles.json"
+    },
+    {
+      "recipe": "hot-and-sour-egg-soup",
+      "video": "https://www.youtube.com/watch?v=aJsA1ucwtYQ",
+      "issues": [
+        "木耳、味精漏入步骤，葱花加入时机与片尾不符。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "aJsA1ucwtYQ-0.jpg",
+          "videoTime": 88.0
+        }
+      ],
+      "originalSha256": "6eb81dd9bc792f112307cb098852bb8b3c0a7095b2d8136d39d78f67aa823df5",
+      "path": "content/recipes/hot-and-sour-egg-soup.json"
+    },
+    {
+      "recipe": "hot-sour-bean-sprouts",
+      "video": "https://www.youtube.com/watch?v=hnRuYmoKejw",
+      "issues": [
+        "碗汁漏掉 14 g 蒜末。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "hnRuYmoKejw-0.jpg",
+          "videoTime": 258.0
+        }
+      ],
+      "originalSha256": "99c9a74358930b149d6985770603050255bbd37b7262f15994a209157bbcec0e",
+      "path": "content/recipes/hot-sour-bean-sprouts.json"
+    },
+    {
+      "recipe": "imperial-shifang-pork",
+      "video": "https://www.youtube.com/watch?v=lfI_Vl6WrIU",
+      "issues": [
+        "煮肘子步骤出现“不用水”的错误，压制范围漏记，去除来源未明确的隔夜操作。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "lfI_Vl6WrIU-0.16.jpg",
+          "videoTime": 460.84
+        },
+        {
+          "frame": "lfI_Vl6WrIU-2.56.jpg",
+          "videoTime": 458.44
+        },
+        {
+          "frame": "lfI_Vl6WrIU-5.44.jpg",
+          "videoTime": 455.56
+        },
+        {
+          "frame": "lfI_Vl6WrIU-8.32.jpg",
+          "videoTime": 452.68
+        },
+        {
+          "frame": "lfI_Vl6WrIU-11.2.jpg",
+          "videoTime": 449.8
+        },
+        {
+          "frame": "lfI_Vl6WrIU-14.56.jpg",
+          "videoTime": 446.44
+        }
+      ],
+      "originalSha256": "75fcf06ec59af55a8aa032bea1f41a67370a80edd570feecb9761fcf89ebd60f",
+      "path": "content/recipes/imperial-shifang-pork.json"
+    },
+    {
+      "recipe": "jade-shrimp-balls",
+      "video": "https://www.youtube.com/watch?v=0wzf_zb97TE",
+      "issues": [
+        "数处“一克”误录成“一颗”，菠菜汁生浮沫与煮后绿色浮沫的区别漏写。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "0wzf_zb97TE-0.jpg",
+          "videoTime": 323.0
+        },
+        {
+          "frame": "0wzf_zb97TE-2.53.jpg",
+          "videoTime": 320.47
+        }
+      ],
+      "originalSha256": "f60c933e7c0cd44b6c562ea71ffe1eb364ace923112344c6cceec22ad4179203",
+      "path": "content/recipes/jade-shrimp-balls.json"
+    },
+    {
+      "recipe": "jujube-red-braised-pork-chefsui",
+      "video": "https://www.youtube.com/watch?v=y7Gl6mP0myo",
+      "issues": [
+        "味精漏入步骤，红枣在收汁时应放回；避免重复添加调味糖。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "y7Gl6mP0myo-0.jpg",
+          "videoTime": 403.0
+        },
+        {
+          "frame": "y7Gl6mP0myo-1.jpg",
+          "videoTime": 402.0
+        },
+        {
+          "frame": "y7Gl6mP0myo-2.44.jpg",
+          "videoTime": 400.56
+        },
+        {
+          "frame": "y7Gl6mP0myo-3.4.jpg",
+          "videoTime": 399.6
+        },
+        {
+          "frame": "y7Gl6mP0myo-4.36.jpg",
+          "videoTime": 398.64
+        }
+      ],
+      "originalSha256": "f3dc49383a7271872e52ecd289c4db6a4f21e3a607d22c44cfa34abb4dce35aa",
+      "path": "content/recipes/jujube-red-braised-pork-chefsui.json"
+    },
+    {
+      "recipe": "kung-pao-chicken-chefsui",
+      "video": "https://www.youtube.com/watch?v=KFZX7VRN_oY",
+      "issues": [
+        "腌料和碗芡各 1 g 味精漏写。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "KFZX7VRN_oY-0.jpg",
+          "videoTime": 373.0
+        },
+        {
+          "frame": "KFZX7VRN_oY-1.45.jpg",
+          "videoTime": 371.55
+        },
+        {
+          "frame": "KFZX7VRN_oY-2.45.jpg",
+          "videoTime": 370.55
+        },
+        {
+          "frame": "KFZX7VRN_oY-3.45.jpg",
+          "videoTime": 369.55
+        },
+        {
+          "frame": "KFZX7VRN_oY-4.45.jpg",
+          "videoTime": 368.55
+        }
+      ],
+      "originalSha256": "dfb0d465637c9494d69b6af7849024ef894e18e4adc4271cb287b88cbbbb9768",
+      "path": "content/recipes/kung-pao-chicken-chefsui.json"
+    },
+    {
+      "recipe": "kung-pao-zongzi",
+      "video": "https://www.youtube.com/watch?v=l1OWzQVbWRg",
+      "issues": [
+        "做法被误写为熟鸡肉和两种分开的粽子；片尾是生鸡丁腌味，与糯米混合后包入豆沙。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "l1OWzQVbWRg-0.jpg",
+          "videoTime": 280.0
+        },
+        {
+          "frame": "l1OWzQVbWRg-1.97.jpg",
+          "videoTime": 278.03
+        }
+      ],
+      "originalSha256": "01e054dc5faf9ac321ff1b31fc2631a6248408d67d35f643a2c9402acb5504e3",
+      "path": "content/recipes/kung-pao-zongzi.json"
+    },
+    {
+      "recipe": "late-night-snack-collection",
+      "video": "https://www.youtube.com/watch?v=uopppIJ17Kg",
+      "issues": [
+        "鸡排名“五五”应为“无骨”；蛋液用于裹衣，不是腌料。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "uopppIJ17Kg-0.jpg",
+          "videoTime": 570.0
+        },
+        {
+          "frame": "uopppIJ17Kg-3.27.jpg",
+          "videoTime": 566.73
+        },
+        {
+          "frame": "uopppIJ17Kg-6.27.jpg",
+          "videoTime": 563.73
+        },
+        {
+          "frame": "uopppIJ17Kg-9.27.jpg",
+          "videoTime": 560.73
+        }
+      ],
+      "originalSha256": "34bebfbbc8a0768157dcc8fd73648c3cd3481ce5cb09f029764bc83e6db20bf8",
+      "path": "content/recipes/late-night-snack-collection.json"
+    },
+    {
+      "recipe": "laziji-chili-chicken",
+      "video": "https://www.youtube.com/watch?v=UL-y_zXbRzQ",
+      "issues": [
+        "片尾写“两克盐”被漏提取；步骤漏葱蒜煸香。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "UL-y_zXbRzQ-0.3.jpg",
+          "videoTime": 291.7
+        },
+        {
+          "frame": "UL-y_zXbRzQ-0.8.jpg",
+          "videoTime": 291.2
+        },
+        {
+          "frame": "UL-y_zXbRzQ-1.3.jpg",
+          "videoTime": 290.7
+        },
+        {
+          "frame": "UL-y_zXbRzQ-1.8.jpg",
+          "videoTime": 290.2
+        },
+        {
+          "frame": "UL-y_zXbRzQ-2.3.jpg",
+          "videoTime": 289.7
+        }
+      ],
+      "originalSha256": "248592236d5305a641cd98f36ac86dd58d85456449de409f12eeefd65635171b",
+      "path": "content/recipes/laziji-chili-chicken.json"
+    },
+    {
+      "recipe": "mala-crayfish",
+      "video": "https://www.youtube.com/watch?v=OmCKlKaxq3U",
+      "issues": [
+        "调味步骤漏盐；味精食材表 5 g 与步骤“两勺”不一致，原记录未说明。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "OmCKlKaxq3U-0.jpg",
+          "videoTime": 254.0
+        }
+      ],
+      "originalSha256": "d66e45e33e190be92b368b18c81f640ffac523fb1fd413feec12a4316676541d",
+      "path": "content/recipes/mala-crayfish.json"
+    },
+    {
+      "recipe": "mala-xiang-guo",
+      "video": "https://www.youtube.com/watch?v=c0LAocpGMTc",
+      "issues": [
+        "新增腐竹、西兰花及辣椒圈未进入步骤，灯笼椒被误写成彩椒。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "c0LAocpGMTc-20.43.jpg",
+          "videoTime": 292.57
+        }
+      ],
+      "originalSha256": "6cde0701d0f1972d8b9db108332c0aa570012f7e9a3dabaa54be20d079f2942c",
+      "path": "content/recipes/mala-xiang-guo.json"
+    },
+    {
+      "recipe": "mapo-tofu",
+      "video": "https://www.youtube.com/watch?v=LHvT9yN1OD0",
+      "issues": [
+        "步骤用花椒油，配料表漏列；末步“辣椒”按食材表明确为辣椒油。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "LHvT9yN1OD0-0.jpg",
+          "videoTime": 204.0
+        },
+        {
+          "frame": "LHvT9yN1OD0-1.33.jpg",
+          "videoTime": 202.67
+        },
+        {
+          "frame": "LHvT9yN1OD0-2.33.jpg",
+          "videoTime": 201.67
+        },
+        {
+          "frame": "LHvT9yN1OD0-3.33.jpg",
+          "videoTime": 200.67
+        },
+        {
+          "frame": "LHvT9yN1OD0-4.33.jpg",
+          "videoTime": 199.67
+        }
+      ],
+      "originalSha256": "ef39cf5affff9ed2c958e6c0219b360bf09722362bc83a73ffc4c3f1aefb52d6",
+      "path": "content/recipes/mapo-tofu.json"
+    },
+    {
+      "recipe": "mei-cai-kou-rou",
+      "video": "https://www.youtube.com/watch?v=H2RdlmFBgj4",
+      "issues": [
+        "煮肉漏葱姜；上色应为老抽，非另备生抽。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "H2RdlmFBgj4-0.jpg",
+          "videoTime": 262.0
+        },
+        {
+          "frame": "H2RdlmFBgj4-1.03.jpg",
+          "videoTime": 260.97
+        },
+        {
+          "frame": "H2RdlmFBgj4-2.53.jpg",
+          "videoTime": 259.47
+        },
+        {
+          "frame": "H2RdlmFBgj4-3.53.jpg",
+          "videoTime": 258.47
+        },
+        {
+          "frame": "H2RdlmFBgj4-4.53.jpg",
+          "videoTime": 257.47
+        },
+        {
+          "frame": "H2RdlmFBgj4-5.53.jpg",
+          "videoTime": 256.47
+        },
+        {
+          "frame": "H2RdlmFBgj4-6.53.jpg",
+          "videoTime": 255.47
+        },
+        {
+          "frame": "H2RdlmFBgj4-11.03.jpg",
+          "videoTime": 250.97
+        },
+        {
+          "frame": "H2RdlmFBgj4-11.53.jpg",
+          "videoTime": 250.47
+        }
+      ],
+      "originalSha256": "b9ba78983c6eaa110191c503aa90562ecfb4ab16621329043e253155a04c544f",
+      "path": "content/recipes/mei-cai-kou-rou.json"
+    },
+    {
+      "recipe": "milky-crucian-carp-soup",
+      "video": "https://www.youtube.com/watch?v=p13TGI-lHus",
+      "issues": [
+        "鱼鳍误写成鱼线，漏去喉牙。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "p13TGI-lHus-0.jpg",
+          "videoTime": 234.0
+        },
+        {
+          "frame": "p13TGI-lHus-1.03.jpg",
+          "videoTime": 232.97
+        },
+        {
+          "frame": "p13TGI-lHus-2.53.jpg",
+          "videoTime": 231.47
+        },
+        {
+          "frame": "p13TGI-lHus-3.53.jpg",
+          "videoTime": 230.47
+        }
+      ],
+      "originalSha256": "81346f89083358a62af337dcbbce0510ddc4ad2ac95f0fd6267d45b0dbde6fef",
+      "path": "content/recipes/milky-crucian-carp-soup.json"
+    },
+    {
+      "recipe": "nine-turn-braised-intestines",
+      "video": "https://www.youtube.com/watch?v=VlfqYS8PIsM",
+      "issues": [
+        "套肠压煮时间误写成与不套相同；焖制糖 30 g 应为 50 g。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "VlfqYS8PIsM-0.17.jpg",
+          "videoTime": 559.83
+        },
+        {
+          "frame": "VlfqYS8PIsM-1.92.jpg",
+          "videoTime": 558.08
+        },
+        {
+          "frame": "VlfqYS8PIsM-3.67.jpg",
+          "videoTime": 556.33
+        },
+        {
+          "frame": "VlfqYS8PIsM-5.67.jpg",
+          "videoTime": 554.33
+        },
+        {
+          "frame": "VlfqYS8PIsM-7.67.jpg",
+          "videoTime": 552.33
+        },
+        {
+          "frame": "VlfqYS8PIsM-9.92.jpg",
+          "videoTime": 550.08
+        },
+        {
+          "frame": "VlfqYS8PIsM-11.67.jpg",
+          "videoTime": 548.33
+        },
+        {
+          "frame": "VlfqYS8PIsM-13.42.jpg",
+          "videoTime": 546.58
+        },
+        {
+          "frame": "VlfqYS8PIsM-16.17.jpg",
+          "videoTime": 543.83
+        }
+      ],
+      "originalSha256": "a24d33f192c1ea9e7971bfb345ea3eb24f80d853db5c3266f0603255b3d0f23f",
+      "path": "content/recipes/nine-turn-braised-intestines.json"
+    },
+    {
+      "recipe": "oil-braised-chicken",
+      "video": "https://www.youtube.com/watch?v=AruXYxoA9XM",
+      "issues": [
+        "香茅、味精漏入步骤，煮鸡后的浸泡时间应为 15 分钟。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "AruXYxoA9XM-0.07.jpg",
+          "videoTime": 349.93
+        },
+        {
+          "frame": "AruXYxoA9XM-3.07.jpg",
+          "videoTime": 346.93
+        },
+        {
+          "frame": "AruXYxoA9XM-6.07.jpg",
+          "videoTime": 343.93
+        },
+        {
+          "frame": "AruXYxoA9XM-9.07.jpg",
+          "videoTime": 340.93
+        },
+        {
+          "frame": "AruXYxoA9XM-12.07.jpg",
+          "videoTime": 337.93
+        }
+      ],
+      "originalSha256": "89f9e1eda37c89606677cca9e16b8dafd099affaf310095d49144c8d88383851",
+      "path": "content/recipes/oil-braised-chicken.json"
+    },
+    {
+      "recipe": "oil-braised-prawns",
+      "video": "https://www.youtube.com/watch?v=4Tdee1QPf9g",
+      "issues": [
+        "把烹入料酒写成“水（料酒/醋）”，原片没有醋。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "4Tdee1QPf9g-0.jpg",
+          "videoTime": 329.0
+        }
+      ],
+      "originalSha256": "f25751bf85669fbccc6e9abcf20e90477a7e95869d2f3b850efc62ecf6d762a6",
+      "path": "content/recipes/oil-braised-prawns.json"
+    },
+    {
+      "recipe": "pagoda-pork",
+      "video": "https://www.youtube.com/watch?v=xDkwNOKDbM8",
+      "issues": [
+        "片尾为上汽蒸 2 小时，旧记录缩成 1–2 小时；抹酱误写成烫酱。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "xDkwNOKDbM8-0.jpg",
+          "videoTime": 407.0
+        },
+        {
+          "frame": "xDkwNOKDbM8-1.24.jpg",
+          "videoTime": 405.76
+        },
+        {
+          "frame": "xDkwNOKDbM8-2.74.jpg",
+          "videoTime": 404.26
+        },
+        {
+          "frame": "xDkwNOKDbM8-3.74.jpg",
+          "videoTime": 403.26
+        },
+        {
+          "frame": "xDkwNOKDbM8-4.74.jpg",
+          "videoTime": 402.26
+        },
+        {
+          "frame": "xDkwNOKDbM8-5.74.jpg",
+          "videoTime": 401.26
+        }
+      ],
+      "originalSha256": "0a09de972f14f6da0febce45d737d473223e57c23314afe561fa1b93545826a4",
+      "path": "content/recipes/pagoda-pork.json"
+    },
+    {
+      "recipe": "pan-fried-pork-elbow",
+      "video": "https://www.youtube.com/watch?v=kHzz4N840_I",
+      "issues": [
+        "高压 35 分钟应为 50 分钟；香叶漏入步骤；鸡蛋糊应另调。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "kHzz4N840_I-0.jpg",
+          "videoTime": 318.0
+        },
+        {
+          "frame": "kHzz4N840_I-3.17.jpg",
+          "videoTime": 314.83
+        }
+      ],
+      "originalSha256": "13c6c1167e99e7fc06571e7fabd16929218805915efbde5f5786601ae933577c",
+      "path": "content/recipes/pan-fried-pork-elbow.json"
+    },
+    {
+      "recipe": "pickled-mustard-greens-steamed-fish",
+      "video": "https://www.youtube.com/watch?v=RFr2S_6qSQY",
+      "issues": [
+        "炒雪菜应为葱蒜，旧步骤写葱姜；食材表姜蒜与步骤葱蒜存在源文差异。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "RFr2S_6qSQY-0.jpg",
+          "videoTime": 290.0
+        },
+        {
+          "frame": "RFr2S_6qSQY-2.73.jpg",
+          "videoTime": 287.27
+        },
+        {
+          "frame": "RFr2S_6qSQY-4.23.jpg",
+          "videoTime": 285.77
+        },
+        {
+          "frame": "RFr2S_6qSQY-6.23.jpg",
+          "videoTime": 283.77
+        }
+      ],
+      "originalSha256": "a9921ca9534ddb7bf29d5419fbd739ea664fab7d3644f075dd25f978c547f9c7",
+      "path": "content/recipes/pickled-mustard-greens-steamed-fish.json"
+    },
+    {
+      "recipe": "qilin-steamed-fish",
+      "video": "https://www.youtube.com/watch?v=ksJfkvNDrC4",
+      "issues": [
+        "片尾淀粉食材表与水淀粉步骤均写 5 g，原记录擅自统一为干淀粉；补原文差异。"
+      ],
+      "changedFields": [
+        "ingredients"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ksJfkvNDrC4-0.jpg",
+          "videoTime": 340.0
+        }
+      ],
+      "originalSha256": "9ab37e3567531067996a566add6bd9f66e54fab763fca766b4cbcc9fbf814aa2",
+      "path": "content/recipes/qilin-steamed-fish.json"
+    },
+    {
+      "recipe": "red-braised-carp",
+      "video": "https://www.youtube.com/watch?v=hq7qdbTgVRQ",
+      "issues": [
+        "烧鱼漏料酒；“擦干盘边水”误写成“擦鱼皮”。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "hq7qdbTgVRQ-0.jpg",
+          "videoTime": 339.0
+        }
+      ],
+      "originalSha256": "8e3b31502449b093129e1f2beb3b3b6dde14308a2ef80b963f1ca740478745de",
+      "path": "content/recipes/red-braised-carp.json"
+    },
+    {
+      "recipe": "red-braised-hairtail-fish",
+      "video": "https://www.youtube.com/watch?v=C1QIiLpYHC8",
+      "issues": [
+        "拍粉应为淀粉，不是面粉。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "C1QIiLpYHC8-0.jpg",
+          "videoTime": 398.0
+        },
+        {
+          "frame": "C1QIiLpYHC8-1.03.jpg",
+          "videoTime": 396.97
+        },
+        {
+          "frame": "C1QIiLpYHC8-2.03.jpg",
+          "videoTime": 395.97
+        },
+        {
+          "frame": "C1QIiLpYHC8-3.03.jpg",
+          "videoTime": 394.97
+        }
+      ],
+      "originalSha256": "ff86a28773810ed5f5079d3834baed7d1666b4f54e6e0e7448e368d4ebf4fab5",
+      "path": "content/recipes/red-braised-hairtail-fish.json"
+    },
+    {
+      "recipe": "red-braised-lions-head",
+      "video": "https://www.youtube.com/watch?v=ZT_Y7suw7Oc",
+      "issues": [
+        "“石榴粒大小”被误录为“十六粒大丸子”。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ZT_Y7suw7Oc-0.jpg",
+          "videoTime": 311.0
+        },
+        {
+          "frame": "ZT_Y7suw7Oc-1.03.jpg",
+          "videoTime": 309.97
+        },
+        {
+          "frame": "ZT_Y7suw7Oc-2.03.jpg",
+          "videoTime": 308.97
+        },
+        {
+          "frame": "ZT_Y7suw7Oc-3.03.jpg",
+          "videoTime": 307.97
+        },
+        {
+          "frame": "ZT_Y7suw7Oc-4.03.jpg",
+          "videoTime": 306.97
+        },
+        {
+          "frame": "ZT_Y7suw7Oc-4.53.jpg",
+          "videoTime": 306.47
+        }
+      ],
+      "originalSha256": "0df0c76cb24d8504f7c6334454a611c9466be212e58190cd7f974bdbe640cdcd",
+      "path": "content/recipes/red-braised-lions-head.json"
+    },
+    {
+      "recipe": "red-braised-pork-elbow",
+      "video": "https://www.youtube.com/watch?v=hfeitYYdVws",
+      "issues": [
+        "笔记写花雕酒分两次，实际有焯水、调味、勾芡三次。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "hfeitYYdVws-0.jpg",
+          "videoTime": 278.0
+        },
+        {
+          "frame": "hfeitYYdVws-1.53.jpg",
+          "videoTime": 276.47
+        }
+      ],
+      "originalSha256": "1f5c94acd4a977f20afd803ac14b07b28fa82bb9d0f34446af971f688ca0211b",
+      "path": "content/recipes/red-braised-pork-elbow.json"
+    },
+    {
+      "recipe": "red-date-meatball-soup",
+      "video": "https://www.youtube.com/watch?v=D7kHwLYeNDs",
+      "issues": [
+        "红枣应先入水再汆丸子，旧步骤把红枣后放；枸杞漏写。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "D7kHwLYeNDs-0.jpg",
+          "videoTime": 239.0
+        }
+      ],
+      "originalSha256": "beb9c660c67d7e77d9dbbd1b3a73d8a003f83f09acecece91f21b9e478a04f13",
+      "path": "content/recipes/red-date-meatball-soup.json"
+    },
+    {
+      "recipe": "salted-egg-yolk-eggplant",
+      "video": "https://www.youtube.com/watch?v=z-dK7NKO364",
+      "issues": [
+        "姜漏列，炒料漏葱姜。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "z-dK7NKO364-0.jpg",
+          "videoTime": 256.0
+        },
+        {
+          "frame": "z-dK7NKO364-0.92.jpg",
+          "videoTime": 255.08
+        },
+        {
+          "frame": "z-dK7NKO364-1.42.jpg",
+          "videoTime": 254.58
+        }
+      ],
+      "originalSha256": "f95e4eb523fbced19e83fd7dc29e9a1abc7ccfd2d027ee04e74623218ad47615",
+      "path": "content/recipes/salted-egg-yolk-eggplant.json"
+    },
+    {
+      "recipe": "scallion-blasted-lamb",
+      "video": "https://www.youtube.com/watch?v=OeQaS--2rEI",
+      "issues": [
+        "香油 2 g 是出锅用量，腌肉还需另备，先前未区分。"
+      ],
+      "changedFields": [
+        "ingredients"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "OeQaS--2rEI-0.jpg",
+          "videoTime": 272.0
+        },
+        {
+          "frame": "OeQaS--2rEI-1.77.jpg",
+          "videoTime": 270.23
+        },
+        {
+          "frame": "OeQaS--2rEI-2.77.jpg",
+          "videoTime": 269.23
+        },
+        {
+          "frame": "OeQaS--2rEI-3.77.jpg",
+          "videoTime": 268.23
+        },
+        {
+          "frame": "OeQaS--2rEI-4.77.jpg",
+          "videoTime": 267.23
+        }
+      ],
+      "originalSha256": "924a52cb977a56b7bcfada301da5b47dc06a09721328248ec959aa7f1493ee70",
+      "path": "content/recipes/scallion-blasted-lamb.json"
+    },
+    {
+      "recipe": "scallion-braised-pork-tendon",
+      "video": "https://www.youtube.com/watch?v=WWmCg4hCGZU",
+      "issues": [
+        "干蹄筋发制不能只写泡软；八角“两个”误写两瓣；焯水多写蚝油。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "WWmCg4hCGZU-0.jpg",
+          "videoTime": 304.0
+        },
+        {
+          "frame": "WWmCg4hCGZU-2.jpg",
+          "videoTime": 302.0
+        }
+      ],
+      "originalSha256": "8cbab276ee7bca9addf085576b89fb93160967746cbde4ed16275c0c6d1fd077",
+      "path": "content/recipes/scallion-braised-pork-tendon.json"
+    },
+    {
+      "recipe": "scallion-braised-tofu",
+      "video": "https://www.youtube.com/watch?v=3IGPh1RPB5I",
+      "issues": [
+        "大料瓣误写成蒜瓣；煸黄的葱应先捞出，后与豆腐同烧。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "3IGPh1RPB5I-0.jpg",
+          "videoTime": 225.0
+        },
+        {
+          "frame": "3IGPh1RPB5I-1.03.jpg",
+          "videoTime": 223.97
+        }
+      ],
+      "originalSha256": "b452ae3fe64f1487f7c4ec2dcdf6a708aaff46b22de4c435fff04fa824d0cd29",
+      "path": "content/recipes/scallion-braised-tofu.json"
+    },
+    {
+      "recipe": "scallion-braised-yuba",
+      "video": "https://www.youtube.com/watch?v=tQbKn1R9Ue8",
+      "issues": [
+        "熬汁用葱丝，旧步骤误写葱段；葱段浸汁和捞除葱丝混淆。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "tQbKn1R9Ue8-0.jpg",
+          "videoTime": 308.0
+        }
+      ],
+      "originalSha256": "efc77b652adbdcc641f1cc479c38d579e01c8e0a3ccadcd2f5ebcc4fae649356",
+      "path": "content/recipes/scallion-braised-yuba.json"
+    },
+    {
+      "recipe": "shanxi-grated-potato",
+      "video": "https://www.youtube.com/watch?v=Y7fhhJcrs4Q",
+      "issues": [
+        "小米辣 10 g 与未标量的尖椒混在同一名称中；漏上汽蒸 3 分钟。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "Y7fhhJcrs4Q-0.jpg",
+          "videoTime": 255.0
+        }
+      ],
+      "originalSha256": "da3e6d60835708f49683762a8579190a7f9c4b1d632b161129466a6c1a6794d8",
+      "path": "content/recipes/shanxi-grated-potato.json"
+    },
+    {
+      "recipe": "sichuan-boiled-beef",
+      "video": "https://www.youtube.com/watch?v=VRENTjQVqgc",
+      "issues": [
+        "步骤中的葱姜水比例与本菜配方不符，改为 1250 g 牛肉用 200 g。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "VRENTjQVqgc-0.jpg",
+          "videoTime": 467.0
+        },
+        {
+          "frame": "VRENTjQVqgc-1.97.jpg",
+          "videoTime": 465.03
+        }
+      ],
+      "originalSha256": "23cd2f6a1bd0f8a57b97a814662681b0d8640f72d58be82945185f015214764a",
+      "path": "content/recipes/sichuan-boiled-beef.json"
+    },
+    {
+      "recipe": "sichuan-stir-fried-pork-kidney",
+      "video": "https://www.youtube.com/watch?v=giAvAEg0cDE",
+      "issues": [
+        "另备 20 g 小米辣应为腌制，不是碗汁；两种油应混用，碗汁配方漏写。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "giAvAEg0cDE-0.jpg",
+          "videoTime": 249.0
+        },
+        {
+          "frame": "giAvAEg0cDE-2.63.jpg",
+          "videoTime": 246.37
+        }
+      ],
+      "originalSha256": "2b558d36c32c9a71cec1ab2d668f53431a23b3d5aa8fa6ca921e1e148010e83e",
+      "path": "content/recipes/sichuan-stir-fried-pork-kidney.json"
+    },
+    {
+      "recipe": "silky-pork-tenderloin",
+      "video": "https://www.youtube.com/watch?v=07DDGf296eE",
+      "issues": [
+        "厚度“1mm”误录成 1–5mm；上浆用水淀粉，碗芡和配菜操作缺失。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "07DDGf296eE-0.jpg",
+          "videoTime": 308.0
+        },
+        {
+          "frame": "07DDGf296eE-0.97.jpg",
+          "videoTime": 307.03
+        },
+        {
+          "frame": "07DDGf296eE-2.47.jpg",
+          "videoTime": 305.53
+        },
+        {
+          "frame": "07DDGf296eE-3.47.jpg",
+          "videoTime": 304.53
+        },
+        {
+          "frame": "07DDGf296eE-5.47.jpg",
+          "videoTime": 302.53
+        },
+        {
+          "frame": "07DDGf296eE-6.97.jpg",
+          "videoTime": 301.03
+        }
+      ],
+      "originalSha256": "e9fa53a6c6ab184d58bdf2706eafd471faec3e001eed14a6db8bbc2afce49c09",
+      "path": "content/recipes/silky-pork-tenderloin.json"
+    },
+    {
+      "recipe": "sizzling-oil-eel",
+      "video": "https://www.youtube.com/watch?v=sMAqYMg8x24",
+      "issues": [
+        "花雕酒误写“花椒酒”，味精误写“几滴”。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "sMAqYMg8x24-0.02.jpg",
+          "videoTime": 424.98
+        },
+        {
+          "frame": "sMAqYMg8x24-0.27.jpg",
+          "videoTime": 424.73
+        },
+        {
+          "frame": "sMAqYMg8x24-0.77.jpg",
+          "videoTime": 424.23
+        },
+        {
+          "frame": "sMAqYMg8x24-1.27.jpg",
+          "videoTime": 423.73
+        },
+        {
+          "frame": "sMAqYMg8x24-1.77.jpg",
+          "videoTime": 423.23
+        },
+        {
+          "frame": "sMAqYMg8x24-2.27.jpg",
+          "videoTime": 422.73
+        },
+        {
+          "frame": "sMAqYMg8x24-2.77.jpg",
+          "videoTime": 422.23
+        },
+        {
+          "frame": "sMAqYMg8x24-3.27.jpg",
+          "videoTime": 421.73
+        }
+      ],
+      "originalSha256": "562576a85eb7abc8bb833504e4160ca18f56fb652a8eea7bfa74225fdbd0e6b9",
+      "path": "content/recipes/sizzling-oil-eel.json"
+    },
+    {
+      "recipe": "smoked-braised-pig-trotters",
+      "video": "https://www.youtube.com/watch?v=SrVp5d9HSo8",
+      "issues": [
+        "新增香料未进入卤汤步骤；慢炖时间片尾写半小时，旧稿写一个半小时。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "SrVp5d9HSo8-0.jpg",
+          "videoTime": 280.0
+        }
+      ],
+      "originalSha256": "b6360191ac788d07d8f6ec16660d13ee9d9aab1810e900c6375c4fc62eb92eaa",
+      "path": "content/recipes/smoked-braised-pig-trotters.json"
+    },
+    {
+      "recipe": "sour-radish-beef-omasum",
+      "video": "https://www.youtube.com/watch?v=cKwi7YMsJiQ",
+      "issues": [
+        "出锅漏香油。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "cKwi7YMsJiQ-0.jpg",
+          "videoTime": 233.0
+        }
+      ],
+      "originalSha256": "fbfc3e91def7efd739a088e8b8bda6077d43da558011e4a19d35e7848ca43d20",
+      "path": "content/recipes/sour-radish-beef-omasum.json"
+    },
+    {
+      "recipe": "sour-soup-beef",
+      "video": "https://www.youtube.com/watch?v=M3rglZ22Rdw",
+      "issues": [
+        "辣椒食材表“30 g”与步骤“各30 g”不同，应明确保留差异。"
+      ],
+      "changedFields": [
+        "ingredients"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "M3rglZ22Rdw-0.63.jpg",
+          "videoTime": 151.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-4.63.jpg",
+          "videoTime": 147.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-5.13.jpg",
+          "videoTime": 146.87
+        },
+        {
+          "frame": "M3rglZ22Rdw-5.63.jpg",
+          "videoTime": 146.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-6.13.jpg",
+          "videoTime": 145.87
+        },
+        {
+          "frame": "M3rglZ22Rdw-6.63.jpg",
+          "videoTime": 145.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-7.63.jpg",
+          "videoTime": 144.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-8.63.jpg",
+          "videoTime": 143.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-9.13.jpg",
+          "videoTime": 142.87
+        },
+        {
+          "frame": "M3rglZ22Rdw-9.63.jpg",
+          "videoTime": 142.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-10.13.jpg",
+          "videoTime": 141.87
+        },
+        {
+          "frame": "M3rglZ22Rdw-10.63.jpg",
+          "videoTime": 141.37
+        },
+        {
+          "frame": "M3rglZ22Rdw-11.13.jpg",
+          "videoTime": 140.87
+        }
+      ],
+      "originalSha256": "887280522deb081169ce40b926cfe9ae20782a2a42d7bd2378ef2edb7d42e310",
+      "path": "content/recipes/sour-soup-beef.json"
+    },
+    {
+      "recipe": "soy-braised-beef-shank",
+      "video": "https://www.youtube.com/watch?v=ZnTn7eyQhNI",
+      "issues": [
+        "辣椒两个应为三个；压后浸泡半小时应为 20 分钟。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ZnTn7eyQhNI-0.jpg",
+          "videoTime": 365.0
+        },
+        {
+          "frame": "ZnTn7eyQhNI-1.4.jpg",
+          "videoTime": 363.6
+        },
+        {
+          "frame": "ZnTn7eyQhNI-2.4.jpg",
+          "videoTime": 362.6
+        },
+        {
+          "frame": "ZnTn7eyQhNI-3.4.jpg",
+          "videoTime": 361.6
+        },
+        {
+          "frame": "ZnTn7eyQhNI-4.4.jpg",
+          "videoTime": 360.6
+        }
+      ],
+      "originalSha256": "b367d2974fb0e29b450b13b7c459fca526a42027b05bf886a3f0a9946022dc7a",
+      "path": "content/recipes/soy-braised-beef-shank.json"
+    },
+    {
+      "recipe": "spicy-potato-shreds",
+      "video": "https://www.youtube.com/watch?v=RbNNSZim49g",
+      "issues": [
+        "芝麻漏列且被写成葱丝。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "RbNNSZim49g-0.jpg",
+          "videoTime": 276.0
+        },
+        {
+          "frame": "RbNNSZim49g-1.17.jpg",
+          "videoTime": 274.83
+        },
+        {
+          "frame": "RbNNSZim49g-2.17.jpg",
+          "videoTime": 273.83
+        }
+      ],
+      "originalSha256": "c2980a3a837d9f84673e57c3f5f4caf9d18852587557d4af73ff05309f91f359",
+      "path": "content/recipes/spicy-potato-shreds.json"
+    },
+    {
+      "recipe": "squirrel-mandarin-fish",
+      "video": "https://www.youtube.com/watch?v=ongolZnlpGg",
+      "issues": [
+        "鱼头应切断，旧步骤写不要切断；遗漏鱼一条，删除无依据的放血处置建议。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ongolZnlpGg-0.jpg",
+          "videoTime": 608.0
+        },
+        {
+          "frame": "ongolZnlpGg-2.02.jpg",
+          "videoTime": 605.98
+        },
+        {
+          "frame": "ongolZnlpGg-3.02.jpg",
+          "videoTime": 604.98
+        },
+        {
+          "frame": "ongolZnlpGg-4.52.jpg",
+          "videoTime": 603.48
+        },
+        {
+          "frame": "ongolZnlpGg-5.52.jpg",
+          "videoTime": 602.48
+        },
+        {
+          "frame": "ongolZnlpGg-7.02.jpg",
+          "videoTime": 600.98
+        },
+        {
+          "frame": "ongolZnlpGg-8.02.jpg",
+          "videoTime": 599.98
+        }
+      ],
+      "originalSha256": "929e82b019d1d87425b36e7549a7d1877cef728e5d00631268c931f75f486a32",
+      "path": "content/recipes/squirrel-mandarin-fish.json"
+    },
+    {
+      "recipe": "steamed-chicken-chopped-chili",
+      "video": "https://www.youtube.com/watch?v=-VdH2GqF83M",
+      "issues": [
+        "片尾没有“小块约5分钟”的承诺，删去这个可能导致时间不足的推断。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "-VdH2GqF83M-0.jpg",
+          "videoTime": 288.0
+        }
+      ],
+      "originalSha256": "029eec73c4e369df145a65549c73a81beabc3b51fddc3b47cd9deb2f37ac7127",
+      "path": "content/recipes/steamed-chicken-chopped-chili.json"
+    },
+    {
+      "recipe": "steamed-shredded-vegetables",
+      "video": "https://www.youtube.com/watch?v=AUtSufj_UBE",
+      "issues": [
+        "薄荷蒜汁做法漏写；蒸菜已冷时可加热，旧笔记一概要求关火。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "AUtSufj_UBE-8.5.jpg",
+          "videoTime": 204.5
+        }
+      ],
+      "originalSha256": "1880270c27799b5c0180c2bd862a87757777f5c8f62e686b4e5a60ee2d7dc06f",
+      "path": "content/recipes/steamed-shredded-vegetables.json"
+    },
+    {
+      "recipe": "stewed-chicken-soup",
+      "video": "https://www.youtube.com/watch?v=g2Pv_BV0Rdg",
+      "issues": [
+        "补齐片尾小火 1.5 小时、高压 25 分钟或蒸 2 小时的选择。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "g2Pv_BV0Rdg-0.jpg",
+          "videoTime": 76.0
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-1.47.jpg",
+          "videoTime": 74.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-1.97.jpg",
+          "videoTime": 74.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-2.47.jpg",
+          "videoTime": 73.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-2.97.jpg",
+          "videoTime": 73.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-3.47.jpg",
+          "videoTime": 72.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-3.97.jpg",
+          "videoTime": 72.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-4.47.jpg",
+          "videoTime": 71.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-4.97.jpg",
+          "videoTime": 71.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-5.47.jpg",
+          "videoTime": 70.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-5.97.jpg",
+          "videoTime": 70.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-6.47.jpg",
+          "videoTime": 69.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-6.97.jpg",
+          "videoTime": 69.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-7.47.jpg",
+          "videoTime": 68.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-7.97.jpg",
+          "videoTime": 68.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-8.47.jpg",
+          "videoTime": 67.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-9.47.jpg",
+          "videoTime": 66.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-10.47.jpg",
+          "videoTime": 65.53
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-10.97.jpg",
+          "videoTime": 65.03
+        },
+        {
+          "frame": "g2Pv_BV0Rdg-11.47.jpg",
+          "videoTime": 64.53
+        }
+      ],
+      "originalSha256": "9c21795cd035dd7f982c222524323c4476effed9a727457f76de59ec4093540a",
+      "path": "content/recipes/stewed-chicken-soup.json"
+    },
+    {
+      "recipe": "stir-roasted-lamb",
+      "video": "https://www.youtube.com/watch?v=EQdjgPgCwJw",
+      "issues": [
+        "腌肉步骤需明确只取成汁 70 g 和姜蒜水 20 g，避免倒入整份制汁原料。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "EQdjgPgCwJw-0.jpg",
+          "videoTime": 251.0
+        }
+      ],
+      "originalSha256": "a0a7ef6d9d131530c34523c2e1de1871fc6300d1fba402be8b2802e7c6147ad5",
+      "path": "content/recipes/stir-roasted-lamb.json"
+    },
+    {
+      "recipe": "sweet-mung-bean-soup",
+      "video": "https://www.youtube.com/watch?v=P62zXJdBsmk",
+      "issues": [
+        "片尾允许不锈钢锅，旧笔记写只能用玻璃锅；冰糖应在熬煮开始时加入。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "P62zXJdBsmk-0.jpg",
+          "videoTime": 176.0
+        }
+      ],
+      "originalSha256": "f2b18e745964ace875dd591212fd8cbb5f189867071e9bfb673542c525d7b328",
+      "path": "content/recipes/sweet-mung-bean-soup.json"
+    },
+    {
+      "recipe": "sweet-potato-balls",
+      "video": "https://www.youtube.com/watch?v=BpUSXWU-DFQ",
+      "issues": [
+        "片尾中小火下锅、炸黄转小火，旧步骤额外写了两次转大火。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "BpUSXWU-DFQ-0.jpg",
+          "videoTime": 295.0
+        },
+        {
+          "frame": "BpUSXWU-DFQ-0.7.jpg",
+          "videoTime": 294.3
+        },
+        {
+          "frame": "BpUSXWU-DFQ-1.7.jpg",
+          "videoTime": 293.3
+        },
+        {
+          "frame": "BpUSXWU-DFQ-2.2.jpg",
+          "videoTime": 292.8
+        }
+      ],
+      "originalSha256": "33e9f927d85494831835d6053c673a3a9dbada61958c0cb9d6c8c6119163b2d3",
+      "path": "content/recipes/sweet-potato-balls.json"
+    },
+    {
+      "recipe": "sweet-sour-fish-slices",
+      "video": "https://www.youtube.com/watch?v=AG4PJAGlDfo",
+      "issues": [
+        "洗鱼用盐误写成洗后加盐；拍粉需同时覆盖鱼片和鱼骨。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "AG4PJAGlDfo-0.jpg",
+          "videoTime": 240.0
+        },
+        {
+          "frame": "AG4PJAGlDfo-2.17.jpg",
+          "videoTime": 237.83
+        },
+        {
+          "frame": "AG4PJAGlDfo-3.17.jpg",
+          "videoTime": 236.83
+        }
+      ],
+      "originalSha256": "ff03ec27432fce0e6400a1c66aa50630bb2634bb442a118a0480ec53d21b4e26",
+      "path": "content/recipes/sweet-sour-fish-slices.json"
+    },
+    {
+      "recipe": "sweet-sour-fried-eggs",
+      "video": "https://www.youtube.com/watch?v=nweYipvpIus",
+      "issues": [
+        "菠萝和甜豆漏入末步，油温笔记有无依据的因果断言。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "nweYipvpIus-0.jpg",
+          "videoTime": 110.0
+        }
+      ],
+      "originalSha256": "be7b069a9c24880278ae7fca8b1835003d38aea67bf6d12d9c164cac3f231a38",
+      "path": "content/recipes/sweet-sour-fried-eggs.json"
+    },
+    {
+      "recipe": "sweet-sour-pork-ribs",
+      "video": "https://www.youtube.com/watch?v=EfgwYbX-BZg",
+      "issues": [
+        "炖排骨漏写 450 g 水，盐“一勺”与配方 6 g 不对应。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "EfgwYbX-BZg-0.jpg",
+          "videoTime": 237.0
+        }
+      ],
+      "originalSha256": "a8e0e9192c3f58ee64ee05452fb529c25f038623596a62e66ccaf3dc9f716b5b",
+      "path": "content/recipes/sweet-sour-pork-ribs.json"
+    },
+    {
+      "recipe": "sweet-sour-pork-tenderloin",
+      "video": "https://www.youtube.com/watch?v=EhlNMfhiouI",
+      "issues": [
+        "糖醋汁漏酱油 25 g；调糊漏加水。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "EhlNMfhiouI-0.jpg",
+          "videoTime": 355.0
+        },
+        {
+          "frame": "EhlNMfhiouI-0.73.jpg",
+          "videoTime": 354.27
+        },
+        {
+          "frame": "EhlNMfhiouI-1.23.jpg",
+          "videoTime": 353.77
+        }
+      ],
+      "originalSha256": "c4c3bd6af847605578ea7181eb180bb01f1ebd33bf486705ed8fe02b682abed4",
+      "path": "content/recipes/sweet-sour-pork-tenderloin.json"
+    },
+    {
+      "recipe": "ten-treasure-braise",
+      "video": "https://www.youtube.com/watch?v=Ks2RFh-rz9M",
+      "issues": [
+        "砂锅摆料误写成碗中倒扣，鸡腿及香油漏写，白菜蘸粉无片尾依据。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "Ks2RFh-rz9M-0.jpg",
+          "videoTime": 332.0
+        },
+        {
+          "frame": "Ks2RFh-rz9M-1.97.jpg",
+          "videoTime": 330.03
+        },
+        {
+          "frame": "Ks2RFh-rz9M-3.47.jpg",
+          "videoTime": 328.53
+        }
+      ],
+      "originalSha256": "4a172e24a2b394b1734b4462ffc3a86eba246cf9d6bacf1ee3e51802e1a678ad",
+      "path": "content/recipes/ten-treasure-braise.json"
+    },
+    {
+      "recipe": "tomato-beef-brisket",
+      "video": "https://www.youtube.com/watch?v=tj_vTYIpQdE",
+      "issues": [
+        "八角应为 4 个，漏蒜；番茄酱被错误关联为 ketchup，而步骤明确区别番茄沙司。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "tj_vTYIpQdE-0.jpg",
+          "videoTime": 245.0
+        },
+        {
+          "frame": "tj_vTYIpQdE-1.jpg",
+          "videoTime": 244.0
+        },
+        {
+          "frame": "tj_vTYIpQdE-2.jpg",
+          "videoTime": 243.0
+        },
+        {
+          "frame": "tj_vTYIpQdE-3.jpg",
+          "videoTime": 242.0
+        },
+        {
+          "frame": "tj_vTYIpQdE-4.jpg",
+          "videoTime": 241.0
+        }
+      ],
+      "originalSha256": "2bfbbb42a0a32cbc81212a06ecb71a84e97d60e9fdf7f5735872b72fa8743f68",
+      "path": "content/recipes/tomato-beef-brisket.json"
+    },
+    {
+      "recipe": "twice-cooked-pork",
+      "video": "https://www.youtube.com/watch?v=CgwnZBLSVJQ",
+      "issues": [
+        "最后加入的小米辣漏写。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "CgwnZBLSVJQ-0.jpg",
+          "videoTime": 214.0
+        }
+      ],
+      "originalSha256": "5fdaff66eb29cae5257c7bb52cad16804968a53c286af03b68a06802bed95230",
+      "path": "content/recipes/twice-cooked-pork.json"
+    },
+    {
+      "recipe": "vinegar-moo-shu-lamb",
+      "video": "https://www.youtube.com/watch?v=9kfj26jNy2E",
+      "issues": [
+        "炒肉顺序出现重复下肉，碗芡多写无片尾依据的香油。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "9kfj26jNy2E-0.jpg",
+          "videoTime": 253.0
+        },
+        {
+          "frame": "9kfj26jNy2E-1.17.jpg",
+          "videoTime": 251.83
+        }
+      ],
+      "originalSha256": "3b110584b9ff86280dace4567a8a7f371ab0516dd1501a3bca81b26c00f4fec0",
+      "path": "content/recipes/vinegar-moo-shu-lamb.json"
+    },
+    {
+      "recipe": "vinegar-pepper-fish",
+      "video": "https://www.youtube.com/watch?v=JECjrBsVBns",
+      "issues": [
+        "香菜漏入出锅步骤。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "JECjrBsVBns-0.jpg",
+          "videoTime": 331.0
+        },
+        {
+          "frame": "JECjrBsVBns-1.7.jpg",
+          "videoTime": 329.3
+        },
+        {
+          "frame": "JECjrBsVBns-3.2.jpg",
+          "videoTime": 327.8
+        },
+        {
+          "frame": "JECjrBsVBns-4.7.jpg",
+          "videoTime": 326.3
+        },
+        {
+          "frame": "JECjrBsVBns-6.7.jpg",
+          "videoTime": 324.3
+        }
+      ],
+      "originalSha256": "d300a3d18a6d38740312c6c3d17f40af34b75db376e7f8d944680d5ced064d5d",
+      "path": "content/recipes/vinegar-pepper-fish.json"
+    },
+    {
+      "recipe": "vinegar-scrambled-eggs",
+      "video": "https://www.youtube.com/watch?v=jw3En5IW5D0",
+      "issues": [
+        "两种辣椒误写成只放一半；片尾没有要求蛋黄半流。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "jw3En5IW5D0-0.jpg",
+          "videoTime": 260.0
+        },
+        {
+          "frame": "jw3En5IW5D0-1.53.jpg",
+          "videoTime": 258.47
+        }
+      ],
+      "originalSha256": "e441bfcafb71092690dc7bf562697df996ae1bdc40fa31b9eeec51cd618c8f15",
+      "path": "content/recipes/vinegar-scrambled-eggs.json"
+    },
+    {
+      "recipe": "vinegar-stir-fried-cabbage",
+      "video": "https://www.youtube.com/watch?v=fdQk4GNIBK0",
+      "issues": [
+        "木耳焯好后未写入锅，碗汁漏味精、辣椒、蒜、香油。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "fdQk4GNIBK0-0.jpg",
+          "videoTime": 149.0
+        }
+      ],
+      "originalSha256": "02e7c90c5541036923e8b86d037375331a8c35d48556202f6d2fc291f7f6b5ed",
+      "path": "content/recipes/vinegar-stir-fried-cabbage.json"
+    },
+    {
+      "recipe": "wensi-tofu-soup",
+      "video": "https://www.youtube.com/watch?v=aMis3CaQvN4",
+      "issues": [
+        "漏盐；两手配合被错误扩写为两人同时持刀。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "aMis3CaQvN4-0.03.jpg",
+          "videoTime": 372.97
+        },
+        {
+          "frame": "aMis3CaQvN4-2.97.jpg",
+          "videoTime": 370.03
+        },
+        {
+          "frame": "aMis3CaQvN4-6.17.jpg",
+          "videoTime": 366.83
+        },
+        {
+          "frame": "aMis3CaQvN4-9.1.jpg",
+          "videoTime": 363.9
+        },
+        {
+          "frame": "aMis3CaQvN4-12.03.jpg",
+          "videoTime": 360.97
+        },
+        {
+          "frame": "aMis3CaQvN4-14.97.jpg",
+          "videoTime": 358.03
+        },
+        {
+          "frame": "aMis3CaQvN4-32.83.jpg",
+          "videoTime": 340.17
+        },
+        {
+          "frame": "aMis3CaQvN4-33.1.jpg",
+          "videoTime": 339.9
+        },
+        {
+          "frame": "aMis3CaQvN4-33.37.jpg",
+          "videoTime": 339.63
+        },
+        {
+          "frame": "aMis3CaQvN4-33.63.jpg",
+          "videoTime": 339.37
+        },
+        {
+          "frame": "aMis3CaQvN4-33.9.jpg",
+          "videoTime": 339.1
+        },
+        {
+          "frame": "aMis3CaQvN4-34.17.jpg",
+          "videoTime": 338.83
+        },
+        {
+          "frame": "aMis3CaQvN4-34.43.jpg",
+          "videoTime": 338.57
+        },
+        {
+          "frame": "aMis3CaQvN4-34.7.jpg",
+          "videoTime": 338.3
+        },
+        {
+          "frame": "aMis3CaQvN4-34.97.jpg",
+          "videoTime": 338.03
+        }
+      ],
+      "originalSha256": "1c16512504ff0b0e4725c0fa51634da274789e1a146c74402f40593258a0da92",
+      "path": "content/recipes/wensi-tofu-soup.json"
+    },
+    {
+      "recipe": "west-lake-vinegar-fish",
+      "video": "https://www.youtube.com/watch?v=uMlDjiAttXI",
+      "issues": [
+        "装盘漏姜米，盐和味精跨煮鱼、调汁两阶段，不能每阶段重复使用整份量。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "uMlDjiAttXI-0.jpg",
+          "videoTime": 435.0
+        },
+        {
+          "frame": "uMlDjiAttXI-1.8.jpg",
+          "videoTime": 433.2
+        },
+        {
+          "frame": "uMlDjiAttXI-3.3.jpg",
+          "videoTime": 431.7
+        },
+        {
+          "frame": "uMlDjiAttXI-5.3.jpg",
+          "videoTime": 429.7
+        },
+        {
+          "frame": "uMlDjiAttXI-6.8.jpg",
+          "videoTime": 428.2
+        }
+      ],
+      "originalSha256": "bba3fdf875b5e0f8ffde7ad8a076858048dfca724301ee8947ffdb38dc469d63",
+      "path": "content/recipes/west-lake-vinegar-fish.json"
+    },
+    {
+      "recipe": "white-brined-pork-elbow",
+      "video": "https://www.youtube.com/watch?v=fZaLlUYvkSM",
+      "issues": [
+        "白胡椒为整粒 20 g，旧步骤写几粒；蘸料配方漏写。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "fZaLlUYvkSM-0.jpg",
+          "videoTime": 224.0
+        },
+        {
+          "frame": "fZaLlUYvkSM-1.67.jpg",
+          "videoTime": 222.33
+        }
+      ],
+      "originalSha256": "391400d2c386317c99fdb8950b2c7f1cd70a1c6fad2f55420798dbe823df9323",
+      "path": "content/recipes/white-brined-pork-elbow.json"
+    },
+    {
+      "recipe": "winter-melon-barley-duck-soup",
+      "video": "https://www.youtube.com/watch?v=qY6bea6K3BI",
+      "issues": [
+        "片尾是撇净浮沫后连汤转入砂锅，旧步骤误写倒掉原汤换水。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "qY6bea6K3BI-0.jpg",
+          "videoTime": 263.0
+        }
+      ],
+      "originalSha256": "a944080d2db871dacd67ed29d318858c7bcc142f6a0367c6863b9a182112e23b",
+      "path": "content/recipes/winter-melon-barley-duck-soup.json"
+    },
+    {
+      "recipe": "wok-seared-noodle-soup",
+      "video": "https://www.youtube.com/watch?v=FIIU31RSp9Y",
+      "issues": [
+        "漏提取三个鸡蛋、一个八角及水面比例；汤滚 3 分钟漏写。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "FIIU31RSp9Y-0.jpg",
+          "videoTime": 241.0
+        },
+        {
+          "frame": "FIIU31RSp9Y-1.77.jpg",
+          "videoTime": 239.23
+        },
+        {
+          "frame": "FIIU31RSp9Y-3.27.jpg",
+          "videoTime": 237.73
+        },
+        {
+          "frame": "FIIU31RSp9Y-4.77.jpg",
+          "videoTime": 236.23
+        },
+        {
+          "frame": "FIIU31RSp9Y-6.27.jpg",
+          "videoTime": 234.73
+        },
+        {
+          "frame": "FIIU31RSp9Y-7.27.jpg",
+          "videoTime": 233.73
+        }
+      ],
+      "originalSha256": "81b90295665ee072594875a3130e31af86ac12df8794b065ae80a81f764392fe",
+      "path": "content/recipes/wok-seared-noodle-soup.json"
+    },
+    {
+      "recipe": "wrapped-fried-tofu",
+      "video": "https://www.youtube.com/watch?v=ZVZzHzLuMLw",
+      "issues": [
+        "蔬菜粒漏入蒸豆腐步骤；淀粉用于多阶段，片尾未分配 80 g。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "ZVZzHzLuMLw-0.jpg",
+          "videoTime": 274.0
+        },
+        {
+          "frame": "ZVZzHzLuMLw-1.17.jpg",
+          "videoTime": 272.83
+        },
+        {
+          "frame": "ZVZzHzLuMLw-2.17.jpg",
+          "videoTime": 271.83
+        },
+        {
+          "frame": "ZVZzHzLuMLw-2.67.jpg",
+          "videoTime": 271.33
+        },
+        {
+          "frame": "ZVZzHzLuMLw-3.17.jpg",
+          "videoTime": 270.83
+        }
+      ],
+      "originalSha256": "16d0bf9538c23e0f4e72633b0e0601d9569bd7bd3d01282452b6c995cde6994e",
+      "path": "content/recipes/wrapped-fried-tofu.json"
+    },
+    {
+      "recipe": "xinjiang-chili-mixed-noodles",
+      "video": "https://www.youtube.com/watch?v=jiTzTYlmWCI",
+      "issues": [
+        "蒜 40 g 两次误写两瓣；炒料顺序、加水和盐遗漏，洋葱油错写红油。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "jiTzTYlmWCI-0.jpg",
+          "videoTime": 346.0
+        }
+      ],
+      "originalSha256": "516700fa2e0cdff94f86cd5e9d603200df01085c80589943ba0868b03e246b68",
+      "path": "content/recipes/xinjiang-chili-mixed-noodles.json"
+    },
+    {
+      "recipe": "yunnan-dried-beef",
+      "video": "https://www.youtube.com/watch?v=GC2XzC4CxhQ",
+      "issues": [
+        "高压锅上汽 5 分钟误写成普通锅再煮 5 分钟，遗漏花椒浸泡。",
+        "油温说明把“不噼啪响”反写成“冒泡作响”。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "GC2XzC4CxhQ-0.jpg",
+          "videoTime": 467.0
+        },
+        {
+          "frame": "GC2XzC4CxhQ-2.48.jpg",
+          "videoTime": 464.52
+        },
+        {
+          "frame": "GC2XzC4CxhQ-3.48.jpg",
+          "videoTime": 463.52
+        },
+        {
+          "frame": "GC2XzC4CxhQ-5.48.jpg",
+          "videoTime": 461.52
+        },
+        {
+          "frame": "GC2XzC4CxhQ-6.98.jpg",
+          "videoTime": 460.02
+        }
+      ],
+      "originalSha256": "8c32321075f646895d2f44247454351ebbea0bd2deeecc09c4279f1b7001bf4d",
+      "path": "content/recipes/yunnan-dried-beef.json"
+    },
+    {
+      "recipe": "yuxiang-eggplant",
+      "video": "https://www.youtube.com/watch?v=-k81KxF5ZGI",
+      "issues": [
+        "鱼香茄子漏掉关键的泡椒酱和葱末炝锅。"
+      ],
+      "changedFields": [
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "-k81KxF5ZGI-0.jpg",
+          "videoTime": 276.0
+        }
+      ],
+      "originalSha256": "315cd6899d87a41c8ca635811acc584a96783fa927658891b75f95f908aa88d2",
+      "path": "content/recipes/yuxiang-eggplant.json"
+    },
+    {
+      "recipe": "yuxiang-potato",
+      "video": "https://www.youtube.com/watch?v=C7sTdacCP3I",
+      "issues": [
+        "蒸好的土豆压泥误写成倒进水里；葱 5 g 不是葱油。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "C7sTdacCP3I-0.jpg",
+          "videoTime": 169.0
+        },
+        {
+          "frame": "C7sTdacCP3I-1.03.jpg",
+          "videoTime": 167.97
+        },
+        {
+          "frame": "C7sTdacCP3I-2.03.jpg",
+          "videoTime": 166.97
+        },
+        {
+          "frame": "C7sTdacCP3I-3.03.jpg",
+          "videoTime": 165.97
+        },
+        {
+          "frame": "C7sTdacCP3I-4.03.jpg",
+          "videoTime": 164.97
+        },
+        {
+          "frame": "C7sTdacCP3I-5.03.jpg",
+          "videoTime": 163.97
+        }
+      ],
+      "originalSha256": "9206773221144e6fa4e496ae7a7b34727b9429e2321fe863d6b0ff91295b90e1",
+      "path": "content/recipes/yuxiang-potato.json"
+    },
+    {
+      "recipe": "yuxiang-shredded-pork",
+      "video": "https://www.youtube.com/watch?v=dkQ9IWOcfSc",
+      "issues": [
+        "主料应为猪通脊；淀粉 5–8 g 应为 10 g；肉丝只拨到锅边，不先盛出。"
+      ],
+      "changedFields": [
+        "ingredients",
+        "translations"
+      ],
+      "evidenceFrames": [
+        {
+          "frame": "dkQ9IWOcfSc-0.jpg",
+          "videoTime": 306.0
+        },
+        {
+          "frame": "dkQ9IWOcfSc-1.17.jpg",
+          "videoTime": 304.83
+        }
+      ],
+      "originalSha256": "431de87da393338bc8bc184da1c96e0dc5e9df8d4bf9fdd9885cab18076abd00",
+      "path": "content/recipes/yuxiang-shredded-pork.json"
+    }
+  ],
+  "sourceLimitations": [
+    "Unspecified amounts and units remain unspecified.",
+    "Conflicting or suspicious original values are explicitly retained, not guessed.",
+    "Statements outside captured end cards have not all been re-verified against full-length footage."
+  ],
+  "additionalReview": {
+    "recipe": "pangding-special-braised-oxtail",
+    "source": "User-provided recipe text in this conversation",
+    "result": "Chinese ingredients and method, and English/French translations match the supplied text. No changes required. The original unspecified bag weight and marinade duration remain unspecified."
+  }
+}

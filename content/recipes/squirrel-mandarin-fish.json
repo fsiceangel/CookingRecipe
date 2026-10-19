@@ -15,6 +15,11 @@
         "cn": "桂鱼",
         "en": "Mandarin fish",
         "fr": "Poisson mandarin"
+      },
+      "amount": {
+        "cn": "1 条",
+        "en": "1 whole fish",
+        "fr": "1 poisson entier"
       }
     },
     {
@@ -150,11 +155,11 @@
     "cn": {
       "title": "松鼠桂鱼",
       "steps": [
-        "选一条桂鱼，冰鲜的即可。处理时注意背鳍硬刺有毒，若被扎伤要立即挤出放血。",
-        "在鳃后斜刀把鱼头切下（但不要砍断分离），炸时不变形、造型更好看。",
+        "桂鱼处理干净，修剪尖锐鱼鳍，操作时避开硬刺。",
+        "斜刀切下鱼头，剪断鱼头与脖子的连接处，鱼头留作造型。",
         "从背部下刀，沿背骨把两片鱼肉片下，去掉中骨和肋骨，留下两条厚鱼肉。",
         "在鱼肉上抹水后打花刀：先片刀贴鱼皮片开但不切断，再转方向直刀切，刀身略歪以确认未切到鱼皮。",
-        "将鱼肉放入加盐的葱姜水中浸泡，增加紧实度并入底味。",
+        "鱼肉放入加盐的葱姜水中浸泡5分钟。",
         "调一碗比米汤略稠的淀粉水，鱼肉过一下水后放入淀粉水中蘸匀（蘸干淀粉法比加蛋清、全蛋更酥脆）。",
         "把鱼肉放到干淀粉上，每根花刀都要蘸饱满，抖去多余干粉。",
         "摆出造型，鱼尾翻起，捏住两片鱼皮蘸水使其粘合，造型更好看。",
@@ -173,11 +178,11 @@
     "en": {
       "title": "Squirrel Mandarin Fish",
       "steps": [
-        "Use a mandarin fish; chilled (not live) is fine. Beware the venomous dorsal spines when handling; if pricked, squeeze out blood immediately.",
-        "Cut the head off behind the gills with a slanted cut but leave it attached, so it won't deform when fried and looks better.",
+        "Clean the mandarin fish, trim sharp fins, and keep clear of the spines while handling.",
+        "Cut off the head diagonally and snip through the head-neck connection; reserve the head for presentation.",
         "Cut along the back and fillet off the two sides along the backbone, removing the central bone and rib bones, leaving two thick fillets.",
         "Wet the flesh, then score: first slide the knife along the skin to open it without cutting through, then turn and cut straight down, tilting the blade slightly to check you haven't cut the skin.",
-        "Soak the fillets in salted scallion-ginger water to firm them up and add base flavor.",
+        "Soak the fish in salted scallion-ginger water for 5 minutes.",
         "Make a starch slurry slightly thicker than rice water; dip the fish through water, then coat it in the slurry (dipping in dry starch this way is crispier than using egg white or whole egg).",
         "Press the fish into dry starch, coating every scored strip fully, then shake off excess.",
         "Shape the fish, flipping up the tail; pinch the two skin flaps and wet them to stick together for a better shape.",
@@ -196,11 +201,11 @@
     "fr": {
       "title": "Poisson Mandarin Écureuil",
       "steps": [
-        "Utiliser un poisson mandarin ; réfrigéré (non vivant) convient. Attention aux épines dorsales venimeuses ; en cas de piqûre, presser pour faire saigner aussitôt.",
-        "Couper la tête derrière les ouïes en biais sans la détacher, pour qu'elle ne se déforme pas à la friture et reste belle.",
+        "Nettoyer le poisson mandarin, couper les nageoires pointues et éviter les épines pendant la préparation.",
+        "Couper la tête en biais et sectionner la jonction avec le cou ; réserver la tête pour la présentation.",
         "Lever les deux filets le long de l'arête dorsale, retirer l'arête centrale et les arêtes des côtes, en laissant deux filets épais.",
         "Mouiller la chair, puis l'inciser : glisser d'abord la lame le long de la peau pour l'ouvrir sans la traverser, puis tourner et couper droit en inclinant légèrement la lame pour vérifier de ne pas couper la peau.",
-        "Faire tremper les filets dans de l'eau salée de ciboule et gingembre pour les raffermir et leur donner un goût de base.",
+        "Faire tremper le poisson 5 minutes dans de l’eau salée à la ciboule et au gingembre.",
         "Préparer une liaison à la fécule un peu plus épaisse que l'eau de riz ; passer le poisson dans l'eau puis l'enrober de cette liaison (l'enrobage à la fécule sèche est plus croustillant que le blanc d'œuf ou l'œuf entier).",
         "Presser le poisson dans la fécule sèche en enrobant bien chaque bande incisée, puis secouer l'excédent.",
         "Façonner le poisson, relever la queue ; pincer les deux pans de peau et les mouiller pour qu'ils collent et donnent une meilleure forme.",

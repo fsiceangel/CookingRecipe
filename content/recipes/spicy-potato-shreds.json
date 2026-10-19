@@ -45,15 +45,6 @@
       }
     },
     {
-      "id": "scallion-5",
-      "ingredient": "scallion",
-      "name": {
-        "cn": "葱丝",
-        "en": "Shredded scallion",
-        "fr": "Ciboule émincée"
-      }
-    },
-    {
       "id": "chicken-bouillon-6",
       "ingredient": "chicken-bouillon",
       "name": {
@@ -88,6 +79,10 @@
         "en": "Oil",
         "fr": "Huile"
       }
+    },
+    {
+      "id": "sesame-seeds-audit",
+      "ingredient": "sesame-seeds"
     }
   ],
   "translations": {
@@ -101,7 +96,7 @@
         "把炸油倒出，锅里留底油，下蒜末煸至金黄出蒜香。",
         "放入干辣椒段和香菜段炒香，让香味跑进油里。",
         "关火，把炸好的土豆丝倒回锅中，用筷子轻轻抖散。",
-        "加鸡粉、盐、葱丝，淋少许香油，拌匀出锅。"
+        "关火后加入鸡粉、盐、香油和芝麻，拌匀出锅。"
       ],
       "notes": [
         "土豆丝要全程大火、高油温炸，才能干香酥脆。",
@@ -119,7 +114,7 @@
         "Pour off the frying oil, leave a little in the wok, and fry the minced garlic until golden and fragrant.",
         "Add the dried chili sections and chopped cilantro and stir-fry until fragrant, releasing the aromas into the oil.",
         "Turn off the heat, return the fried potato shreds, and gently toss them apart with chopsticks.",
-        "Season with chicken bouillon, salt, and shredded scallion, drizzle with a little sesame oil, toss, and serve."
+        "Off the heat, mix in chicken seasoning, salt, sesame oil, and sesame seeds."
       ],
       "notes": [
         "Fry the potato shreds over high heat in hot oil so they stay dry, fragrant, and crisp.",
@@ -137,7 +132,7 @@
         "Vider l'huile de friture, en laisser un peu dans le wok et faire revenir l'ail haché jusqu'à ce qu'il soit doré et parfumé.",
         "Ajouter les morceaux de piment séché et la coriandre hachée et faire sauter jusqu'à libérer les arômes dans l'huile.",
         "Éteindre le feu, remettre la julienne frite et la détacher délicatement avec des baguettes.",
-        "Assaisonner avec le bouillon de poulet, le sel et la ciboule émincée, arroser d'un peu d'huile de sésame, mélanger et servir."
+        "Hors du feu, incorporer l’assaisonnement au poulet, le sel, l’huile de sésame et les graines de sésame."
       ],
       "notes": [
         "Frire la julienne à feu vif dans une huile bien chaude pour qu'elle reste sèche, parfumée et croustillante.",

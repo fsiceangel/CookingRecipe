@@ -124,6 +124,14 @@
         "en": "Chili crisp",
         "fr": "Chili croustillant"
       }
+    },
+    {
+      "id": "cilantro-audit",
+      "ingredient": "cilantro"
+    },
+    {
+      "id": "chili-powder-audit",
+      "ingredient": "chili-powder"
     }
   ],
   "translations": {
@@ -139,7 +147,7 @@
         "把辣椒酥擀碎备用。",
         "羊排蒸好捞出，放到烤盘上，清理掉表面残留的蔬菜汁，划几刀便于入味。",
         "入烤箱220度先烤10分钟，烤掉表面水分、逼出油脂。",
-        "取出撒上孜然辣椒面，放回再烤5分钟。",
+        "取出撒孜然、芝麻和辣椒面，放回220°C烤箱再烤3分钟。",
         "出炉撒上辣椒碎、芝麻、小葱即可。"
       ],
       "notes": [
@@ -160,7 +168,7 @@
         "Crush the chili crisp and set aside.",
         "Remove the steamed lamb to a baking tray, wipe off leftover vegetable juices, and score it a few times to absorb flavor.",
         "Roast at 220°C for 10 minutes first, to dry the surface and render the fat.",
-        "Sprinkle on the cumin-chili mix and roast another 5 minutes.",
+        "Sprinkle with cumin, sesame, and chili powder, then bake at 220°C for 3 more minutes.",
         "Finish with crushed chili crisp, sesame seeds, and scallion."
       ],
       "notes": [
@@ -181,7 +189,7 @@
         "Écraser le chili croustillant et réserver.",
         "Sortir l'agneau cuit sur une plaque, essuyer les jus de légumes restants et l'inciser pour qu'il absorbe les saveurs.",
         "Rôtir d'abord à 220°C pendant 10 minutes pour sécher la surface et faire fondre la graisse.",
-        "Saupoudrer du mélange cumin-piment et rôtir encore 5 minutes.",
+        "Parsemer de cumin, de sésame et de piment moulu, puis remettre au four à 220°C pendant 3 minutes.",
         "Terminer avec le chili croustillant écrasé, les graines de sésame et la ciboule."
       ],
       "notes": [

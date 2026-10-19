@@ -143,9 +143,9 @@
         "fr": "Fécule"
       },
       "amount": {
-        "cn": "80 g",
-        "en": "80 g",
-        "fr": "80 g"
+        "cn": "总量 80 g；豆腐馅、拍粉与蛋糊分配未标",
+        "en": "80 g total; division between filling, dusting, and batter unspecified",
+        "fr": "80 g au total ; répartition entre farce, enrobage et pâte non précisée"
       }
     },
     {
@@ -205,7 +205,7 @@
       "steps": [
         "虾仁切成粒；一块北豆腐刮碎，碎一点没关系。",
         "豆腐里加入肉馅、虾仁粒、葱姜末、盐、味精、胡椒粉拌匀，再加点香油。",
-        "加入淀粉拌匀让豆腐凝固（豆腐易出水），盘里垫一层保鲜膜防粘，把豆腐泥铺平。",
+        "豆腐馅加入淀粉拌匀，盘中垫保鲜膜，铺平馅料后撒上50g蔬菜粒。",
         "上锅大火烧开上汽，蒸约10分钟。",
         "调糊：两个鸡蛋加淀粉、少量水和一点油（油起酥）调匀成蛋糊。",
         "调葱椒盐：葱花、花椒面和盐拌在一起，让葱与花椒盐充分融合。",
@@ -224,7 +224,7 @@
       "steps": [
         "Dice the shrimp; mash a block of firm tofu, it's fine if it's very fine.",
         "Mix the tofu with minced meat, diced shrimp, minced scallion and ginger, salt, MSG, and white pepper, then add a little sesame oil.",
-        "Mix in starch to firm up the tofu (it releases water), line a plate with plastic wrap to prevent sticking, and spread the tofu paste flat.",
+        "Mix starch into the tofu filling, spread in a lined dish, and sprinkle with 50g diced vegetables.",
         "Steam over high heat for about 10 minutes once boiling.",
         "Make the batter: beat two eggs with starch, a little water, and a bit of oil (oil makes it crisp) into a smooth egg batter.",
         "Make the scallion-peppercorn salt: mix chopped scallion, ground Sichuan peppercorn, and salt together until fully combined.",
@@ -243,7 +243,7 @@
       "steps": [
         "Couper les crevettes en dés ; écraser un bloc de tofu ferme, peu importe si c'est très fin.",
         "Mélanger le tofu avec la viande hachée, les crevettes en dés, la ciboule et le gingembre hachés, le sel, le glutamate et le poivre blanc, puis ajouter un peu d'huile de sésame.",
-        "Incorporer la fécule pour raffermir le tofu (il rend de l'eau), tapisser une assiette de film alimentaire et étaler la pâte de tofu à plat.",
+        "Incorporer la fécule à la farce au tofu, l’étaler dans un plat chemisé et parsemer de 50g de légumes en dés.",
         "Cuire à la vapeur à feu vif environ 10 minutes après ébullition.",
         "Préparer la pâte : battre deux oeufs avec de la fécule, un peu d'eau et un peu d'huile (l'huile rend croustillant) en une pâte lisse.",
         "Préparer le sel au poivre et ciboule : mélanger ciboule hachée, poivre du Sichuan moulu et sel jusqu'à pleine combinaison.",

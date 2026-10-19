@@ -91,9 +91,9 @@
       "id": "chili-pepper-7",
       "ingredient": "chili-pepper",
       "name": {
-        "cn": "辣椒",
-        "en": "Dried chili pepper",
-        "fr": "Piment séché"
+        "cn": "干朝天椒",
+        "en": "Dried facing-heaven chilies",
+        "fr": "Piments secs chaotian"
       },
       "amount": {
         "cn": "300 g",
@@ -443,7 +443,7 @@
         "转小火，下豆瓣酱炒香，倒入汤里，让汤面浮起一层红油。",
         "加鸡汤增香（家里量小，加鸡汤汤才够香），下冰糖、盐、味精、酱油调味，小火慢熬成秘制酱汤。",
         "鸡爪等原料冷水下锅、加花雕酒焯水撇净血沫，捞出直接放进卤汤。",
-        "煮鸭头之类时火不要太大，烧开后转中火，咕嘟嘟小滚约二十分钟（提前泡一夜的话最多煮十分钟）。",
+        "卤汤烧开后转中小火，肉类食材煮约20分钟。片尾的“10分钟”指煮好后隔夜放置再食用的安排，并非提前浸泡原料。",
         "放入海带结、炸豆腐等蔬菜，开锅后中火煮两分钟即关火。",
         "关火后焖约半小时让味道渗透，即可食用。"
       ],
@@ -463,7 +463,7 @@
         "Lower the heat, fry the doubanjiang until fragrant, and stir it into the stock so a layer of red oil floats on top.",
         "Add chicken stock for richness (home batches are small, so stock makes up the depth), then season with rock sugar, salt, MSG and soy sauce, and simmer gently into a secret brine.",
         "Blanch the chicken feet and other proteins from cold water with a splash of cooking wine, skim off the scum, then drop them straight into the brine.",
-        "Keep the heat moderate for items like duck heads; once boiling, lower to medium and keep at a gentle simmer about 20 minutes (only 10 if pre-soaked overnight).",
+        "Bring the brine to a boil, then simmer the meats for about 20 minutes. The end card’s 10-minute alternative refers to holding the cooked dish overnight before serving, not soaking the raw ingredients beforehand.",
         "Add the kelp knots, fried tofu and any vegetables; once it returns to a boil, cook 2 minutes on medium then turn off the heat.",
         "Let everything steep, covered, about half an hour so the flavor soaks in, then serve."
       ],
@@ -483,7 +483,7 @@
         "Baissez le feu, faites revenir le doubanjiang, puis incorporez-le au bouillon pour qu'une couche d'huile rouge surnage.",
         "Ajoutez du bouillon de poulet pour la richesse, puis assaisonnez avec sucre candi, sel, glutamate et sauce soja, et laissez mijoter doucement en saumure secrète.",
         "Blanchissez les pieds de poulet et autres viandes à l'eau froide avec un trait de vin de cuisine, écumez, puis plongez-les directement dans la saumure.",
-        "Gardez un feu modéré pour les têtes de canard ; à ébullition, baissez à feu moyen et laissez frémir environ 20 minutes (10 si trempé une nuit).",
+        "Porter la saumure à ébullition puis laisser mijoter les viandes environ 20 minutes. L’alternative de 10 minutes sur la fiche concerne un plat conservé jusqu’au lendemain avant dégustation, et non un trempage préalable des ingrédients crus.",
         "Ajoutez les nœuds de kombu, le tofu frit et les légumes ; à la reprise de l'ébullition, cuisez 2 minutes à feu moyen puis éteignez.",
         "Laissez infuser à couvert environ une demi-heure pour que les saveurs pénètrent, puis servez."
       ],
