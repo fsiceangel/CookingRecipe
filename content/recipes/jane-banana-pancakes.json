@@ -1,0 +1,131 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-banana-pancakes",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=JsfOb4xdhBE",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "whole-wheat-flour",
+      "ingredient": "whole-wheat-flour",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "baking-powder",
+      "ingredient": "baking-powder",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "almond-milk",
+      "ingredient": "almond-milk",
+      "amount": {
+        "cn": "180 g",
+        "en": "180 g",
+        "fr": "180 g"
+      },
+      "name": {
+        "cn": "无糖杏仁植物奶",
+        "en": "Unsweetened almond drink",
+        "fr": "Boisson aux amandes sans sucre ajouté"
+      }
+    },
+    {
+      "id": "banana-puree",
+      "ingredient": "banana",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "去皮香蕉（压泥）",
+        "en": "Peeled banana, mashed",
+        "fr": "Banane pelée écrasée"
+      }
+    },
+    {
+      "id": "banana-chunks",
+      "ingredient": "banana",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "去皮香蕉（切丁）",
+        "en": "Peeled banana, diced",
+        "fr": "Banane pelée en dés"
+      }
+    },
+    {
+      "id": "coconut-oil",
+      "ingredient": "coconut-oil",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "香蕉松饼（无蛋奶）",
+      "steps": [
+        "约2根香蕉去皮，取100g压泥、100g切丁。全麦粉加泡打粉、盐，加入香蕉泥、植物奶与融化椰子油搅匀。植物奶先留一部分，再根据面糊状态补入。",
+        "将面糊调至较稀、可摊开的状态。需要时用较粗的筛网去除结块，避免细筛滤掉全麦颗粒；最后拌入香蕉丁。",
+        "不粘锅预热，舀小半勺面糊摊薄。第一面约煎1分钟，底部定型、能够铲起时翻面；另一面约20秒，按实际厚度和火力调整至熟透。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "用量已核对视频00:44的配方画面。全麦粉可换低筋粉，植物奶按面粉吸水性调整。",
+        "香蕉本身含糖，此处是不额外加糖，不是无糖食品。作者淋糖浆只是拍摄装饰，基本配方不需要。"
+      ]
+    },
+    "en": {
+      "title": "Egg-free, dairy-free banana pancakes",
+      "steps": [
+        "Peel about 2 bananas; mash 100 g and dice 100 g. Mix flour, baking powder and salt with the mashed banana, almond drink and melted coconut oil. Reserve some drink initially and add as needed.",
+        "Aim for a fairly fluid, spreadable batter. If needed, use a coarse sieve to remove lumps without filtering out the whole-grain particles. Fold in the diced banana last.",
+        "Preheat a nonstick pan and spread a small half-ladle of batter thinly. Cook about 1 minute until set underneath and easy to lift, then turn and cook about 20 seconds more. Adjust heat and time to cook through."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Quantities were checked against the formula shown at 00:44. Cake flour may replace whole-wheat flour; adjust the plant milk to absorption.",
+        "Bananas contain natural sugars: this recipe has no added sugar, rather than being sugar-free. The filmed syrup is optional decoration and is unnecessary in the base recipe."
+      ]
+    },
+    "fr": {
+      "title": "Pancakes à la banane sans œufs ni lait",
+      "steps": [
+        "Peler environ 2 bananes ; en écraser 100 g et couper 100 g en dés. Mélanger farine, levure et sel avec la purée, la boisson aux amandes et l’huile de coco fondue. Réserver un peu de liquide et l’ajouter selon la consistance.",
+        "Obtenir une pâte assez fluide pour s’étaler. Si nécessaire, éliminer les grumeaux avec un tamis grossier sans retirer les particules complètes. Ajouter les dés de banane en dernier.",
+        "Préchauffer une poêle antiadhésive et étaler une petite demi-louche. Cuire environ 1 minute jusqu’à ce que le dessous se soulève, retourner puis cuire environ 20 secondes. Adapter feu et durée pour cuire à cœur."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Les quantités ont été vérifiées sur la formule affichée à 00:44. La farine faible peut remplacer la farine complète ; ajuster le liquide selon l’absorption.",
+        "Les bananes contiennent des sucres naturels : cette recette est sans sucre ajouté. Le sirop filmé est une décoration facultative, inutile dans la recette de base."
+      ]
+    }
+  }
+}

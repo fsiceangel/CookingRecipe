@@ -1,0 +1,105 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-pumpkin-paste",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=Wzf0Tplebqg",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "pumpkin",
+      "ingredient": "pumpkin",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      },
+      "name": {
+        "cn": "贝贝南瓜",
+        "en": "Kabocha-type pumpkin",
+        "fr": "Potimarron"
+      }
+    },
+    {
+      "id": "milk",
+      "ingredient": "milk",
+      "amount": {
+        "cn": "140 g",
+        "en": "140 g",
+        "fr": "140 g"
+      },
+      "name": {
+        "cn": "煮开过的牛奶，按稠度调整",
+        "en": "Previously boiled milk; adjust to consistency",
+        "fr": "Lait préalablement bouilli ; ajuster la texture"
+      }
+    },
+    {
+      "id": "butter",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "南瓜酱（蛋糕夹馅与裱花用）",
+      "steps": [
+        "南瓜切开去籽，蒸约20分钟至软熟，刮出果肉，弃去瓜皮。",
+        "南瓜肉与黄油、糖、盐放入料理机，分次加入煮开过的牛奶，打成顺滑且较浓稠的酱。牛奶不要一次全倒，按南瓜含水量调整，以能打动为准。",
+        "过筛去除纤维，放凉后用作夹馅或裱花。剩余部分可按作者做法分装冷冻。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "原配方标南瓜500g，未明确是处理前还是净果肉重量，因此不标固定成品重量。视频演示为双倍，清单保留单份。"
+      ]
+    },
+    "en": {
+      "title": "Sweet pumpkin paste for cakes",
+      "steps": [
+        "Cut and deseed the pumpkin. Steam about 20 minutes until tender, then scrape out the flesh and discard the skin.",
+        "Blend the flesh with butter, sugar and salt, gradually adding the boiled milk until smooth but thick. Do not add all the milk at once; use only enough to blend, depending on pumpkin moisture.",
+        "Sieve out fibers and cool before filling or piping. The author freezes leftover paste in portions."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The source lists 500 g pumpkin without clarifying whether this is before trimming or net flesh, so no fixed yield is stated. The video demonstrates a double batch; this list is one batch."
+      ]
+    },
+    "fr": {
+      "title": "Crème de potimarron pour gâteaux",
+      "steps": [
+        "Couper et épépiner le potimarron. Cuire à la vapeur environ 20 minutes jusqu’à tendreté, récupérer la chair et retirer la peau.",
+        "Mixer la chair avec beurre, sucre et sel en ajoutant progressivement le lait bouilli pour obtenir une crème lisse et épaisse. N’ajouter que le lait nécessaire au mixage, selon l’humidité du potimarron.",
+        "Tamiser pour retirer les fibres et refroidir avant de garnir ou décorer. L’auteur congèle le surplus en portions."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La source indique 500 g de potimarron sans préciser le poids avant préparation ou de chair nette ; aucun rendement fixe n’est donc annoncé. La vidéo montre une double quantité, la liste une seule."
+      ]
+    }
+  }
+}

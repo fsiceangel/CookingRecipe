@@ -1,0 +1,123 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-durian-pancakes",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=4_Zsg4sY854",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "cake-flour",
+      "ingredient": "cake-flour",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "baking-powder",
+      "ingredient": "baking-powder",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "milk",
+      "ingredient": "milk",
+      "amount": {
+        "cn": "180 g",
+        "en": "180 g",
+        "fr": "180 g"
+      }
+    },
+    {
+      "id": "durian-puree",
+      "ingredient": "durian",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "榴莲果肉（压泥）",
+        "en": "Durian flesh, mashed",
+        "fr": "Chair de durian écrasée"
+      }
+    },
+    {
+      "id": "durian-chunks",
+      "ingredient": "durian",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "榴莲果肉（切块）",
+        "en": "Durian flesh, diced",
+        "fr": "Chair de durian en morceaux"
+      }
+    },
+    {
+      "id": "butter",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "榴莲松饼",
+      "steps": [
+        "将100g榴莲压成泥，另100g切块。低筋粉、泡打粉、盐、榴莲泥、牛奶和融化黄油搅匀，保留果肉纤维，不用过筛。",
+        "拌入榴莲块。按面糊状态微调牛奶，使面糊能摊开，避免摊得太厚。",
+        "不粘锅预热后转小火，舀小半勺面糊摊薄。第一面约煎1分钟，底部定型、铲子能伸进去时翻面；再煎约20秒，并按厚度调整至熟透。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "原配方不另加糖，甜味来自榴莲；不是不含糖。牛奶和黄油可按作者建议换植物奶与椰子油。"
+      ]
+    },
+    "en": {
+      "title": "Durian pancakes",
+      "steps": [
+        "Mash 100 g durian and dice the other 100 g. Mix flour, baking powder, salt, mashed durian, milk and melted butter. Keep the fruit fibers; do not strain.",
+        "Fold in the durian pieces. Adjust the milk slightly if needed so the batter spreads; avoid thick pancakes.",
+        "Preheat a nonstick pan, reduce to low heat and spread a small half-ladle of batter thinly. Cook the first side about 1 minute, until set underneath and easy to lift; turn and cook about 20 seconds more, adjusting for thickness until cooked through."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The recipe has no added sugar, but durian naturally contains sugar. The author allows plant milk and coconut oil in place of milk and butter."
+      ]
+    },
+    "fr": {
+      "title": "Pancakes au durian",
+      "steps": [
+        "Écraser 100 g de durian et couper les 100 g restants. Mélanger farine, levure chimique, sel, purée de durian, lait et beurre fondu. Conserver les fibres sans filtrer.",
+        "Incorporer les morceaux. Ajuster légèrement le lait pour obtenir une pâte qui s’étale ; éviter des pancakes épais.",
+        "Préchauffer une poêle antiadhésive puis réduire à feu doux. Étaler une petite demi-louche de pâte. Cuire environ 1 minute, retourner quand le dessous est pris et se soulève facilement, puis cuire environ 20 secondes en adaptant à l’épaisseur."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La recette est sans sucre ajouté, mais le durian contient naturellement du sucre. Selon l’auteur, lait et beurre peuvent être remplacés par une boisson végétale et de l’huile de coco."
+      ]
+    }
+  }
+}

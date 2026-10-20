@@ -1,0 +1,125 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-melon-crepe-cake",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=KvTxl84WHcw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "melon",
+      "ingredient": "melon",
+      "amount": {
+        "cn": "2个，去皮去籽切薄片",
+        "en": "2, peeled, deseeded and thinly sliced",
+        "fr": "2, pelés, épépinés et émincés"
+      }
+    },
+    {
+      "id": "egg",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "112 g",
+        "en": "112 g",
+        "fr": "112 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "27 g",
+        "en": "27 g",
+        "fr": "27 g"
+      }
+    },
+    {
+      "id": "butter",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "milk",
+      "ingredient": "milk",
+      "amount": {
+        "cn": "170 g",
+        "en": "170 g",
+        "fr": "170 g"
+      }
+    },
+    {
+      "id": "cake-flour",
+      "ingredient": "cake-flour",
+      "amount": {
+        "cn": "54 g",
+        "en": "54 g",
+        "fr": "54 g"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "28 g",
+        "en": "28 g",
+        "fr": "28 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "蜜瓜千层",
+      "steps": [
+        "鸡蛋、牛奶、融化黄油和糖搅匀，加入低筋粉搅匀后过筛两次。如黄油遇冷凝结，略加温至约25°C使其重新融化。",
+        "不粘锅预热，舀入面糊转动锅子铺匀，多余面糊倒出。饼皮比普通千层略厚，煎至表面出现小泡并能揭起，取出摊凉；做约13张。",
+        "蜜瓜切薄片。400g淡奶油与28g糖粉打至硬挺。每层抹约34g奶油，适量铺蜜瓜，依次叠起12层夹心与13张饼皮。",
+        "叠放时调整饼皮厚薄边的位置，使整体平整。冷藏约2小时后切块；如需顶部奶油装饰，另外准备少量打发奶油。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "400g淡奶油是夹层用量；视频追加的顶部装饰奶油未给克数。蜜瓜不要堆太厚，以免出水、失去支撑。"
+      ]
+    },
+    "en": {
+      "title": "Melon crêpe cake",
+      "steps": [
+        "Mix eggs, milk, melted butter and sugar, then incorporate flour and strain twice. If the butter sets, warm gently to about 25°C to melt it again.",
+        "Preheat a nonstick pan, add batter and swirl to coat, pouring off excess. Make crêpes slightly thicker than usual for a layered cake. Cook until small surface bubbles appear and the crêpe lifts easily; cool flat. Make about 13.",
+        "Thinly slice the melon. Whip 400 g cream with 28 g icing sugar until firm. Spread about 34 g cream per layer with a moderate amount of melon, assembling 12 filling layers between 13 crêpes.",
+        "Alternate the thicker and thinner edges of the crêpes to keep the cake level. Chill about 2 hours before slicing. Prepare extra whipped cream separately if decorating the top."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The 400 g cream is for the layers. The extra topping cream shown has no specified weight. Avoid overly thick melon layers, which release water and weaken the cake."
+      ]
+    },
+    "fr": {
+      "title": "Gâteau de crêpes au melon",
+      "steps": [
+        "Mélanger œufs, lait, beurre fondu et sucre, incorporer la farine puis filtrer deux fois. Si le beurre fige, tiédir vers 25°C pour le faire fondre.",
+        "Préchauffer une poêle antiadhésive, verser la pâte, incliner pour répartir puis reverser l’excédent. Faire des crêpes un peu plus épaisses, cuire jusqu’aux petites bulles et au décollement, puis refroidir à plat. En préparer environ 13.",
+        "Émincer le melon. Monter fermement 400 g de crème avec 28 g de sucre glace. Étaler environ 34 g de crème par couche avec une quantité modérée de melon, pour 12 garnitures entre 13 crêpes.",
+        "Alterner les bords plus ou moins épais des crêpes pour garder le gâteau plat. Réfrigérer environ 2 heures avant de couper. Prévoir séparément un peu de crème fouettée pour décorer le dessus."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Les 400 g de crème servent aux couches ; la décoration supplémentaire filmée n’a pas de poids indiqué. Éviter des couches de melon trop épaisses, qui rendent de l’eau et fragilisent le gâteau."
+      ]
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-braised-rib-knife-cut-noodles",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=8sQVT-zdlSE",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "pork-ribs",
+      "ingredient": "pork-ribs",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      }
+    },
+    {
+      "id": "pork-belly",
+      "ingredient": "pork-belly",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      }
+    },
+    {
+      "id": "onion",
+      "ingredient": "onion",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "garlic",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "doubanjiang",
+      "ingredient": "doubanjiang",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "chili-powder",
+      "ingredient": "chili-powder",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "dark-soy-sauce",
+      "ingredient": "dark-soy-sauce",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "ingredient": "rock-sugar",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "fermented-bean-curd",
+      "ingredient": "fermented-bean-curd",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "star-anise",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "1个",
+        "en": "1 whole star",
+        "fr": "1 étoile entière"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "cinnamon-bark",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "fennel-seeds",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "bay-leaf",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "2片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
+      }
+    },
+    {
+      "id": "chili-pepper",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "干辣椒2个",
+        "en": "2 dried chilies",
+        "fr": "2 piments séchés"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "焯水、炖肉与煮面用；留足面汤",
+        "en": "For blanching, braising and boiling noodles; retain enough broth",
+        "fr": "Pour blanchir, braiser et cuire les nouilles ; garder assez de bouillon"
+      }
+    },
+    {
+      "id": "noodles",
+      "ingredient": "noodles",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "刀削面",
+        "en": "Knife-cut noodles",
+        "fr": "Nouilles taillées au couteau"
+      }
+    },
+    {
+      "id": "leafy-greens",
+      "ingredient": "leafy-greens",
+      "amount": {
+        "cn": "可选，适量",
+        "en": "Optional, as needed",
+        "fr": "Facultatif, selon les besoins"
+      }
+    },
+    {
+      "id": "egg",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "可选，提前煮熟剥壳",
+        "en": "Optional, hard-boiled and peeled",
+        "fr": "Facultatif, cuits durs et écalés"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "排骨刀削面",
+      "steps": [
+        "排骨与五花肉切块，冷水下锅焯至浮沫基本撇净，捞出；焯肉汤沉淀后留清汤备用。",
+        "锅中放油，葱姜蒜与洋葱煸至微黄，加入肉块炒去水气、煸出焦边。转小火炒入豆瓣酱，再炒入辣椒粉，避免炒糊。",
+        "转大火，依次烹入料酒和酱油炒香，加清肉汤或热水，放入冰糖、老抽、压碎的腐乳和装袋的干香料。",
+        "煮开转小火炖约40分钟至肉软。可加入提前煮熟剥壳的鸡蛋同炖；出锅前取出香料包，留足拌面、浇面的汤汁。",
+        "另锅煮熟刀削面，可烫些青菜，盛入碗中，浇上肉和汤汁。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "这份用量是炖肉浇头的一锅配方，作者未给面条克数，不据此推算单人份。"
+      ]
+    },
+    "en": {
+      "title": "Knife-cut noodles with braised pork ribs",
+      "steps": [
+        "Cut the ribs and pork belly, start in cold water and blanch, skimming thoroughly. Remove the meat and reserve the clear portion of the settled broth.",
+        "Fry scallion, ginger, garlic and onion in oil until lightly golden. Add the meat and brown its edges. Lower the heat and fry in the chili bean paste, then chili powder, without scorching.",
+        "Increase the heat, add cooking wine then soy sauce and fry briefly. Add the clear broth or hot water, rock sugar, dark soy sauce, mashed fermented bean curd and a bag of the dry spices.",
+        "Bring to a boil and simmer about 40 minutes until tender. Optionally braise peeled hard-boiled eggs with the meat. Remove the spice bag and retain enough broth for serving the noodles.",
+        "Boil the knife-cut noodles separately, blanch greens if desired, and serve with the meat and broth."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "These quantities make a pot of braised topping. No noodle weight is given, so this is not labeled as a single serving."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles taillées au couteau et travers braisés",
+      "steps": [
+        "Couper travers et poitrine, démarrer à l’eau froide et blanchir en écumant. Retirer la viande et conserver le bouillon clair après décantation.",
+        "Faire blondir ciboule, gingembre, ail et oignon dans l’huile. Ajouter la viande et dorer les bords. Baisser le feu, incorporer la pâte de fèves pimentée puis le piment en poudre sans brûler.",
+        "Augmenter le feu, verser vin puis sauce soja et faire revenir. Ajouter bouillon clair ou eau chaude, sucre candi, soja foncé, tofu fermenté écrasé et sachet d’épices.",
+        "Porter à ébullition puis mijoter environ 40 minutes jusqu’à tendreté. Ajouter éventuellement des œufs durs écalés. Retirer le sachet d’épices et garder assez de jus pour les nouilles.",
+        "Cuire les nouilles séparément, blanchir des légumes verts si souhaité et servir avec la viande et le bouillon."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Ces quantités donnent une marmite de garniture braisée. Le poids des nouilles n’est pas indiqué ; il ne s’agit pas d’une portion individuelle."
+      ]
+    }
+  }
+}

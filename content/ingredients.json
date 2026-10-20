@@ -2358,5 +2358,109 @@
       "en": "Unbaked tart shells",
       "fr": "Fonds de tartelettes crus"
     }
+  },
+  "blueberry": {
+    "category": "veggie",
+    "names": {
+      "cn": "蓝莓",
+      "en": "Blueberries",
+      "fr": "Myrtilles"
+    }
+  },
+  "blueberry-jam": {
+    "category": "pantry",
+    "names": {
+      "cn": "蓝莓酱",
+      "en": "Blueberry jam",
+      "fr": "Confiture de myrtilles"
+    }
+  },
+  "instant-coffee": {
+    "category": "pantry",
+    "names": {
+      "cn": "速溶咖啡",
+      "en": "Instant coffee",
+      "fr": "Café soluble"
+    }
+  },
+  "marsala-wine": {
+    "category": "seasoning",
+    "names": {
+      "cn": "马萨拉酒",
+      "en": "Marsala wine",
+      "fr": "Marsala"
+    }
+  },
+  "gelatin": {
+    "category": "pantry",
+    "names": {
+      "cn": "吉利丁",
+      "en": "Gelatin",
+      "fr": "Gélatine"
+    }
+  },
+  "nostoc": {
+    "category": "veggie",
+    "names": {
+      "cn": "地软",
+      "en": "Edible nostoc",
+      "fr": "Nostoc comestible"
+    }
+  },
+  "whole-wheat-flour": {
+    "category": "pantry",
+    "names": {
+      "cn": "全麦粉",
+      "en": "Whole-wheat flour",
+      "fr": "Farine complète"
+    }
+  },
+  "almond-milk": {
+    "category": "dairy",
+    "names": {
+      "cn": "杏仁植物奶",
+      "en": "Almond drink",
+      "fr": "Boisson aux amandes"
+    }
+  },
+  "coconut-oil": {
+    "category": "pantry",
+    "names": {
+      "cn": "椰子油",
+      "en": "Coconut oil",
+      "fr": "Huile de coco"
+    }
+  },
+  "pumpkin-paste": {
+    "category": "pantry",
+    "names": {
+      "cn": "南瓜酱",
+      "en": "Sweet pumpkin paste",
+      "fr": "Crème de potimarron"
+    }
+  },
+  "sponge-cake": {
+    "category": "pantry",
+    "names": {
+      "cn": "烤好的蛋糕胚",
+      "en": "Baked sponge cake",
+      "fr": "Génoise cuite"
+    }
+  },
+  "durian": {
+    "category": "veggie",
+    "names": {
+      "cn": "榴莲",
+      "en": "Durian",
+      "fr": "Durian"
+    }
+  },
+  "melon": {
+    "category": "veggie",
+    "names": {
+      "cn": "蜜瓜",
+      "en": "Sweet melon",
+      "fr": "Melon"
+    }
   }
 }

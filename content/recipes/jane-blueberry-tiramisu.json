@@ -1,0 +1,219 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-blueberry-tiramisu",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=5lbvGi9tSlU",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "egg-yolk",
+      "ingredient": "egg-yolk",
+      "amount": {
+        "cn": "64 g",
+        "en": "64 g",
+        "fr": "64 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "water-yolks",
+      "ingredient": "water",
+      "amount": {
+        "cn": "24 g",
+        "en": "24 g",
+        "fr": "24 g"
+      },
+      "name": {
+        "cn": "凉开水（蛋黄糊）",
+        "en": "Cooled boiled water, yolk mixture",
+        "fr": "Eau bouillie refroidie, jaunes"
+      }
+    },
+    {
+      "id": "mascarpone",
+      "ingredient": "mascarpone",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      }
+    },
+    {
+      "id": "blueberry-jam-cream",
+      "ingredient": "blueberry-jam",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      },
+      "name": {
+        "cn": "蓝莓酱（奶酪糊）",
+        "en": "Blueberry jam, cream",
+        "fr": "Confiture de myrtilles, crème"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      }
+    },
+    {
+      "id": "instant-coffee",
+      "ingredient": "instant-coffee",
+      "amount": {
+        "cn": "9 g",
+        "en": "9 g",
+        "fr": "9 g"
+      }
+    },
+    {
+      "id": "water-coffee",
+      "ingredient": "water",
+      "amount": {
+        "cn": "90 g",
+        "en": "90 g",
+        "fr": "90 g"
+      },
+      "name": {
+        "cn": "开水（咖啡液）",
+        "en": "Boiling water, coffee",
+        "fr": "Eau bouillante, café"
+      }
+    },
+    {
+      "id": "marsala-wine",
+      "ingredient": "marsala-wine",
+      "amount": {
+        "cn": "18 g",
+        "en": "18 g",
+        "fr": "18 g"
+      }
+    },
+    {
+      "id": "ladyfingers",
+      "ingredient": "ladyfingers",
+      "amount": {
+        "cn": "足够铺满6寸高慕斯圈两层",
+        "en": "Enough for two layers in a tall 6-inch mousse ring",
+        "fr": "Assez pour deux couches dans un cercle haut de 6 pouces"
+      }
+    },
+    {
+      "id": "blueberry-jam-glaze",
+      "ingredient": "blueberry-jam",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      },
+      "name": {
+        "cn": "蓝莓酱（镜面）",
+        "en": "Blueberry jam, glaze",
+        "fr": "Confiture de myrtilles, glaçage"
+      }
+    },
+    {
+      "id": "water-glaze",
+      "ingredient": "water",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      },
+      "name": {
+        "cn": "开水（镜面）",
+        "en": "Boiling water, glaze",
+        "fr": "Eau bouillante, glaçage"
+      }
+    },
+    {
+      "id": "gelatin",
+      "ingredient": "gelatin",
+      "amount": {
+        "cn": "2.5 g",
+        "en": "2.5 g",
+        "fr": "2.5 g"
+      }
+    },
+    {
+      "id": "water-soak",
+      "ingredient": "water",
+      "amount": {
+        "cn": "适量，泡软吉利丁后弃去",
+        "en": "For soaking gelatin; discard afterward",
+        "fr": "Pour ramollir la gélatine ; jeter ensuite"
+      }
+    },
+    {
+      "id": "blueberry",
+      "ingredient": "blueberry",
+      "amount": {
+        "cn": "可选，装饰适量",
+        "en": "Optional garnish",
+        "fr": "Décoration facultative"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "蓝莓提拉米苏",
+      "steps": [
+        "先准备好蓝莓酱并放凉。蛋黄、30g糖和24g凉开水混匀，隔水加热并搅拌至浓稠、有明显纹路，放凉。",
+        "蛋黄糊中加入马斯卡彭和150g蓝莓酱，搅匀。150g淡奶油打至硬挺，与奶酪糊混合，刮刀从底部翻起确保拌匀。",
+        "9g速溶咖啡用90g开水化开，加入18g马萨拉酒。手指饼干刮去表面糖壳，刷上咖啡酒。",
+        "6寸高慕斯圈放在底盘上，铺一层饼干、半份奶酪糊，再重复一层饼干与奶酪糊，抹平，盖好冷藏2小时。",
+        "吉利丁用冷水泡软。50g蓝莓酱加50g开水搅匀，降至约50°C，加入沥去泡发水的吉利丁搅化；必要时隔水稍加热。过筛，降至约30°C。",
+        "将镜面液倒在冷藏好的蛋糕上，再冷藏一夜。次日稍温热模具外侧后脱模，可用蓝莓点缀。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "蓝莓酱共需200g，分奶酪糊150g与镜面50g；不把整锅500g蓝莓制成的果酱全部加入。马萨拉酒可按作者建议换朗姆酒。"
+      ]
+    },
+    "en": {
+      "title": "Blueberry tiramisu",
+      "steps": [
+        "Prepare and cool the blueberry jam. Mix the yolks, 30 g sugar and 24 g cooled boiled water. Stir over a water bath until thick with visible trails, then cool.",
+        "Beat mascarpone and 150 g jam into the cooled yolk mixture. Whip 150 g cream until firm and combine, folding from the bottom to mix evenly.",
+        "Dissolve 9 g instant coffee in 90 g boiling water and add 18 g Marsala. Scrape the sugar crust from the ladyfingers and brush with the coffee mixture.",
+        "Set a tall 6-inch mousse ring on a base. Layer biscuits, half the cream, then biscuits and the remaining cream. Level, cover and chill for 2 hours.",
+        "Soften the gelatin in cold water. Mix 50 g jam with 50 g boiling water, cool to about 50°C, and dissolve the drained gelatin in it, warming gently over water if needed. Strain and cool to about 30°C.",
+        "Pour the glaze over the chilled cake and refrigerate overnight. Briefly warm the outside of the ring to unmold; decorate with blueberries if desired."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Use 200 g jam in total: 150 g in the cream and 50 g in the glaze, not the entire yield from 500 g berries. The author allows rum in place of Marsala."
+      ]
+    },
+    "fr": {
+      "title": "Tiramisu aux myrtilles",
+      "steps": [
+        "Préparer et refroidir la confiture. Mélanger les jaunes, 30 g de sucre et 24 g d’eau refroidie. Chauffer au bain-marie en remuant jusqu’à épaississement et traces visibles, puis refroidir.",
+        "Incorporer le mascarpone et 150 g de confiture aux jaunes refroidis. Monter fermement 150 g de crème puis mélanger délicatement, en remontant depuis le fond.",
+        "Dissoudre 9 g de café soluble dans 90 g d’eau bouillante et ajouter 18 g de marsala. Retirer la croûte sucrée des biscuits et les imbiber au pinceau.",
+        "Poser un cercle haut de 6 pouces sur un support. Alterner biscuits, moitié de la crème, biscuits et crème restante. Lisser, couvrir et réfrigérer 2 heures.",
+        "Ramollir la gélatine dans l’eau froide. Mélanger 50 g de confiture et 50 g d’eau bouillante, laisser descendre à environ 50°C et y dissoudre la gélatine égouttée, en réchauffant doucement au besoin. Filtrer et refroidir à environ 30°C.",
+        "Verser le glaçage sur le gâteau froid et réfrigérer une nuit. Réchauffer légèrement l’extérieur du cercle pour démouler ; décorer de myrtilles si souhaité."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Utiliser 200 g de confiture au total : 150 g dans la crème et 50 g dans le glaçage, et non tout le lot issu de 500 g de fruits. Le rhum peut remplacer le marsala selon l’auteur."
+      ]
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-pumpkin-cream-cake",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=Wzf0Tplebqg",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "sponge-cake",
+      "ingredient": "sponge-cake",
+      "amount": {
+        "cn": "6寸蛋糕胚，切3片、每片约1.5cm",
+        "en": "6-inch sponge, cut into three slices about 1.5 cm thick",
+        "fr": "Génoise de 6 pouces, en trois disques d’environ 1,5 cm"
+      }
+    },
+    {
+      "id": "pumpkin-paste-filling",
+      "ingredient": "pumpkin-paste",
+      "amount": {
+        "cn": "75 g",
+        "en": "75 g",
+        "fr": "75 g"
+      },
+      "name": {
+        "cn": "南瓜酱（夹馅）",
+        "en": "Pumpkin paste, filling",
+        "fr": "Crème de potimarron, garniture"
+      }
+    },
+    {
+      "id": "heavy-cream-filling",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      },
+      "name": {
+        "cn": "淡奶油（夹馅）",
+        "en": "Cream, filling",
+        "fr": "Crème liquide, garniture"
+      }
+    },
+    {
+      "id": "icing-sugar-filling",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "9 g",
+        "en": "9 g",
+        "fr": "9 g"
+      },
+      "name": {
+        "cn": "糖粉（夹馅）",
+        "en": "Icing sugar, filling",
+        "fr": "Sucre glace, garniture"
+      }
+    },
+    {
+      "id": "heavy-cream-coating",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
+      },
+      "name": {
+        "cn": "淡奶油（抹面）",
+        "en": "Cream, coating",
+        "fr": "Crème liquide, couverture"
+      }
+    },
+    {
+      "id": "icing-sugar-coating",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      },
+      "name": {
+        "cn": "糖粉（抹面）",
+        "en": "Icing sugar, coating",
+        "fr": "Sucre glace, couverture"
+      }
+    },
+    {
+      "id": "pumpkin-paste-top",
+      "ingredient": "pumpkin-paste",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      },
+      "name": {
+        "cn": "南瓜酱（顶部裱花）",
+        "en": "Pumpkin paste, topping",
+        "fr": "Crème de potimarron, décoration"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "rum",
+      "ingredient": "rum",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "南瓜奶油蛋糕",
+      "steps": [
+        "提前备好南瓜酱并放凉。烤好的6寸蛋糕胚修平，切出3片约1.5cm厚的蛋糕片；清水与朗姆酒混匀作浸润液。",
+        "75g南瓜酱、150g淡奶油和9g糖粉一起打至硬挺。第一片蛋糕刷浸润液，抹一半南瓜奶油，盖第二片，重复浸润与夹馅，再盖第三片并刷浸润液。",
+        "250g淡奶油加15g糖粉打至约八九分发、可抹面的状态。顶部放约150g原味奶油，余下用于侧面，抹平。",
+        "用200g南瓜酱在顶部裱花，冷藏至少1小时后切块。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "使用做好的蛋糕胚，原视频引用早前教程，没有演示烤胚。夹馅和抹面是两份不同配比，切勿合并后全部打发。"
+      ]
+    },
+    "en": {
+      "title": "Pumpkin cream cake",
+      "steps": [
+        "Prepare and cool the pumpkin paste. Level a baked 6-inch sponge and cut three slices about 1.5 cm thick. Mix water and rum for soaking.",
+        "Whip 75 g pumpkin paste, 150 g cream and 9 g icing sugar until firm. Brush the first sponge slice with soaking liquid and add half the filling. Repeat with the second slice and remaining filling, then cover with the third slice and brush it.",
+        "Whip 250 g cream with 15 g icing sugar to a spreadable, nearly firm consistency. Use about 150 g of this whipped cream on top and the rest on the sides; smooth.",
+        "Pipe 200 g pumpkin paste on top and refrigerate at least 1 hour before slicing."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Use a prepared sponge; this video refers to an earlier sponge tutorial. The filling and coating have different formulas and must be whipped separately."
+      ]
+    },
+    "fr": {
+      "title": "Gâteau à la crème de potimarron",
+      "steps": [
+        "Préparer et refroidir la crème de potimarron. Égaliser une génoise de 6 pouces et couper trois disques d’environ 1,5 cm. Mélanger eau et rhum pour imbiber.",
+        "Fouetter fermement 75 g de crème de potimarron, 150 g de crème liquide et 9 g de sucre glace. Imbiber le premier disque, garnir de la moitié de la crème, répéter avec le deuxième, puis poser et imbiber le troisième.",
+        "Monter 250 g de crème avec 15 g de sucre glace jusqu’à une tenue presque ferme et facile à étaler. Répartir environ 150 g sur le dessus et le reste sur les côtés, puis lisser.",
+        "Décorer le dessus avec 200 g de crème de potimarron et réfrigérer au moins 1 heure avant de couper."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Utiliser une génoise déjà cuite ; la vidéo renvoie à un tutoriel antérieur. Garniture et couverture ont des proportions différentes et doivent être fouettées séparément."
+      ]
+    }
+  }
+}

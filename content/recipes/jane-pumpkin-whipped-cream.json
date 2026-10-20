@@ -1,0 +1,71 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-pumpkin-whipped-cream",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=Wzf0Tplebqg",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "pumpkin-paste",
+      "ingredient": "pumpkin-paste",
+      "amount": {
+        "cn": "75 g",
+        "en": "75 g",
+        "fr": "75 g"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "9 g",
+        "en": "9 g",
+        "fr": "9 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "南瓜奶油夹馅",
+      "steps": [
+        "按“南瓜酱”配方做好酱并充分放凉，取75g。",
+        "加入150g淡奶油与9g糖粉，打发至硬挺、适合夹馅的状态。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。"
+      ]
+    },
+    "en": {
+      "title": "Pumpkin whipped cream filling",
+      "steps": [
+        "Prepare the sweet pumpkin paste and cool thoroughly; weigh out 75 g.",
+        "Add 150 g cream and 9 g icing sugar and whip until firm enough for filling a cake."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen."
+      ]
+    },
+    "fr": {
+      "title": "Crème fouettée au potimarron",
+      "steps": [
+        "Préparer la crème de potimarron, bien refroidir et en peser 75 g.",
+        "Ajouter 150 g de crème liquide et 9 g de sucre glace, puis fouetter jusqu’à une tenue ferme adaptée à une garniture."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen."
+      ]
+    }
+  }
+}

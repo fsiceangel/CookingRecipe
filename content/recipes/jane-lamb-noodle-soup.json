@@ -1,0 +1,259 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-lamb-noodle-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=mkbrUwD_4dk",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "lamb",
+      "ingredient": "lamb",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "star-anise",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "1个",
+        "en": "1 whole star",
+        "fr": "1 étoile entière"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "4 g",
+        "en": "4 g",
+        "fr": "4 g"
+      }
+    },
+    {
+      "id": "cinnamon-bark",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "fennel-seeds",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "4 g",
+        "en": "4 g",
+        "fr": "4 g"
+      }
+    },
+    {
+      "id": "bay-leaf",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "2片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
+      }
+    },
+    {
+      "id": "chili-pepper",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "干辣椒2个",
+        "en": "2 dried chilies",
+        "fr": "2 piments séchés"
+      }
+    },
+    {
+      "id": "angelica-dahurica",
+      "ingredient": "angelica-dahurica",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "white-radish",
+      "ingredient": "white-radish",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "wood-ear-mushroom",
+      "ingredient": "wood-ear-mushroom",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "泡发洗净的木耳",
+        "en": "Rehydrated, cleaned wood ear mushrooms",
+        "fr": "Champignons noirs réhydratés et lavés"
+      }
+    },
+    {
+      "id": "glass-noodles",
+      "ingredient": "glass-noodles",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "leafy-greens",
+      "ingredient": "leafy-greens",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "green-garlic",
+      "ingredient": "green-garlic",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "cilantro",
+      "ingredient": "cilantro",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "按口味",
+        "en": "To taste",
+        "fr": "Selon le goût"
+      }
+    },
+    {
+      "id": "white-pepper",
+      "ingredient": "white-pepper",
+      "amount": {
+        "cn": "按口味",
+        "en": "To taste",
+        "fr": "Selon le goût"
+      }
+    },
+    {
+      "id": "msg",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "可选，按口味",
+        "en": "Optional, to taste",
+        "fr": "Facultatif, selon le goût"
+      }
+    },
+    {
+      "id": "chili-oil",
+      "ingredient": "chili-oil",
+      "amount": {
+        "cn": "出锅可选",
+        "en": "Optional, to finish",
+        "fr": "Facultatif, finition"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "足够炖肉和煮粉，按汤浓淡调整",
+        "en": "Enough for braising and cooking noodles; adjust broth strength",
+        "fr": "Assez pour cuire viande et vermicelles ; ajuster la concentration du bouillon"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "羊肉粉",
+      "steps": [
+        "羊肉冷水下锅加热，持续撇去浮沫，翻动肉块让其受热均匀，至基本只剩细小白沫。",
+        "加入料酒、葱姜和装好的香料包，煮开后小火炖约1小时。炖至约半小时可少量加盐，保留清淡底味。",
+        "肉软后捞出放凉切块，带骨肉先剔骨。需要更浓的汤时，可把骨头放回汤中再炖约1小时；这一步不是让已熟羊肉继续炖。",
+        "取羊汤，加入干粉条、白萝卜和泡发洗净的木耳，加盐和白胡椒调味，味精可选。煮约10–20分钟，按粉条粗细与软硬程度调整。",
+        "出锅前加入青菜、熟羊肉、蒜苗和香菜，再煮约1分钟，按喜好淋辣椒油。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "羊肉可选带骨部位，或另配羊骨；作者未给骨头单独重量。粉条及配菜按食量取用，原视频未给克数。"
+      ]
+    },
+    "en": {
+      "title": "Lamb noodle soup",
+      "steps": [
+        "Start the lamb in cold water and heat, skimming continually and turning the pieces, until only fine white foam remains.",
+        "Add cooking wine, scallion, ginger and a bag of the spices. Bring to a boil and simmer about 1 hour; optionally add a little salt halfway through for a lightly seasoned broth.",
+        "Once tender, remove and cool the lamb, deboning if necessary, then cut up. For a richer broth, return only the bones and simmer about 1 hour more; do not continue simmering the cooked meat for that extra hour.",
+        "Take some broth, add dried noodles, radish and cleaned rehydrated mushrooms, and season with salt and white pepper; MSG is optional. Cook about 10–20 minutes, adjusting to noodle thickness and preferred texture.",
+        "Add greens, cooked lamb, green garlic and cilantro near the end; cook about 1 minute more and finish with chili oil if desired."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Use bone-in lamb or add separate lamb bones; no separate bone weight is given. Noodles and vegetables are portioned to appetite, without source weights."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de vermicelles à l’agneau",
+      "steps": [
+        "Mettre l’agneau dans l’eau froide, chauffer et écumer régulièrement en retournant les morceaux, jusqu’à ne laisser qu’une fine mousse blanche.",
+        "Ajouter vin, ciboule, gingembre et sachet d’épices. Porter à ébullition puis mijoter environ 1 heure ; saler légèrement à mi-cuisson si souhaité.",
+        "Une fois tendre, retirer l’agneau, laisser tiédir, désosser si nécessaire et découper. Pour un bouillon plus riche, remettre seulement les os et mijoter environ 1 heure de plus, sans prolonger ainsi la cuisson de la viande.",
+        "Prélever du bouillon, ajouter vermicelles secs, radis et champignons réhydratés, puis assaisonner de sel et poivre blanc ; le glutamate est facultatif. Cuire environ 10–20 minutes selon les vermicelles et la texture souhaitée.",
+        "Ajouter en fin de cuisson légumes verts, agneau cuit, ail vert et coriandre ; cuire encore environ 1 minute puis ajouter éventuellement l’huile pimentée."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Utiliser de l’agneau avec os ou ajouter des os séparés ; leur poids n’est pas indiqué. Quantités de vermicelles et légumes selon l’appétit, sans grammage dans la source."
+      ]
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-tomato-oxtail-soup",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=ViK2ji8YPDY",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "oxtail",
+      "ingredient": "oxtail",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "tomato",
+      "ingredient": "tomato",
+      "amount": {
+        "cn": "4个，分两次各用2个",
+        "en": "4, added in two batches of 2",
+        "fr": "4, en deux ajouts de 2"
+      }
+    },
+    {
+      "id": "tomato-paste",
+      "ingredient": "tomato-paste",
+      "amount": {
+        "cn": "新疆番茄酱1袋，未注明袋重",
+        "en": "1 pouch Xinjiang tomato paste; pouch weight unspecified",
+        "fr": "1 sachet de concentré de tomate du Xinjiang ; poids non précisé"
+      }
+    },
+    {
+      "id": "onion",
+      "ingredient": "onion",
+      "amount": {
+        "cn": "1个；特别大可用半个",
+        "en": "1, or half if very large",
+        "fr": "1, ou la moitié s’il est très gros"
+      }
+    },
+    {
+      "id": "garlic",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "5瓣",
+        "en": "5 cloves",
+        "fr": "5 gousses"
+      }
+    },
+    {
+      "id": "potato",
+      "ingredient": "potato",
+      "amount": {
+        "cn": "1个",
+        "en": "1",
+        "fr": "1"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "几片",
+        "en": "A few slices",
+        "fr": "Quelques tranches"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "米酒或花雕酒",
+        "en": "Rice wine or Shaoxing wine",
+        "fr": "Vin de riz ou de Shaoxing"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "ingredient": "rock-sugar",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "star-anise",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "1个",
+        "en": "1 whole star",
+        "fr": "1 étoile entière"
+      }
+    },
+    {
+      "id": "bay-leaf",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "2片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
+      }
+    },
+    {
+      "id": "black-pepper",
+      "ingredient": "black-pepper",
+      "amount": {
+        "cn": "炖煮和出锅各适量",
+        "en": "For simmering and finishing, to taste",
+        "fr": "Pour mijoter et finir, selon le goût"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "按口味",
+        "en": "To taste",
+        "fr": "Selon le goût"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "焯煮牛尾，澄清后留作炖汤",
+        "en": "For blanching; settle and reserve the clear broth",
+        "fr": "Pour blanchir ; décanter et réserver le bouillon clair"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "出锅适量，或用香菜",
+        "en": "For finishing, or cilantro",
+        "fr": "Pour finir, ou coriandre"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "番茄牛尾汤（简简厨房）",
+      "steps": [
+        "番茄去皮，2个切小块用于先炒，另2个切大块后加。洋葱切丁、大蒜切片，土豆切很小的丁。",
+        "牛尾冷水下锅煮开，持续撇沫至汤面较干净，捞出。汤静置沉淀，留上层清汤备用。",
+        "锅中放油，姜片煎至金黄；放牛尾，中火煎至两面焦褐，盛出。原锅下洋葱和蒜炒香炒软，加小块番茄及番茄酱炒出汁。",
+        "牛尾回锅，加20g酒和20g酱油炒匀。加入预留肉汤，剩余汤留作调整浓淡。放冰糖、八角、香叶和黑胡椒，煮开后盖盖小火炖1小时。",
+        "加入后留的大块番茄和土豆丁，以盐调味并检查酸甜。继续盖盖小火炖1小时。后段土豆使汤变稠，及时搅动锅底防糊。",
+        "捞去姜片、八角和香叶，再补适量黑胡椒，撒葱花或香菜。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "此为简简厨房的2小时番茄牛尾汤，与本站“胖丁特制炖牛尾”的3小时配方分别保留，不互相覆盖。",
+        "“番茄酱1袋”未给袋重，保留原单位；这里是番茄浓缩酱，不能擅自按某品牌甜番茄沙司重量替换。"
+      ]
+    },
+    "en": {
+      "title": "Jane’s tomato oxtail soup",
+      "steps": [
+        "Peel the tomatoes; chop 2 finely for the first stage and cut the other 2 larger for later. Dice the onion, slice the garlic and finely dice the potato.",
+        "Bring the oxtail to a boil from cold water, skimming until fairly clear, then remove. Let the broth settle and reserve its clear upper portion.",
+        "Fry ginger in oil until golden, then brown the oxtail on both sides over medium heat and remove. Fry onion and garlic in the same pan until soft and fragrant, then add the finely chopped tomatoes and tomato paste and cook until juicy.",
+        "Return the oxtail, add 20 g wine and 20 g soy sauce and stir-fry briefly. Add reserved broth, keeping some back for adjustment. Add rock sugar, star anise, bay leaves and black pepper, bring to a boil, cover and simmer 1 hour.",
+        "Add the reserved larger tomato pieces and diced potato. Season with salt and check the sweet-sour balance. Cover and simmer 1 hour more, stirring the bottom as potato starch thickens the soup.",
+        "Remove ginger, star anise and bay leaves. Add more black pepper to taste and finish with scallion or cilantro."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "This is Jane’s two-hour tomato oxtail soup, kept separate from the site’s three-hour Pangding oxtail recipe.",
+        "The pouch weight is unspecified and remains so. This is concentrated tomato paste, not an assumed weight of sweet ketchup."
+      ]
+    },
+    "fr": {
+      "title": "Soupe de queue de bœuf à la tomate de Jane",
+      "steps": [
+        "Peler les tomates ; en couper 2 finement pour le début et 2 en gros morceaux pour plus tard. Couper l’oignon en dés, l’ail en tranches et la pomme de terre en très petits dés.",
+        "Porter la queue de bœuf à ébullition depuis l’eau froide en écumant soigneusement, puis la retirer. Laisser décanter le bouillon et garder la partie claire.",
+        "Dorer le gingembre dans l’huile, puis colorer la queue de bœuf sur les deux faces à feu moyen et la retirer. Faire revenir oignon et ail, ajouter les petites tomates coupées et le concentré, puis laisser rendre le jus.",
+        "Remettre la viande, ajouter 20 g de vin et 20 g de soja puis faire revenir brièvement. Mouiller du bouillon réservé, en gardant une partie pour ajuster. Ajouter sucre candi, badiane, laurier et poivre, porter à ébullition, couvrir et mijoter 1 heure.",
+        "Ajouter les grosses tomates réservées et la pomme de terre, saler et vérifier l’équilibre sucré-acide. Couvrir et mijoter encore 1 heure, en remuant le fond lorsque la pomme de terre épaissit le bouillon.",
+        "Retirer gingembre, badiane et laurier. Ajouter du poivre selon le goût et finir avec ciboule ou coriandre."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Cette soupe de Jane mijote deux heures et reste distincte de la recette de queue de bœuf de Pangding, qui cuit trois heures.",
+        "Le poids du sachet n’est pas précisé et reste indéterminé. Il s’agit de concentré de tomate, sans conversion arbitraire en ketchup sucré."
+      ]
+    }
+  }
+}

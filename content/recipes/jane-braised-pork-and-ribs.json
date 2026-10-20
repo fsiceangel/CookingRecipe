@@ -1,0 +1,218 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-braised-pork-and-ribs",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=J_Aaon960QM",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "pork-belly",
+      "ingredient": "pork-belly",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "pork-ribs",
+      "ingredient": "pork-ribs",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "onion",
+      "ingredient": "onion",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "garlic",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "dark-soy-sauce",
+      "ingredient": "dark-soy-sauce",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "ingredient": "rock-sugar",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "fermented-bean-curd",
+      "ingredient": "fermented-bean-curd",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "star-anise",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "cinnamon-bark",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "bay-leaf",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "fennel-seeds",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "焯水及炖煮用；炖煮水刚没过肉",
+        "en": "For blanching and braising; barely cover the meat for braising",
+        "fr": "Pour blanchir et braiser ; couvrir tout juste la viande pour le braisage"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "红烧肉排骨一锅炖",
+      "steps": [
+        "五花肉和排骨切块，冷水下锅煮开，撇去浮沫至剩细白沫，捞出；需要时用热水冲净。",
+        "锅中放油，将葱姜蒜和洋葱煸至微焦黄。下焯好的肉，大火炒去水气、炒至边缘微焦。",
+        "依次加入料酒和50g酱油，每次炒至基本吸收。加开水或沉淀后取清的肉汤，刚没过肉即可。",
+        "加入5g老抽、冰糖和压碎的腐乳，放入装有干香料的料包。煮开后盖盖，小火炖约1小时至肉软，保留部分汤汁。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "主配方为酱油50g＋老抽5g；若换成颜色较浅的生抽50g，作者改用老抽10g。两组是替代关系，不应相加。",
+        "腐乳提供咸味，原配方没有另加盐；干香料没有标克数。洋葱可换红葱头。"
+      ]
+    },
+    "en": {
+      "title": "Braised pork belly and ribs",
+      "steps": [
+        "Cut pork belly and ribs into pieces, cover with cold water, bring to a boil and skim until only fine pale foam remains. Drain, rinsing with hot water if needed.",
+        "Fry scallion, ginger, garlic and onion in oil until golden. Add the blanched meat and stir-fry over high heat until dry and lightly browned at the edges.",
+        "Add cooking wine, then 50 g soy sauce, stir-frying after each until mostly absorbed. Add boiling water or clear settled meat broth to barely cover the meat.",
+        "Add 5 g dark soy sauce, rock sugar, crushed fermented bean curd and a bag containing the dry spices. Bring to a boil, cover and simmer for about 1 hour until tender, retaining some sauce."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The main formula uses 50 g soy sauce plus 5 g dark soy. If using 50 g lighter-colored light soy instead, the author uses 10 g dark soy. These are alternatives, not cumulative additions.",
+        "Fermented bean curd supplies saltiness; no extra salt is listed. Dry spice quantities are unspecified. Shallots may replace onion."
+      ]
+    },
+    "fr": {
+      "title": "Poitrine et travers de porc braisés",
+      "steps": [
+        "Couper poitrine et travers, couvrir d’eau froide, porter à ébullition et écumer jusqu’à ne laisser qu’une fine mousse claire. Égoutter et rincer à l’eau chaude si nécessaire.",
+        "Faire dorer ciboule, gingembre, ail et oignon dans l’huile. Ajouter la viande blanchie et la saisir jusqu’à évaporation et légère coloration des bords.",
+        "Ajouter le vin puis 50 g de sauce soja, en laissant absorber après chaque ajout. Mouiller d’eau bouillante ou de bouillon décanté jusqu’à juste couvrir la viande.",
+        "Ajouter 5 g de soja foncé, le sucre candi, le tofu fermenté écrasé et un sachet contenant les épices sèches. Porter à ébullition, couvrir et mijoter environ 1 heure jusqu’à tendreté, en conservant du jus."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La formule principale associe 50 g de soja et 5 g de soja foncé. Avec 50 g de soja clair, l’auteur passe à 10 g de soja foncé. Ce sont deux options, à ne pas cumuler.",
+        "Le tofu fermenté apporte le sel ; aucun sel supplémentaire n’est indiqué. Les quantités d’épices sèches ne sont pas précisées. L’échalote peut remplacer l’oignon."
+      ]
+    }
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-chive-egg-nostoc-pies",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=Hm-YGzE26vg",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "flour",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      },
+      "name": {
+        "cn": "中筋粉",
+        "en": "All-purpose flour",
+        "fr": "Farine ordinaire"
+      }
+    },
+    {
+      "id": "salt-dough",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      },
+      "name": {
+        "cn": "盐（饼皮）",
+        "en": "Salt, dough",
+        "fr": "Sel, pâte"
+      }
+    },
+    {
+      "id": "sugar-dough",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      },
+      "name": {
+        "cn": "糖（饼皮）",
+        "en": "Sugar, dough",
+        "fr": "Sucre, pâte"
+      }
+    },
+    {
+      "id": "water-hot",
+      "ingredient": "water",
+      "amount": {
+        "cn": "105 g",
+        "en": "105 g",
+        "fr": "105 g"
+      },
+      "name": {
+        "cn": "开水",
+        "en": "Boiling water",
+        "fr": "Eau bouillante"
+      }
+    },
+    {
+      "id": "water-cool",
+      "ingredient": "water",
+      "amount": {
+        "cn": "105 g",
+        "en": "105 g",
+        "fr": "105 g"
+      },
+      "name": {
+        "cn": "凉水",
+        "en": "Cool water",
+        "fr": "Eau froide"
+      }
+    },
+    {
+      "id": "lard",
+      "ingredient": "lard",
+      "amount": {
+        "cn": "9 g",
+        "en": "9 g",
+        "fr": "9 g"
+      }
+    },
+    {
+      "id": "nostoc",
+      "ingredient": "nostoc",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      },
+      "name": {
+        "cn": "干地软",
+        "en": "Dried edible nostoc",
+        "fr": "Nostoc comestible séché"
+      }
+    },
+    {
+      "id": "glass-noodles",
+      "ingredient": "glass-noodles",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      },
+      "name": {
+        "cn": "干粉条",
+        "en": "Dried starch noodles",
+        "fr": "Vermicelles secs de fécule"
+      }
+    },
+    {
+      "id": "chinese-chives",
+      "ingredient": "chinese-chives",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      }
+    },
+    {
+      "id": "egg",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "4个",
+        "en": "4",
+        "fr": "4"
+      }
+    },
+    {
+      "id": "salt-filling",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      },
+      "name": {
+        "cn": "盐（馅料）",
+        "en": "Salt, filling",
+        "fr": "Sel, farce"
+      }
+    },
+    {
+      "id": "sugar-filling",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      },
+      "name": {
+        "cn": "糖（馅料）",
+        "en": "Sugar, filling",
+        "fr": "Sucre, farce"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "oyster-sauce",
+      "ingredient": "oyster-sauce",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "dark-soy-sauce",
+      "ingredient": "dark-soy-sauce",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "chili-powder",
+      "ingredient": "chili-powder",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      },
+      "name": {
+        "cn": "花椒粉",
+        "en": "Ground Sichuan pepper",
+        "fr": "Poivre du Sichuan moulu"
+      }
+    },
+    {
+      "id": "oil-filling",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      },
+      "name": {
+        "cn": "菜籽油（泼馅料）",
+        "en": "Rapeseed oil, poured over filling spices",
+        "fr": "Huile de colza, pour les épices de la farce"
+      }
+    },
+    {
+      "id": "oil-fry",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "炒蛋、案板防粘及煎饼用油",
+        "en": "Oil for eggs, work surface and frying",
+        "fr": "Huile pour les œufs, le plan de travail et la cuisson"
+      }
+    },
+    {
+      "id": "sesame-oil",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "water-soak",
+      "ingredient": "water",
+      "amount": {
+        "cn": "泡地软和粉条用，沥去",
+        "en": "For soaking nostoc and noodles; drain",
+        "fr": "Pour tremper le nostoc et les vermicelles ; égoutter"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "韭菜鸡蛋地软馅饼",
+      "steps": [
+        "面粉加饼皮用盐和糖，先加105g开水搅成絮状，稍搓散，再加105g凉水和9g猪油揉成团。盖好醒10分钟，揉几下；再醒10分钟、揉几下，最后醒约1小时。",
+        "地软清水泡20分钟，反复洗净后挤干。粉条放入沸水，盖盖关火泡20分钟，捞出切小段。鸡蛋炒散，必要时再切碎。",
+        "地软、鸡蛋和粉条中加入馅料用盐、糖、酱油、老抽和蚝油。花椒粉和辣椒粉放在表面，将80g菜籽油烧至约180°C，浇在两种粉料上，拌匀。韭菜切碎，先拌少许香油，临包前再混入馅料。",
+        "面团均分10份，滚圆松弛10分钟。案板抹油，将面团擀薄，馅料也均分10份包入，捏紧收口。",
+        "锅预热至约200°C，加少许油，收口朝下放入馅饼。转小火或中小火，煎至底面定型上色再翻面，反复煎至两面金黄、饼皮熟透。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "饼皮猪油可换植物油。面团与馅料按实际重量各均分10份，不强求口述的约51g面团、101g馅料，泡发和沥水程度会影响重量。"
+      ]
+    },
+    "en": {
+      "title": "Chive, egg and nostoc stuffed pancakes",
+      "steps": [
+        "Mix flour with the dough’s salt and sugar. Stir in 105 g boiling water, loosen the crumbs, then add 105 g cool water and 9 g lard and form a dough. Cover, rest 10 minutes and knead briefly; repeat once, then rest about 1 hour.",
+        "Soak the nostoc in water for 20 minutes, wash thoroughly and squeeze dry. Put noodles into boiling water, cover, turn off the heat and soak 20 minutes; drain and cut into short pieces. Scramble the eggs and chop further if needed.",
+        "Mix nostoc, eggs and noodles with the filling salt, sugar, soy sauces and oyster sauce. Put pepper and chili powders on top; heat 80 g rapeseed oil to about 180°C and pour over them, then mix. Chop the chives, coat with a little sesame oil, and add just before filling.",
+        "Divide the dough into 10 equal pieces, round and rest 10 minutes. Oil the work surface, roll thin, divide the filling equally among the pieces and seal.",
+        "Preheat the pan to about 200°C, add a little oil and place the pies seam-side down. Reduce to low or medium-low heat, brown and set one side before turning, then cook both sides until golden and the dough is cooked through."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Vegetable oil may replace lard. Divide the actual dough and filling weights into 10 portions rather than forcing the approximate spoken 51 g dough and 101 g filling; hydration and draining affect weight."
+      ]
+    },
+    "fr": {
+      "title": "Galettes farcies à la ciboulette chinoise, aux œufs et au nostoc",
+      "steps": [
+        "Mélanger farine, sel et sucre de la pâte. Ajouter 105 g d’eau bouillante, émietter légèrement, puis incorporer 105 g d’eau froide et 9 g de saindoux. Couvrir, reposer 10 minutes et pétrir brièvement ; répéter, puis reposer environ 1 heure.",
+        "Tremper le nostoc 20 minutes, le laver soigneusement et le presser. Mettre les vermicelles dans l’eau bouillante, couvrir, couper le feu et laisser 20 minutes ; égoutter et couper. Brouiller les œufs et les hacher au besoin.",
+        "Mélanger nostoc, œufs et vermicelles avec sel, sucre, sauces soja et sauce d’huître de la farce. Placer poivre et piment en poudre dessus, verser les 80 g d’huile chauffée à environ 180°C puis mélanger. Hacher la ciboulette, l’enrober d’un peu d’huile de sésame et l’ajouter juste avant le façonnage.",
+        "Diviser la pâte en 10 parts, bouler et reposer 10 minutes. Huiler le plan de travail, abaisser finement, répartir la farce en 10 parts puis enfermer et souder.",
+        "Préchauffer la poêle à environ 200°C, ajouter un peu d’huile et poser les galettes soudure dessous. Réduire à feu doux ou moyen-doux, laisser dorer et prendre avant de retourner, puis cuire les deux faces jusqu’à cuisson de la pâte."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "L’huile végétale peut remplacer le saindoux. Diviser les poids réels en 10 parts sans imposer les 51 g de pâte et 101 g de farce approximatifs cités ; hydratation et égouttage modifient le poids."
+      ]
+    }
+  }
+}

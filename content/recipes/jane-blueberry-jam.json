@@ -1,0 +1,65 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-blueberry-jam",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=5lbvGi9tSlU",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "blueberry",
+      "ingredient": "blueberry",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "蓝莓酱（提拉米苏用）",
+      "steps": [
+        "将蓝莓捣烂，与细砂糖放入锅中。不要用料理机把果皮完全打碎，以免口感发渣。",
+        "中火或大火熬煮并搅拌，至少量果酱滴入冷水后能成团、不散开。放凉后按需要取用。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "这是为提拉米苏调整过的低糖配方，适用于较甜蓝莓；成品重量随熬煮蒸发变化。作者将剩余果酱分装冷冻，未给常温保存方案。"
+      ]
+    },
+    "en": {
+      "title": "Blueberry jam for tiramisu",
+      "steps": [
+        "Crush the blueberries and place in a pan with the sugar. Avoid blending the skins finely, which the author found gave a grainy texture.",
+        "Cook over medium or high heat, stirring, until a drop holds together in cold water rather than dispersing. Cool before using."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "This lower-sugar formula was adjusted for tiramisu and fairly sweet berries. Yield varies with evaporation. The author freezes leftovers in portions and gives no room-temperature storage method."
+      ]
+    },
+    "fr": {
+      "title": "Confiture de myrtilles pour tiramisu",
+      "steps": [
+        "Écraser les myrtilles et les mettre dans une casserole avec le sucre. Éviter de mixer finement les peaux, qui donnent selon l’auteur une texture granuleuse.",
+        "Cuire à feu moyen ou vif en remuant, jusqu’à ce qu’une goutte reste groupée dans l’eau froide sans se disperser. Laisser refroidir avant utilisation."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Cette formule moins sucrée est adaptée au tiramisu et à des fruits assez doux. Le rendement dépend de l’évaporation. L’auteur congèle le surplus en portions et ne donne pas de conservation à température ambiante."
+      ]
+    }
+  }
+}

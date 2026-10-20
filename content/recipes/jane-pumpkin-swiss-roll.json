@@ -1,0 +1,108 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-pumpkin-swiss-roll",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=_9abVuC9pdY",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "sponge-cake",
+      "ingredient": "sponge-cake",
+      "amount": {
+        "cn": "1张烤好的瑞士卷蛋糕片",
+        "en": "1 baked Swiss-roll sponge sheet",
+        "fr": "1 biscuit cuit pour gâteau roulé"
+      }
+    },
+    {
+      "id": "pumpkin-paste-filling",
+      "ingredient": "pumpkin-paste",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      },
+      "name": {
+        "cn": "南瓜酱（夹馅）",
+        "en": "Pumpkin paste, filling",
+        "fr": "Crème de potimarron, garniture"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "18 g",
+        "en": "18 g",
+        "fr": "18 g"
+      }
+    },
+    {
+      "id": "pumpkin-paste-top",
+      "ingredient": "pumpkin-paste",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      },
+      "name": {
+        "cn": "南瓜酱（顶部装饰）",
+        "en": "Pumpkin paste, decoration",
+        "fr": "Crème de potimarron, décoration"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "南瓜瑞士卷",
+      "steps": [
+        "准备好瑞士卷蛋糕片与放凉的南瓜酱。150g南瓜酱、300g淡奶油与18g糖粉一起打发至硬挺。",
+        "蛋糕片翻面揭去烘焙纸，铺上南瓜奶油。起卷一端堆成较厚的长条，收尾端抹薄，借助烘焙纸卷紧。",
+        "用纸包好固定，冷藏约1小时定型。顶部挤200g南瓜酱，尽量集中在上方，避免两侧装饰滑落。",
+        "切片时可温热刀刃并擦干，减少南瓜酱粘刀。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "糖粉按00:20画面核对为18g；视频简介写180g是明显笔误，已更正。使用做好的蛋糕片，烤胚配方需另备。"
+      ]
+    },
+    "en": {
+      "title": "Pumpkin Swiss roll",
+      "steps": [
+        "Prepare a baked Swiss-roll sponge and cooled pumpkin paste. Whip 150 g paste with 300 g cream and 18 g icing sugar until firm.",
+        "Turn the sponge over and peel away the baking paper. Spread with pumpkin cream, leaving a thicker ridge at the starting edge and a thinner layer at the finishing edge. Roll snugly with the help of paper.",
+        "Wrap and secure with paper and refrigerate about 1 hour to set. Pipe 200 g pumpkin paste mainly on the top so it does not slide down the sides.",
+        "A gently warmed, dried knife helps reduce sticking when slicing."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The 00:20 onscreen formula gives 18 g icing sugar; the description’s 180 g is a typo and has been corrected. This recipe uses a prepared sponge sheet."
+      ]
+    },
+    "fr": {
+      "title": "Roulé à la crème de potimarron",
+      "steps": [
+        "Préparer un biscuit à rouler et la crème de potimarron refroidie. Fouetter fermement 150 g de cette crème avec 300 g de crème liquide et 18 g de sucre glace.",
+        "Retourner le biscuit et retirer le papier cuisson. Étaler la crème avec une bande plus épaisse au départ et une couche plus fine à l’extrémité. Rouler en s’aidant du papier.",
+        "Envelopper et maintenir avec le papier, puis réfrigérer environ 1 heure. Pocher les 200 g de crème de potimarron surtout sur le dessus pour éviter qu’elle glisse sur les côtés.",
+        "Une lame légèrement tiédie et essuyée facilite la découpe sans accrocher."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La formule affichée à 00:20 indique 18 g de sucre glace ; les 180 g de la description sont une coquille corrigée ici. Cette recette utilise un biscuit déjà cuit."
+      ]
+    }
+  }
+}

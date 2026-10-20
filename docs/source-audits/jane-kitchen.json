@@ -2,7 +2,7 @@
   "channel": "https://www.youtube.com/@janekitchen",
   "channelId": "UC5tVUAzIMADnkzzIvHe8Jag",
   "inventoryRetrievedAt": "2026-10-19",
-  "updatedAt": "2026-10-20T06:59:59.418937+00:00",
+  "updatedAt": "2026-10-20T07:13:17.992634+00:00",
   "complete": false,
   "scope": "All recipe content in the 672 public videos and Shorts in the captured inventory. Multi-recipe videos may yield several entries.",
   "policy": {
@@ -17,15 +17,15 @@
   },
   "counts": {
     "videos": 672,
-    "recipesPrepared": 23,
+    "recipesPrepared": 37,
     "byStatus": {
-      "imported": 8,
+      "imported": 19,
       "partially-imported": 4,
       "excluded-non-recipe-by-title": 26,
-      "pending-review": 634
+      "pending-review": 623
     },
     "metadataRetrieved": 202,
-    "audioTranscribed": 26
+    "audioTranscribed": 79
   },
   "recipes": [
     {
@@ -324,6 +324,180 @@
         "00:00–01:38"
       ],
       "reviewNotes": []
+    },
+    {
+      "recipeId": "jane-blueberry-jam",
+      "videoId": "5lbvGi9tSlU",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–01:50"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "recipeId": "jane-blueberry-tiramisu",
+      "videoId": "5lbvGi9tSlU",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "01:50–04:15"
+      ],
+      "reviewNotes": [
+        "2.5g吉利丁对应镜面约100g，不是整个蛋糕总重的2.5%。"
+      ]
+    },
+    {
+      "recipeId": "jane-braised-pork-and-ribs",
+      "videoId": "J_Aaon960QM",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–02:01"
+      ],
+      "reviewNotes": [
+        "酱油/老抽有两种搭配，按作者修正版分别标注，不把试作较深色版本混入主配方。"
+      ]
+    },
+    {
+      "recipeId": "jane-chive-egg-nostoc-pies",
+      "videoId": "Hm-YGzE26vg",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–04:03"
+      ],
+      "reviewNotes": [
+        "热油80g只用于馅料；炒蛋和煎饼油另列未定量。开水105g与凉水105g是两个阶段，不合并成全烫面。"
+      ]
+    },
+    {
+      "recipeId": "jane-lamb-noodle-soup",
+      "videoId": "mkbrUwD_4dk",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–03:58"
+      ],
+      "reviewNotes": [
+        "第一次炖羊肉约1小时，第二小时仅回炖骨头是可选步骤，不误写羊肉必炖2小时。"
+      ]
+    },
+    {
+      "recipeId": "jane-tomato-oxtail-soup",
+      "videoId": "ViK2ji8YPDY",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–05:49"
+      ],
+      "reviewNotes": [
+        "番茄4个分2+2两阶段；牛尾炖1小时后加番茄土豆，再炖1小时；洋葱1个与大个用半个明确区分。"
+      ]
+    },
+    {
+      "recipeId": "jane-durian-pancakes",
+      "videoId": "4_Zsg4sY854",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–02:48"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "recipeId": "jane-banana-pancakes",
+      "videoId": "JsfOb4xdhBE",
+      "recipeReviewed": true,
+      "quantitySource": "video-frame-at-00:44",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:44 recipe card",
+        "03:15–06:18"
+      ],
+      "reviewNotes": [
+        "简介无用量，直接核对00:44画面：全麦100、泡打2、盐1、杏仁奶180、香蕉100+100、椰子油20g。"
+      ]
+    },
+    {
+      "recipeId": "jane-pumpkin-paste",
+      "videoId": "Wzf0Tplebqg",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–01:04",
+        "03:57–04:27"
+      ],
+      "reviewNotes": [
+        "140g牛奶为参考量，作者明确要求分次加入并按南瓜水分调节。"
+      ]
+    },
+    {
+      "recipeId": "jane-pumpkin-whipped-cream",
+      "videoId": "Wzf0Tplebqg",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "01:15–01:45"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "recipeId": "jane-pumpkin-cream-cake",
+      "videoId": "Wzf0Tplebqg",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "01:04–03:34"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "recipeId": "jane-pumpkin-swiss-roll",
+      "videoId": "_9abVuC9pdY",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description-corrected-by-frame-at-00:20",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:20 visual ingredient formula",
+        "00:00–01:44"
+      ],
+      "reviewNotes": [
+        "画面明确18g，覆盖简介180g错误；不是按经验猜测。"
+      ]
+    },
+    {
+      "recipeId": "jane-melon-crepe-cake",
+      "videoId": "KvTxl84WHcw",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–04:05",
+        "04:58–05:20"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "recipeId": "jane-braised-rib-knife-cut-noodles",
+      "videoId": "8sQVT-zdlSE",
+      "recipeReviewed": true,
+      "quantitySource": "author-video-description",
+      "methodSource": "spoken-instructions-with-timestamps",
+      "segments": [
+        "00:00–03:48"
+      ],
+      "reviewNotes": []
     }
   ],
   "videos": [
@@ -550,10 +724,13 @@
       "title": "藍莓提拉米蘇 | 教你在家做好吃的藍莓提拉米蘇！酸甜美味，嘎嘎好吃",
       "durationSeconds": 313,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-blueberry-jam",
+        "jane-blueberry-tiramisu"
+      ],
       "metadataSha256": "f2847b7347f6d4fb91d6ebba7e618a561cc040afc6a3c85dc4ee7f1a82c95c14",
       "transcriptSha256": "be64c5d4f4edf68c5a9cf222123575b61223b83c14e6627403bc90bd0a61983d"
     },
@@ -563,10 +740,12 @@
       "title": "紅燒肉/排骨2.0版 | 軟爛入味的紅燒肉&排骨一鍋出！風味濃厚，配上饅頭一整個大滿足~",
       "durationSeconds": 213,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-braised-pork-and-ribs"
+      ],
       "metadataSha256": "8ce4fd487850108f389fb28985ef58703d2793c817f548bdd6e75c6c4a1eaebe",
       "transcriptSha256": "10e0cfa35d2e949f37d4492442f5bf8bfa067930475c6eefa1131c6d4795e456"
     },
@@ -576,10 +755,12 @@
       "title": "韭菜雞蛋地軟餡餅 | 外脆內軟、皮薄餡大的韭菜雞蛋地軟餡餅，好吃到封神！",
       "durationSeconds": 304,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-chive-egg-nostoc-pies"
+      ],
       "metadataSha256": "60cd8aea04fe5eb07dfe2061ea11376b54e39e8601831b5a41ee5640085508c4",
       "transcriptSha256": "b1264fcca3efa89e3c9e8081614f52021f6da1965a741ca30c4a5a6f4a3a75f4"
     },
@@ -589,10 +770,12 @@
       "title": "羊肉粉 | 家庭版羊肉粉，實現羊肉自由！最後澆上油潑辣子超級香！",
       "durationSeconds": 281,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-lamb-noodle-soup"
+      ],
       "metadataSha256": "e0f5f611c7438b67e1aabc46a0cc2906fe79574238f1f3ed83d2252f8ef4ca9c",
       "transcriptSha256": "955cbe77831b438e208111809824f4b7ace1bf950fa9fd4cee5bba749d23ff99"
     },
@@ -602,10 +785,12 @@
       "title": "番茄牛尾湯 | 香濃美味的番茄牛尾湯，放了個馬鈴薯是點睛之筆！",
       "durationSeconds": 402,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-tomato-oxtail-soup"
+      ],
       "metadataSha256": "3faf2c82b0fd57c520daefc672edbebbdcf6aa56d737d392f9e557ef73c90159",
       "transcriptSha256": "e43712298f6c262f89d60c8449e19350fb45bf631919ced9dc0c0c12ee01ca58"
     },
@@ -615,10 +800,12 @@
       "title": "榴槤鬆餅 | 小白怎麼做出不含糖的鬆軟香甜榴蓮鬆餅(榴槤自帶的糖除外)？榴蓮黨站起來！",
       "durationSeconds": 169,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-durian-pancakes"
+      ],
       "metadataSha256": "e86a2ca9ec6ba3a5abddeb57596be4cb7ad0479ea479a77485511e5f2a84a865",
       "transcriptSha256": "db8e1c4802c17619fca9471aacc42e2303f4c85143b0326be1aa2bd63931c815"
     },
@@ -628,10 +815,12 @@
       "title": "南瓜瑞士捲 | 香甜不膩的南瓜瑞士捲不來一口嗎？最近很偏愛南瓜味~",
       "durationSeconds": 201,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-pumpkin-swiss-roll"
+      ],
       "metadataSha256": "442f9394632672625dee3f5999ee6c012e4d77009c5f53822dce42fecd4cb6a3",
       "transcriptSha256": "aacf89fbf4c9836179d792f640bb7eb4b1da4fb4d43d9cee79cdab705e235727"
     },
@@ -641,10 +830,12 @@
       "title": "排骨刀削麵 | 濃油赤醬的排骨刀削麵真的很香啊誰懂！排骨軟爛，麵條入味，色香味俱全！",
       "durationSeconds": 229,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-braised-rib-knife-cut-noodles"
+      ],
       "metadataSha256": "d94963ccec3d9485eb5c71a9d276425851d139467c63fba0a09d0cb561a109a6",
       "transcriptSha256": "798ee3a91dd8d9630a60b1a1c034a02b0841fc9b8c2c3818293dc06c84294484"
     },
@@ -654,10 +845,12 @@
       "title": "蜜瓜千層 | 清甜爽口的蜜瓜與蛋糕的融合，是春天的味道！",
       "durationSeconds": 320,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-melon-crepe-cake"
+      ],
       "metadataSha256": "28ee2aff09dfc01730d161257950f25bce2aea327b4b7b2f2f263b465354d2d1",
       "transcriptSha256": "bf4de4458504a31f9d9069fc33827e1bfdc0b503bba3436910cfa5dd69487fe9"
     },
@@ -680,10 +873,14 @@
       "title": "南瓜奶油蛋糕 | 香甜南瓜搭配鬆軟蛋糕，沒有人能抗拒吧！#南瓜奶油蛋糕 #甜點 #蛋糕",
       "durationSeconds": 268,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-pumpkin-paste",
+        "jane-pumpkin-whipped-cream",
+        "jane-pumpkin-cream-cake"
+      ],
       "metadataSha256": "453d1b4854e6b8d2929e2238b7f25afc4fd557be2b7e09369f7b98d34cafd6cd",
       "transcriptSha256": "764c6c73d2d16e7ecb42804f516ad12a277b158a1eead5d12d4ce3bf9f630d7e"
     },
@@ -706,10 +903,12 @@
       "title": "低卡香蕉鬆餅 | 無糖無蛋奶香蕉鬆餅，減糖不減美味！有身材管理需求的夥伴們快來試試~",
       "durationSeconds": 404,
       "surface": "video",
-      "status": "pending-review",
+      "status": "imported",
       "metadataRetrieved": true,
       "audioTranscribed": true,
-      "recipeIds": [],
+      "recipeIds": [
+        "jane-banana-pancakes"
+      ],
       "metadataSha256": "7eb41f815f2a81986fc774d5a2155a0dc9e3a0066b9585b6402c9de635b978a4",
       "transcriptSha256": "84258ab381683d777917de865d9886afbecda3d80788f9ccc71ce9d807adcf6d"
     },
@@ -734,9 +933,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "c3f9e5bcc4dfafdff7894a9fb35aedfa9ba94c2949668f771d5bb338d6fb8be3"
+      "metadataSha256": "c3f9e5bcc4dfafdff7894a9fb35aedfa9ba94c2949668f771d5bb338d6fb8be3",
+      "transcriptSha256": "cde323f38a704f643f0c39ce6abb46255517575d0f1b7154fd7cdba0c85e861b"
     },
     {
       "videoId": "bL_8_S68K9Q",
@@ -746,9 +946,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "eb90923c6e6f087ca9889ab59d0000d9e97c376dff64696b551487616e2296b2"
+      "metadataSha256": "eb90923c6e6f087ca9889ab59d0000d9e97c376dff64696b551487616e2296b2",
+      "transcriptSha256": "ec5e24627e8092bc50740c7e3884e40f7169b4b365f6f9c6f5f3fc5d3d0d1eb4"
     },
     {
       "videoId": "H0S1s_sLnPA",
@@ -758,9 +959,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "9dbcb0a14ec450bdf0b9ca5dcd9f03720d3eca02a52c0bdd7166271674fcf643"
+      "metadataSha256": "9dbcb0a14ec450bdf0b9ca5dcd9f03720d3eca02a52c0bdd7166271674fcf643",
+      "transcriptSha256": "994d53e17563812f93f89972aebf807525e5a2c4189d87f72fd361d99bf407da"
     },
     {
       "videoId": "l5Cfjhdpkp4",
@@ -783,9 +985,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "9d205042366abdc4cb1b634362654f898d8c1ec71a908b1f1899676d638ad4c1"
+      "metadataSha256": "9d205042366abdc4cb1b634362654f898d8c1ec71a908b1f1899676d638ad4c1",
+      "transcriptSha256": "f0d57000c373630cfed4fc156c2c6973a0cb9cb0f2ae00e9d3fe575f4ffe33e4"
     },
     {
       "videoId": "Nmea5ybLV74",
@@ -795,9 +998,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "e816a7757435cea8d649d3d26ae4113913fe08ec1294da6f2b6dc2e41be75a2f"
+      "metadataSha256": "e816a7757435cea8d649d3d26ae4113913fe08ec1294da6f2b6dc2e41be75a2f",
+      "transcriptSha256": "e078ea0552418821da9e0064a98b21c7face5d965f43a287c6c446ec5d672dd3"
     },
     {
       "videoId": "j2PO8qoqflU",
@@ -807,9 +1011,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "949360799eec770e66524563e1036d433c1d2d7d73f0abd168f99974a4d04e55"
+      "metadataSha256": "949360799eec770e66524563e1036d433c1d2d7d73f0abd168f99974a4d04e55",
+      "transcriptSha256": "afee36167a47ba5f17ddd142c2f6742f9cdcca76a8485180142945c520a3d935"
     },
     {
       "videoId": "E7q1-5Glcq4",
@@ -819,9 +1024,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "64c2b7cd91aaf2d2275e97cf32f4cc6da9fa713ebc583f7314c5f781646f9e61"
+      "metadataSha256": "64c2b7cd91aaf2d2275e97cf32f4cc6da9fa713ebc583f7314c5f781646f9e61",
+      "transcriptSha256": "49a85dd2d78e826d0e702b4d1195208ebe29195b64023b62f10c47e546cef123"
     },
     {
       "videoId": "QzZ23rP3SQ0",
@@ -831,9 +1037,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "ce88b99a0436bbac80ad421465bd2d76cbabe8929a276d47975edee4f56e9b80"
+      "metadataSha256": "ce88b99a0436bbac80ad421465bd2d76cbabe8929a276d47975edee4f56e9b80",
+      "transcriptSha256": "d34927f6d002ea74423824085c5d92ed360df625d14c918a6859638cd61197e5"
     },
     {
       "videoId": "FLtkjLoengE",
@@ -843,9 +1050,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "c54c4ce3e1ddcefdbd453baf8c9ff09312afa89eb22387adcf2f36a57169a27a"
+      "metadataSha256": "c54c4ce3e1ddcefdbd453baf8c9ff09312afa89eb22387adcf2f36a57169a27a",
+      "transcriptSha256": "70324a8b9a856f5deb32d8821b630dd61328698bab825d3999e798c7540fd80b"
     },
     {
       "videoId": "Zdl-f0YuhWA",
@@ -855,9 +1063,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "76a366c78fab4b3b0fa72dac6fa8dee6e95b34238a028db4433143cc43f4a1b0"
+      "metadataSha256": "76a366c78fab4b3b0fa72dac6fa8dee6e95b34238a028db4433143cc43f4a1b0",
+      "transcriptSha256": "9f8cbb2dcd11111ae21c73bf2f6ed8aa00d27144f1922e6c1583bae74234849f"
     },
     {
       "videoId": "cMtyIz1fEVU",
@@ -867,9 +1076,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "feedd6eb9b6f1a79d9500e4e603631c2bde5cff7d7c61bf0f8ded937d739c453"
+      "metadataSha256": "feedd6eb9b6f1a79d9500e4e603631c2bde5cff7d7c61bf0f8ded937d739c453",
+      "transcriptSha256": "67f7de9d6c50993b10a42c170fd0998ea1cc0c40949d6ebf797454821f04caa0"
     },
     {
       "videoId": "bGWicMnBtpI",
@@ -879,9 +1089,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "ab22724d25ae017316b14dfe5119b5fb4a12eb72051fc6008f3fd256d1c2c7bb"
+      "metadataSha256": "ab22724d25ae017316b14dfe5119b5fb4a12eb72051fc6008f3fd256d1c2c7bb",
+      "transcriptSha256": "3978424574da07a23754c270e6079be7c60ff13e83fb0b837d4892fa2c6e20ec"
     },
     {
       "videoId": "Squ-JlgZcrM",
@@ -891,9 +1102,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "c7840fa561a3fa8a50e23c4631631d09203ff53451feef765f77de6c71931b17"
+      "metadataSha256": "c7840fa561a3fa8a50e23c4631631d09203ff53451feef765f77de6c71931b17",
+      "transcriptSha256": "f115912860a7a4cc75cf960c39f2aa9719a8b1afcede43786964a5dd2d9f34b8"
     },
     {
       "videoId": "0wtx8n_EZNc",
@@ -903,9 +1115,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "cd1820dc0129c157ed89e6d788b2797935c28f264aea29497e3b5b533a5519dc"
+      "metadataSha256": "cd1820dc0129c157ed89e6d788b2797935c28f264aea29497e3b5b533a5519dc",
+      "transcriptSha256": "347ca0eb8757bce54204ab3a9f18dd0a315fc6f6c12e97436a208209a217289f"
     },
     {
       "videoId": "Jr-_AJH3wtE",
@@ -915,9 +1128,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "5a6c5ec9862729eef7895f455599919534423fc061cfce92fca94b8daf2e850c"
+      "metadataSha256": "5a6c5ec9862729eef7895f455599919534423fc061cfce92fca94b8daf2e850c",
+      "transcriptSha256": "a75123ecb14aba770a93b7efba525057e9a14796d668895c82e41df7f2414585"
     },
     {
       "videoId": "PT6Aq1BZq8A",
@@ -927,9 +1141,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "7b15a86e4f3de7bc88a83f788c1105e682bdc43c2bfe8185dcfdb3f297441404"
+      "metadataSha256": "7b15a86e4f3de7bc88a83f788c1105e682bdc43c2bfe8185dcfdb3f297441404",
+      "transcriptSha256": "8118f741df7c2e408f7501dedaa79ffffc65c120331388bfe109a4fa09000bf9"
     },
     {
       "videoId": "yhjTPI7s89w",
@@ -939,9 +1154,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "312209f8e16ab75c99997f92d94c259ca1280f4c60510975d2624504368b7c73"
+      "metadataSha256": "312209f8e16ab75c99997f92d94c259ca1280f4c60510975d2624504368b7c73",
+      "transcriptSha256": "6f57499b147d0989c892f33b676e55f7a2e32e460907ea650005ba31c4865ebe"
     },
     {
       "videoId": "zzXaN0bEl-8",
@@ -951,9 +1167,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "29508d4c42b1530da69c72cc17146d5e6f3a3e0a4c3e98829ee89e1e763b0329"
+      "metadataSha256": "29508d4c42b1530da69c72cc17146d5e6f3a3e0a4c3e98829ee89e1e763b0329",
+      "transcriptSha256": "d42e006eaf348752dd1e9fe761e4ab5a84c081f473dcd61e33f2652c4ee8b3df"
     },
     {
       "videoId": "c-5AXWgp5pY",
@@ -963,9 +1180,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "a5453bc56c1d405171117c0ecb3c8378b2ef8cec5c1cf3d15209e12cd88515b0"
+      "metadataSha256": "a5453bc56c1d405171117c0ecb3c8378b2ef8cec5c1cf3d15209e12cd88515b0",
+      "transcriptSha256": "4dcdaef620e94c8e761f49eca9927a417a963625c33f5d0f384312ffdda07b8f"
     },
     {
       "videoId": "4aUbAmZNf6w",
@@ -975,9 +1193,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "d1a53acfde2704328183903f5f425eb03107df3bbb03652bece6477fde08050e"
+      "metadataSha256": "d1a53acfde2704328183903f5f425eb03107df3bbb03652bece6477fde08050e",
+      "transcriptSha256": "ce150a099a040f3f692539d3b354adb7841e7e71923ce579ab5c319532da4eed"
     },
     {
       "videoId": "UDefmb2TBnA",
@@ -987,9 +1206,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "63c4feb022a650d84a78f9439f53e17c4aa418aff1c10dbe9e84ecbc567bbedb"
+      "metadataSha256": "63c4feb022a650d84a78f9439f53e17c4aa418aff1c10dbe9e84ecbc567bbedb",
+      "transcriptSha256": "c2fee0f30e1c0cce4ec00426ed50e467843e709310e073b168fff4f2df3326a4"
     },
     {
       "videoId": "xH6Gvl_3y_4",
@@ -999,9 +1219,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "6bc2515735a4333ed510094c459139ea285f74a84b2d01685cdaf83b7ac3ae2d"
+      "metadataSha256": "6bc2515735a4333ed510094c459139ea285f74a84b2d01685cdaf83b7ac3ae2d",
+      "transcriptSha256": "7b35c3a04f8c38647e210b19082eef3270c6d12e23a57c43661e8d783832c934"
     },
     {
       "videoId": "Rffh6U86htA",
@@ -1011,9 +1232,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "13661937e891234131bb77cb55857a697a5e9cc28748368ae2872cc2d5e5b78e"
+      "metadataSha256": "13661937e891234131bb77cb55857a697a5e9cc28748368ae2872cc2d5e5b78e",
+      "transcriptSha256": "52ddc1379f48a6afd4e20cbcc2f22400713643d72a49b4c852c7231e58157956"
     },
     {
       "videoId": "y8a7kXyEXSI",
@@ -1023,9 +1245,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "93cf81b2046984bcc400d16dbe295cfc3544c6dd3a9a7c811f4e51805fb88a1b"
+      "metadataSha256": "93cf81b2046984bcc400d16dbe295cfc3544c6dd3a9a7c811f4e51805fb88a1b",
+      "transcriptSha256": "cbfef01f6225870cfa02570432572456ea6e615f7de2f1302bff06a13cd68ff6"
     },
     {
       "videoId": "kzDkDtVsdE0",
@@ -1035,9 +1258,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "5c2577f95a5fb3fc0f0eeb0d7a966fc07a08dfc018c07c07a21785ab3a634836"
+      "metadataSha256": "5c2577f95a5fb3fc0f0eeb0d7a966fc07a08dfc018c07c07a21785ab3a634836",
+      "transcriptSha256": "ad0027de7bcdbaef207b1160df8b374e2e67dcbbea08d1b8ed4e2c2895c4a092"
     },
     {
       "videoId": "JxLLD4vgZ2k",
@@ -1047,9 +1271,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "1bebea1889cecec59a028d261ce599aeb004855e227a6c61f00dc7e49bb9c3b8"
+      "metadataSha256": "1bebea1889cecec59a028d261ce599aeb004855e227a6c61f00dc7e49bb9c3b8",
+      "transcriptSha256": "c7858ddd041e2d65558c65b27b7c126da098360b499b87debdaf3c625eefb3eb"
     },
     {
       "videoId": "sk_70u4LC9k",
@@ -1059,9 +1284,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "81623704b7af27f84ff89bd56010af4182c762f9619b44f14dd875a364888df3"
+      "metadataSha256": "81623704b7af27f84ff89bd56010af4182c762f9619b44f14dd875a364888df3",
+      "transcriptSha256": "372e6106045d78e0f1f8f0fc5cdabb70f68e3f2bb123fce9dc731d72c4b0f658"
     },
     {
       "videoId": "iS6LMUxPGr0",
@@ -1071,9 +1297,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "da6fc7cdda94796048be6f18016ef9a3873e507e7cb055091762e15b6cdab1c4"
+      "metadataSha256": "da6fc7cdda94796048be6f18016ef9a3873e507e7cb055091762e15b6cdab1c4",
+      "transcriptSha256": "b9483fac416e362b1c460f2ad1a645a66724c9592ada8f925f05bb51b90bbe02"
     },
     {
       "videoId": "dS1uIYBWXfo",
@@ -1083,9 +1310,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "db9d659b2c791728c4321470b036dcca8a9c7ed75c5c25dcd04727f17f37a401"
+      "metadataSha256": "db9d659b2c791728c4321470b036dcca8a9c7ed75c5c25dcd04727f17f37a401",
+      "transcriptSha256": "37e4144ac54e0837806a08e705455758c3c91eecd3c5bdda7fda17a6d53b3e06"
     },
     {
       "videoId": "uVkptYjTe6g",
@@ -1095,9 +1323,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "f64878a388d0712f115383b4829c40588173962d1791d4b79dd5fddf05e0bbfd"
+      "metadataSha256": "f64878a388d0712f115383b4829c40588173962d1791d4b79dd5fddf05e0bbfd",
+      "transcriptSha256": "0b183235bdee652ceb0e5586ec5ee3b6f18e8f30dc245655c305860fe7da39b6"
     },
     {
       "videoId": "U1p8iAxDxok",
@@ -1107,9 +1336,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "785a312311189cbb7f93a6141070bbe4711f78492910fa7f3da74d15c5cbcb13"
+      "metadataSha256": "785a312311189cbb7f93a6141070bbe4711f78492910fa7f3da74d15c5cbcb13",
+      "transcriptSha256": "093322c7ff5578005e1d9c33374b9fd1136e544cccc9f7ed0cd7f5de3965cdf5"
     },
     {
       "videoId": "XVlGE83BN-4",
@@ -1119,9 +1349,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "7b7846fd859fea6c7d5f25cc6a072ed5b9bfe716878d9ae246de69ebae100ff3"
+      "metadataSha256": "7b7846fd859fea6c7d5f25cc6a072ed5b9bfe716878d9ae246de69ebae100ff3",
+      "transcriptSha256": "31e7d9f5ca130ded4f340a21f3f535dea26a841585c3a2b9801b5af0b83abd1a"
     },
     {
       "videoId": "z9kBrv9sKow",
@@ -1131,9 +1362,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "1db2b8907df14c7f23bc135aa4306e30adf5fdbaf53200e6dfaf917732df3304"
+      "metadataSha256": "1db2b8907df14c7f23bc135aa4306e30adf5fdbaf53200e6dfaf917732df3304",
+      "transcriptSha256": "37b00ed2454044d587359d5e2644a26c37077298573bb02f834bca382ea335ba"
     },
     {
       "videoId": "hcRPYrDesqI",
@@ -1143,9 +1375,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "5c92ddba237f67377c76c844fe6911771521738587373e55f9d53bf015a258b0"
+      "metadataSha256": "5c92ddba237f67377c76c844fe6911771521738587373e55f9d53bf015a258b0",
+      "transcriptSha256": "cefe2c9a17798646a102732cef81c24e865c43f6d9672adb919d245c94991d5e"
     },
     {
       "videoId": "oTwNIPZFdxc",
@@ -1155,9 +1388,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "09eed016f703ca50d14420a988bee41cb417f47785743e71bffeaf9dabe9c049"
+      "metadataSha256": "09eed016f703ca50d14420a988bee41cb417f47785743e71bffeaf9dabe9c049",
+      "transcriptSha256": "15a0d957ab81fc04d4486168f1ba90da1e5973070e87c43b82a224858ceaa82c"
     },
     {
       "videoId": "t7sE6AjZHB8",
@@ -1167,9 +1401,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "d77ef69b7ffb6d128d16dfcc0515129a9c1d7a0718825cb073fd65eb2feb37e5"
+      "metadataSha256": "d77ef69b7ffb6d128d16dfcc0515129a9c1d7a0718825cb073fd65eb2feb37e5",
+      "transcriptSha256": "9275e340da37de16feea0fe83091af266ab4577e818d7482fd2e6370f208c315"
     },
     {
       "videoId": "aXcK2ukSRN0",
@@ -1179,9 +1414,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "728f0e13129a5f5e7ac3f3ab5876575f74c185a600690165625ce6b42909985b"
+      "metadataSha256": "728f0e13129a5f5e7ac3f3ab5876575f74c185a600690165625ce6b42909985b",
+      "transcriptSha256": "6f94ed1cd134d85c996b9ca6e78d831c1cc18e8b30b93949c58add1b93bc5a6a"
     },
     {
       "videoId": "JZl8pGDF1f0",
@@ -1191,9 +1427,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "68f15b7296533fbf04432b478248b37816ee90dba7d055f66c46caf624c8b71f"
+      "metadataSha256": "68f15b7296533fbf04432b478248b37816ee90dba7d055f66c46caf624c8b71f",
+      "transcriptSha256": "ae8a546fbad20262ba4e82ba1071f4e5b6a93ecefc7defcf21d6cfca151fc32d"
     },
     {
       "videoId": "lsWGzdY6ZS8",
@@ -1203,9 +1440,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "c374f81e8d6925668cdb994524f2f75e3b18509eebfcfe1ddc009521b9ee8397"
+      "metadataSha256": "c374f81e8d6925668cdb994524f2f75e3b18509eebfcfe1ddc009521b9ee8397",
+      "transcriptSha256": "26e4b4de0443bc30dfa850f2438b69e619237a18caec467a415e939ae233fe60"
     },
     {
       "videoId": "qw3e4JdGHzI",
@@ -1228,9 +1466,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "1f147e26ae2166fb50838507b8389dcb5eeb527369347d28c77c161507c46864"
+      "metadataSha256": "1f147e26ae2166fb50838507b8389dcb5eeb527369347d28c77c161507c46864",
+      "transcriptSha256": "13f0b596bfac1e3778c953e04c560a88db46e290f67bd9ee5ec4e2783e3f2174"
     },
     {
       "videoId": "haMxePN_gxM",
@@ -1240,9 +1479,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "b68ecd3d2ae9a54685b03bc46233a5c9d95ca92fe1c6ecb152388770c7e92167"
+      "metadataSha256": "b68ecd3d2ae9a54685b03bc46233a5c9d95ca92fe1c6ecb152388770c7e92167",
+      "transcriptSha256": "15cc09ccdf0d6bea89fe12eb03ae8caceeab6931e8a1dd990b769f0fb0724761"
     },
     {
       "videoId": "CVU9zayXtsg",
@@ -1252,9 +1492,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "3622a59cc497de0eb19990e584a774dc2ff60ed2c286655496a2ec7101a108d0"
+      "metadataSha256": "3622a59cc497de0eb19990e584a774dc2ff60ed2c286655496a2ec7101a108d0",
+      "transcriptSha256": "ee77c273e04e9c4b1acbc174ae95c50dbd85e82f2bb223d2b8e6331994da9d20"
     },
     {
       "videoId": "G-GgKo_FRu4",
@@ -1264,9 +1505,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "f566596c2b351817fa976c4e4d387560886bd6f49416e6a0a4910e6cdfc56ae1"
+      "metadataSha256": "f566596c2b351817fa976c4e4d387560886bd6f49416e6a0a4910e6cdfc56ae1",
+      "transcriptSha256": "ea8e45f0c8424cc42c935bab93fdd2908aa4c7acc08475851dd0fd6d674132ce"
     },
     {
       "videoId": "AWT2C6OleOs",
@@ -1276,9 +1518,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "3076c0f4bd35a00b1edfcdb15bdb6f010f0e65d036c816833a57da27ef88ad90"
+      "metadataSha256": "3076c0f4bd35a00b1edfcdb15bdb6f010f0e65d036c816833a57da27ef88ad90",
+      "transcriptSha256": "f32a53d134f55a1e9d26558a3526f11170190734353ae89d551d2d7952078ddb"
     },
     {
       "videoId": "96bmcn_zETc",
@@ -1288,9 +1531,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "63e259e7cc934f8f982bf744d98540c2ae45dd5b09f58714dd607e88487742e4"
+      "metadataSha256": "63e259e7cc934f8f982bf744d98540c2ae45dd5b09f58714dd607e88487742e4",
+      "transcriptSha256": "74e58aa18d55718a5aae2482d39a253023796aed639f3a09f400412166dc1acc"
     },
     {
       "videoId": "GvIxGowSwTY",
@@ -1300,9 +1544,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "00d01b0cd3605b8a5d28401cdb658feed749a0d38a6a87c2f36a1ae1626fc743"
+      "metadataSha256": "00d01b0cd3605b8a5d28401cdb658feed749a0d38a6a87c2f36a1ae1626fc743",
+      "transcriptSha256": "d7c648297cebd3bcd3aa31901b05c3232a3e4fabce65a09384e1277452080a9c"
     },
     {
       "videoId": "lR-xrzfbx7g",
@@ -1312,9 +1557,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "51762816dfa6280ed083814cba50fd3aa93328b9761c3cdca854b66d2a1cba02"
+      "metadataSha256": "51762816dfa6280ed083814cba50fd3aa93328b9761c3cdca854b66d2a1cba02",
+      "transcriptSha256": "0fe847a0d06b08465f28fc833c6912f84c2b1186c8216b28153cbe9905363bd8"
     },
     {
       "videoId": "ePXMb3d5NiI",
@@ -1324,9 +1570,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "14d42710e76555d5487b71937d619ffc37446bf15eea47b3505994cf19cd1217"
+      "metadataSha256": "14d42710e76555d5487b71937d619ffc37446bf15eea47b3505994cf19cd1217",
+      "transcriptSha256": "ba44adf4548d3b3b95c53ee65e3f1ff19e59bd44c8c0403238483a0dc321c83b"
     },
     {
       "videoId": "Lyf45gQR7s4",
@@ -1336,9 +1583,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "547aaca8e9abab9dcbc8c3ec9e0cc9b3ed9e3543da13d5db9927c3b65b57f7f7"
+      "metadataSha256": "547aaca8e9abab9dcbc8c3ec9e0cc9b3ed9e3543da13d5db9927c3b65b57f7f7",
+      "transcriptSha256": "f58d9bfa9b03fdc88d70200770ab263c20e41fb6a5830f7e421ebc50ff785d21"
     },
     {
       "videoId": "xB_M3JLrwwA",
@@ -1348,9 +1596,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "f033526461080744e066f3aa0f4933e13eda4ead5f40f5578970ed9204e62d55"
+      "metadataSha256": "f033526461080744e066f3aa0f4933e13eda4ead5f40f5578970ed9204e62d55",
+      "transcriptSha256": "86452208b407e5914974e42f648a6bfcdafad13a4b6f930c5526e84d43ab507c"
     },
     {
       "videoId": "M8kmE9pb16s",
@@ -1360,9 +1609,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "508bb7503cbd8636e1383875fced5f4cd59a237d679fe2c0863723e62fcbc78a"
+      "metadataSha256": "508bb7503cbd8636e1383875fced5f4cd59a237d679fe2c0863723e62fcbc78a",
+      "transcriptSha256": "e0b97a7ea0bea1271551c55c1f728564d7f332a372cd3f37b80737b3b742e1e5"
     },
     {
       "videoId": "d6IJg-v6E84",
@@ -1372,9 +1622,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "05be307fab6402b2c263ae7793035701bf395d14627dd6f56ab61e3aefb2183e"
+      "metadataSha256": "05be307fab6402b2c263ae7793035701bf395d14627dd6f56ab61e3aefb2183e",
+      "transcriptSha256": "dd89ba523faf798e4fd1d8cab958c7b1d2783268c2485d3ea5243483f3925ff3"
     },
     {
       "videoId": "R22EMWk-S-c",
@@ -1384,9 +1635,10 @@
       "surface": "video",
       "status": "pending-review",
       "metadataRetrieved": true,
-      "audioTranscribed": false,
+      "audioTranscribed": true,
       "recipeIds": [],
-      "metadataSha256": "818ce1d63f93c50574512f109c456ddde504d1d003ec816e2e76f4ae3cbb0f8b"
+      "metadataSha256": "818ce1d63f93c50574512f109c456ddde504d1d003ec816e2e76f4ae3cbb0f8b",
+      "transcriptSha256": "a9839e15afa70a45135d40f07cd55a2df9e5c27a7d994f4dfe0b2a3435688fbf"
     },
     {
       "videoId": "MGDKX3cOKHU",
