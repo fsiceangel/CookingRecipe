@@ -1,0 +1,237 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-yogurt-pineapple-bread",
+  "tags": [
+    "bakery"
+  ],
+  "difficulty": 3.5,
+  "videoLink": "https://www.youtube.com/watch?v=hN3cmabJvdc",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "bread-flour",
+      "ingredient": "bread-flour",
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
+      }
+    },
+    {
+      "id": "milk-powder",
+      "ingredient": "milk-powder",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "yeast",
+      "ingredient": "yeast",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      },
+      "name": {
+        "cn": "耐高糖干酵母",
+        "en": "Osmotolerant dry yeast",
+        "fr": "Levure sèche pour pâtes sucrées"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "condensed-milk",
+      "ingredient": "condensed-milk",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "milk",
+      "ingredient": "milk",
+      "amount": {
+        "cn": "120 g",
+        "en": "120 g",
+        "fr": "120 g"
+      }
+    },
+    {
+      "id": "egg-dough",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      },
+      "name": {
+        "cn": "鸡蛋（面团）",
+        "en": "Egg, dough",
+        "fr": "Œuf, pâte"
+      }
+    },
+    {
+      "id": "butter",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "pineapple",
+      "ingredient": "pineapple",
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
+      },
+      "name": {
+        "cn": "凤梨（先煮糖水，沥干后取120g）",
+        "en": "Pineapple, cook in syrup then use 120 g drained",
+        "fr": "Ananas à cuire au sirop, puis en utiliser 120 g égouttés"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "ingredient": "rock-sugar",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "125 g",
+        "en": "125 g",
+        "fr": "125 g"
+      }
+    },
+    {
+      "id": "yogurt-custard",
+      "ingredient": "yogurt-custard",
+      "amount": {
+        "cn": "240 g",
+        "en": "240 g",
+        "fr": "240 g"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      },
+      "name": {
+        "cn": "玉米油（椰蓉酱批量配方）",
+        "en": "Corn oil, batch of coconut topping",
+        "fr": "Huile de maïs, lot de nappage coco"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "egg-topping",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      },
+      "name": {
+        "cn": "常温蛋液（椰蓉酱）",
+        "en": "Room-temperature beaten egg, topping",
+        "fr": "Œuf battu à température ambiante, nappage"
+      }
+    },
+    {
+      "id": "desiccated-coconut",
+      "ingredient": "desiccated-coconut",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸奶菠萝吐司",
+      "steps": [
+        "提前准备凤梨：去皮去硬心切丁，加冰糖和125g水煮开，小火煮10分钟。放凉冷藏一夜，次日充分沥干，普通夹馅版本取120g。酸奶卡仕达酱也提前做好放凉，本食谱取240g。",
+        "将面团材料中除黄油外的所有材料揉至扩展，再加25g黄油揉至能拉出薄膜。整理面团，在28–30°C、约75%湿度下发至两倍大，参考约1小时。",
+        "分成12份，每份约42g，滚圆松弛10分钟。擀开，每份包入凤梨丁10g和冷却凝固的酸奶卡仕达酱20g，收口捏紧后排入模具。",
+        "在35–38°C、约75%湿度下二发至模具八分满，参考约1小时。其间做椰蓉酱：玉米油、糖粉和常温蛋液搅打乳化，加入椰蓉混匀。",
+        "表面挤适量椰蓉酱，不要贪多。烤箱预热，上火160°C、下火180°C，放下层烤约30分钟。出炉轻震后及时脱模放凉。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "椰蓉酱是作者标注可做4个吐司的批量配方，本面团表面按需挤用，有剩余不必全部用完。凤梨糖水和酸奶酱也不要连同整批余量全部包入。",
+        "酱多多版本每个小面团用凤梨20g、酸奶酱30g；初做建议采用主配方10g和20g。做夹馅时让酸奶酱保持冷却凝固状态，便于包入。"
+      ]
+    },
+    "en": {
+      "title": "Yogurt and pineapple filled bread",
+      "steps": [
+        "Prepare the pineapple ahead: peel, core and dice, add the rock sugar and 125 g water, bring to a boil and simmer for 10 minutes. Cool, refrigerate overnight and drain well; use 120 g for the standard filling. Prepare and cool the yogurt custard in advance too; use 240 g.",
+        "Knead the dough ingredients except butter until elastic, then knead in 25 g butter until the dough stretches into a thin membrane. Shape and prove at 28–30°C and about 75% humidity until doubled, roughly 1 hour.",
+        "Divide into 12 pieces, about 42 g each, round and rest for 10 minutes. Flatten each and enclose 10 g drained pineapple and 20 g cooled, set yogurt custard. Seal firmly and arrange in the molds.",
+        "Prove again at 35–38°C and about 75% humidity until the dough reaches roughly four-fifths of the mold height, about 1 hour. Meanwhile emulsify the topping oil, icing sugar and room-temperature egg, then mix in the coconut.",
+        "Pipe a moderate amount of coconut topping on top. In a preheated oven set to 160°C top heat and 180°C bottom heat, bake on a lower rack for about 30 minutes. Tap gently after baking, unmold promptly and cool."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The coconut topping is the author’s batch for 4 loaves; use only enough to top this dough. Do not force in all leftover pineapple syrup or custard either.",
+        "The extra-filled option uses 20 g pineapple and 30 g custard per small piece; use the main 10 g and 20 g version for a first attempt. Keep the custard cool and set for easier filling."
+      ]
+    },
+    "fr": {
+      "title": "Pain brioché au yaourt et à l’ananas",
+      "steps": [
+        "Préparer l’ananas à l’avance : peler, retirer le cœur, couper en dés puis porter à ébullition avec le sucre candi et 125 g d’eau. Mijoter 10 minutes, refroidir et réfrigérer une nuit. Bien égoutter et en prendre 120 g. Préparer aussi la crème au yaourt à l’avance et en prendre 240 g refroidis.",
+        "Pétrir les ingrédients de la pâte sauf le beurre jusqu’à élasticité, puis incorporer 25 g de beurre et pétrir jusqu’au voile fin. Laisser doubler à 28–30°C et environ 75 % d’humidité, à titre indicatif 1 heure.",
+        "Diviser en 12 pâtons d’environ 42 g, bouler et laisser reposer 10 minutes. Abaisser chacun, garnir de 10 g d’ananas égoutté et 20 g de crème au yaourt refroidie et prise. Bien souder puis placer dans les moules.",
+        "Laisser lever à 35–38°C et environ 75 % d’humidité jusqu’aux quatre cinquièmes de la hauteur des moules, environ 1 heure. Émulsionner huile, sucre glace et œuf du nappage, puis incorporer la noix de coco.",
+        "Pocher une quantité modérée de nappage. Dans le four préchauffé, régler la voûte à 160°C et la sole à 180°C, puis cuire en partie basse environ 30 minutes. Tapoter légèrement, démouler rapidement et refroidir."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Le nappage correspond au lot indiqué par l’auteur pour 4 pains ; n’en utiliser que la quantité nécessaire. Ne pas incorporer non plus tout le sirop d’ananas ou les restes de crème.",
+        "La variante très garnie utilise 20 g d’ananas et 30 g de crème par pâton ; pour un premier essai, préférer les 10 g et 20 g de la version principale. Garder la crème froide et prise pour faciliter le façonnage."
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-matcha-tiramisu",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=j8_LgKCUaJs",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      },
+      "name": {
+        "cn": "淡奶油",
+        "en": "Whipping cream",
+        "fr": "Crème liquide entière"
+      }
+    },
+    {
+      "id": "mascarpone",
+      "ingredient": "mascarpone",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      }
+    },
+    {
+      "id": "matcha-cream",
+      "ingredient": "matcha",
+      "amount": {
+        "cn": "12 g",
+        "en": "12 g",
+        "fr": "12 g"
+      },
+      "name": {
+        "cn": "抹茶粉（奶酪糊）",
+        "en": "Matcha powder, cream layer",
+        "fr": "Matcha, crème"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "32 g",
+        "en": "32 g",
+        "fr": "32 g"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "凉开水",
+        "en": "Boiled and cooled water",
+        "fr": "Eau bouillie refroidie"
+      }
+    },
+    {
+      "id": "matcha-soak",
+      "ingredient": "matcha",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      },
+      "name": {
+        "cn": "抹茶粉（浸润液）",
+        "en": "Matcha powder, soaking liquid",
+        "fr": "Matcha, liquide d’imbibage"
+      }
+    },
+    {
+      "id": "rum",
+      "ingredient": "rum",
+      "amount": {
+        "cn": "18 g",
+        "en": "18 g",
+        "fr": "18 g"
+      }
+    },
+    {
+      "id": "ladyfingers",
+      "ingredient": "ladyfingers",
+      "amount": {
+        "cn": "足够铺满6寸高慕斯圈两层；作者未标克数",
+        "en": "Enough for two layers in a tall 6-inch mousse ring; weight not specified",
+        "fr": "Assez pour deux couches dans un cercle haut de 6 pouces ; poids non précisé"
+      }
+    },
+    {
+      "id": "matcha-finish",
+      "ingredient": "matcha",
+      "amount": {
+        "cn": "表面筛粉适量",
+        "en": "For dusting",
+        "fr": "Pour saupoudrer"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "抹茶提拉米苏",
+      "steps": [
+        "淡奶油中筛入12g抹茶粉，加入32g糖粉拌匀，再过筛。打发至接近硬挺，仍留有继续搅拌的余地。",
+        "将马斯卡彭稍微搅顺滑，加入抹茶奶油，短暂搅打至均匀浓稠，不要过度打发。",
+        "凉开水中筛入5g抹茶粉，加入18g朗姆酒混匀。手指饼干刮去表面糖壳，刷上这份浸润液。",
+        "6寸高慕斯圈底部垫盘，铺一层手指饼干，空隙用切开的饼干补齐。铺上一半奶酪糊，再铺一层饼干和剩余奶酪糊，抹平。",
+        "盖保鲜膜，冷藏一夜。次日稍微温热模具外侧后脱模，表面筛适量抹茶粉。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "本配方使用做好的手指饼干；奶酪糊不加蛋黄。作者另列抹茶手指饼干配方，但本视频没有演示其完整制作步骤。"
+      ]
+    },
+    "en": {
+      "title": "Matcha tiramisu",
+      "steps": [
+        "Sift 12 g matcha into the cream, mix in 32 g icing sugar, and strain. Whip until nearly stiff, leaving room for further mixing.",
+        "Briefly smooth the mascarpone, add it to the matcha cream, and beat just until thick and combined. Do not overwhip.",
+        "Sift 5 g matcha into the cooled water and mix in 18 g rum. Scrape the sugar crust off the ladyfingers and brush them with the soaking liquid.",
+        "Set a tall 6-inch mousse ring on a plate. Line it with ladyfingers, filling gaps with cut pieces. Spread over half the cream, then repeat with biscuits and the remaining cream. Level the top.",
+        "Cover and refrigerate overnight. Briefly warm the outside of the ring to unmold, then dust with matcha."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Use ready-made ladyfingers; the cream contains no egg yolk. The author also lists a matcha ladyfinger formula, but this video does not demonstrate its full method."
+      ]
+    },
+    "fr": {
+      "title": "Tiramisu au matcha",
+      "steps": [
+        "Tamiser 12 g de matcha dans la crème, incorporer 32 g de sucre glace, puis filtrer. Fouetter jusqu’à une tenue presque ferme, sans trop monter la crème.",
+        "Assouplir brièvement le mascarpone, l’ajouter à la crème au matcha et fouetter juste assez pour obtenir une texture épaisse et homogène.",
+        "Tamiser 5 g de matcha dans l’eau refroidie et ajouter 18 g de rhum. Retirer la croûte sucrée des biscuits et les badigeonner de ce liquide.",
+        "Poser un cercle haut de 6 pouces sur un plat. Disposer les biscuits en comblant les espaces, puis la moitié de la crème. Répéter avec les biscuits et le reste de crème, puis lisser.",
+        "Couvrir et réfrigérer une nuit. Réchauffer légèrement l’extérieur du cercle pour démouler, puis saupoudrer de matcha."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Utiliser des biscuits à la cuillère déjà préparés ; la crème ne contient pas de jaune d’œuf. L’auteur donne aussi une formule de biscuits au matcha, sans en montrer ici la préparation complète."
+      ]
+    }
+  }
+}

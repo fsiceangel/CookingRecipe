@@ -1,0 +1,192 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-tokyo-banana-cakes",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 3,
+  "videoLink": "https://www.youtube.com/watch?v=UTfxmBrXI8s",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "egg-white",
+      "ingredient": "egg-white",
+      "amount": {
+        "cn": "170 g",
+        "en": "170 g",
+        "fr": "170 g"
+      }
+    },
+    {
+      "id": "egg-yolk",
+      "ingredient": "egg-yolk",
+      "amount": {
+        "cn": "85 g",
+        "en": "85 g",
+        "fr": "85 g"
+      }
+    },
+    {
+      "id": "milk",
+      "ingredient": "milk",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "cream-cheese-sponge",
+      "ingredient": "cream-cheese",
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
+      },
+      "name": {
+        "cn": "奶油奶酪（蛋糕胚）",
+        "en": "Cream cheese, sponge",
+        "fr": "Fromage frais, biscuit"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      },
+      "name": {
+        "cn": "玉米油",
+        "en": "Corn oil",
+        "fr": "Huile de maïs"
+      }
+    },
+    {
+      "id": "cake-flour",
+      "ingredient": "cake-flour",
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
+      }
+    },
+    {
+      "id": "lemon-juice",
+      "ingredient": "lemon-juice",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "70 g",
+        "en": "70 g",
+        "fr": "70 g"
+      }
+    },
+    {
+      "id": "mizuame",
+      "ingredient": "mizuame",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "cream-cheese-filling",
+      "ingredient": "cream-cheese",
+      "amount": {
+        "cn": "125 g",
+        "en": "125 g",
+        "fr": "125 g"
+      },
+      "name": {
+        "cn": "奶油奶酪（夹馅）",
+        "en": "Cream cheese, filling",
+        "fr": "Fromage frais, garniture"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "banana",
+      "ingredient": "banana",
+      "amount": {
+        "cn": "成熟香蕉，按约8份蛋糕胚尺寸裁取；未标总重量",
+        "en": "Ripe bananas, cut to fit about 8 cakes; total weight not specified",
+        "fr": "Bananes mûres à découper pour environ 8 gâteaux ; poids total non précisé"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "东京香蕉蛋糕",
+      "steps": [
+        "70g奶油奶酪加牛奶、玉米油和水饴，隔热水加热至约40°C并搅匀乳化。倒入蛋黄拌匀，筛入低筋粉，以一字法拌匀，再过筛。",
+        "蛋白保持冷凉，加入柠檬汁，70g细砂糖分三次加入，打至小弯钩。先取约三分之一蛋白拌入蛋黄糊，再倒回余下蛋白中翻拌均匀。",
+        "用6寸圆形作参考，将面糊分成约8个薄圆胚，分两盘摊开，稍抹平并轻震。烤箱预热至实际150°C，烤约25分钟。",
+        "125g奶油奶酪加40g糖粉打匀，再加500g淡奶油打至硬挺。香蕉选成熟带斑点的，按蛋糕胚尺寸裁切。",
+        "蛋糕胚放至不烫手，先挤奶酪奶油，放香蕉，再沿周围和两端挤奶油，将香蕉完整包住。把蛋糕胚两侧合起，固定成香蕉蛋糕形。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "简介配方按约8个蛋糕提供；作者演示时奶油只做够3个，不能据此把整份配方当作3个用量。",
+        "奶油奶酪70g用于蛋糕胚，125g用于夹馅，不能互换或重复相加。原视频未给出香蕉总重量。"
+      ]
+    },
+    "en": {
+      "title": "Tokyo-style banana cakes",
+      "steps": [
+        "Combine 70 g cream cheese with the milk, corn oil and starch syrup. Warm over hot water to about 40°C and emulsify. Mix into the yolks, sift in the flour, stir with straight strokes, and strain.",
+        "Keep the whites cold, add lemon juice, and beat while adding the 70 g sugar in three additions, to gently curved peaks. Fold about one-third into the yolk mixture, then fold this back into the remaining whites.",
+        "Using a 6-inch circle as a guide, spread the batter into about 8 thin rounds over two trays. Level and gently tap the trays. Bake at an actual 150°C for about 25 minutes.",
+        "Beat 125 g cream cheese with 40 g icing sugar, add 500 g cream, and whip to firm peaks. Choose ripe speckled bananas and trim to fit the cakes.",
+        "Let the sponges cool until no longer hot. Pipe on cream, add banana, and surround it with cream, including both ends. Fold up the sides of the sponge and hold in the banana-cake shape."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The listed formula is for about 8 cakes; the author made only enough cream for 3 in the demonstration. That smaller demonstration does not change the full recipe yield.",
+        "Use 70 g cream cheese in the sponge and 125 g in the filling; keep these stages separate. No total banana weight is specified."
+      ]
+    },
+    "fr": {
+      "title": "Petits gâteaux à la banane façon Tokyo",
+      "steps": [
+        "Mélanger 70 g de fromage frais, lait, huile et sirop d’amidon. Chauffer au bain-marie à environ 40°C en émulsionnant. Incorporer aux jaunes, tamiser la farine, mélanger par mouvements droits puis filtrer.",
+        "Garder les blancs froids, ajouter le jus de citron puis les 70 g de sucre en trois fois, en fouettant jusqu’au bec légèrement courbé. Incorporer environ un tiers aux jaunes, puis reverser dans les blancs restants et mélanger délicatement.",
+        "En prenant un cercle de 6 pouces comme repère, répartir la pâte en environ 8 disques fins sur deux plaques. Lisser, tapoter doucement et cuire à une température réelle de 150°C pendant environ 25 minutes.",
+        "Fouetter 125 g de fromage frais avec 40 g de sucre glace, ajouter 500 g de crème et monter fermement. Choisir des bananes mûres tachetées et les tailler aux dimensions des biscuits.",
+        "Laisser tiédir les biscuits jusqu’à ce qu’ils ne soient plus chauds. Pocher la crème, poser la banane puis l’envelopper entièrement de crème, extrémités comprises. Relever les côtés du biscuit et maintenir la forme."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La formule indiquée correspond à environ 8 gâteaux ; l’auteur n’a préparé de crème que pour 3 dans la démonstration. Cela ne modifie pas le rendement de la formule complète.",
+        "Les 70 g de fromage frais vont dans le biscuit, les 125 g dans la garniture ; séparer ces quantités. Le poids total des bananes n’est pas précisé."
+      ]
+    }
+  }
+}

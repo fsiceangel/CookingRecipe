@@ -1,0 +1,264 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-steamed-braised-noodles",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=gO3zLhJGSeQ",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "pork-belly",
+      "ingredient": "pork-belly",
+      "amount": {
+        "cn": "350 g",
+        "en": "350 g",
+        "fr": "350 g"
+      },
+      "name": {
+        "cn": "去皮五花肉",
+        "en": "Skinless pork belly",
+        "fr": "Poitrine de porc sans couenne"
+      }
+    },
+    {
+      "id": "shiitake-mushroom",
+      "ingredient": "shiitake-mushroom",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      },
+      "name": {
+        "cn": "干香菇",
+        "en": "Dried shiitake mushrooms",
+        "fr": "Shiitakés séchés"
+      }
+    },
+    {
+      "id": "tomato",
+      "ingredient": "tomato",
+      "amount": {
+        "cn": "小的2个",
+        "en": "2 small",
+        "fr": "2 petits"
+      }
+    },
+    {
+      "id": "zucchini",
+      "ingredient": "zucchini",
+      "amount": {
+        "cn": "小的1个",
+        "en": "1 small",
+        "fr": "1 petite"
+      }
+    },
+    {
+      "id": "noodles",
+      "ingredient": "noodles",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      },
+      "name": {
+        "cn": "蒸卤面用小细面",
+        "en": "Thin fresh wheat noodles for steaming",
+        "fr": "Fines nouilles de blé fraîches à cuire à la vapeur"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "sweet-bean-sauce",
+      "ingredient": "sweet-bean-sauce",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "ingredient": "rock-sugar",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "white-pepper",
+      "ingredient": "white-pepper",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "酌情",
+        "en": "To taste",
+        "fr": "Selon le goût"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "star-anise",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "chili-pepper",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "干辣椒",
+        "en": "Dried chili peppers",
+        "fr": "Piments séchés"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "garlic",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "蒜（煸炒及出锅用蒜末）",
+        "en": "Garlic, for frying and finishing",
+        "fr": "Ail, pour faire revenir et pour la finition"
+      }
+    },
+    {
+      "id": "cilantro",
+      "ingredient": "cilantro",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "泡香菇用，泡发水留用",
+        "en": "For soaking the mushrooms; reserve the soaking liquid",
+        "fr": "Pour tremper les champignons ; conserver le liquide"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "简门蒸卤面",
+      "steps": [
+        "干香菇提前一晚泡发，挤去水分后切细条，泡发水留用。五花肉切片，西红柿去皮切块，西葫芦切丁。",
+        "锅中放油，煸香八角、花椒和干辣椒后捞出。下葱姜蒜炒至微黄，再下五花肉，大火煸至边缘微焦。",
+        "加入香菇炒至边缘微黄，依次加入料酒、酱油、甜面酱，分别炒匀；加入西红柿略炒。",
+        "倒入泡香菇水，加冰糖和白胡椒粉；盐按酱料咸度酌情补。煮开后盖盖，小火炖10分钟。另锅将面条开水上锅蒸10分钟，取出抖散。",
+        "炖菜中加入西葫芦，再煮2分钟。舀出部分汤汁备用，将面条与菜拌匀，按吸汁情况补一些预留汤汁。",
+        "将拌好的面条和菜铺在蒸屉上，开水上锅，上汽后大火蒸5分钟。均匀淋上剩余汤汁，再大火蒸5分钟。出锅拌入香菜和蒜末。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "冰糖可随西红柿的酸度调整。葱姜蒜、香料、油和香菜在操作中出现，但作者没有给出克数。"
+      ]
+    },
+    "en": {
+      "title": "Jane’s steamed braised noodles",
+      "steps": [
+        "Soak the dried shiitakes overnight, squeeze and slice them, reserving the soaking liquid. Slice the pork, peel and chop the tomatoes, and dice the zucchini.",
+        "Heat oil and fry the star anise, Sichuan peppercorns and dried chilies until fragrant, then remove them. Fry scallion, ginger and garlic until lightly golden, then add the pork and fry over high heat until its edges brown.",
+        "Fry the mushrooms until their edges color. Add cooking wine, soy sauce and sweet bean sauce in turn, stirring after each addition, then briefly fry the tomatoes.",
+        "Add the mushroom liquid, rock sugar and white pepper; adjust salt to the sauces’ saltiness. Bring to a boil, cover and simmer for 10 minutes. Separately steam the noodles over boiling water for 10 minutes, then loosen them.",
+        "Add the zucchini to the braise and cook for 2 minutes. Set aside some broth, mix the noodles with the braise, and add reserved broth as needed to moisten them.",
+        "Spread the noodles and vegetables in the steamer over boiling water. Once steam rises, steam over high heat for 5 minutes. Drizzle evenly with the remaining broth and steam for another 5 minutes. Finish with cilantro and minced garlic."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Adjust the rock sugar to the tomatoes’ acidity. The aromatics, spices, oil and cilantro appear in the method without stated weights."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles vapeur de Jane au porc et aux légumes",
+      "steps": [
+        "Faire tremper les shiitakés la veille, les presser puis les émincer ; conserver le liquide. Trancher le porc, peler et couper les tomates, puis couper la courgette en dés.",
+        "Chauffer l’huile, y faire revenir badiane, poivre du Sichuan et piments secs, puis les retirer. Faire blondir ciboule, gingembre et ail, puis saisir le porc à feu vif jusqu’à coloration des bords.",
+        "Faire revenir les champignons jusqu’à légère coloration. Ajouter successivement vin de cuisine, sauce soja et sauce de haricots sucrée, en remuant à chaque fois, puis faire revenir brièvement les tomates.",
+        "Verser le liquide des champignons, ajouter sucre candi et poivre blanc ; ajuster le sel selon les sauces. Porter à ébullition, couvrir et mijoter 10 minutes. À part, cuire les nouilles à la vapeur au-dessus d’eau bouillante pendant 10 minutes, puis les séparer.",
+        "Ajouter la courgette et cuire 2 minutes. Réserver une partie du jus, mélanger les nouilles avec la garniture et ajouter du jus réservé selon leur absorption.",
+        "Répartir les nouilles et les légumes dans le panier au-dessus d’eau bouillante. Dès que la vapeur monte, cuire à feu vif 5 minutes. Arroser du jus restant, cuire encore 5 minutes, puis incorporer coriandre et ail haché."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Ajuster le sucre candi à l’acidité des tomates. Les aromates, épices, huile et coriandre sont utilisés sans poids indiqué."
+      ]
+    }
+  }
+}

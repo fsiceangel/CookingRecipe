@@ -1,0 +1,125 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-yogurt-custard",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=BKhkT37GQ5Q",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "yogurt",
+      "ingredient": "yogurt",
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
+      },
+      "name": {
+        "cn": "含糖酸奶",
+        "en": "Sweetened yogurt",
+        "fr": "Yaourt sucré"
+      }
+    },
+    {
+      "id": "lemon-juice",
+      "ingredient": "lemon-juice",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      },
+      "name": {
+        "cn": "细砂糖",
+        "en": "Caster sugar",
+        "fr": "Sucre en poudre"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "0.5 g",
+        "en": "0.5 g",
+        "fr": "0.5 g"
+      }
+    },
+    {
+      "id": "cornstarch",
+      "ingredient": "cornstarch",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "玉米淀粉",
+        "en": "Cornstarch",
+        "fr": "Fécule de maïs"
+      }
+    },
+    {
+      "id": "butter",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸奶卡仕达酱",
+      "steps": [
+        "酸奶、柠檬汁、细砂糖、盐和玉米淀粉先在锅中搅匀。",
+        "中火或大火加热并搅拌；开始变稠后转小火，继续煮到浓稠冒泡。",
+        "加入黄油，小火搅拌至融化，再次煮到冒泡后关火，过筛。",
+        "放凉后酱会变稠；使用前搅打至顺滑。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "这份用量对应含糖酸奶。作者另注无糖酸奶配细砂糖约50g，但未明确这50g是否包含另列的10g；无糖版本暂不换算为确定总量。",
+        "盐量很少，要称准；小份量难以称准时，作者建议宁可不放。"
+      ]
+    },
+    "en": {
+      "title": "Yogurt custard",
+      "steps": [
+        "Mix the yogurt, lemon juice, sugar, salt and cornstarch in a saucepan before heating.",
+        "Heat over medium or high heat while stirring. Once thickening begins, lower the heat and cook until thick and bubbling.",
+        "Add the butter and stir over low heat until melted. Let the mixture bubble again, remove from the heat, and strain.",
+        "The custard thickens as it cools. Beat until smooth before using."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "These quantities use sweetened yogurt. The author suggests about 50 g sugar for unsweetened yogurt, but does not clarify whether that includes the separately listed 10 g; no definite unsweetened version is given here.",
+        "Measure the small amount of salt accurately; the author suggests omitting it if a small batch makes accurate weighing difficult."
+      ]
+    },
+    "fr": {
+      "title": "Crème pâtissière au yaourt",
+      "steps": [
+        "Mélanger à froid le yaourt, le jus de citron, le sucre, le sel et la fécule dans une casserole.",
+        "Chauffer à feu moyen ou vif en remuant. Dès que le mélange épaissit, baisser le feu et poursuivre jusqu’à épaississement et apparition de bulles.",
+        "Ajouter le beurre et le faire fondre à feu doux en remuant. Dès la reprise des bulles, retirer du feu et passer au tamis.",
+        "La crème épaissit en refroidissant. La fouetter pour la lisser avant utilisation."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Ces quantités correspondent à un yaourt sucré. L’auteur indique environ 50 g de sucre pour un yaourt non sucré, sans préciser si les 10 g listés séparément y sont inclus ; aucune quantité totale certaine n’est donc retenue pour cette variante.",
+        "Peser précisément cette faible quantité de sel ; l’auteur conseille de l’omettre si la précision est difficile pour une petite portion."
+      ]
+    }
+  }
+}

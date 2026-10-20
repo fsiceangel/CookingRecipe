@@ -1,0 +1,196 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-green-curry-paste",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 1.5,
+  "videoLink": "https://www.youtube.com/watch?v=sD3DxgwA_jY",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "chili-pepper",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "青辣椒",
+        "en": "Green chilies",
+        "fr": "Piments verts"
+      }
+    },
+    {
+      "id": "shallot",
+      "ingredient": "shallot",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "garlic",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "cilantro",
+      "ingredient": "cilantro",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "galangal",
+      "ingredient": "galangal",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "lemongrass",
+      "ingredient": "lemongrass",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "makrut-lime-leaf",
+      "ingredient": "makrut-lime-leaf",
+      "amount": {
+        "cn": "2片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
+      }
+    },
+    {
+      "id": "lime",
+      "ingredient": "lime",
+      "amount": {
+        "cn": "1个，只取皮屑",
+        "en": "Zest of 1",
+        "fr": "Zeste de 1"
+      }
+    },
+    {
+      "id": "dried-shrimp",
+      "ingredient": "dried-shrimp",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      },
+      "name": {
+        "cn": "虾皮",
+        "en": "Tiny dried shrimp",
+        "fr": "Petites crevettes séchées"
+      }
+    },
+    {
+      "id": "cumin",
+      "ingredient": "cumin",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      },
+      "name": {
+        "cn": "孜然粉",
+        "en": "Ground cumin",
+        "fr": "Cumin moulu"
+      }
+    },
+    {
+      "id": "coriander-seeds",
+      "ingredient": "coriander-seeds",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      },
+      "name": {
+        "cn": "香菜籽粉",
+        "en": "Ground coriander seeds",
+        "fr": "Coriandre moulue"
+      }
+    },
+    {
+      "id": "white-pepper",
+      "ingredient": "white-pepper",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "绿咖喱酱",
+      "steps": [
+        "将青辣椒、红葱头、小葱、大蒜、香菜、南姜、香茅和柠檬叶切小，取青柠皮屑。虾皮打成粉。",
+        "将蔬菜香料、青柠皮屑、虾皮粉、孜然粉、香菜籽粉和白胡椒粉放料理机打碎，按喜好调整细腻程度。",
+        "锅中加100g油，倒入打碎的酱料，大火加热后转小火翻炒至香气浓郁，盛出放凉。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "这是一整批咖喱酱；配套鸡肉绿咖喱只取50g。原作者允许红葱头换洋葱、南姜换生姜；冷藏后尽快用完，未给固定保存天数。"
+      ]
+    },
+    "en": {
+      "title": "Green curry paste",
+      "steps": [
+        "Chop the chilies, shallots, scallion, garlic, cilantro, galangal, lemongrass and lime leaves; zest the lime. Grind the dried shrimp.",
+        "Process the chopped aromatics, lime zest, shrimp powder, cumin, coriander and white pepper into a coarse or finer paste as desired.",
+        "Heat 100 g oil, add the paste and heat through over high heat, then reduce to low and stir-fry until fragrant. Remove and cool."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "This makes a batch of paste; the accompanying chicken curry uses only 50 g. The author permits onion instead of shallot and ginger instead of galangal. Refrigerate and use promptly; no fixed storage duration is stated."
+      ]
+    },
+    "fr": {
+      "title": "Pâte de curry vert",
+      "steps": [
+        "Couper finement piments, échalotes, ciboule, ail, coriandre, galanga, citronnelle et feuilles de combava ; prélever le zeste du citron vert. Moudre les crevettes séchées.",
+        "Mixer les aromates, le zeste, les crevettes moulues, le cumin, la coriandre moulue et le poivre blanc jusqu’à la finesse souhaitée.",
+        "Chauffer 100 g d’huile, ajouter la pâte et la chauffer à feu vif, puis faire revenir à feu doux jusqu’à ce qu’elle soit bien parfumée. Retirer et refroidir."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Cette préparation donne un lot de pâte ; le curry de poulet associé n’en utilise que 50 g. L’auteur permet de remplacer l’échalote par de l’oignon et le galanga par du gingembre. Réfrigérer et utiliser rapidement, sans durée de conservation fixe indiquée."
+      ]
+    }
+  }
+}

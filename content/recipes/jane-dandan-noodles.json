@@ -1,0 +1,310 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-dandan-noodles",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=9FgogyJVHpk",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "noodles",
+      "ingredient": "noodles",
+      "amount": {
+        "cn": "按人数和食量准备",
+        "en": "As needed for your servings",
+        "fr": "Selon le nombre de portions"
+      }
+    },
+    {
+      "id": "minced-meat",
+      "ingredient": "minced-meat",
+      "amount": {
+        "cn": "150 g",
+        "en": "150 g",
+        "fr": "150 g"
+      },
+      "name": {
+        "cn": "猪肉末（三肥七瘦，肉臊约2人份）",
+        "en": "Minced pork, 30% fat; topping for about 2 people",
+        "fr": "Porc haché à 30 % de gras ; garniture pour environ 2 personnes"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "ingredient": "cooking-wine",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "soy-sauce-pork",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      },
+      "name": {
+        "cn": "酱油（肉臊）",
+        "en": "Soy sauce, pork topping",
+        "fr": "Sauce soja, porc"
+      }
+    },
+    {
+      "id": "sugar-pork",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      },
+      "name": {
+        "cn": "糖（肉臊）",
+        "en": "Sugar, pork topping",
+        "fr": "Sucre, porc"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "sesame-paste",
+      "ingredient": "sesame-paste",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      },
+      "name": {
+        "cn": "芝麻酱（与10g香油调成20g混合酱）",
+        "en": "Sesame paste, mixed with 10 g sesame oil to make 20 g dressing",
+        "fr": "Pâte de sésame, à mélanger à 10 g d’huile pour obtenir 20 g de sauce"
+      }
+    },
+    {
+      "id": "sesame-oil",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "lard",
+      "ingredient": "lard",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "soy-sauce-bowl",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      },
+      "name": {
+        "cn": "口蘑酱油或其他酱油（碗料）",
+        "en": "Mushroom soy sauce or other soy sauce, bowl seasoning",
+        "fr": "Sauce soja aux champignons ou autre, assaisonnement du bol"
+      }
+    },
+    {
+      "id": "vinegar",
+      "ingredient": "vinegar",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      },
+      "name": {
+        "cn": "香醋（碗料）",
+        "en": "Aromatic vinegar, bowl seasoning",
+        "fr": "Vinaigre aromatique, assaisonnement du bol"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "1–2 g",
+        "en": "1–2 g",
+        "fr": "1–2 g"
+      }
+    },
+    {
+      "id": "sugar-bowl",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      },
+      "name": {
+        "cn": "糖（碗料）",
+        "en": "Sugar, bowl seasoning",
+        "fr": "Sucre, assaisonnement du bol"
+      }
+    },
+    {
+      "id": "msg",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      },
+      "name": {
+        "cn": "花椒面",
+        "en": "Ground Sichuan pepper",
+        "fr": "Poivre du Sichuan moulu"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn-oil",
+      "ingredient": "sichuan-peppercorn-oil",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "chili-oil",
+      "ingredient": "chili-oil",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "garlic",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "leafy-greens",
+      "ingredient": "leafy-greens",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "peanuts",
+      "ingredient": "peanuts",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "油炸花生碎",
+        "en": "Crushed fried peanuts",
+        "fr": "Cacahuètes frites concassées"
+      }
+    },
+    {
+      "id": "sesame-seeds",
+      "ingredient": "sesame-seeds",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "熟白芝麻",
+        "en": "Toasted white sesame",
+        "fr": "Sésame blanc grillé"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "家庭版担担面",
+      "steps": [
+        "热锅放油，下猪肉末和姜末大火炒至水分减少、肉末吐油。依次加料酒、肉臊用10g酱油和2g糖，炒至酥香。",
+        "芝麻酱与香油按1:1调开，取混合后的酱20g。拌入猪油、碗料用酱油和醋，再依次加盐、糖、味精、花椒面、花椒油、辣椒油和蒜末。",
+        "煮熟面条和青菜，按食量盛入碗中，与适量碗料拌匀；需要时加少量面汤调开。加肉臊、花生碎、熟芝麻和葱花。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "肉臊明确为约2人份；碗料只给参考比例，未说明对应面条重量，不强制每人用完整一份。",
+        "简介另附自制面条配方，但视频没有演示和面擀面流程，本食谱采用准备好的面条。"
+      ]
+    },
+    "en": {
+      "title": "Home-style dandan noodles",
+      "steps": [
+        "Heat oil in a hot wok and fry the pork with ginger until moisture evaporates and fat renders. Add cooking wine, the topping’s 10 g soy sauce and 2 g sugar in turn; fry until fragrant and crisp.",
+        "Thin sesame paste with sesame oil at 1:1 and take 20 g of the mixture. Combine with lard, the bowl’s soy sauce and vinegar, then salt, sugar, MSG, ground Sichuan pepper, pepper oil, chili oil and garlic.",
+        "Cook the noodles and greens, portion into bowls and toss with seasoning to taste. Loosen with a little noodle cooking water if needed. Top with pork, peanuts, toasted sesame and scallion."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The pork topping is explicitly for about 2 people. Bowl seasonings are a guide with no noodle weight stated; do not assume every person needs the entire batch.",
+        "The description also provides a noodle formula without demonstrating its full preparation; this recipe uses ready-made noodles."
+      ]
+    },
+    "fr": {
+      "title": "Nouilles dandan maison",
+      "steps": [
+        "Chauffer l’huile dans un wok chaud et faire revenir porc et gingembre jusqu’à évaporation et fonte du gras. Ajouter successivement vin de cuisine, les 10 g de soja et les 2 g de sucre du porc ; faire rissoler.",
+        "Délayer la pâte de sésame avec autant d’huile de sésame et prélever 20 g du mélange. Ajouter saindoux, soja et vinaigre du bol, puis sel, sucre, glutamate, poivre moulu, huiles et ail.",
+        "Cuire nouilles et légumes, les répartir puis mélanger avec l’assaisonnement selon le goût. Détendre avec un peu d’eau de cuisson si nécessaire. Garnir de porc, cacahuètes, sésame et ciboule."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La garniture de porc est donnée pour environ 2 personnes. Les assaisonnements sont indicatifs, sans poids de nouilles associé ; ne pas imposer le lot entier par personne.",
+        "La description donne aussi une formule de nouilles sans démontrer leur préparation complète ; cette recette utilise des nouilles déjà préparées."
+      ]
+    }
+  }
+}

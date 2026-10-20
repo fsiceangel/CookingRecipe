@@ -1,0 +1,77 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-yogurt-cream-cheese-filling",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=BKhkT37GQ5Q",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "yogurt-custard",
+      "ingredient": "yogurt-custard",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      }
+    },
+    {
+      "id": "cream-cheese",
+      "ingredient": "cream-cheese",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "8 g",
+        "en": "8 g",
+        "fr": "8 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "酸奶乳酪馅",
+      "steps": [
+        "先按“酸奶卡仕达酱”配方做好酱，放凉，取200g搅顺滑。",
+        "奶油奶酪加糖粉搅打至糖粉融化、质地顺滑。",
+        "加入酸奶卡仕达酱，搅打均匀即可。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "主配方为2:1，酸奶风味更明显；需要更稠时可把卡仕达酱减为100g，其他用量不变，做成1:1版本。"
+      ]
+    },
+    "en": {
+      "title": "Yogurt cream cheese filling",
+      "steps": [
+        "Prepare the yogurt custard recipe, let it cool, and smooth 200 g of it.",
+        "Beat the cream cheese with the icing sugar until smooth and the sugar is incorporated.",
+        "Add the yogurt custard and beat until combined."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The main 2:1 ratio gives a stronger yogurt flavor. For a thicker 1:1 version, reduce the custard to 100 g and leave the other quantities unchanged."
+      ]
+    },
+    "fr": {
+      "title": "Garniture au yaourt et au fromage frais",
+      "steps": [
+        "Préparer la crème pâtissière au yaourt, la laisser refroidir et en lisser 200 g.",
+        "Fouetter le fromage frais avec le sucre glace jusqu’à obtenir un mélange lisse.",
+        "Ajouter la crème pâtissière au yaourt et fouetter pour homogénéiser."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Le ratio principal 2:1 accentue le yaourt. Pour une version 1:1 plus épaisse, réduire la crème pâtissière à 100 g sans modifier les autres quantités."
+      ]
+    }
+  }
+}

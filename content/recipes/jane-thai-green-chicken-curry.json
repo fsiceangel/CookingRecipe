@@ -1,0 +1,168 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-thai-green-chicken-curry",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=sD3DxgwA_jY",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "chicken-drumstick",
+      "ingredient": "chicken-drumstick",
+      "amount": {
+        "cn": "250 g",
+        "en": "250 g",
+        "fr": "250 g"
+      },
+      "name": {
+        "cn": "鸡腿",
+        "en": "Chicken leg",
+        "fr": "Cuisse de poulet"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "green-curry-paste",
+      "ingredient": "green-curry-paste",
+      "amount": {
+        "cn": "50 g",
+        "en": "50 g",
+        "fr": "50 g"
+      }
+    },
+    {
+      "id": "eggplant",
+      "ingredient": "eggplant",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      },
+      "name": {
+        "cn": "圆茄子（或按作者建议替换蔬菜）",
+        "en": "Round eggplant, or suggested vegetable substitutes",
+        "fr": "Aubergine ronde, ou légumes de remplacement proposés"
+      }
+    },
+    {
+      "id": "chili-pepper",
+      "ingredient": "chili-pepper",
+      "amount": {
+        "cn": "小米辣3个",
+        "en": "3 bird’s-eye chilies",
+        "fr": "3 piments oiseaux"
+      }
+    },
+    {
+      "id": "makrut-lime-leaf",
+      "ingredient": "makrut-lime-leaf",
+      "amount": {
+        "cn": "2片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
+      }
+    },
+    {
+      "id": "fish-sauce",
+      "ingredient": "fish-sauce",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "coconut-sugar",
+      "ingredient": "coconut-sugar",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "coconut-milk",
+      "ingredient": "coconut-milk",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      }
+    },
+    {
+      "id": "basil",
+      "ingredient": "basil",
+      "amount": {
+        "cn": "可选，适量",
+        "en": "Optional, as needed",
+        "fr": "Facultatif, selon le goût"
+      }
+    },
+    {
+      "id": "chicken-stock",
+      "ingredient": "chicken-stock",
+      "amount": {
+        "cn": "适量，或用开水；作者未标克数",
+        "en": "As needed, or boiling water; weight not specified",
+        "fr": "Selon les besoins, ou eau bouillante ; poids non précisé"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "泰式鸡肉绿咖喱",
+      "steps": [
+        "鸡腿去骨切大块，洗净沥干。茄子去皮切块；准备好50g绿咖喱酱。",
+        "锅中加20g油，下鸡肉大火煸至鸡皮收紧、微微上色。加入咖喱酱，转小火炒香。",
+        "加入鸡汤或开水、200g椰浆、20g鱼露和10g椰糖，煮开后盖盖，小火煮约5–6分钟。",
+        "加入茄子、小米辣和柠檬叶，盖盖再煮约3–5分钟，至鸡肉与蔬菜熟透。配菜下锅时间按各自熟得快慢调整。",
+        "尝味后按需补鱼露，有罗勒则在出锅前加入，略煮即可。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "作者另建议秋葵、四季豆、山药、莲藕或豌豆等配菜；演示还加了豌豆，但未标单独重量。椰糖可换细砂糖。",
+        "250g是简介标注的鸡腿用量，作者未明确是否为去骨后重量。咖喱酱配方中的100g油不计入本菜的20g炒菜油。"
+      ]
+    },
+    "en": {
+      "title": "Thai green chicken curry",
+      "steps": [
+        "Debone the chicken leg, cut into large pieces, rinse and drain. Peel and cut the eggplant; measure 50 g green curry paste.",
+        "Heat 20 g oil and fry the chicken over high heat until the skin tightens and lightly colors. Add the curry paste and fry over low heat until fragrant.",
+        "Add chicken stock or boiling water, 200 g coconut milk, 20 g fish sauce and 10 g coconut sugar. Bring to a boil, cover and simmer for about 5–6 minutes.",
+        "Add the eggplant, chilies and lime leaves, cover and cook for about 3–5 minutes more until the chicken and vegetables are cooked through. Adjust when vegetables are added to suit their cooking times.",
+        "Taste and adjust with fish sauce as needed. Add basil, if using, just before finishing and briefly heat through."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The author also suggests okra, green beans, yam, lotus root or peas. Peas appear in the demonstration without a separate weight. Caster sugar may replace coconut sugar.",
+        "The description lists 250 g chicken leg without stating whether this is before or after deboning. The 100 g oil in the paste recipe is separate from this curry’s 20 g frying oil."
+      ]
+    },
+    "fr": {
+      "title": "Curry vert thaï au poulet",
+      "steps": [
+        "Désosser la cuisse, couper en gros morceaux, rincer et égoutter. Peler et couper l’aubergine ; peser 50 g de pâte de curry vert.",
+        "Chauffer 20 g d’huile et saisir le poulet jusqu’à ce que la peau se rétracte et colore légèrement. Ajouter la pâte de curry et faire revenir à feu doux.",
+        "Ajouter bouillon ou eau bouillante, 200 g de lait de coco, 20 g de sauce de poisson et 10 g de sucre de coco. Porter à ébullition, couvrir et mijoter environ 5–6 minutes.",
+        "Ajouter aubergine, piments et feuilles de combava, couvrir et cuire environ 3–5 minutes de plus, jusqu’à cuisson complète. Adapter le moment d’ajout des légumes à leur temps de cuisson.",
+        "Goûter et ajuster avec de la sauce de poisson. Ajouter le basilic éventuel en fin de cuisson et chauffer brièvement."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "L’auteur propose aussi gombo, haricots verts, igname, racine de lotus ou petits pois. Ces derniers figurent dans la démonstration sans poids distinct. Le sucre en poudre peut remplacer le sucre de coco.",
+        "La description indique 250 g de cuisse sans préciser s’il s’agit du poids avant ou après désossage. Les 100 g d’huile de la pâte sont distincts des 20 g utilisés ici."
+      ]
+    }
+  }
+}

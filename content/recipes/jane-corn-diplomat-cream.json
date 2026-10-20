@@ -1,0 +1,74 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-corn-diplomat-cream",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=byaf4uBAPY0",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "corn-custard",
+      "ingredient": "corn-custard",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "icing-sugar",
+      "ingredient": "icing-sugar",
+      "amount": {
+        "cn": "6 g",
+        "en": "6 g",
+        "fr": "6 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "玉米外交官奶油",
+      "steps": [
+        "先将做好的玉米卡仕达酱放凉，取100g搅打顺滑。",
+        "淡奶油加糖粉打至硬挺。",
+        "加入玉米卡仕达酱，搅打均匀。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。"
+      ]
+    },
+    "en": {
+      "title": "Corn diplomat cream",
+      "steps": [
+        "Cool the prepared corn custard and beat 100 g of it smooth.",
+        "Whip the cream with icing sugar until firm.",
+        "Add the corn custard and beat until combined."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen."
+      ]
+    },
+    "fr": {
+      "title": "Crème diplomate au maïs",
+      "steps": [
+        "Refroidir la crème pâtissière au maïs préparée, puis en lisser 100 g.",
+        "Monter fermement la crème avec le sucre glace.",
+        "Ajouter la crème pâtissière au maïs et fouetter pour homogénéiser."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen."
+      ]
+    }
+  }
+}

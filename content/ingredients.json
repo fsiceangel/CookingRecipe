@@ -2102,5 +2102,261 @@
       "en": "Tomato paste",
       "fr": "Concentré de tomate"
     }
+  },
+  "zucchini": {
+    "category": "veggie",
+    "names": {
+      "cn": "西葫芦",
+      "en": "Zucchini",
+      "fr": "Courgette"
+    }
+  },
+  "yogurt": {
+    "category": "dairy",
+    "names": {
+      "cn": "酸奶",
+      "en": "Yogurt",
+      "fr": "Yaourt"
+    }
+  },
+  "mascarpone": {
+    "category": "dairy",
+    "names": {
+      "cn": "马斯卡彭",
+      "en": "Mascarpone",
+      "fr": "Mascarpone"
+    }
+  },
+  "matcha": {
+    "category": "pantry",
+    "names": {
+      "cn": "抹茶粉",
+      "en": "Matcha powder",
+      "fr": "Poudre de matcha"
+    }
+  },
+  "icing-sugar": {
+    "category": "pantry",
+    "names": {
+      "cn": "糖粉",
+      "en": "Icing sugar",
+      "fr": "Sucre glace"
+    }
+  },
+  "rum": {
+    "category": "seasoning",
+    "names": {
+      "cn": "朗姆酒",
+      "en": "Rum",
+      "fr": "Rhum"
+    }
+  },
+  "ladyfingers": {
+    "category": "pantry",
+    "names": {
+      "cn": "手指饼干",
+      "en": "Ladyfingers",
+      "fr": "Biscuits à la cuillère"
+    }
+  },
+  "condensed-milk": {
+    "category": "dairy",
+    "names": {
+      "cn": "炼乳",
+      "en": "Sweetened condensed milk",
+      "fr": "Lait concentré sucré"
+    }
+  },
+  "yogurt-custard": {
+    "category": "dairy",
+    "names": {
+      "cn": "酸奶卡仕达酱",
+      "en": "Yogurt custard",
+      "fr": "Crème pâtissière au yaourt"
+    }
+  },
+  "whipped-cream": {
+    "category": "dairy",
+    "names": {
+      "cn": "打发奶油",
+      "en": "Whipped cream",
+      "fr": "Crème fouettée"
+    }
+  },
+  "soy-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "酱油",
+      "en": "Soy sauce",
+      "fr": "Sauce soja"
+    }
+  },
+  "passion-fruit": {
+    "category": "veggie",
+    "names": {
+      "cn": "百香果",
+      "en": "Passion fruit",
+      "fr": "Fruit de la passion"
+    }
+  },
+  "fragrant-lemon": {
+    "category": "veggie",
+    "names": {
+      "cn": "香水柠檬",
+      "en": "Fragrant lemon",
+      "fr": "Citron parfumé"
+    }
+  },
+  "liangpi": {
+    "category": "pantry",
+    "names": {
+      "cn": "凉皮",
+      "en": "Liangpi wheat noodles",
+      "fr": "Nouilles de blé liangpi"
+    }
+  },
+  "green-curry-paste": {
+    "category": "seasoning",
+    "names": {
+      "cn": "绿咖喱酱",
+      "en": "Green curry paste",
+      "fr": "Pâte de curry vert"
+    }
+  },
+  "shallot": {
+    "category": "veggie",
+    "names": {
+      "cn": "红葱头",
+      "en": "Shallot",
+      "fr": "Échalote"
+    }
+  },
+  "galangal": {
+    "category": "seasoning",
+    "names": {
+      "cn": "南姜",
+      "en": "Galangal",
+      "fr": "Galanga"
+    }
+  },
+  "makrut-lime-leaf": {
+    "category": "seasoning",
+    "names": {
+      "cn": "柠檬叶",
+      "en": "Makrut lime leaf",
+      "fr": "Feuille de combava"
+    }
+  },
+  "lime": {
+    "category": "veggie",
+    "names": {
+      "cn": "青柠",
+      "en": "Lime",
+      "fr": "Citron vert"
+    }
+  },
+  "coriander-seeds": {
+    "category": "seasoning",
+    "names": {
+      "cn": "香菜籽",
+      "en": "Coriander seeds",
+      "fr": "Graines de coriandre"
+    }
+  },
+  "fish-sauce": {
+    "category": "seasoning",
+    "names": {
+      "cn": "鱼露",
+      "en": "Fish sauce",
+      "fr": "Sauce de poisson"
+    }
+  },
+  "coconut-sugar": {
+    "category": "seasoning",
+    "names": {
+      "cn": "椰糖",
+      "en": "Coconut sugar",
+      "fr": "Sucre de coco"
+    }
+  },
+  "coconut-milk": {
+    "category": "dairy",
+    "names": {
+      "cn": "椰浆",
+      "en": "Coconut milk",
+      "fr": "Lait de coco"
+    }
+  },
+  "basil": {
+    "category": "seasoning",
+    "names": {
+      "cn": "罗勒",
+      "en": "Basil",
+      "fr": "Basilic"
+    }
+  },
+  "banana": {
+    "category": "veggie",
+    "names": {
+      "cn": "香蕉",
+      "en": "Banana",
+      "fr": "Banane"
+    }
+  },
+  "mizuame": {
+    "category": "pantry",
+    "names": {
+      "cn": "水饴",
+      "en": "Mizuame starch syrup",
+      "fr": "Sirop d’amidon mizuame"
+    }
+  },
+  "bread-flour": {
+    "category": "pantry",
+    "names": {
+      "cn": "高筋面粉",
+      "en": "Bread flour",
+      "fr": "Farine forte"
+    }
+  },
+  "desiccated-coconut": {
+    "category": "pantry",
+    "names": {
+      "cn": "椰蓉",
+      "en": "Desiccated coconut",
+      "fr": "Noix de coco râpée"
+    }
+  },
+  "corn-milk": {
+    "category": "dairy",
+    "names": {
+      "cn": "玉米牛奶",
+      "en": "Corn milk",
+      "fr": "Lait au maïs"
+    }
+  },
+  "corn-custard": {
+    "category": "dairy",
+    "names": {
+      "cn": "玉米卡仕达酱",
+      "en": "Corn custard",
+      "fr": "Crème pâtissière au maïs"
+    }
+  },
+  "corn-diplomat-cream": {
+    "category": "dairy",
+    "names": {
+      "cn": "玉米外交官奶油",
+      "en": "Corn diplomat cream",
+      "fr": "Crème diplomate au maïs"
+    }
+  },
+  "tart-shells": {
+    "category": "pantry",
+    "names": {
+      "cn": "生蛋挞皮",
+      "en": "Unbaked tart shells",
+      "fr": "Fonds de tartelettes crus"
+    }
   }
 }

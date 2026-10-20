@@ -1,0 +1,130 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-quick-puff-pastry",
+  "tags": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=bvQmWNxyMkw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "flour",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "中筋面粉",
+        "en": "All-purpose flour",
+        "fr": "Farine de blé ordinaire"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "butter-first",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "冷藏黄油（第一次加入）",
+        "en": "Cold butter, first addition",
+        "fr": "Beurre froid, premier ajout"
+      }
+    },
+    {
+      "id": "butter-second",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      },
+      "name": {
+        "cn": "冷藏黄油（第二次加入）",
+        "en": "Cold butter, second addition",
+        "fr": "Beurre froid, second ajout"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "45 g",
+        "en": "45 g",
+        "fr": "45 g"
+      }
+    },
+    {
+      "id": "flour-dust",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "少量，防粘用",
+        "en": "A little, for dusting",
+        "fr": "Un peu, pour fleurer"
+      },
+      "name": {
+        "cn": "手粉",
+        "en": "Flour for dusting",
+        "fr": "Farine pour le plan de travail"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "快手酥皮",
+      "steps": [
+        "黄油保持冷藏状态，切成约1厘米小丁。料理机加入面粉、盐和20g黄油，点按约8–10次，打成细碎粉状。",
+        "均匀加入80g黄油，点按2次；加入一半水，点按2次；再加剩余水，点按4次。保留较大的黄油颗粒，不要打成光滑面团。",
+        "倒出后用手快速聚拢，撒手粉防粘，擀成约0.5厘米厚的长方形；40×13厘米仅作尺寸参考。",
+        "将面片三折，再从一端卷起，撒少量手粉，压扁整理成方形。冷藏约1小时至稍硬，或冷藏过夜，再按具体点心造型。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "中筋粉可用高筋粉50g加低筋粉50g替代。黄油必须保持冷，室温太高时开空调操作；冷藏时间以面团变得稍硬为准。",
+        "这是生酥皮基础配方，后续烘烤温度和时间按所做点心确定。“5分钟”不包含冷藏和烘烤。"
+      ]
+    },
+    "en": {
+      "title": "Quick rough puff pastry",
+      "steps": [
+        "Keep the butter cold and cut it into roughly 1 cm cubes. Pulse the flour, salt and 20 g butter in a food processor about 8–10 times to make fine crumbs.",
+        "Add 80 g butter evenly and pulse 2 times. Add half the water and pulse 2 times, then add the rest and pulse 4 times. Retain visible butter pieces rather than making a smooth dough.",
+        "Quickly gather the mixture by hand, dust with flour, and roll into a rectangle about 0.5 cm thick; 40 × 13 cm is only a size guide.",
+        "Fold in thirds, roll up from one end, dust lightly, and flatten into a square. Refrigerate for about 1 hour until slightly firm, or overnight, before shaping."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "You may replace the all-purpose flour with 50 g bread flour plus 50 g cake flour. Keep the butter cold and work in a cool room; chill until the dough is slightly firm.",
+        "This is a raw pastry base; baking temperature and time depend on the pastry being made. “5 minutes” excludes chilling and baking."
+      ]
+    },
+    "fr": {
+      "title": "Pâte feuilletée rapide",
+      "steps": [
+        "Garder le beurre froid et le couper en dés d’environ 1 cm. Mixer par impulsions la farine, le sel et 20 g de beurre environ 8–10 fois pour obtenir une poudre sableuse.",
+        "Ajouter uniformément 80 g de beurre et donner 2 impulsions. Ajouter la moitié de l’eau, donner 2 impulsions, puis le reste de l’eau et 4 impulsions. Garder des morceaux de beurre visibles, sans lisser la pâte.",
+        "Rassembler rapidement la pâte à la main, fleurer et abaisser en rectangle d’environ 0,5 cm d’épaisseur ; 40 × 13 cm est une indication de dimensions.",
+        "Plier en trois, rouler depuis une extrémité, fariner légèrement et aplatir en carré. Réfrigérer environ 1 heure jusqu’à raffermissement, ou toute une nuit, avant le façonnage."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La farine ordinaire peut être remplacée par 50 g de farine forte et 50 g de farine faible. Garder le beurre froid, travailler au frais et réfrigérer jusqu’à raffermissement.",
+        "Il s’agit d’une pâte crue ; température et durée de cuisson dépendent de son utilisation. Les « 5 minutes » excluent repos au froid et cuisson."
+      ]
+    }
+  }
+}

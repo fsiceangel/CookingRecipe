@@ -1,0 +1,347 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-seasoned-liangpi",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=B7-4Gkcf0T4",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "liangpi",
+      "ingredient": "liangpi",
+      "amount": {
+        "cn": "按人数准备；也可用煮熟放凉的面条",
+        "en": "As needed; cooked and cooled noodles may be substituted",
+        "fr": "Selon le nombre de personnes ; remplaçable par des nouilles cuites et refroidies"
+      }
+    },
+    {
+      "id": "tomato",
+      "ingredient": "tomato",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "cucumber",
+      "ingredient": "cucumber",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "bean-sprouts",
+      "ingredient": "bean-sprouts",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "绿豆芽",
+        "en": "Mung bean sprouts",
+        "fr": "Germes de haricot mungo"
+      }
+    },
+    {
+      "id": "egg",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "可选，按人数准备",
+        "en": "Optional, as needed",
+        "fr": "Facultatif, selon le nombre de personnes"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "onion",
+      "ingredient": "onion",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "garlic-dressing",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "蒜片（料水）",
+        "en": "Sliced garlic, spiced dressing",
+        "fr": "Ail émincé, sauce épicée"
+      }
+    },
+    {
+      "id": "star-anise",
+      "ingredient": "star-anise",
+      "amount": {
+        "cn": "1个",
+        "en": "1 whole star",
+        "fr": "1 étoile entière"
+      }
+    },
+    {
+      "id": "cinnamon-bark",
+      "ingredient": "cinnamon-bark",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "3 g",
+        "en": "3 g",
+        "fr": "3 g"
+      }
+    },
+    {
+      "id": "fennel-seeds",
+      "ingredient": "fennel-seeds",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      }
+    },
+    {
+      "id": "bay-leaf",
+      "ingredient": "bay-leaf",
+      "amount": {
+        "cn": "2片",
+        "en": "2 leaves",
+        "fr": "2 feuilles"
+      }
+    },
+    {
+      "id": "water-dressing",
+      "ingredient": "water",
+      "amount": {
+        "cn": "400 g",
+        "en": "400 g",
+        "fr": "400 g"
+      },
+      "name": {
+        "cn": "清水（料水）",
+        "en": "Water, spiced dressing",
+        "fr": "Eau, sauce épicée"
+      }
+    },
+    {
+      "id": "aged-vinegar",
+      "ingredient": "aged-vinegar",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "brown-sugar",
+      "ingredient": "brown-sugar",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "msg",
+      "ingredient": "msg",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      }
+    },
+    {
+      "id": "garlic-garlic-water",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      },
+      "name": {
+        "cn": "蒜泥（蒜水）",
+        "en": "Crushed garlic, garlic water",
+        "fr": "Ail écrasé, eau à l’ail"
+      }
+    },
+    {
+      "id": "water-garlic-water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "240 g",
+        "en": "240 g",
+        "fr": "240 g"
+      },
+      "name": {
+        "cn": "凉开水（蒜水）",
+        "en": "Boiled and cooled water, garlic water",
+        "fr": "Eau bouillie refroidie, eau à l’ail"
+      }
+    },
+    {
+      "id": "chili-oil",
+      "ingredient": "chili-oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "sesame-paste",
+      "ingredient": "sesame-paste",
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
+      },
+      "name": {
+        "cn": "芝麻酱（麻酱版可选）",
+        "en": "Sesame paste, optional sesame version",
+        "fr": "Pâte de sésame, variante facultative"
+      }
+    },
+    {
+      "id": "sesame-oil",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      },
+      "name": {
+        "cn": "香油（麻酱版可选）",
+        "en": "Sesame oil, optional sesame version",
+        "fr": "Huile de sésame, variante facultative"
+      }
+    },
+    {
+      "id": "light-soy-sauce",
+      "ingredient": "light-soy-sauce",
+      "amount": {
+        "cn": "25 g",
+        "en": "25 g",
+        "fr": "25 g"
+      },
+      "name": {
+        "cn": "生抽（麻酱版可选）",
+        "en": "Light soy sauce, optional sesame version",
+        "fr": "Sauce soja claire, variante facultative"
+      }
+    },
+    {
+      "id": "water-sesame",
+      "ingredient": "water",
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
+      },
+      "name": {
+        "cn": "凉开水（麻酱版可选）",
+        "en": "Boiled and cooled water, optional sesame version",
+        "fr": "Eau bouillie refroidie, variante facultative"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "秘制凉皮／凉面",
+      "steps": [
+        "做一批料水：20g油中煸香洋葱、葱、姜和20g蒜片，炒至金黄；加入八角、桂皮、花椒、小茴香和香叶，继续炒香。",
+        "加入400g水、100g陈醋、25g盐、10g红糖和25g味精。煮开后小火煮10分钟，过滤放凉，盛放备用。",
+        "另将40g蒜泥与240g凉开水混合成蒜水。需要麻酱版时，将60g芝麻酱、25g香油、25g生抽和60g凉开水混匀，另放备用。",
+        "西红柿去皮切块，黄瓜切丝，豆芽焯熟。可配白煮蛋；视频溏心版本为水开下蛋、加盖小火煮6分钟后泡凉水，再剥壳。",
+        "每碗凉皮或凉面加入配菜，按咸淡逐次舀入适量料水、蒜水和辣椒油拌匀。麻酱版再按喜好加调好的芝麻酱汁；不要将整批调料全部倒进一碗。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "料水、蒜水和芝麻酱汁均为批量配方，作者未指定对应几碗；画面中料水实际做了配方的两倍，此处保留简介的一倍量。",
+        "料水中的整组干香料可用五香粉1g替代；红糖可换白糖。辣椒油使用已经做好的成品。"
+      ]
+    },
+    "en": {
+      "title": "Liangpi or cold noodles with spiced dressing",
+      "steps": [
+        "Make a batch of dressing: fry onion, scallion, ginger and 20 g sliced garlic in 20 g oil until golden. Add star anise, cinnamon, Sichuan peppercorns, fennel and bay leaves; fry until fragrant.",
+        "Add 400 g water, 100 g aged vinegar, 25 g salt, 10 g brown sugar and 25 g MSG. Bring to a boil, simmer for 10 minutes, strain and cool. Set aside for seasoning portions.",
+        "Separately mix 40 g crushed garlic with 240 g cooled boiled water. For the sesame version, mix 60 g sesame paste, 25 g sesame oil, 25 g light soy sauce and 60 g cooled boiled water.",
+        "Peel and chop the tomatoes, shred the cucumber, and blanch the sprouts until cooked. Add boiled eggs if desired; the video’s soft-centered version cooks them covered over low heat for 6 minutes after adding to boiling water, then cools them in water and peels them.",
+        "For each bowl, mix liangpi or cold noodles with the vegetables and gradually add spiced dressing, garlic water and chili oil to taste. Add some sesame dressing for that version. Do not pour the entire batches into one bowl."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The three dressings are batch recipes with no stated number of servings. The video makes a double batch of spiced dressing; the quantities here retain the single batch from the description.",
+        "The dry spice mixture may be replaced by 1 g five-spice powder; white sugar can replace brown sugar. Use prepared chili oil."
+      ]
+    },
+    "fr": {
+      "title": "Liangpi ou nouilles froides à la sauce épicée",
+      "steps": [
+        "Préparer un lot de sauce : faire dorer oignon, ciboule, gingembre et 20 g d’ail dans 20 g d’huile. Ajouter badiane, cannelle, poivre du Sichuan, fenouil et laurier, puis faire revenir.",
+        "Ajouter 400 g d’eau, 100 g de vinaigre vieilli, 25 g de sel, 10 g de sucre roux et 25 g de glutamate. Porter à ébullition, mijoter 10 minutes, filtrer et refroidir ; réserver pour assaisonner les portions.",
+        "Mélanger à part 40 g d’ail écrasé avec 240 g d’eau bouillie refroidie. Pour la variante au sésame, mélanger 60 g de pâte de sésame, 25 g d’huile de sésame, 25 g de sauce soja claire et 60 g d’eau refroidie.",
+        "Peler et couper les tomates, tailler le concombre et blanchir les germes. Ajouter des œufs si souhaité ; la version mollet de la vidéo les cuit 6 minutes à feu doux et à couvert après immersion dans l’eau bouillante, puis les refroidit dans l’eau avant de les écaler.",
+        "Pour chaque bol, mélanger les nouilles et légumes, puis ajouter progressivement sauce épicée, eau à l’ail et huile pimentée selon le goût. Ajouter de la sauce au sésame pour cette variante. Ne pas verser les lots entiers dans un seul bol."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Les trois sauces sont des préparations en quantité, sans nombre de portions indiqué. La vidéo double la sauce épicée ; les quantités ci-dessus restent celles du lot simple de la description.",
+        "L’ensemble des épices sèches peut être remplacé par 1 g de cinq-épices ; le sucre blanc peut remplacer le roux. Utiliser une huile pimentée déjà préparée."
+      ]
+    }
+  }
+}

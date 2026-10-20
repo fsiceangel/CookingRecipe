@@ -1,0 +1,178 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-quick-puff-egg-tarts",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=bvQmWNxyMkw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "flour",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "中筋面粉",
+        "en": "All-purpose flour",
+        "fr": "Farine de blé ordinaire"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "butter-first",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "冷藏黄油（第一次加入）",
+        "en": "Cold butter, first addition",
+        "fr": "Beurre froid, premier ajout"
+      }
+    },
+    {
+      "id": "butter-second",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      },
+      "name": {
+        "cn": "冷藏黄油（第二次加入）",
+        "en": "Cold butter, second addition",
+        "fr": "Beurre froid, second ajout"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "45 g",
+        "en": "45 g",
+        "fr": "45 g"
+      }
+    },
+    {
+      "id": "flour-dust",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "少量，防粘用",
+        "en": "A little, for dusting",
+        "fr": "Un peu, pour fleurer"
+      },
+      "name": {
+        "cn": "手粉",
+        "en": "Flour for dusting",
+        "fr": "Farine pour le plan de travail"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      },
+      "name": {
+        "cn": "淡奶油（蛋挞液）",
+        "en": "Whipping cream, custard",
+        "fr": "Crème liquide entière, garniture"
+      }
+    },
+    {
+      "id": "egg-yolk",
+      "ingredient": "egg-yolk",
+      "amount": {
+        "cn": "60 g",
+        "en": "60 g",
+        "fr": "60 g"
+      }
+    },
+    {
+      "id": "condensed-milk",
+      "ingredient": "condensed-milk",
+      "amount": {
+        "cn": "45 g",
+        "en": "45 g",
+        "fr": "45 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "快手酥皮蛋挞",
+      "steps": [
+        "黄油保持冷藏状态，切成约1厘米小丁。料理机加入面粉、盐和20g黄油，点按约8–10次，打成细碎粉状。",
+        "均匀加入80g黄油，点按2次；加入一半水，点按2次；再加剩余水，点按4次。保留较大的黄油颗粒，不要打成光滑面团。",
+        "倒出后用手快速聚拢，撒手粉防粘，擀成约0.5厘米厚的长方形；40×13厘米仅作尺寸参考。",
+        "将面片三折，再从一端卷起，撒少量手粉，压扁整理成方形。冷藏约1小时至稍硬，或冷藏过夜，再按具体点心造型。",
+        "将淡奶油、蛋黄、炼乳和细砂糖混合，过筛成蛋挞液。",
+        "冷藏后的酥皮擀至约0.4–0.5厘米厚，切直径9厘米圆片，放入蛋挞模，边缘高出模具约0.5厘米。边角料聚拢再擀，可做约9–10个。",
+        "倒入蛋挞液至约九分满。烤箱预热至实际200°C，放底层烤约25分钟，按自家烤箱和上色情况调整。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "配方蛋挞液约供10个；实际数量受酥皮厚度和模具影响。作者测试中铝质模具的底部上色更好。"
+      ]
+    },
+    "en": {
+      "title": "Quick puff pastry egg tarts",
+      "steps": [
+        "Keep the butter cold and cut it into roughly 1 cm cubes. Pulse the flour, salt and 20 g butter in a food processor about 8–10 times to make fine crumbs.",
+        "Add 80 g butter evenly and pulse 2 times. Add half the water and pulse 2 times, then add the rest and pulse 4 times. Retain visible butter pieces rather than making a smooth dough.",
+        "Quickly gather the mixture by hand, dust with flour, and roll into a rectangle about 0.5 cm thick; 40 × 13 cm is only a size guide.",
+        "Fold in thirds, roll up from one end, dust lightly, and flatten into a square. Refrigerate for about 1 hour until slightly firm, or overnight, before shaping.",
+        "Mix the cream, egg yolks, condensed milk and sugar, then strain.",
+        "Roll the chilled pastry to about 0.4–0.5 cm thick and cut 9 cm circles. Press into tart molds with the edges about 0.5 cm above the rims. Gather and reroll scraps to make roughly 9–10 tarts.",
+        "Fill about nine-tenths full with custard. Bake on the bottom rack of an oven preheated to an actual 200°C for about 25 minutes, adjusting to your oven and browning."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The custard quantity is intended for about 10 tarts; yield varies with pastry thickness and molds. Aluminum molds browned the bases better in the author’s tests."
+      ]
+    },
+    "fr": {
+      "title": "Tartelettes aux œufs en pâte feuilletée rapide",
+      "steps": [
+        "Garder le beurre froid et le couper en dés d’environ 1 cm. Mixer par impulsions la farine, le sel et 20 g de beurre environ 8–10 fois pour obtenir une poudre sableuse.",
+        "Ajouter uniformément 80 g de beurre et donner 2 impulsions. Ajouter la moitié de l’eau, donner 2 impulsions, puis le reste de l’eau et 4 impulsions. Garder des morceaux de beurre visibles, sans lisser la pâte.",
+        "Rassembler rapidement la pâte à la main, fleurer et abaisser en rectangle d’environ 0,5 cm d’épaisseur ; 40 × 13 cm est une indication de dimensions.",
+        "Plier en trois, rouler depuis une extrémité, fariner légèrement et aplatir en carré. Réfrigérer environ 1 heure jusqu’à raffermissement, ou toute une nuit, avant le façonnage.",
+        "Mélanger crème, jaunes d’œufs, lait concentré et sucre, puis filtrer.",
+        "Abaisser la pâte refroidie sur environ 0,4–0,5 cm et découper des disques de 9 cm. Foncer les moules en dépassant les bords d’environ 0,5 cm. Rassembler et abaisser les chutes pour obtenir environ 9–10 tartelettes.",
+        "Remplir aux neuf dixièmes environ. Cuire en bas du four préchauffé à une température réelle de 200°C pendant environ 25 minutes, en adaptant à la coloration et au four."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La garniture est prévue pour environ 10 pièces ; le rendement dépend de l’épaisseur et des moules. Les moules en aluminium ont mieux doré les fonds lors des essais de l’auteur."
+      ]
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-eggplant-noodle-topping",
+  "tags": [
+    "dish"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=132DJwuU2J0",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "eggplant",
+      "ingredient": "eggplant",
+      "amount": {
+        "cn": "500 g",
+        "en": "500 g",
+        "fr": "500 g"
+      }
+    },
+    {
+      "id": "bell-pepper",
+      "ingredient": "bell-pepper",
+      "amount": {
+        "cn": "青椒1个",
+        "en": "1 green pepper",
+        "fr": "1 poivron vert"
+      }
+    },
+    {
+      "id": "tomato",
+      "ingredient": "tomato",
+      "amount": {
+        "cn": "1个",
+        "en": "1",
+        "fr": "1"
+      }
+    },
+    {
+      "id": "scallion",
+      "ingredient": "scallion",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "ginger",
+      "ingredient": "ginger",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "garlic-fry",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "蒜片",
+        "en": "Sliced garlic",
+        "fr": "Ail émincé"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "ingredient": "sichuan-peppercorn",
+      "amount": {
+        "cn": "2 g",
+        "en": "2 g",
+        "fr": "2 g"
+      },
+      "name": {
+        "cn": "花椒粉",
+        "en": "Ground Sichuan pepper",
+        "fr": "Poivre du Sichuan moulu"
+      }
+    },
+    {
+      "id": "soy-sauce",
+      "ingredient": "soy-sauce",
+      "amount": {
+        "cn": "15 g",
+        "en": "15 g",
+        "fr": "15 g"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "适量，腌茄子及调味",
+        "en": "As needed for salting and seasoning",
+        "fr": "Selon les besoins, pour dégorger et assaisonner"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "5 g",
+        "en": "5 g",
+        "fr": "5 g"
+      }
+    },
+    {
+      "id": "garlic-finish",
+      "ingredient": "garlic",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "出锅蒜末",
+        "en": "Minced garlic, to finish",
+        "fr": "Ail haché, finition"
+      }
+    },
+    {
+      "id": "cilantro",
+      "ingredient": "cilantro",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "oil",
+      "ingredient": "oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "少量",
+        "en": "A little",
+        "fr": "Un peu"
+      }
+    },
+    {
+      "id": "sesame-oil",
+      "ingredient": "sesame-oil",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "茄子素卤",
+      "steps": [
+        "茄子去皮切丁，加盐腌20分钟，攥干水分。青椒切丁，西红柿去皮切丁。",
+        "锅中加油，爆香葱姜和20g蒜片。下茄子大火炒至水气散去、充分吸油变软。",
+        "加入青椒炒香，再加西红柿炒出汁。加花椒粉和酱油翻匀，加少量水，再以盐和5g糖调味。",
+        "煮开后小火煮约5分钟。关火，加剩余20g蒜末、香菜和香油拌匀，可拌面、配饭或夹馍。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "蒜片20g与出锅蒜末20g是两次用量；糖用于平衡酸味，不做甜口。"
+      ]
+    },
+    "en": {
+      "title": "Vegetarian eggplant noodle topping",
+      "steps": [
+        "Peel and dice the eggplant, salt for 20 minutes and squeeze dry. Dice the green pepper and peel and dice the tomato.",
+        "Heat oil, fry scallion, ginger and 20 g sliced garlic until fragrant, then fry the eggplant over high heat until steam subsides and it is soft and oil-coated.",
+        "Fry the green pepper until fragrant, then add tomato and fry until juicy. Stir in Sichuan pepper and soy sauce, add a little water, then season with salt and 5 g sugar.",
+        "Bring to a boil and simmer for about 5 minutes. Turn off the heat and mix in the remaining 20 g minced garlic, cilantro and sesame oil. Serve with noodles, rice or bread."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "The 20 g sliced garlic and 20 g finishing garlic are separate additions. Sugar balances acidity rather than making a sweet dish."
+      ]
+    },
+    "fr": {
+      "title": "Garniture végétarienne à l’aubergine",
+      "steps": [
+        "Peler et couper l’aubergine en dés, saler et laisser dégorger 20 minutes, puis presser. Couper le poivron et la tomate pelée en dés.",
+        "Chauffer l’huile, faire revenir ciboule, gingembre et 20 g d’ail émincé, puis saisir l’aubergine jusqu’à évaporation et attendrissement.",
+        "Faire revenir le poivron, puis la tomate pour qu’elle rende son jus. Ajouter poivre et soja, un peu d’eau, puis ajuster avec sel et 5 g de sucre.",
+        "Porter à ébullition puis mijoter environ 5 minutes. Hors du feu, incorporer les 20 g d’ail haché restants, la coriandre et l’huile de sésame. Servir avec nouilles, riz ou pain."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Les 20 g d’ail émincé et les 20 g d’ail de finition sont deux ajouts distincts. Le sucre équilibre l’acidité, sans donner un plat sucré."
+      ]
+    }
+  }
+}

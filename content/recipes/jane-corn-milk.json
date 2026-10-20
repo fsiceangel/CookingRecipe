@@ -1,0 +1,70 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-corn-milk",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=byaf4uBAPY0",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "corn",
+      "ingredient": "corn",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      },
+      "name": {
+        "cn": "水果玉米粒",
+        "en": "Sweetcorn kernels",
+        "fr": "Grains de maïs doux"
+      }
+    },
+    {
+      "id": "milk",
+      "ingredient": "milk",
+      "amount": {
+        "cn": "300 g",
+        "en": "300 g",
+        "fr": "300 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "玉米牛奶（烘焙用）",
+      "steps": [
+        "取下玉米粒，称取300g，与300g牛奶放入破壁机或料理机打匀。",
+        "过滤后将玉米牛奶搅匀，按需要称取，用于后续需要加热的卡仕达或蛋挞配方。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "过滤会有损耗，作者未标成品重量；不是把300g玉米和300g牛奶全部计为下一份卡仕达的175g用量。"
+      ]
+    },
+    "en": {
+      "title": "Corn milk for baking",
+      "steps": [
+        "Blend 300 g sweetcorn kernels with 300 g milk until smooth.",
+        "Strain and stir well, then weigh out what is needed for a custard or tart recipe that will subsequently be cooked."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Straining causes losses and the final yield is unspecified. The next custard recipe uses only 175 g of the strained mixture."
+      ]
+    },
+    "fr": {
+      "title": "Lait au maïs pour pâtisserie",
+      "steps": [
+        "Mixer 300 g de grains de maïs doux avec 300 g de lait jusqu’à homogénéité.",
+        "Filtrer, mélanger puis peser la quantité nécessaire pour une crème ou des tartelettes qui seront ensuite cuites."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Le filtrage entraîne des pertes et le rendement final n’est pas précisé. La crème suivante n’utilise que 175 g du mélange filtré."
+      ]
+    }
+  }
+}

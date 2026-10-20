@@ -1,0 +1,140 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-lemon-passion-fruit-drink",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "videoLink": "https://www.youtube.com/watch?v=o9pekm2QONw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "passion-fruit",
+      "ingredient": "passion-fruit",
+      "amount": {
+        "cn": "取汁和果肉600g，约22个钦蜜9号",
+        "en": "600 g juice and pulp, about 22 Qinmi No. 9 fruits",
+        "fr": "600 g de jus et pulpe, environ 22 fruits Qinmi n° 9"
+      }
+    },
+    {
+      "id": "lemon-juice",
+      "ingredient": "lemon-juice",
+      "amount": {
+        "cn": "150g，约4个黄柠檬",
+        "en": "150 g, about 4 yellow lemons",
+        "fr": "150 g, environ 4 citrons jaunes"
+      }
+    },
+    {
+      "id": "fragrant-lemon",
+      "ingredient": "fragrant-lemon",
+      "amount": {
+        "cn": "取汁50g，约2个",
+        "en": "50 g juice, about 2 fruits",
+        "fr": "50 g de jus, environ 2 fruits"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "ingredient": "rock-sugar",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      },
+      "name": {
+        "cn": "黄冰糖",
+        "en": "Yellow rock sugar",
+        "fr": "Sucre candi jaune"
+      }
+    },
+    {
+      "id": "water-syrup",
+      "ingredient": "water",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      },
+      "name": {
+        "cn": "清水（糖浆）",
+        "en": "Water, syrup",
+        "fr": "Eau, sirop"
+      }
+    },
+    {
+      "id": "water-serve",
+      "ingredient": "water",
+      "amount": {
+        "cn": "饮用时按口味兑入",
+        "en": "To dilute when serving",
+        "fr": "Pour diluer au moment de servir"
+      },
+      "name": {
+        "cn": "饮用水",
+        "en": "Drinking water",
+        "fr": "Eau potable"
+      }
+    },
+    {
+      "id": "lemon",
+      "ingredient": "lemon",
+      "amount": {
+        "cn": "饮用时每杯1片鲜切片",
+        "en": "1 freshly cut slice per glass",
+        "fr": "1 rondelle fraîchement coupée par verre"
+      }
+    },
+    {
+      "id": "honey",
+      "ingredient": "honey",
+      "amount": {
+        "cn": "可选，按口味",
+        "en": "Optional, to taste",
+        "fr": "Facultatif, selon le goût"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "柠檬百香果饮",
+      "steps": [
+        "挖出百香果果肉和汁。分别挤出黄柠檬与香水柠檬的汁，按重量称取。",
+        "锅中加入200g水和200g黄冰糖，煮开后转小火。糖接近完全融化时关火，利用余温化开，放凉；不要熬成浓硬糖浆。",
+        "将百香果、两种柠檬汁与放凉的糖浆混匀。水果酸甜度不同，糖浆可边尝边加。",
+        "饮用时取约两勺浓缩果汁，按口味兑凉开水或其他饮用水，加1片现切柠檬。可另加蜂蜜、冰块，或用苏打水调配。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "这是浓缩底料，不是直接饮用的固定单杯配方。冷藏保存；作者未测试准确保存天数，本食谱不补填保质期。"
+      ]
+    },
+    "en": {
+      "title": "Lemon and passion fruit drink",
+      "steps": [
+        "Scoop out the passion fruit pulp and juice. Squeeze the yellow and fragrant lemons separately and weigh the juices.",
+        "Bring 200 g water and 200 g rock sugar to a boil, then lower the heat. Turn off when the sugar is almost dissolved, let the residual heat finish dissolving it, and cool. Do not reduce to a thick, hard-setting syrup.",
+        "Mix the passion fruit and both lemon juices with the cooled syrup. Add the syrup gradually to taste, as fruit sweetness varies.",
+        "To serve, dilute about two spoonfuls of the concentrate with drinking water to taste and add 1 freshly cut lemon slice. Optionally add honey or ice, or use soda water."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "This is a concentrate, not a fixed single-glass serving. Keep refrigerated; the author did not test an exact storage duration, so none is specified here."
+      ]
+    },
+    "fr": {
+      "title": "Boisson au citron et au fruit de la passion",
+      "steps": [
+        "Prélever pulpe et jus des fruits de la passion. Presser séparément les deux types de citron et peser leurs jus.",
+        "Porter à ébullition 200 g d’eau et 200 g de sucre candi, puis baisser le feu. Couper lorsque le sucre est presque dissous, laisser finir de fondre puis refroidir, sans trop concentrer le sirop.",
+        "Mélanger le fruit de la passion, les deux jus de citron et le sirop refroidi. Incorporer celui-ci progressivement selon l’acidité des fruits.",
+        "Pour servir, diluer environ deux cuillerées de concentré avec de l’eau selon le goût et ajouter 1 rondelle de citron frais. Miel, glaçons ou eau gazeuse sont facultatifs."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Il s’agit d’un concentré, pas d’une portion individuelle prête à boire. Conserver au réfrigérateur ; l’auteur n’a pas testé de durée de conservation précise."
+      ]
+    }
+  }
+}

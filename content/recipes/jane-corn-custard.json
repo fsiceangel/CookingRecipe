@@ -1,0 +1,97 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-corn-custard",
+  "tags": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=byaf4uBAPY0",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "corn-milk",
+      "ingredient": "corn-milk",
+      "amount": {
+        "cn": "175 g",
+        "en": "175 g",
+        "fr": "175 g"
+      }
+    },
+    {
+      "id": "egg-yolk",
+      "ingredient": "egg-yolk",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      }
+    },
+    {
+      "id": "cornstarch",
+      "ingredient": "cornstarch",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      },
+      "name": {
+        "cn": "玉米淀粉",
+        "en": "Cornstarch",
+        "fr": "Fécule de maïs"
+      }
+    },
+    {
+      "id": "butter",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "18 g",
+        "en": "18 g",
+        "fr": "18 g"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "玉米卡仕达酱",
+      "steps": [
+        "取175g已过滤的玉米牛奶，加入蛋黄、细砂糖和玉米淀粉搅匀。",
+        "中火加热并搅拌，开始变稠后转小火。煮至浓稠冒泡后继续小火约30秒。",
+        "加黄油搅匀，再煮至冒泡，关火过筛。放凉后会凝固，使用前搅打顺滑。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。"
+      ]
+    },
+    "en": {
+      "title": "Corn custard",
+      "steps": [
+        "Mix 175 g strained corn milk with the yolks, sugar and cornstarch.",
+        "Heat over medium heat while stirring; lower the heat when it begins to thicken. Once thick and bubbling, cook over low heat for about 30 seconds more.",
+        "Mix in the butter, bring back to a bubble, remove from the heat and strain. It sets on cooling; beat smooth before use."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen."
+      ]
+    },
+    "fr": {
+      "title": "Crème pâtissière au maïs",
+      "steps": [
+        "Mélanger 175 g de lait au maïs filtré avec les jaunes, le sucre et la fécule.",
+        "Chauffer à feu moyen en remuant, puis réduire dès épaississement. Quand la crème épaissit et fait des bulles, poursuivre à feu doux environ 30 secondes.",
+        "Incorporer le beurre, laisser refaire des bulles, retirer du feu et filtrer. La crème prend en refroidissant ; la fouetter pour la lisser avant utilisation."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen."
+      ]
+    }
+  }
+}

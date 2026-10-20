@@ -1,0 +1,126 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-corn-egg-tarts",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 2.5,
+  "videoLink": "https://www.youtube.com/watch?v=byaf4uBAPY0",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "tart-shells",
+      "ingredient": "tart-shells",
+      "amount": {
+        "cn": "按模具大小准备，作者未标个数",
+        "en": "As needed for the filling; count not specified",
+        "fr": "Selon la taille des moules ; nombre non précisé"
+      }
+    },
+    {
+      "id": "heavy-cream",
+      "ingredient": "heavy-cream",
+      "amount": {
+        "cn": "200 g",
+        "en": "200 g",
+        "fr": "200 g"
+      }
+    },
+    {
+      "id": "egg-yolk",
+      "ingredient": "egg-yolk",
+      "amount": {
+        "cn": "40 g",
+        "en": "40 g",
+        "fr": "40 g"
+      }
+    },
+    {
+      "id": "condensed-milk",
+      "ingredient": "condensed-milk",
+      "amount": {
+        "cn": "30 g",
+        "en": "30 g",
+        "fr": "30 g"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "10 g",
+        "en": "10 g",
+        "fr": "10 g"
+      }
+    },
+    {
+      "id": "corn-diplomat-cream",
+      "ingredient": "corn-diplomat-cream",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      }
+    },
+    {
+      "id": "corn",
+      "ingredient": "corn",
+      "amount": {
+        "cn": "熟水果玉米，装饰适量",
+        "en": "Cooked sweetcorn, for topping",
+        "fr": "Maïs doux cuit, pour décorer"
+      }
+    },
+    {
+      "id": "honey",
+      "ingredient": "honey",
+      "amount": {
+        "cn": "刷表面适量",
+        "en": "For brushing",
+        "fr": "Pour badigeonner"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "玉米蛋挞",
+      "steps": [
+        "将200g淡奶油、40g蛋黄、30g炼乳和10g糖混合，过筛成蛋挞液。",
+        "倒入生蛋挞皮约八至九分满。烤箱预热至200°C，烤约20–25分钟，出炉放凉。",
+        "把熟玉米切成适合蛋挞大小的连片。放凉的蛋挞上挤玉米外交官奶油，放玉米片，可用喷枪略上色，再薄刷蜂蜜。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "本食谱采用作者最后更推荐的淡奶油蛋挞液。画面测试曾以玉米牛奶代替淡奶油，作者认为不如淡奶油版浓郁嫩滑，未混写进主配方。",
+        "顶部也可换成“玉米卡仕达乳酪馅”。两款馅料选一种即可，不需全部叠加。"
+      ]
+    },
+    "en": {
+      "title": "Corn-topped egg tarts",
+      "steps": [
+        "Combine 200 g cream, 40 g yolks, 30 g condensed milk and 10 g sugar, then strain.",
+        "Fill the unbaked tart shells about eight- to nine-tenths full. Bake in a preheated 200°C oven for about 20–25 minutes, then cool.",
+        "Cut cooked corn into connected sections sized for the tarts. Pipe corn diplomat cream onto the cooled tarts, top with corn, optionally brown lightly with a torch, and brush with a little honey."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "This uses the cream-based tart filling that the author ultimately recommends. The filmed test substituted corn milk, which the author found less rich and smooth; that test is not mixed into the main formula.",
+        "The corn custard cream cheese filling is an alternative topping. Choose one filling rather than combining both full batches."
+      ]
+    },
+    "fr": {
+      "title": "Tartelettes aux œufs garnies de maïs",
+      "steps": [
+        "Mélanger 200 g de crème, 40 g de jaunes, 30 g de lait concentré et 10 g de sucre, puis filtrer.",
+        "Remplir les fonds crus aux huit ou neuf dixièmes. Cuire au four préchauffé à 200°C environ 20–25 minutes, puis laisser refroidir.",
+        "Découper le maïs cuit en portions de grains solidaires adaptées aux tartelettes. Pocher la crème diplomate sur les tartelettes froides, poser le maïs, dorer légèrement au chalumeau si souhaité et badigeonner d’un peu de miel."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "La garniture retenue est celle à la crème, finalement préférée par l’auteur. L’essai filmé utilisait du lait au maïs, jugé moins riche et onctueux ; cet essai n’est pas mélangé à la formule principale.",
+        "La garniture au fromage frais et à la crème de maïs peut remplacer la crème diplomate. Choisir l’une des deux plutôt que cumuler les lots."
+      ]
+    }
+  }
+}

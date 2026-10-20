@@ -1,0 +1,169 @@
+{
+  "$schema": "../recipe.schema.json",
+  "id": "jane-quick-cream-horns",
+  "tags": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 2,
+  "videoLink": "https://www.youtube.com/watch?v=bvQmWNxyMkw",
+  "defaultLanguage": "cn",
+  "ingredients": [
+    {
+      "id": "flour",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "100 g",
+        "en": "100 g",
+        "fr": "100 g"
+      },
+      "name": {
+        "cn": "中筋面粉",
+        "en": "All-purpose flour",
+        "fr": "Farine de blé ordinaire"
+      }
+    },
+    {
+      "id": "salt",
+      "ingredient": "salt",
+      "amount": {
+        "cn": "1 g",
+        "en": "1 g",
+        "fr": "1 g"
+      }
+    },
+    {
+      "id": "butter-first",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "20 g",
+        "en": "20 g",
+        "fr": "20 g"
+      },
+      "name": {
+        "cn": "冷藏黄油（第一次加入）",
+        "en": "Cold butter, first addition",
+        "fr": "Beurre froid, premier ajout"
+      }
+    },
+    {
+      "id": "butter-second",
+      "ingredient": "butter",
+      "amount": {
+        "cn": "80 g",
+        "en": "80 g",
+        "fr": "80 g"
+      },
+      "name": {
+        "cn": "冷藏黄油（第二次加入）",
+        "en": "Cold butter, second addition",
+        "fr": "Beurre froid, second ajout"
+      }
+    },
+    {
+      "id": "water",
+      "ingredient": "water",
+      "amount": {
+        "cn": "45 g",
+        "en": "45 g",
+        "fr": "45 g"
+      }
+    },
+    {
+      "id": "flour-dust",
+      "ingredient": "flour",
+      "amount": {
+        "cn": "少量，防粘用",
+        "en": "A little, for dusting",
+        "fr": "Un peu, pour fleurer"
+      },
+      "name": {
+        "cn": "手粉",
+        "en": "Flour for dusting",
+        "fr": "Farine pour le plan de travail"
+      }
+    },
+    {
+      "id": "egg",
+      "ingredient": "egg",
+      "amount": {
+        "cn": "刷表面适量",
+        "en": "For brushing",
+        "fr": "Pour dorer"
+      }
+    },
+    {
+      "id": "sugar",
+      "ingredient": "sugar",
+      "amount": {
+        "cn": "裹表面适量",
+        "en": "For coating",
+        "fr": "Pour enrober"
+      }
+    },
+    {
+      "id": "whipped-cream",
+      "ingredient": "whipped-cream",
+      "amount": {
+        "cn": "适量；原视频未标克数",
+        "en": "As needed; no weight specified in the video",
+        "fr": "Selon les besoins ; poids non précisé dans la vidéo"
+      },
+      "name": {
+        "cn": "打发奶油或外交官奶油",
+        "en": "Whipped cream or diplomat cream",
+        "fr": "Crème fouettée ou diplomate"
+      }
+    }
+  ],
+  "translations": {
+    "cn": {
+      "title": "快手奶油号角",
+      "steps": [
+        "黄油保持冷藏状态，切成约1厘米小丁。料理机加入面粉、盐和20g黄油，点按约8–10次，打成细碎粉状。",
+        "均匀加入80g黄油，点按2次；加入一半水，点按2次；再加剩余水，点按4次。保留较大的黄油颗粒，不要打成光滑面团。",
+        "倒出后用手快速聚拢，撒手粉防粘，擀成约0.5厘米厚的长方形；40×13厘米仅作尺寸参考。",
+        "将面片三折，再从一端卷起，撒少量手粉，压扁整理成方形。冷藏约1小时至稍硬，或冷藏过夜，再按具体点心造型。",
+        "酥皮擀成约0.5厘米厚的长方形，再适当擀宽至约27×20厘米。三折后撒手粉，擀成约40×12厘米长条，切成约3厘米宽的4条。",
+        "将长条绕在号角模具上，相邻面皮重叠约四分之一至三分之一。刷蛋液，滚上细砂糖。",
+        "烤箱预热至实际200°C，先烤10分钟，再转180°C烤约15分钟。放凉脱模后，挤入做好的奶油。"
+      ],
+      "notes": [
+        "来源：简简厨房（Jane’s Kitchen）。",
+        "尺寸为作者示范参考；奶油未给固定克数，按酥壳大小填充。必须放凉再加奶油。"
+      ]
+    },
+    "en": {
+      "title": "Quick cream horns",
+      "steps": [
+        "Keep the butter cold and cut it into roughly 1 cm cubes. Pulse the flour, salt and 20 g butter in a food processor about 8–10 times to make fine crumbs.",
+        "Add 80 g butter evenly and pulse 2 times. Add half the water and pulse 2 times, then add the rest and pulse 4 times. Retain visible butter pieces rather than making a smooth dough.",
+        "Quickly gather the mixture by hand, dust with flour, and roll into a rectangle about 0.5 cm thick; 40 × 13 cm is only a size guide.",
+        "Fold in thirds, roll up from one end, dust lightly, and flatten into a square. Refrigerate for about 1 hour until slightly firm, or overnight, before shaping.",
+        "Roll the pastry into a rectangle about 0.5 cm thick, then widen it to roughly 27 × 20 cm. Fold in thirds, dust with flour, and roll to about 40 × 12 cm. Cut into 4 strips, roughly 3 cm wide.",
+        "Wrap the strips around horn molds, overlapping each turn by about one-quarter to one-third. Brush with beaten egg and roll in sugar.",
+        "Bake at an actual 200°C for 10 minutes, then at 180°C for about 15 minutes. Cool, remove the molds, and pipe in prepared cream."
+      ],
+      "notes": [
+        "Source: Jane’s Kitchen.",
+        "Dimensions are the author’s guide. No fixed cream weight is given; fill according to shell size, only after cooling."
+      ]
+    },
+    "fr": {
+      "title": "Cornets feuilletés rapides à la crème",
+      "steps": [
+        "Garder le beurre froid et le couper en dés d’environ 1 cm. Mixer par impulsions la farine, le sel et 20 g de beurre environ 8–10 fois pour obtenir une poudre sableuse.",
+        "Ajouter uniformément 80 g de beurre et donner 2 impulsions. Ajouter la moitié de l’eau, donner 2 impulsions, puis le reste de l’eau et 4 impulsions. Garder des morceaux de beurre visibles, sans lisser la pâte.",
+        "Rassembler rapidement la pâte à la main, fleurer et abaisser en rectangle d’environ 0,5 cm d’épaisseur ; 40 × 13 cm est une indication de dimensions.",
+        "Plier en trois, rouler depuis une extrémité, fariner légèrement et aplatir en carré. Réfrigérer environ 1 heure jusqu’à raffermissement, ou toute une nuit, avant le façonnage.",
+        "Abaisser la pâte en rectangle d’environ 0,5 cm, puis l’élargir à environ 27 × 20 cm. Plier en trois, fleurer et abaisser à environ 40 × 12 cm. Découper 4 bandes d’environ 3 cm de large.",
+        "Enrouler les bandes sur les moules à cornets en chevauchant chaque tour d’environ un quart à un tiers. Dorer à l’œuf battu et enrober de sucre.",
+        "Cuire à une température réelle de 200°C pendant 10 minutes, puis à 180°C environ 15 minutes. Laisser refroidir, démouler et garnir de crème préparée à la poche."
+      ],
+      "notes": [
+        "Source : Jane’s Kitchen.",
+        "Les dimensions sont indicatives. Aucun poids fixe de crème n’est donné ; garnir selon la taille des coques, seulement après refroidissement."
+      ]
+    }
+  }
+}
